@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Anthony Curtis
-Date of Birth:        March 08, 1952
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        March 09, 1952
 Phone Number:         749.607.5399x893
 Home Address:         926 Daniel Path Apt. 571, Lake Ronald, MT 11241
-Marital Status:       Divorced
+Marital Status:       Single
 Occupation:           Television/film/video producer
-Religious Preference: Islam
-National ID / SSN:    454-66-5201
-Insurance Policy No:  UHC-38720823
+Religious Preference: Prefer not to disclose
+National ID / SSN:    134-67-1797
+Insurance Policy No:  BLU-15937353
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Jeffery Anderson (Spouse) - Phone: 871.658.6988
+Jeffery Anderson (Parent) - Phone: 871.658.6988
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Sulfa antibiotics (severe skin reaction), Latex.
+Aspirin (bronchospasm), Codeine (nausea).
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.
+Omeprazole 20mg PO daily before breakfast, Calcium + Vitamin D supplement.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

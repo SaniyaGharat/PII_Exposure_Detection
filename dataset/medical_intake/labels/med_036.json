@@ -2,6 +2,9 @@
     "document_id": "med_036",
     "document_type": "medical_intake",
     "document_purpose": "To collect relevant patient information required for medical assessment, diagnosis, treatment, and healthcare administration.",
+    "sub_conditions": {
+        "is_telehealth": false
+    },
     "fields": [
         {
             "field_type": "full_name",
@@ -10,19 +13,19 @@
             "necessity_label": "necessary",
             "reason": "Essential for patient identification, medical record linkage, and preventing catastrophic misidentification in clinical care.",
             "span": {
-                "start": 359,
-                "end": 373
+                "start": 369,
+                "end": 383
             }
         },
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "July 07, 1978",
+            "field_value": "July 08, 1978",
             "necessity_label": "necessary",
             "reason": "Crucial for clinical safety, age-dependent pharmaceutical dosage calculations, developmental assessment, and primary patient record matching.",
             "span": {
-                "start": 396,
-                "end": 409
+                "start": 464,
+                "end": 477
             }
         },
         {
@@ -32,19 +35,19 @@
             "necessity_label": "necessary",
             "reason": "Required for appointment reminders, urgent clinical test result notifications, and post-procedure follow-ups.",
             "span": {
-                "start": 432,
-                "end": 451
+                "start": 500,
+                "end": 519
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "4742 Rachel Flats Apt. 940, Jimenezfort, ND 01254",
-            "necessity_label": "contextual",
-            "reason": "Used for patient billing, demographic analysis, and local public health reporting, though secondary to immediate clinical diagnosis.",
+            "necessity_label": "necessary",
+            "reason": "Necessary for physical clinical admission, outpatient billing dispatch, and local public health reporting.",
             "span": {
-                "start": 474,
-                "end": 523
+                "start": 542,
+                "end": 591
             }
         },
         {
@@ -54,8 +57,8 @@
             "necessity_label": "contextual",
             "reason": "May provide helpful context regarding home support network and surrogate decision-makers, but not universally necessary for diagnostics.",
             "span": {
-                "start": 546,
-                "end": 552
+                "start": 614,
+                "end": 620
             }
         },
         {
@@ -65,8 +68,8 @@
             "necessity_label": "contextual",
             "reason": "Provides relevant context for evaluating occupational exposures, repetitive stress injuries, or physical disability accommodations.",
             "span": {
-                "start": 575,
-                "end": 594
+                "start": 643,
+                "end": 662
             }
         },
         {
@@ -76,74 +79,74 @@
             "necessity_label": "contextual",
             "reason": "Contextual in clinical settings to respect medical restrictions (e.g., blood transfusions, dietary rules, end-of-life pastoral care), but optional.",
             "span": {
-                "start": 617,
-                "end": 624
+                "start": 685,
+                "end": 692
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "320-29-9991",
+            "field_value": "893-43-8311",
             "necessity_label": "unnecessary",
             "reason": "Standard government national IDs are unnecessary when unique Medical Record Numbers (MRN) or insurance IDs exist, creating avoidable exposure.",
             "span": {
-                "start": 647,
-                "end": 658
+                "start": 715,
+                "end": 726
             }
         },
         {
             "field_type": "insurance_number",
             "field_name": "Health Insurance Policy Number",
-            "field_value": "KSR-80836292",
+            "field_value": "BLU-92124765",
             "necessity_label": "contextual",
             "reason": "Necessary for healthcare claims billing and insurance verification, but not strictly required for emergency or direct self-pay clinical triage.",
             "span": {
-                "start": 681,
-                "end": 693
+                "start": 749,
+                "end": 761
             }
         },
         {
             "field_type": "emergency_contact",
             "field_name": "Emergency Contact",
-            "field_value": "Katherine Robinson (Spouse) - Phone: +1-577-267-1990x38498",
+            "field_value": "Katherine Robinson (Adult Child) - Phone: +1-577-267-1990x38498",
             "necessity_label": "necessary",
             "reason": "Vital in acute medical situations, patient incapacitation, or urgent medical decisions where patient proxy consent is needed.",
             "span": {
-                "start": 821,
-                "end": 879
+                "start": 889,
+                "end": 952
             }
         },
         {
             "field_type": "allergies",
             "field_name": "Allergies & Sensitivities",
-            "field_value": "Aspirin (bronchospasm), Codeine (nausea).",
+            "field_value": "Peanuts (anaphylaxis - carries EpiPen), Tree nuts.",
             "necessity_label": "necessary",
             "reason": "High-priority safety data required to prevent life-threatening anaphylaxis, drug allergies, and cross-reactive interventions.",
             "span": {
-                "start": 1031,
-                "end": 1072
+                "start": 1104,
+                "end": 1154
             }
         },
         {
             "field_type": "current_medications",
             "field_name": "Current Medications",
-            "field_value": "Lisinopril 10mg PO daily, Atorvastatin 20mg PO at bedtime.",
+            "field_value": "None reported / Over-the-counter multivitamins only.",
             "necessity_label": "necessary",
             "reason": "Critical for preventing adverse drug-drug interactions, polypharmacy complications, and dosage conflicts.",
             "span": {
-                "start": 1221,
-                "end": 1279
+                "start": 1303,
+                "end": 1355
             }
         },
         {
             "field_type": "medical_history",
             "field_name": "Past Medical History",
-            "field_value": "Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).",
+            "field_value": "Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).",
             "necessity_label": "necessary",
             "reason": "Essential clinical context for differential diagnosis, identifying chronic comorbidities, and planning safe therapeutic interventions.",
             "span": {
-                "start": 1437,
-                "end": 1520
+                "start": 1513,
+                "end": 1592
             }
         }
     ]

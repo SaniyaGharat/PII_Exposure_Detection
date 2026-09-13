@@ -2,12 +2,13 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Beverly Johnson
-Date of Birth:        December 16, 2004
-Marital Status:       Domestic Partnership
-Religious Belief:     Hinduism
+Date of Birth:        December 17, 2004
+Marital Status:       Married
+Religious Belief:     Unaffiliated
 Phone Number:         +1-597-705-2774x02588
 Email Address:        beverly.johnson@hotmail.com
 Residential Address:  122 Rios Port Suite 724, Sandraland, PW 85060
@@ -16,14 +17,14 @@ FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
 Employment Status:    Self-Employed
 Employer Name:        Obrien-White
-Gross Annual Income:  $74,000.00 USD
-Bank Account Number:  ACCT-2400094541
-Credit Score (FICO):  794 (FICO Score 8)
+Gross Annual Income:  $68,000.00 USD
+Bank Account Number:  ACCT-5578929439
+Credit Score (FICO):  720 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
+No significant past medical history. Non-smoker, no past surgeries.
 
 Biometric Security Identifier:
 SHA256:97985585f25527f101b099ac (Biometric Minutiae Key)

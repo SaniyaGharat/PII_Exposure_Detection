@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Joint / Co-Borrower Credit Application
 Applicant Name:       Carolyn Williams
-Date of Birth:        March 24, 2005
-Marital Status:       Domestic Partnership
-Religious Belief:     Agnostic
+Date of Birth:        March 25, 2005
+Marital Status:       Single
+Religious Belief:     Islam
 Phone Number:         937.511.8954
 Email Address:        carolyn.williams@hotmail.com
 Residential Address:  23684 Jacobson Mission, South Carloschester, NC 66544
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Employed Part-Time
+Employment Status:    Employed Full-Time
 Employer Name:        Greene Ltd
-Gross Annual Income:  $121,000.00 USD
-Bank Account Number:  ACCT-1639509845
-Credit Score (FICO):  594 (FICO Score 8)
+Gross Annual Income:  $163,000.00 USD
+Bank Account Number:  ACCT-8942167666
+Credit Score (FICO):  671 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
+No significant past medical history. Non-smoker, no past surgeries.
 
 Biometric Security Identifier:
 SHA256:3cc7c492eb2cfcb33518175a (Biometric Minutiae Key)

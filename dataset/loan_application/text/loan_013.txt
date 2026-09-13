@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Joint / Co-Borrower Credit Application
 Applicant Name:       Ricardo Salazar
-Date of Birth:        March 27, 1966
-Marital Status:       Married
-Religious Belief:     Judaism
+Date of Birth:        March 28, 1966
+Marital Status:       Divorced
+Religious Belief:     Islam
 Phone Number:         (267)416-4932x898
 Email Address:        ricardo.salazar@yahoo.com
 Residential Address:  8727 Timothy Plains, East Jason, WV 86975
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Contractor / Freelancer
+Employment Status:    Employed Part-Time
 Employer Name:        Graham Ltd
-Gross Annual Income:  $154,000.00 USD
-Bank Account Number:  ACCT-7605351600
-Credit Score (FICO):  694 (FICO Score 8)
+Gross Annual Income:  $49,000.00 USD
+Bank Account Number:  ACCT-1374938761
+Credit Score (FICO):  668 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
+Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
 
 Biometric Security Identifier:
 SHA256:b81089ea540f32384257ef46 (Biometric Minutiae Key)

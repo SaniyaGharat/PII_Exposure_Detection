@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Julie Peters
-Date of Birth:        August 20, 1999
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        August 21, 1999
 Phone Number:         324.561.9196x570
 Home Address:         022 Schmidt Loaf, Gonzalezmouth, ME 75248
-Marital Status:       Single
+Marital Status:       Divorced
 Occupation:           Clinical molecular geneticist
-Religious Preference: Judaism
-National ID / SSN:    306-15-4268
-Insurance Policy No:  MED-52358553
+Religious Preference: Prefer not to disclose
+National ID / SSN:    646-21-9234
+Insurance Policy No:  BLU-89431184
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Meghan Sellers (Adult Child) - Phone: (251)790-9862x40580
+Meghan Sellers (Sibling) - Phone: (251)790-9862x40580
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
+No Known Drug Allergies (NKDA), No known environmental allergies.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.
+Metformin 500mg PO BID with meals, Glipizide 5mg daily.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

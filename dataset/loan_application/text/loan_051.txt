@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Joint / Co-Borrower Credit Application
 Applicant Name:       Mary Pope
-Date of Birth:        December 01, 1988
-Marital Status:       Married
-Religious Belief:     Atheist
+Date of Birth:        December 02, 1988
+Marital Status:       Divorced
+Religious Belief:     Agnostic
 Phone Number:         +1-830-560-0025x89552
 Email Address:        mary.pope@hotmail.com
 Residential Address:  96096 Sheila Loaf Apt. 658, South Jerry, VT 17059
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Retired
+Employment Status:    Contractor / Freelancer
 Employer Name:        Ray, Myers and Gill
-Gross Annual Income:  $140,000.00 USD
-Bank Account Number:  ACCT-3648572296
-Credit Score (FICO):  654 (FICO Score 8)
+Gross Annual Income:  $148,000.00 USD
+Bank Account Number:  ACCT-2941289685
+Credit Score (FICO):  715 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
+No significant past medical history. Non-smoker, no past surgeries.
 
 Biometric Security Identifier:
 SHA256:1714db1e76c0e94540cb93f9 (Biometric Minutiae Key)

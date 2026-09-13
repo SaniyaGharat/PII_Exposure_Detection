@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Dominique Hamilton
-Date of Birth:        June 11, 1966
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        June 12, 1966
 Phone Number:         +1-370-510-8220x781
 Home Address:         956 Julie Islands Apt. 153, East Joanborough, MS 29423
-Marital Status:       Divorced
+Marital Status:       Domestic Partnership
 Occupation:           Ambulance person
-Religious Preference: Atheist
-National ID / SSN:    319-88-5678
-Insurance Policy No:  UHC-36867482
+Religious Preference: Judaism
+National ID / SSN:    738-97-2946
+Insurance Policy No:  BLU-22976369
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Kevin Brown (Sibling) - Phone: (723)497-2652x73543
+Kevin Brown (Partner) - Phone: (723)497-2652x73543
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Penicillin (rash, hives), Shellfish (mild itching).
+Aspirin (bronchospasm), Codeine (nausea).
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Metformin 500mg PO BID with meals, Glipizide 5mg daily.
+Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

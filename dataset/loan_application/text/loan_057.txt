@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Jeff Hoffman
-Date of Birth:        January 24, 2002
-Marital Status:       Divorced
-Religious Belief:     Islam
+Date of Birth:        January 25, 2002
+Marital Status:       Married
+Religious Belief:     Judaism
 Phone Number:         +1-819-366-5533x07704
 Email Address:        jeff.hoffman@gmail.com
 Residential Address:  95963 Justin Row Apt. 742, Johnsonside, PW 69643
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Contractor / Freelancer
+Employment Status:    Employed Full-Time
 Employer Name:        Smith, Harrison and Gallegos
-Gross Annual Income:  $101,000.00 USD
-Bank Account Number:  ACCT-8185384294
-Credit Score (FICO):  702 (FICO Score 8)
+Gross Annual Income:  $81,000.00 USD
+Bank Account Number:  ACCT-8106401208
+Credit Score (FICO):  815 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
 
 Biometric Security Identifier:
 SHA256:f31bb8c218dab6900c5519d4 (Biometric Minutiae Key)

@@ -2,82 +2,85 @@
     "document_id": "job_061",
     "document_type": "job_application",
     "document_purpose": "To evaluate a candidate's qualifications, skills, education, and professional experience for potential employment.",
+    "sub_conditions": {
+        "is_remote_role": false
+    },
     "fields": [
         {
             "field_type": "full_name",
             "field_name": "Full Name",
-            "field_value": "Brandon Hardy",
+            "field_value": "Anna Hardy",
             "necessity_label": "necessary",
             "reason": "Required to unambiguously identify the candidate, manage application tracking, and conduct hiring correspondence.",
             "span": {
                 "start": 370,
-                "end": 383
+                "end": 380
             }
         },
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "June 18, 1982",
+            "field_value": "June 19, 1982",
             "necessity_label": "unnecessary",
             "reason": "Date of birth is generally not required for evaluating qualifications during initial employment screening and may create discrimination concerns.",
             "span": {
-                "start": 406,
-                "end": 419
+                "start": 403,
+                "end": 416
             }
         },
         {
             "field_type": "gender",
             "field_name": "Gender",
-            "field_value": "Prefer not to disclose",
+            "field_value": "Female",
             "necessity_label": "contextual",
             "reason": "Gender is not required for qualification evaluation, though occasionally collected under optional equal employment opportunity (EEO) demographic monitoring.",
             "span": {
-                "start": 442,
-                "end": 464
+                "start": 439,
+                "end": 445
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Widowed",
+            "field_value": "Married",
             "necessity_label": "unnecessary",
             "reason": "Marital status is irrelevant to assessing job competence and creates potential exposure to marital status or gender discrimination.",
             "span": {
-                "start": 487,
-                "end": 494
+                "start": 468,
+                "end": 475
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religion",
-            "field_value": "Judaism",
+            "field_value": "Atheist",
             "necessity_label": "unnecessary",
             "reason": "Religious beliefs are completely irrelevant to job performance and introduce unlawful bias risks under employment regulations.",
             "span": {
-                "start": 517,
-                "end": 524
+                "start": 498,
+                "end": 505
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "702-64-6003",
+            "field_value": "631-93-8245",
             "necessity_label": "unnecessary",
             "reason": "Government national identification numbers are unnecessary at initial screening and introduce high identity theft exposure.",
             "span": {
-                "start": 547,
-                "end": 558
+                "start": 528,
+                "end": 539
             }
         },
         {
             "field_type": "email",
             "field_name": "Email Address",
-            "field_value": "brandon.hardy@yahoo.com",
+            "field_value": "anna.hardy@yahoo.com",
             "necessity_label": "necessary",
             "reason": "Required as a primary electronic communication channel for interview scheduling and official employment notifications.",
             "span": {
-                "start": 581,
-                "end": 604
+                "start": 562,
+                "end": 582
             }
         },
         {
@@ -87,63 +90,63 @@
             "necessity_label": "necessary",
             "reason": "Required for direct contact, telephone screening sessions, and urgent recruitment updates.",
             "span": {
-                "start": 627,
-                "end": 644
+                "start": 605,
+                "end": 622
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "8544 Hunt Parks Suite 175, West Lawrence, AZ 74232",
-            "necessity_label": "contextual",
-            "reason": "Full street address is unnecessary for initial screening (city/region suffices), but may be required for local payroll tax jurisdictions or commute assessment.",
+            "necessity_label": "necessary",
+            "reason": "Required for assessing commute feasibility, physical facility access, and local payroll tax withholding jurisdiction.",
             "span": {
-                "start": 667,
-                "end": 717
+                "start": 645,
+                "end": 695
             }
         },
         {
             "field_type": "job_title",
             "field_name": "Position Applied For",
-            "field_value": "Cybersecurity Analyst",
+            "field_value": "Financial Analyst",
             "necessity_label": "necessary",
             "reason": "Specifies the target role against which candidate qualifications and criteria are evaluated.",
             "span": {
-                "start": 838,
-                "end": 859
+                "start": 832,
+                "end": 849
             }
         },
         {
             "field_type": "education",
             "field_name": "Education",
-            "field_value": "B.S. in Information Systems - Cornell University (Graduated 2013)",
+            "field_value": "B.S. in Information Systems - Cornell University (Graduated 2010)",
             "necessity_label": "necessary",
             "reason": "Essential for verifying required academic degrees, institutional background, and formal qualifications.",
             "span": {
-                "start": 999,
-                "end": 1064
+                "start": 1046,
+                "end": 1111
             }
         },
         {
             "field_type": "work_history",
             "field_name": "Work History",
-            "field_value": "1. Cybersecurity Analyst at Williams Group (2023 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Jacobs, Williams and Jones (2020 - 2021)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
+            "field_value": "1. Financial Analyst at Williams Group (2023 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Jacobs, Williams and Jones (2019 - 2020)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
             "necessity_label": "necessary",
             "reason": "Essential for evaluating candidate's prior professional experience, relevant responsibilities, and career trajectory.",
             "span": {
-                "start": 1205,
-                "end": 1486
+                "start": 1252,
+                "end": 1529
             }
         },
         {
             "field_type": "skills",
             "field_name": "Skills & Competencies",
-            "field_value": "Network Security, Penetration Testing, SIEM, Incident Response, ISO 27001",
+            "field_value": "Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA",
             "necessity_label": "necessary",
             "reason": "Directly reflects technical, operational, and domain competencies required for job performance.",
             "span": {
-                "start": 1629,
-                "end": 1702
+                "start": 1672,
+                "end": 1753
             }
         }
     ]

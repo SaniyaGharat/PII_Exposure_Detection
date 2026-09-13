@@ -5,28 +5,29 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            David Alvarez
-Date of Birth:        April 19, 1984
+Date of Birth:        April 20, 1984
 Gender:               Prefer not to disclose
-Marital Status:       Divorced
-Religious Belief:     Unaffiliated
-National ID / SSN:    721-64-4470
+Marital Status:       Married
+Religious Belief:     Judaism
+National ID / SSN:    508-95-7118
 Email Address:        david.alvarez@yahoo.com
 Phone Number:         (501)363-2870
 Home Address:         8895 Salazar Stravenue, Rivasside, NV 21362
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Data Scientist
+Position Applied For: Systems Architect
+Work Modality:        On-Site Office (Physical Facility)
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.S. in Information Systems - University of Michigan (Graduated 2012)
+B.A. in Economics - University of Texas at Austin (Graduated 2018)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Data Scientist at Gibson Ltd (2023 - Present)
+1. Systems Architect at Gibson Ltd (2023 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
 2. Associate Specialist at Lee, Horton and Snyder (2020 - 2020)
    - Managed key deliverables, analyzed system data, and automated workflows.
@@ -34,7 +35,7 @@ Recent Experience:
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Network Security, Penetration Testing, SIEM, Incident Response, ISO 27001
+React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices
 
 --------------------------------------------------------------------------------
 DECLARATION:

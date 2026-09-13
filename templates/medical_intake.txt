@@ -2,9 +2,10 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            {{full_name}}
+Encounter Modality:   {{encounter_type}}
 Date of Birth:        {{date_of_birth}}
 Phone Number:         {{phone}}
 Home Address:         {{home_address}}

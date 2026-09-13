@@ -2,28 +2,29 @@
                     RESIDENTIAL LEASE APPLICATION & AGREEMENT
 ================================================================================
 
-PROSPECTIVE TENANT IDENTIFICATION
+TENANCY PROFILE & PROSPECTIVE TENANT IDENTIFICATION
 --------------------------------------------------------------------------------
+Lease Category:       Standard Direct Individual Lease
 Tenant Full Name:     Lisa Clay
 Phone Number:         999-515-3703x8240
 Email Address:        lisa.clay@hotmail.com
-National ID / SSN:    828-45-2524
-Marital Status:       Single
-Religious Belief:     Buddhism
+National ID / SSN:    271-37-4157
+Marital Status:       Married
+Religious Belief:     Christianity
 Current Residence:    37320 Sanchez Brooks, Masseychester, OH 72751
 
 EMPLOYMENT & FINANCIAL BACKGROUND
 --------------------------------------------------------------------------------
-Employment Status:    Retired
+Employment Status:    Contractor / Freelancer
 Employer Name:        Garza-Brown
-Monthly / Annual Inc: $4,481.00 / month
-Bank Account Number:  ACCT-9141445255
+Monthly / Annual Inc: $10,857.00 / month
+Bank Account Number:  ACCT-8228968839
 
 PREVIOUS TENANCY & EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Rental History:
 Previous Address: 454 Wood Freeway Suite 851, West Michelle
-Tenancy: 2021 - 2024 | Landlord: Mrs. Charlotte Stone MD | Rent: $1691/mo
+Tenancy: 2021 - 2024 | Landlord: Mrs. Charlotte Stone MD | Rent: $1754/mo
 Reason for Leaving: Job relocation | Full security deposit returned: Yes
 
 Emergency Contact:
@@ -32,7 +33,7 @@ Mrs. Kimberly Anderson (Sibling) - Tel: 978.951.9358x37490
 SUPPLEMENTAL TENANT DECLARATION
 --------------------------------------------------------------------------------
 Medical History:
-Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
 
 --------------------------------------------------------------------------------
 TENANT ACKNOWLEDGMENT:

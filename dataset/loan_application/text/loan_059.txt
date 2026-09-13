@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Brandon Torres
-Date of Birth:        August 23, 1978
-Marital Status:       Widowed
-Religious Belief:     Prefer not to disclose
+Date of Birth:        August 24, 1978
+Marital Status:       Single
+Religious Belief:     Christianity
 Phone Number:         996-342-2971x25296
 Email Address:        brandon.torres@hotmail.com
 Residential Address:  774 Barton Orchard, North Joseph, LA 93743
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Contractor / Freelancer
+Employment Status:    Employed Part-Time
 Employer Name:        Houston, Sanchez and Holland
-Gross Annual Income:  $162,000.00 USD
-Bank Account Number:  ACCT-9454334062
-Credit Score (FICO):  743 (FICO Score 8)
+Gross Annual Income:  $107,000.00 USD
+Bank Account Number:  ACCT-3047869247
+Credit Score (FICO):  699 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-No significant past medical history. Non-smoker, no past surgeries.
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
 
 Biometric Security Identifier:
 SHA256:8b5dc96bf94c684e6a9cae62 (Biometric Minutiae Key)

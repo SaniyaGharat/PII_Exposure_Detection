@@ -5,28 +5,29 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Juan Davis
-Date of Birth:        April 29, 2002
+Date of Birth:        April 30, 2002
 Gender:               Non-Binary
 Marital Status:       Domestic Partnership
 Religious Belief:     Buddhism
-National ID / SSN:    618-43-3170
+National ID / SSN:    834-53-4335
 Email Address:        juan.davis@yahoo.com
 Phone Number:         001-446-377-3782x639
 Home Address:         8404 Monroe Prairie Suite 278, Reedside, WV 71729
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Database Administrator
+Position Applied For: HR Operations Generalist
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-M.S. in Data Analytics - Georgia Institute of Technology (Graduated 2010)
+B.S. in Computer Science - University of Michigan (Graduated 2014)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Database Administrator at Murray Inc (2022 - Present)
+1. HR Operations Generalist at Murray Inc (2021 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
 2. Associate Specialist at Collier, Jimenez and Moran (2017 - 2020)
    - Managed key deliverables, analyzed system data, and automated workflows.
@@ -34,7 +35,7 @@ Recent Experience:
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA
+Statistical Analysis, R, Tableau, Data Pipelines, Predictive Modeling
 
 --------------------------------------------------------------------------------
 DECLARATION:

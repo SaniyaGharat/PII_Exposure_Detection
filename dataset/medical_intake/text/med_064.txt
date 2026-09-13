@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Jose Russell
-Date of Birth:        July 05, 1995
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        July 06, 1995
 Phone Number:         317-818-2754x80157
 Home Address:         9473 Roberts Walk Suite 317, Harryfort, TX 14286
-Marital Status:       Widowed
+Marital Status:       Single
 Occupation:           Engineer, control and instrumentation
-Religious Preference: Buddhism
-National ID / SSN:    801-61-5873
-Insurance Policy No:  UHC-19794273
+Religious Preference: Sikhism
+National ID / SSN:    552-93-5201
+Insurance Policy No:  UHC-38720823
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Joseph Rhodes (Sibling) - Phone: 526-769-1215
+Joseph Rhodes (Spouse) - Phone: 526-769-1215
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Penicillin (rash, hives), Shellfish (mild itching).
+Sulfa antibiotics (severe skin reaction), Latex.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Metformin 500mg PO BID with meals, Glipizide 5mg daily.
+Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

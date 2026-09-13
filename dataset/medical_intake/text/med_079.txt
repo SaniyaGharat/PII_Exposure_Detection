@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Robert Horton
-Date of Birth:        July 03, 1956
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        July 04, 1956
 Phone Number:         6379236831
 Home Address:         6012 Joanne Mills, Ruizmouth, OR 32302
-Marital Status:       Widowed
+Marital Status:       Divorced
 Occupation:           Ranger/warden
-Religious Preference: Hinduism
-National ID / SSN:    522-98-4340
-Insurance Policy No:  UHC-77353073
+Religious Preference: Christianity
+National ID / SSN:    505-42-1049
+Insurance Policy No:  BLU-87619624
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Keith Bass (Sibling) - Phone: 6502166799
+Keith Bass (Partner) - Phone: 6502166799
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-No Known Drug Allergies (NKDA), No known environmental allergies.
+Penicillin (rash, hives), Shellfish (mild itching).
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Omeprazole 20mg PO daily before breakfast, Calcium + Vitamin D supplement.
+Lisinopril 10mg PO daily, Atorvastatin 20mg PO at bedtime.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-No significant past medical history. Non-smoker, no past surgeries.
+Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

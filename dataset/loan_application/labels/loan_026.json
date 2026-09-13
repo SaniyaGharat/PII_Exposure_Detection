@@ -2,6 +2,9 @@
     "document_id": "loan_026",
     "document_type": "loan_application",
     "document_purpose": "To collect financial and personal information required to evaluate an applicant's eligibility and risk for a loan or credit service.",
+    "sub_conditions": {
+        "is_joint_applicant": false
+    },
     "fields": [
         {
             "field_type": "full_name",
@@ -10,41 +13,41 @@
             "necessity_label": "necessary",
             "reason": "Mandatory for establishing legal borrower identity and executing legally binding credit agreements.",
             "span": {
-                "start": 354,
-                "end": 367
+                "start": 425,
+                "end": 438
             }
         },
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "February 05, 1961",
+            "field_value": "February 06, 1961",
             "necessity_label": "necessary",
             "reason": "Required to verify legal age of majority for credit contracts and pull accurate consumer credit bureau reports.",
             "span": {
-                "start": 390,
-                "end": 407
+                "start": 461,
+                "end": 478
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Married",
-            "necessity_label": "contextual",
-            "reason": "Relevant in community property jurisdictions or joint loan applications, but restricted under fair lending laws for individual applications.",
+            "field_value": "Widowed",
+            "necessity_label": "unnecessary",
+            "reason": "Unnecessary for individual credit applications under the Equal Credit Opportunity Act (ECOA).",
             "span": {
-                "start": 430,
-                "end": 437
+                "start": 501,
+                "end": 508
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religion",
-            "field_value": "Unaffiliated",
+            "field_value": "Sikhism",
             "necessity_label": "unnecessary",
             "reason": "Religious affiliation is completely irrelevant to credit risk assessment and its collection violates the Equal Credit Opportunity Act (ECOA).",
             "span": {
-                "start": 460,
-                "end": 472
+                "start": 531,
+                "end": 538
             }
         },
         {
@@ -54,8 +57,8 @@
             "necessity_label": "necessary",
             "reason": "Required for customer identity verification, fraud prevention multi-factor authentication, and account servicing.",
             "span": {
-                "start": 495,
-                "end": 514
+                "start": 561,
+                "end": 580
             }
         },
         {
@@ -65,8 +68,8 @@
             "necessity_label": "necessary",
             "reason": "Required for delivery of mandated Truth in Lending disclosures, electronic contract execution, and official statements.",
             "span": {
-                "start": 537,
-                "end": 560
+                "start": 603,
+                "end": 626
             }
         },
         {
@@ -76,8 +79,8 @@
             "necessity_label": "necessary",
             "reason": "Mandatory under Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations to establish legal residential domicile.",
             "span": {
-                "start": 583,
-                "end": 627
+                "start": 649,
+                "end": 693
             }
         },
         {
@@ -87,8 +90,8 @@
             "necessity_label": "necessary",
             "reason": "Essential for evaluating income continuity, employment stability, and the borrower's recurring repayment capacity.",
             "span": {
-                "start": 769,
-                "end": 792
+                "start": 835,
+                "end": 858
             }
         },
         {
@@ -98,52 +101,52 @@
             "necessity_label": "necessary",
             "reason": "Required for independent employment verification and underwriting validation of stated income sources.",
             "span": {
-                "start": 815,
-                "end": 826
+                "start": 881,
+                "end": 892
             }
         },
         {
             "field_type": "annual_income",
             "field_name": "Annual Income",
-            "field_value": "$138,000.00 USD",
+            "field_value": "$59,000.00 USD",
             "necessity_label": "necessary",
             "reason": "Fundamental metric for calculating Debt-to-Income (DTI) ratio and determining loan affordability and credit limits.",
             "span": {
-                "start": 849,
-                "end": 864
+                "start": 915,
+                "end": 929
             }
         },
         {
             "field_type": "bank_account_number",
             "field_name": "Bank Account Number",
-            "field_value": "ACCT-5111301175",
+            "field_value": "ACCT-1455028401",
             "necessity_label": "contextual",
             "reason": "Contextual during pre-qualification screening; necessary later for direct loan disbursement and automated clearing house (ACH) repayments.",
             "span": {
-                "start": 887,
-                "end": 902
+                "start": 952,
+                "end": 967
             }
         },
         {
             "field_type": "credit_score",
             "field_name": "Credit Score",
-            "field_value": "633 (FICO Score 8)",
+            "field_value": "734 (FICO Score 8)",
             "necessity_label": "necessary",
             "reason": "Primary quantitative metric reflecting historical credit risk, default probability, and determining loan interest pricing.",
             "span": {
-                "start": 925,
-                "end": 943
+                "start": 990,
+                "end": 1008
             }
         },
         {
             "field_type": "medical_history",
             "field_name": "Medical History",
-            "field_value": "Hypothyroidism (stable on levothyroxine), Migraines with aura.",
+            "field_value": "Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.",
             "necessity_label": "unnecessary",
             "reason": "Health and medical conditions are irrelevant to financial solvency evaluation and collecting them exposes high-liability sensitive health data.",
             "span": {
-                "start": 1079,
-                "end": 1141
+                "start": 1144,
+                "end": 1209
             }
         },
         {
@@ -153,8 +156,8 @@
             "necessity_label": "unnecessary",
             "reason": "Biometric markers are disproportionate and unnecessary for standard consumer credit evaluation, posing severe privacy risks.",
             "span": {
-                "start": 1174,
-                "end": 1230
+                "start": 1242,
+                "end": 1298
             }
         }
     ]

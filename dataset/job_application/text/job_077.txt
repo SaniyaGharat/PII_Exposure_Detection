@@ -5,36 +5,37 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            James Cross
-Date of Birth:        October 03, 1976
-Gender:               Male
+Date of Birth:        October 04, 1976
+Gender:               Non-Binary
 Marital Status:       Single
-Religious Belief:     Sikhism
-National ID / SSN:    790-78-7226
+Religious Belief:     Judaism
+National ID / SSN:    551-14-6977
 Email Address:        james.cross@gmail.com
 Phone Number:         +1-921-589-0927x5326
 Home Address:         19656 Moody Gateway, Deannabury, OH 79275
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Product Manager
+Position Applied For: Financial Analyst
+Work Modality:        On-Site Office (Physical Facility)
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.A. in Economics - Georgia Institute of Technology (Graduated 2017)
+B.A. in Economics - Cornell University (Graduated 2014)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Product Manager at Garcia LLC (2022 - Present)
+1. Financial Analyst at Garcia LLC (2023 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Taylor-Ayala (2019 - 2021)
+2. Associate Specialist at Taylor-Ayala (2018 - 2020)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA
+Statistical Analysis, R, Tableau, Data Pipelines, Predictive Modeling
 
 --------------------------------------------------------------------------------
 DECLARATION:

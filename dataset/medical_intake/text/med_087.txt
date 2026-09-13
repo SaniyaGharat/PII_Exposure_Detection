@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Alicia Barrett
-Date of Birth:        November 21, 1979
+Encounter Modality:   In-Person Outpatient Clinical Visit
+Date of Birth:        November 22, 1979
 Phone Number:         (704)833-9718
 Home Address:         0562 Johnson Pines, Patrickland, DE 13520
 Marital Status:       Widowed
 Occupation:           Curator
-Religious Preference: Atheist
-National ID / SSN:    766-35-5706
-Insurance Policy No:  AET-48307798
+Religious Preference: Unaffiliated
+National ID / SSN:    607-16-6642
+Insurance Policy No:  UHC-80392240
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Dominique White (Adult Child) - Phone: 001-312-746-2095x20046
+Dominique White (Parent) - Phone: 001-312-746-2095x20046
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Penicillin (rash, hives), Shellfish (mild itching).
+Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Lisinopril 10mg PO daily, Atorvastatin 20mg PO at bedtime.
+None reported / Over-the-counter multivitamins only.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-No significant past medical history. Non-smoker, no past surgeries.
+Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

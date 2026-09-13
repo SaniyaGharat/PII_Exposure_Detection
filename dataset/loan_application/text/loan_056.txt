@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Joint / Co-Borrower Credit Application
 Applicant Name:       Shannon Preston
-Date of Birth:        June 30, 1995
-Marital Status:       Domestic Partnership
-Religious Belief:     Buddhism
+Date of Birth:        July 01, 1995
+Marital Status:       Married
+Religious Belief:     Atheist
 Phone Number:         896-449-8560x125
 Email Address:        shannon.preston@yahoo.com
 Residential Address:  35525 Alec Spurs, Lake Markmouth, OK 42648
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Retired
+Employment Status:    Contractor / Freelancer
 Employer Name:        Jones, Campbell and Lewis
-Gross Annual Income:  $77,000.00 USD
-Bank Account Number:  ACCT-8418324922
-Credit Score (FICO):  828 (FICO Score 8)
+Gross Annual Income:  $165,000.00 USD
+Bank Account Number:  ACCT-9409682410
+Credit Score (FICO):  594 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-No significant past medical history. Non-smoker, no past surgeries.
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
 
 Biometric Security Identifier:
 SHA256:a7bc11643c7ac3c7780cf6e5 (Biometric Minutiae Key)

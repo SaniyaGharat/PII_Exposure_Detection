@@ -5,36 +5,37 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Erik Thompson
-Date of Birth:        August 23, 2000
-Gender:               Non-Binary
-Marital Status:       Single
-Religious Belief:     Atheist
-National ID / SSN:    432-33-8988
+Date of Birth:        August 24, 2000
+Gender:               Male
+Marital Status:       Divorced
+Religious Belief:     Buddhism
+National ID / SSN:    469-32-5952
 Email Address:        erik.thompson@yahoo.com
 Phone Number:         934.784.3443
 Home Address:         441 Huang Locks Suite 240, Stephanieland, MI 58484
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Database Administrator
+Position Applied For: Financial Analyst
+Work Modality:        On-Site Office (Physical Facility)
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.A. in Economics - Carnegie Mellon University (Graduated 2019)
+B.A. in Economics - Carnegie Mellon University (Graduated 2014)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Database Administrator at Peterson, Gomez and Ingram (2023 - Present)
+1. Financial Analyst at Peterson, Gomez and Ingram (2023 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Becker, Lara and Baker (2020 - 2021)
+2. Associate Specialist at Becker, Lara and Baker (2019 - 2020)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Financial Modeling, Risk Analysis, Bloomberg Terminal, Advanced Excel, CFA Level II
+Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture
 
 --------------------------------------------------------------------------------
 DECLARATION:

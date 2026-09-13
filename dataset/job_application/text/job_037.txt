@@ -5,36 +5,37 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Billy Schultz
-Date of Birth:        September 10, 1974
-Gender:               Male
-Marital Status:       Married
-Religious Belief:     Judaism
-National ID / SSN:    330-35-3414
+Date of Birth:        September 11, 1974
+Gender:               Prefer not to disclose
+Marital Status:       Domestic Partnership
+Religious Belief:     Agnostic
+National ID / SSN:    661-67-3607
 Email Address:        billy.schultz@hotmail.com
 Phone Number:         (943)929-2127
 Home Address:         527 Taylor Roads Suite 490, Williamport, NH 59734
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: HR Operations Generalist
+Position Applied For: DevOps Engineer
+Work Modality:        On-Site Office (Physical Facility)
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.S. in Computer Science - University of Texas at Austin (Graduated 2018)
+MBA - Columbia University (Graduated 2018)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. HR Operations Generalist at Hicks, Bullock and Bailey (2023 - Present)
+1. DevOps Engineer at Hicks, Bullock and Bailey (2023 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Mullen, Brewer and Hernandez (2019 - 2020)
+2. Associate Specialist at Mullen, Brewer and Hernandez (2019 - 2021)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture
+Statistical Analysis, R, Tableau, Data Pipelines, Predictive Modeling
 
 --------------------------------------------------------------------------------
 DECLARATION:

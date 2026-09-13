@@ -5,36 +5,37 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Todd Taylor
-Date of Birth:        January 11, 1991
+Date of Birth:        January 12, 1991
 Gender:               Male
-Marital Status:       Married
-Religious Belief:     Agnostic
-National ID / SSN:    710-18-7304
+Marital Status:       Widowed
+Religious Belief:     Unaffiliated
+National ID / SSN:    357-80-1188
 Email Address:        todd.taylor@yahoo.com
 Phone Number:         248.274.0164
 Home Address:         427 Hoffman Creek, Lake Rebeccaside, AZ 48894
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Systems Architect
+Position Applied For: HR Operations Generalist
+Work Modality:        On-Site Office (Physical Facility)
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-MBA - Georgia Institute of Technology (Graduated 2022)
+B.A. in Economics - UC San Diego (Graduated 2019)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Systems Architect at Preston Ltd (2021 - Present)
+1. HR Operations Generalist at Preston Ltd (2021 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Moore, Campbell and Clark (2017 - 2020)
+2. Associate Specialist at Moore, Campbell and Clark (2020 - 2021)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices
+Statistical Analysis, R, Tableau, Data Pipelines, Predictive Modeling
 
 --------------------------------------------------------------------------------
 DECLARATION:

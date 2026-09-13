@@ -2,23 +2,24 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Joint / Co-Borrower Credit Application
 Applicant Name:       Aaron Lopez
-Date of Birth:        January 12, 2003
-Marital Status:       Widowed
-Religious Belief:     Prefer not to disclose
+Date of Birth:        January 13, 2003
+Marital Status:       Married
+Religious Belief:     Hinduism
 Phone Number:         843.725.1225x7207
 Email Address:        aaron.lopez@gmail.com
 Residential Address:  1209 Montes Prairie, South Morganfort, DE 06422
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Retired
+Employment Status:    Contractor / Freelancer
 Employer Name:        Frazier, Roberts and Perez
-Gross Annual Income:  $143,000.00 USD
-Bank Account Number:  ACCT-5942411853
-Credit Score (FICO):  690 (FICO Score 8)
+Gross Annual Income:  $90,000.00 USD
+Bank Account Number:  ACCT-1933058809
+Credit Score (FICO):  702 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------

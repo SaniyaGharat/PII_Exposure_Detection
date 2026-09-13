@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Alex Nelson
-Date of Birth:        September 07, 1990
-Marital Status:       Widowed
-Religious Belief:     Christianity
+Date of Birth:        September 08, 1990
+Marital Status:       Married
+Religious Belief:     Judaism
 Phone Number:         (923)208-3708x164
 Email Address:        alex.nelson@hotmail.com
 Residential Address:  63353 Christopher Manor, North Matthewborough, TX 88181
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Self-Employed
+Employment Status:    Employed Full-Time
 Employer Name:        Robles Ltd
-Gross Annual Income:  $65,000.00 USD
-Bank Account Number:  ACCT-2756070122
-Credit Score (FICO):  829 (FICO Score 8)
+Gross Annual Income:  $192,000.00 USD
+Bank Account Number:  ACCT-4262396395
+Credit Score (FICO):  652 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
+Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
 
 Biometric Security Identifier:
 SHA256:dafb0fc69cd9e7f8c8d695c7 (Biometric Minutiae Key)

@@ -2,27 +2,28 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Janice Perez
-Date of Birth:        August 07, 1972
+Encounter Modality:   In-Person Outpatient Clinical Visit
+Date of Birth:        August 08, 1972
 Phone Number:         +1-209-973-8468x950
 Home Address:         97128 Marshall Common Apt. 371, Chloemouth, ND 01914
-Marital Status:       Single
+Marital Status:       Widowed
 Occupation:           Teacher, primary school
-Religious Preference: Sikhism
-National ID / SSN:    547-61-8204
-Insurance Policy No:  UHC-55504725
+Religious Preference: Prefer not to disclose
+National ID / SSN:    754-13-9159
+Insurance Policy No:  KSR-48879071
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Jose Harrison (Sibling) - Phone: 001-956-454-4209x4940
+Jose Harrison (Parent) - Phone: 001-956-454-4209x4940
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Sulfa antibiotics (severe skin reaction), Latex.
+Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
@@ -32,7 +33,7 @@ Omeprazole 20mg PO daily before breakfast, Calcium + Vitamin D supplement.
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-No significant past medical history. Non-smoker, no past surgeries.
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

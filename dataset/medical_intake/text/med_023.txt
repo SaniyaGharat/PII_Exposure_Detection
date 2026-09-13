@@ -2,27 +2,28 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Regina Ramos
-Date of Birth:        August 02, 1968
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        August 03, 1968
 Phone Number:         (942)640-0825x47807
 Home Address:         4930 Lopez Points, Fosterburgh, VT 97116
-Marital Status:       Single
+Marital Status:       Widowed
 Occupation:           Broadcast presenter
-Religious Preference: Sikhism
-National ID / SSN:    167-52-2548
-Insurance Policy No:  KSR-61883769
+Religious Preference: Prefer not to disclose
+National ID / SSN:    648-12-9443
+Insurance Policy No:  KSR-42472386
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Sandra Walker (Partner) - Phone: 863-589-4484
+Sandra Walker (Adult Child) - Phone: 863-589-4484
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
+Sulfa antibiotics (severe skin reaction), Latex.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
@@ -32,7 +33,7 @@ Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-No significant past medical history. Non-smoker, no past surgeries.
+Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

@@ -2,17 +2,18 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Heather Rhodes
-Date of Birth:        September 07, 1972
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        September 08, 1972
 Phone Number:         001-711-700-2255x7941
 Home Address:         66746 Marsh Run, North David, VA 08187
-Marital Status:       Domestic Partnership
+Marital Status:       Married
 Occupation:           Armed forces training and education officer
-Religious Preference: Sikhism
-National ID / SSN:    217-45-4705
-Insurance Policy No:  UHC-85291541
+Religious Preference: Islam
+National ID / SSN:    622-91-2868
+Insurance Policy No:  KSR-78444607
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
@@ -22,17 +23,17 @@ Dr. Ashley Pruitt (Sibling) - Phone: 897.929.6590x2771
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-No Known Drug Allergies (NKDA), No known environmental allergies.
+Sulfa antibiotics (severe skin reaction), Latex.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.
+Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-No significant past medical history. Non-smoker, no past surgeries.
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

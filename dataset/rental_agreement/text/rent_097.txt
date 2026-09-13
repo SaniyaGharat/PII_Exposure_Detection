@@ -2,28 +2,29 @@
                     RESIDENTIAL LEASE APPLICATION & AGREEMENT
 ================================================================================
 
-PROSPECTIVE TENANT IDENTIFICATION
+TENANCY PROFILE & PROSPECTIVE TENANT IDENTIFICATION
 --------------------------------------------------------------------------------
+Lease Category:       Standard Direct Individual Lease
 Tenant Full Name:     Lisa Jones
 Phone Number:         001-812-203-8437x5365
 Email Address:        lisa.jones@yahoo.com
-National ID / SSN:    191-24-9095
+National ID / SSN:    598-52-6851
 Marital Status:       Married
-Religious Belief:     Islam
+Religious Belief:     Buddhism
 Current Residence:    254 Kyle Crossing Apt. 854, Lauraview, AR 04621
 
 EMPLOYMENT & FINANCIAL BACKGROUND
 --------------------------------------------------------------------------------
-Employment Status:    Retired
+Employment Status:    Employed Full-Time
 Employer Name:        Hurst LLC
-Monthly / Annual Inc: $3,708.00 / month
-Bank Account Number:  ACCT-9912264204
+Monthly / Annual Inc: $5,108.00 / month
+Bank Account Number:  ACCT-6126037320
 
 PREVIOUS TENANCY & EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Rental History:
 Previous Address: 7523 Daniel Fields Apt. 748, Flemingland
-Tenancy: 2021 - 2024 | Landlord: Jessica Torres | Rent: $2775/mo
+Tenancy: 2021 - 2024 | Landlord: Jessica Torres | Rent: $1804/mo
 Reason for Leaving: Job relocation | Full security deposit returned: Yes
 
 Emergency Contact:
@@ -32,7 +33,7 @@ Steven Sanders (Sibling) - Tel: 834.427.2038
 SUPPLEMENTAL TENANT DECLARATION
 --------------------------------------------------------------------------------
 Medical History:
-No significant past medical history. Non-smoker, no past surgeries.
+Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
 
 --------------------------------------------------------------------------------
 TENANT ACKNOWLEDGMENT:

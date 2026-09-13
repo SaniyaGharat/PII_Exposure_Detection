@@ -2,6 +2,9 @@
     "document_id": "job_066",
     "document_type": "job_application",
     "document_purpose": "To evaluate a candidate's qualifications, skills, education, and professional experience for potential employment.",
+    "sub_conditions": {
+        "is_remote_role": false
+    },
     "fields": [
         {
             "field_type": "full_name",
@@ -17,7 +20,7 @@
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "December 16, 1997",
+            "field_value": "December 17, 1997",
             "necessity_label": "unnecessary",
             "reason": "Date of birth is generally not required for evaluating qualifications during initial employment screening and may create discrimination concerns.",
             "span": {
@@ -39,34 +42,34 @@
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Domestic Partnership",
+            "field_value": "Widowed",
             "necessity_label": "unnecessary",
             "reason": "Marital status is irrelevant to assessing job competence and creates potential exposure to marital status or gender discrimination.",
             "span": {
                 "start": 477,
-                "end": 497
+                "end": 484
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religion",
-            "field_value": "Prefer not to disclose",
+            "field_value": "Buddhism",
             "necessity_label": "unnecessary",
             "reason": "Religious beliefs are completely irrelevant to job performance and introduce unlawful bias risks under employment regulations.",
             "span": {
-                "start": 520,
-                "end": 542
+                "start": 507,
+                "end": 515
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "121-96-5415",
+            "field_value": "567-80-3369",
             "necessity_label": "unnecessary",
             "reason": "Government national identification numbers are unnecessary at initial screening and introduce high identity theft exposure.",
             "span": {
-                "start": 565,
-                "end": 576
+                "start": 538,
+                "end": 549
             }
         },
         {
@@ -76,8 +79,8 @@
             "necessity_label": "necessary",
             "reason": "Required as a primary electronic communication channel for interview scheduling and official employment notifications.",
             "span": {
-                "start": 599,
-                "end": 624
+                "start": 572,
+                "end": 597
             }
         },
         {
@@ -87,63 +90,63 @@
             "necessity_label": "necessary",
             "reason": "Required for direct contact, telephone screening sessions, and urgent recruitment updates.",
             "span": {
-                "start": 647,
-                "end": 664
+                "start": 620,
+                "end": 637
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "199 Shields Bridge Suite 661, New Adriana, TX 50404",
-            "necessity_label": "contextual",
-            "reason": "Full street address is unnecessary for initial screening (city/region suffices), but may be required for local payroll tax jurisdictions or commute assessment.",
+            "necessity_label": "necessary",
+            "reason": "Required for assessing commute feasibility, physical facility access, and local payroll tax withholding jurisdiction.",
             "span": {
-                "start": 687,
-                "end": 738
+                "start": 660,
+                "end": 711
             }
         },
         {
             "field_type": "job_title",
             "field_name": "Position Applied For",
-            "field_value": "Product Manager",
+            "field_value": "HR Operations Generalist",
             "necessity_label": "necessary",
             "reason": "Specifies the target role against which candidate qualifications and criteria are evaluated.",
             "span": {
-                "start": 859,
-                "end": 874
+                "start": 848,
+                "end": 872
             }
         },
         {
             "field_type": "education",
             "field_name": "Education",
-            "field_value": "M.S. in Data Analytics - Cornell University (Graduated 2014)",
+            "field_value": "B.A. in Economics - Carnegie Mellon University (Graduated 2021)",
             "necessity_label": "necessary",
             "reason": "Essential for verifying required academic degrees, institutional background, and formal qualifications.",
             "span": {
-                "start": 1014,
-                "end": 1074
+                "start": 1069,
+                "end": 1132
             }
         },
         {
             "field_type": "work_history",
             "field_name": "Work History",
-            "field_value": "1. Product Manager at Moore, Price and Ward (2021 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Smith LLC (2017 - 2020)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
+            "field_value": "1. HR Operations Generalist at Moore, Price and Ward (2022 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Smith LLC (2019 - 2021)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
             "necessity_label": "necessary",
             "reason": "Essential for evaluating candidate's prior professional experience, relevant responsibilities, and career trajectory.",
             "span": {
-                "start": 1215,
-                "end": 1480
+                "start": 1273,
+                "end": 1547
             }
         },
         {
             "field_type": "skills",
             "field_name": "Skills & Competencies",
-            "field_value": "Network Security, Penetration Testing, SIEM, Incident Response, ISO 27001",
+            "field_value": "React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices",
             "necessity_label": "necessary",
             "reason": "Directly reflects technical, operational, and domain competencies required for job performance.",
             "span": {
-                "start": 1623,
-                "end": 1696
+                "start": 1690,
+                "end": 1757
             }
         }
     ]

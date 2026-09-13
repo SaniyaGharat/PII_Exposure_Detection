@@ -2,6 +2,9 @@
     "document_id": "med_004",
     "document_type": "medical_intake",
     "document_purpose": "To collect relevant patient information required for medical assessment, diagnosis, treatment, and healthcare administration.",
+    "sub_conditions": {
+        "is_telehealth": true
+    },
     "fields": [
         {
             "field_type": "full_name",
@@ -10,19 +13,19 @@
             "necessity_label": "necessary",
             "reason": "Essential for patient identification, medical record linkage, and preventing catastrophic misidentification in clinical care.",
             "span": {
-                "start": 359,
-                "end": 372
+                "start": 369,
+                "end": 382
             }
         },
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "February 18, 1946",
+            "field_value": "February 19, 1946",
             "necessity_label": "necessary",
             "reason": "Crucial for clinical safety, age-dependent pharmaceutical dosage calculations, developmental assessment, and primary patient record matching.",
             "span": {
-                "start": 395,
-                "end": 412
+                "start": 464,
+                "end": 481
             }
         },
         {
@@ -32,30 +35,30 @@
             "necessity_label": "necessary",
             "reason": "Required for appointment reminders, urgent clinical test result notifications, and post-procedure follow-ups.",
             "span": {
-                "start": 435,
-                "end": 450
+                "start": 504,
+                "end": 519
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "0375 Moran Lakes Suite 113, West Michaelport, OH 68918",
-            "necessity_label": "contextual",
-            "reason": "Used for patient billing, demographic analysis, and local public health reporting, though secondary to immediate clinical diagnosis.",
+            "necessity_label": "unnecessary",
+            "reason": "Physical residential street address is unnecessary for remote telehealth encounters; electronic communication channels suffice.",
             "span": {
-                "start": 473,
-                "end": 527
+                "start": 542,
+                "end": 596
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Divorced",
+            "field_value": "Domestic Partnership",
             "necessity_label": "contextual",
             "reason": "May provide helpful context regarding home support network and surrogate decision-makers, but not universally necessary for diagnostics.",
             "span": {
-                "start": 550,
-                "end": 558
+                "start": 619,
+                "end": 639
             }
         },
         {
@@ -65,52 +68,52 @@
             "necessity_label": "contextual",
             "reason": "Provides relevant context for evaluating occupational exposures, repetitive stress injuries, or physical disability accommodations.",
             "span": {
-                "start": 581,
-                "end": 596
+                "start": 662,
+                "end": 677
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religious Affiliation",
-            "field_value": "Christianity",
+            "field_value": "Prefer not to disclose",
             "necessity_label": "contextual",
             "reason": "Contextual in clinical settings to respect medical restrictions (e.g., blood transfusions, dietary rules, end-of-life pastoral care), but optional.",
             "span": {
-                "start": 619,
-                "end": 631
+                "start": 700,
+                "end": 722
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "285-28-7566",
+            "field_value": "430-90-6179",
             "necessity_label": "unnecessary",
             "reason": "Standard government national IDs are unnecessary when unique Medical Record Numbers (MRN) or insurance IDs exist, creating avoidable exposure.",
             "span": {
-                "start": 654,
-                "end": 665
+                "start": 745,
+                "end": 756
             }
         },
         {
             "field_type": "insurance_number",
             "field_name": "Health Insurance Policy Number",
-            "field_value": "MED-29042093",
+            "field_value": "BLU-69023966",
             "necessity_label": "contextual",
             "reason": "Necessary for healthcare claims billing and insurance verification, but not strictly required for emergency or direct self-pay clinical triage.",
             "span": {
-                "start": 688,
-                "end": 700
+                "start": 779,
+                "end": 791
             }
         },
         {
             "field_type": "emergency_contact",
             "field_name": "Emergency Contact",
-            "field_value": "Brian Prince (Sibling) - Phone: 726.314.9331x6373",
+            "field_value": "Brian Prince (Partner) - Phone: 726.314.9331x6373",
             "necessity_label": "necessary",
             "reason": "Vital in acute medical situations, patient incapacitation, or urgent medical decisions where patient proxy consent is needed.",
             "span": {
-                "start": 828,
-                "end": 877
+                "start": 919,
+                "end": 968
             }
         },
         {
@@ -120,30 +123,30 @@
             "necessity_label": "necessary",
             "reason": "High-priority safety data required to prevent life-threatening anaphylaxis, drug allergies, and cross-reactive interventions.",
             "span": {
-                "start": 1029,
-                "end": 1080
+                "start": 1120,
+                "end": 1171
             }
         },
         {
             "field_type": "current_medications",
             "field_name": "Current Medications",
-            "field_value": "Lisinopril 10mg PO daily, Atorvastatin 20mg PO at bedtime.",
+            "field_value": "Omeprazole 20mg PO daily before breakfast, Calcium + Vitamin D supplement.",
             "necessity_label": "necessary",
             "reason": "Critical for preventing adverse drug-drug interactions, polypharmacy complications, and dosage conflicts.",
             "span": {
-                "start": 1229,
-                "end": 1287
+                "start": 1320,
+                "end": 1394
             }
         },
         {
             "field_type": "medical_history",
             "field_name": "Past Medical History",
-            "field_value": "No significant past medical history. Non-smoker, no past surgeries.",
+            "field_value": "Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).",
             "necessity_label": "necessary",
             "reason": "Essential clinical context for differential diagnosis, identifying chronic comorbidities, and planning safe therapeutic interventions.",
             "span": {
-                "start": 1445,
-                "end": 1512
+                "start": 1552,
+                "end": 1631
             }
         }
     ]

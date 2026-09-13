@@ -5,36 +5,37 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Stephen Moore
-Date of Birth:        April 14, 1986
-Gender:               Prefer not to disclose
-Marital Status:       Married
-Religious Belief:     Prefer not to disclose
-National ID / SSN:    682-48-7653
+Date of Birth:        April 15, 1986
+Gender:               Male
+Marital Status:       Domestic Partnership
+Religious Belief:     Buddhism
+National ID / SSN:    835-99-7291
 Email Address:        stephen.moore@gmail.com
 Phone Number:         681.256.1497
 Home Address:         003 Dougherty Trafficway Apt. 445, North Tylerchester, HI 17433
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Account Executive
+Position Applied For: DevOps Engineer
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-M.S. in Data Analytics - Columbia University (Graduated 2012)
+B.S. in Computer Science - University of Washington (Graduated 2013)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Account Executive at Williams, Miller and Ramos (2021 - Present)
+1. DevOps Engineer at Williams, Miller and Ramos (2022 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Tucker-Ramos (2020 - 2021)
+2. Associate Specialist at Tucker-Ramos (2017 - 2021)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Network Security, Penetration Testing, SIEM, Incident Response, ISO 27001
+React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices
 
 --------------------------------------------------------------------------------
 DECLARATION:

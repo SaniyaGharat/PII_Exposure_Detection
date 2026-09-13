@@ -5,36 +5,37 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Beverly Hamilton
-Date of Birth:        January 31, 1993
+Date of Birth:        February 01, 1993
 Gender:               Female
-Marital Status:       Widowed
+Marital Status:       Divorced
 Religious Belief:     Islam
-National ID / SSN:    193-20-2527
+National ID / SSN:    506-15-8147
 Email Address:        beverly.hamilton@gmail.com
 Phone Number:         6584300335
 Home Address:         942 Madison Hills Suite 789, Ryanberg, MA 64749
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Marketing Specialist
+Position Applied For: Senior Software Engineer
+Work Modality:        On-Site Office (Physical Facility)
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-MBA - Purdue University (Graduated 2020)
+MBA - UC San Diego (Graduated 2012)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Marketing Specialist at Powell-Sanford (2022 - Present)
+1. Senior Software Engineer at Powell-Sanford (2021 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Smith-Ferguson (2019 - 2020)
+2. Associate Specialist at Smith-Ferguson (2020 - 2020)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices
+Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture
 
 --------------------------------------------------------------------------------
 DECLARATION:

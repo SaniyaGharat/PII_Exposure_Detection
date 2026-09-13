@@ -2,32 +2,33 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Susan Baldwin
-Date of Birth:        September 22, 1950
+Encounter Modality:   In-Person Outpatient Clinical Visit
+Date of Birth:        September 23, 1950
 Phone Number:         2112947072
 Home Address:         2569 Zachary Trail Suite 766, New Jeremiahfurt, UT 63686
-Marital Status:       Widowed
+Marital Status:       Domestic Partnership
 Occupation:           Engineer, aeronautical
 Religious Preference: Sikhism
-National ID / SSN:    625-96-3621
-Insurance Policy No:  MED-29163535
+National ID / SSN:    294-30-9163
+Insurance Policy No:  KSR-72654864
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Joseph Frey (Spouse) - Phone: 246-801-5851x74328
+Joseph Frey (Parent) - Phone: 246-801-5851x74328
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-No Known Drug Allergies (NKDA), No known environmental allergies.
+Aspirin (bronchospasm), Codeine (nausea).
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-None reported / Over-the-counter multivitamins only.
+Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------

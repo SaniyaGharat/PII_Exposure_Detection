@@ -8,7 +8,7 @@ import json
 import random
 import re
 from pathlib import Path
-from typing import Any, Dict, List, Tuple
+from typing import Any, Dict, List, Optional, Tuple
 
 from faker import Faker
 
@@ -16,6 +16,8 @@ from src.policies.necessity_policy import (
     DOCUMENT_POLICIES,
     DOCUMENT_PURPOSES,
     get_field_policy,
+    get_contextual_necessity_policy,
+    AFFECTED_FIELDS,
 )
 from src.utils.pdf_generator import generate_pdf_from_text
 from src.utils.scanner_simulator import simulate_scanned_document
@@ -133,11 +135,16 @@ class DocumentGenerator:
         field_values: Dict[str, str],
         doc_type: str,
         doc_id: str,
+        sub_conditions: Optional[Dict[str, Any]] = None,
     ) -> Tuple[str, Dict[str, Any]]:
         """
         Substitutes placeholder variables {{field_type}} in the template and
         calculates exact character start and end spans in the final rendered text.
+        Dynamic necessity labels are assigned using get_contextual_necessity_policy.
         """
+        sub_conditions = sub_conditions or {}
+        policy_fields = DOCUMENT_POLICIES[doc_type].fields if doc_type in DOCUMENT_POLICIES else {}
+
         # Find all placeholders in order of appearance
         pattern = re.compile(r"\{\{([a-zA-Z0-9_]+)\}\}")
         rendered_pieces: List[str] = []
@@ -164,28 +171,23 @@ class DocumentGenerator:
             current_char_len += len(val)
             last_idx = placeholder_end
 
-            # Retrieve policy definition
-            policy = get_field_policy(doc_type, field_key)
-            if policy:
-                field_name = policy.field_name
-                necessity_label = policy.necessity_label.value
-                reason = policy.reason
-            else:
-                field_name = field_key.replace("_", " ").title()
-                necessity_label = "contextual"
-                reason = "General metadata field."
+            # Only add to fields_metadata if it is a genuine PII field defined in policy
+            if field_key in policy_fields:
+                nec_label, reason = get_contextual_necessity_policy(doc_type, field_key, sub_conditions)
+                field_policy = policy_fields[field_key]
+                field_name = field_policy.field_name
 
-            fields_metadata.append({
-                "field_type": field_key,
-                "field_name": field_name,
-                "field_value": val,
-                "necessity_label": necessity_label,
-                "reason": reason,
-                "span": {
-                    "start": val_start,
-                    "end": val_end,
-                },
-            })
+                fields_metadata.append({
+                    "field_type": field_key,
+                    "field_name": field_name,
+                    "field_value": val,
+                    "necessity_label": nec_label.value,
+                    "reason": reason,
+                    "span": {
+                        "start": val_start,
+                        "end": val_end,
+                    },
+                })
 
         # Append remaining text after last placeholder
         remaining_text = template_text[last_idx:]
@@ -206,6 +208,7 @@ class DocumentGenerator:
             "document_id": doc_id,
             "document_type": doc_type,
             "document_purpose": DOCUMENT_PURPOSES[doc_type],
+            "sub_conditions": sub_conditions,
             "fields": fields_metadata,
         }
 
@@ -238,6 +241,11 @@ class DocumentGenerator:
         email = f"{first_name.lower()}.{last_name.lower()}@{self.fake.free_email_domain()}"
         address = f"{self.fake.street_address()}, {self.fake.city()}, {self.fake.state_abbr()} {self.fake.zipcode()}"
 
+        # Context sub-condition: Remote vs On-Site role
+        is_remote_role = (self.rng.random() < 0.50)
+        work_modality = "100% Fully Remote Position" if is_remote_role else "On-Site Office (Physical Facility)"
+        sub_conditions = {"is_remote_role": is_remote_role}
+
         field_values = {
             "full_name": full_name,
             "date_of_birth": dob,
@@ -249,13 +257,14 @@ class DocumentGenerator:
             "phone": phone,
             "home_address": address,
             "job_title": job_title,
+            "work_modality": work_modality,
             "education": education_str,
             "work_history": work_str,
             "skills": self.rng.choice(self.skills_pool),
         }
 
         template_text = self.templates["job_application"]
-        return self._render_with_spans(template_text, field_values, "job_application", doc_id)
+        return self._render_with_spans(template_text, field_values, "job_application", doc_id, sub_conditions)
 
     def generate_medical_intake(self, doc_id: str) -> Tuple[str, Dict[str, Any]]:
         """Generates a synthetic medical clinical intake document and labels."""
@@ -269,8 +278,14 @@ class DocumentGenerator:
         emergency_phone = self.fake.phone_number()
         emergency_str = f"{emergency_contact_name} ({relation}) - Phone: {emergency_phone}"
 
+        # Context sub-condition: Telehealth vs In-Person encounter
+        is_telehealth = (self.rng.random() < 0.50)
+        encounter_type = "Remote Telehealth Video Consultation" if is_telehealth else "In-Person Outpatient Clinical Visit"
+        sub_conditions = {"is_telehealth": is_telehealth}
+
         field_values = {
             "full_name": full_name,
+            "encounter_type": encounter_type,
             "date_of_birth": dob,
             "phone": phone,
             "home_address": address,
@@ -286,7 +301,7 @@ class DocumentGenerator:
         }
 
         template_text = self.templates["medical_intake"]
-        return self._render_with_spans(template_text, field_values, "medical_intake", doc_id)
+        return self._render_with_spans(template_text, field_values, "medical_intake", doc_id, sub_conditions)
 
     def generate_loan_application(self, doc_id: str) -> Tuple[str, Dict[str, Any]]:
         """Generates a synthetic credit/loan application document and labels."""
@@ -302,7 +317,13 @@ class DocumentGenerator:
         credit_score_val = self.rng.randint(590, 830)
         bio_hash = f"SHA256:{self.fake.sha256()[:24]} (Biometric Minutiae Key)"
 
+        # Context sub-condition: Joint/Co-Applicant vs Individual Credit Application
+        is_joint_applicant = (self.rng.random() < 0.50)
+        application_type = "Joint / Co-Borrower Credit Application" if is_joint_applicant else "Individual Borrower Credit Application"
+        sub_conditions = {"is_joint_applicant": is_joint_applicant}
+
         field_values = {
+            "application_type": application_type,
             "full_name": full_name,
             "date_of_birth": dob,
             "marital_status": self.rng.choice(self.marital_statuses),
@@ -320,7 +341,7 @@ class DocumentGenerator:
         }
 
         template_text = self.templates["loan_application"]
-        return self._render_with_spans(template_text, field_values, "loan_application", doc_id)
+        return self._render_with_spans(template_text, field_values, "loan_application", doc_id, sub_conditions)
 
     def generate_rental_application(self, doc_id: str) -> Tuple[str, Dict[str, Any]]:
         """Generates a synthetic residential lease application document and labels."""
@@ -342,7 +363,13 @@ class DocumentGenerator:
 
         emergency_contact_str = f"{self.fake.name()} (Sibling) - Tel: {self.fake.phone_number()}"
 
+        # Context sub-condition: Guarantor / Co-signer Supported vs Standard Individual Lease
+        has_guarantor = (self.rng.random() < 0.50)
+        lease_category = "Guarantor / Co-Signer Supported Lease" if has_guarantor else "Standard Direct Individual Lease"
+        sub_conditions = {"has_guarantor": has_guarantor}
+
         field_values = {
+            "lease_category": lease_category,
             "full_name": full_name,
             "phone": phone,
             "email": email,
@@ -360,7 +387,7 @@ class DocumentGenerator:
         }
 
         template_text = self.templates["rental_agreement"]
-        return self._render_with_spans(template_text, field_values, "rental_agreement", doc_id)
+        return self._render_with_spans(template_text, field_values, "rental_agreement", doc_id, sub_conditions)
 
 
 def generate_full_dataset(

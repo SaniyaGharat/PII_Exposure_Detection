@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            John Vaughan
-Date of Birth:        June 20, 2006
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        June 21, 2006
 Phone Number:         +1-236-667-4286
 Home Address:         5801 Blanchard Meadows Suite 544, West Destinyfurt, NH 89012
 Marital Status:       Divorced
 Occupation:           Chief Technology Officer
-Religious Preference: Islam
-National ID / SSN:    181-51-5843
-Insurance Policy No:  AET-69849800
+Religious Preference: Sikhism
+National ID / SSN:    508-26-7070
+Insurance Policy No:  KSR-85383550
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Morgan Chapman (Sibling) - Phone: 285.825.8001
+Morgan Chapman (Parent) - Phone: 285.825.8001
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-No Known Drug Allergies (NKDA), No known environmental allergies.
+Penicillin (rash, hives), Shellfish (mild itching).
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-None reported / Over-the-counter multivitamins only.
+Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Tiffany Johnson
-Date of Birth:        December 25, 1972
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        December 26, 1972
 Phone Number:         467-656-7700
 Home Address:         6246 Gallagher Port, Kellerside, OK 62081
-Marital Status:       Domestic Partnership
+Marital Status:       Widowed
 Occupation:           Magazine journalist
-Religious Preference: Unaffiliated
-National ID / SSN:    208-50-4960
-Insurance Policy No:  UHC-26444612
+Religious Preference: Sikhism
+National ID / SSN:    834-70-2647
+Insurance Policy No:  BLU-10695441
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Scott Hunter (Sibling) - Phone: (447)796-9545x0090
+Scott Hunter (Parent) - Phone: (447)796-9545x0090
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
+No Known Drug Allergies (NKDA), No known environmental allergies.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Omeprazole 20mg PO daily before breakfast, Calcium + Vitamin D supplement.
+Metformin 500mg PO BID with meals, Glipizide 5mg daily.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
+Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

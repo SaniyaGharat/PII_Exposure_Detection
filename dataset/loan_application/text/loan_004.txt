@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Joint / Co-Borrower Credit Application
 Applicant Name:       Tonya Garcia
-Date of Birth:        March 08, 1997
+Date of Birth:        March 09, 1997
 Marital Status:       Divorced
-Religious Belief:     Islam
+Religious Belief:     Prefer not to disclose
 Phone Number:         001-424-719-5625
 Email Address:        tonya.garcia@hotmail.com
 Residential Address:  50997 Dixon Streets Apt. 890, North Christina, MH 16761
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Employed Part-Time
+Employment Status:    Employed Full-Time
 Employer Name:        Patterson, Sanchez and Miller
-Gross Annual Income:  $186,000.00 USD
-Bank Account Number:  ACCT-5203589186
-Credit Score (FICO):  624 (FICO Score 8)
+Gross Annual Income:  $175,000.00 USD
+Bank Account Number:  ACCT-4947728706
+Credit Score (FICO):  806 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
 
 Biometric Security Identifier:
 SHA256:3dc22977de91e1279654e851 (Biometric Minutiae Key)

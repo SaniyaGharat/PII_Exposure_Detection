@@ -2,11 +2,12 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Joint / Co-Borrower Credit Application
 Applicant Name:       William Love
-Date of Birth:        August 26, 1974
-Marital Status:       Widowed
+Date of Birth:        August 27, 1974
+Marital Status:       Single
 Religious Belief:     Agnostic
 Phone Number:         328.272.3244x07931
 Email Address:        william.love@gmail.com
@@ -14,11 +15,11 @@ Residential Address:  133 Thomas Village, Myersville, ME 53527
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Employed Full-Time
+Employment Status:    Retired
 Employer Name:        Wilkins PLC
-Gross Annual Income:  $95,000.00 USD
-Bank Account Number:  ACCT-4792874364
-Credit Score (FICO):  637 (FICO Score 8)
+Gross Annual Income:  $51,000.00 USD
+Bank Account Number:  ACCT-8589679668
+Credit Score (FICO):  657 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------

@@ -2,17 +2,18 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Jennifer Costa
-Date of Birth:        February 01, 1987
+Encounter Modality:   In-Person Outpatient Clinical Visit
+Date of Birth:        February 02, 1987
 Phone Number:         5418379772
 Home Address:         298 Jackson Spur, Sandrashire, CA 30623
-Marital Status:       Married
+Marital Status:       Domestic Partnership
 Occupation:           Conservator, furniture
-Religious Preference: Sikhism
-National ID / SSN:    897-31-2251
-Insurance Policy No:  KSR-94989976
+Religious Preference: Hinduism
+National ID / SSN:    711-58-3527
+Insurance Policy No:  BLU-34272734
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
@@ -22,17 +23,17 @@ Carlos Smith (Sibling) - Phone: 386.929.1279x90881
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Penicillin (rash, hives), Shellfish (mild itching).
+No Known Drug Allergies (NKDA), No known environmental allergies.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.
+Metformin 500mg PO BID with meals, Glipizide 5mg daily.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Hypothyroidism (stable on levothyroxine), Migraines with aura.
+No significant past medical history. Non-smoker, no past surgeries.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

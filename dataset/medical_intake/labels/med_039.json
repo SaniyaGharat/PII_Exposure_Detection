@@ -2,6 +2,9 @@
     "document_id": "med_039",
     "document_type": "medical_intake",
     "document_purpose": "To collect relevant patient information required for medical assessment, diagnosis, treatment, and healthcare administration.",
+    "sub_conditions": {
+        "is_telehealth": true
+    },
     "fields": [
         {
             "field_type": "full_name",
@@ -10,19 +13,19 @@
             "necessity_label": "necessary",
             "reason": "Essential for patient identification, medical record linkage, and preventing catastrophic misidentification in clinical care.",
             "span": {
-                "start": 359,
-                "end": 372
+                "start": 369,
+                "end": 382
             }
         },
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "December 26, 1975",
+            "field_value": "December 27, 1975",
             "necessity_label": "necessary",
             "reason": "Crucial for clinical safety, age-dependent pharmaceutical dosage calculations, developmental assessment, and primary patient record matching.",
             "span": {
-                "start": 395,
-                "end": 412
+                "start": 464,
+                "end": 481
             }
         },
         {
@@ -32,30 +35,30 @@
             "necessity_label": "necessary",
             "reason": "Required for appointment reminders, urgent clinical test result notifications, and post-procedure follow-ups.",
             "span": {
-                "start": 435,
-                "end": 445
+                "start": 504,
+                "end": 514
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "803 Marsh Underpass Suite 124, West Tonyaside, MP 22254",
-            "necessity_label": "contextual",
-            "reason": "Used for patient billing, demographic analysis, and local public health reporting, though secondary to immediate clinical diagnosis.",
+            "necessity_label": "unnecessary",
+            "reason": "Physical residential street address is unnecessary for remote telehealth encounters; electronic communication channels suffice.",
             "span": {
-                "start": 468,
-                "end": 523
+                "start": 537,
+                "end": 592
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Married",
+            "field_value": "Widowed",
             "necessity_label": "contextual",
             "reason": "May provide helpful context regarding home support network and surrogate decision-makers, but not universally necessary for diagnostics.",
             "span": {
-                "start": 546,
-                "end": 553
+                "start": 615,
+                "end": 622
             }
         },
         {
@@ -65,63 +68,63 @@
             "necessity_label": "contextual",
             "reason": "Provides relevant context for evaluating occupational exposures, repetitive stress injuries, or physical disability accommodations.",
             "span": {
-                "start": 576,
-                "end": 603
+                "start": 645,
+                "end": 672
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religious Affiliation",
-            "field_value": "Prefer not to disclose",
+            "field_value": "Christianity",
             "necessity_label": "contextual",
             "reason": "Contextual in clinical settings to respect medical restrictions (e.g., blood transfusions, dietary rules, end-of-life pastoral care), but optional.",
             "span": {
-                "start": 626,
-                "end": 648
+                "start": 695,
+                "end": 707
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "526-33-2402",
+            "field_value": "469-80-7044",
             "necessity_label": "unnecessary",
             "reason": "Standard government national IDs are unnecessary when unique Medical Record Numbers (MRN) or insurance IDs exist, creating avoidable exposure.",
             "span": {
-                "start": 671,
-                "end": 682
+                "start": 730,
+                "end": 741
             }
         },
         {
             "field_type": "insurance_number",
             "field_name": "Health Insurance Policy Number",
-            "field_value": "KSR-58399417",
+            "field_value": "UHC-84040798",
             "necessity_label": "contextual",
             "reason": "Necessary for healthcare claims billing and insurance verification, but not strictly required for emergency or direct self-pay clinical triage.",
             "span": {
-                "start": 705,
-                "end": 717
+                "start": 764,
+                "end": 776
             }
         },
         {
             "field_type": "emergency_contact",
             "field_name": "Emergency Contact",
-            "field_value": "Jean Larson (Sibling) - Phone: 001-645-404-6173x57438",
+            "field_value": "Jean Larson (Parent) - Phone: 001-645-404-6173x57438",
             "necessity_label": "necessary",
             "reason": "Vital in acute medical situations, patient incapacitation, or urgent medical decisions where patient proxy consent is needed.",
             "span": {
-                "start": 845,
-                "end": 898
+                "start": 904,
+                "end": 956
             }
         },
         {
             "field_type": "allergies",
             "field_name": "Allergies & Sensitivities",
-            "field_value": "Penicillin (rash, hives), Shellfish (mild itching).",
+            "field_value": "Sulfa antibiotics (severe skin reaction), Latex.",
             "necessity_label": "necessary",
             "reason": "High-priority safety data required to prevent life-threatening anaphylaxis, drug allergies, and cross-reactive interventions.",
             "span": {
-                "start": 1050,
-                "end": 1101
+                "start": 1108,
+                "end": 1156
             }
         },
         {
@@ -131,19 +134,19 @@
             "necessity_label": "necessary",
             "reason": "Critical for preventing adverse drug-drug interactions, polypharmacy complications, and dosage conflicts.",
             "span": {
-                "start": 1250,
-                "end": 1325
+                "start": 1305,
+                "end": 1380
             }
         },
         {
             "field_type": "medical_history",
             "field_name": "Past Medical History",
-            "field_value": "Hypothyroidism (stable on levothyroxine), Migraines with aura.",
+            "field_value": "Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.",
             "necessity_label": "necessary",
             "reason": "Essential clinical context for differential diagnosis, identifying chronic comorbidities, and planning safe therapeutic interventions.",
             "span": {
-                "start": 1483,
-                "end": 1545
+                "start": 1538,
+                "end": 1603
             }
         }
     ]

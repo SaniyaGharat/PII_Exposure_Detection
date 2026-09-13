@@ -2,6 +2,9 @@
     "document_id": "med_011",
     "document_type": "medical_intake",
     "document_purpose": "To collect relevant patient information required for medical assessment, diagnosis, treatment, and healthcare administration.",
+    "sub_conditions": {
+        "is_telehealth": true
+    },
     "fields": [
         {
             "field_type": "full_name",
@@ -10,19 +13,19 @@
             "necessity_label": "necessary",
             "reason": "Essential for patient identification, medical record linkage, and preventing catastrophic misidentification in clinical care.",
             "span": {
-                "start": 359,
-                "end": 371
+                "start": 369,
+                "end": 381
             }
         },
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "June 30, 1964",
+            "field_value": "July 01, 1964",
             "necessity_label": "necessary",
             "reason": "Crucial for clinical safety, age-dependent pharmaceutical dosage calculations, developmental assessment, and primary patient record matching.",
             "span": {
-                "start": 394,
-                "end": 407
+                "start": 463,
+                "end": 476
             }
         },
         {
@@ -32,19 +35,19 @@
             "necessity_label": "necessary",
             "reason": "Required for appointment reminders, urgent clinical test result notifications, and post-procedure follow-ups.",
             "span": {
-                "start": 430,
-                "end": 450
+                "start": 499,
+                "end": 519
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "2577 Howard Inlet Suite 812, Port Juanberg, MH 71098",
-            "necessity_label": "contextual",
-            "reason": "Used for patient billing, demographic analysis, and local public health reporting, though secondary to immediate clinical diagnosis.",
+            "necessity_label": "unnecessary",
+            "reason": "Physical residential street address is unnecessary for remote telehealth encounters; electronic communication channels suffice.",
             "span": {
-                "start": 473,
-                "end": 525
+                "start": 542,
+                "end": 594
             }
         },
         {
@@ -54,8 +57,8 @@
             "necessity_label": "contextual",
             "reason": "May provide helpful context regarding home support network and surrogate decision-makers, but not universally necessary for diagnostics.",
             "span": {
-                "start": 548,
-                "end": 555
+                "start": 617,
+                "end": 624
             }
         },
         {
@@ -65,74 +68,74 @@
             "necessity_label": "contextual",
             "reason": "Provides relevant context for evaluating occupational exposures, repetitive stress injuries, or physical disability accommodations.",
             "span": {
-                "start": 578,
-                "end": 595
+                "start": 647,
+                "end": 664
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religious Affiliation",
-            "field_value": "Christianity",
+            "field_value": "Hinduism",
             "necessity_label": "contextual",
             "reason": "Contextual in clinical settings to respect medical restrictions (e.g., blood transfusions, dietary rules, end-of-life pastoral care), but optional.",
             "span": {
-                "start": 618,
-                "end": 630
+                "start": 687,
+                "end": 695
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "570-19-6129",
+            "field_value": "709-20-6072",
             "necessity_label": "unnecessary",
             "reason": "Standard government national IDs are unnecessary when unique Medical Record Numbers (MRN) or insurance IDs exist, creating avoidable exposure.",
             "span": {
-                "start": 653,
-                "end": 664
+                "start": 718,
+                "end": 729
             }
         },
         {
             "field_type": "insurance_number",
             "field_name": "Health Insurance Policy Number",
-            "field_value": "KSR-67617561",
+            "field_value": "KSR-60557040",
             "necessity_label": "contextual",
             "reason": "Necessary for healthcare claims billing and insurance verification, but not strictly required for emergency or direct self-pay clinical triage.",
             "span": {
-                "start": 687,
-                "end": 699
+                "start": 752,
+                "end": 764
             }
         },
         {
             "field_type": "emergency_contact",
             "field_name": "Emergency Contact",
-            "field_value": "Nicholas Sims (Spouse) - Phone: 001-910-480-9969x3084",
+            "field_value": "Nicholas Sims (Sibling) - Phone: 001-910-480-9969x3084",
             "necessity_label": "necessary",
             "reason": "Vital in acute medical situations, patient incapacitation, or urgent medical decisions where patient proxy consent is needed.",
             "span": {
-                "start": 827,
-                "end": 880
+                "start": 892,
+                "end": 946
             }
         },
         {
             "field_type": "allergies",
             "field_name": "Allergies & Sensitivities",
-            "field_value": "No Known Drug Allergies (NKDA), No known environmental allergies.",
+            "field_value": "Peanuts (anaphylaxis - carries EpiPen), Tree nuts.",
             "necessity_label": "necessary",
             "reason": "High-priority safety data required to prevent life-threatening anaphylaxis, drug allergies, and cross-reactive interventions.",
             "span": {
-                "start": 1032,
-                "end": 1097
+                "start": 1098,
+                "end": 1148
             }
         },
         {
             "field_type": "current_medications",
             "field_name": "Current Medications",
-            "field_value": "Omeprazole 20mg PO daily before breakfast, Calcium + Vitamin D supplement.",
+            "field_value": "Metformin 500mg PO BID with meals, Glipizide 5mg daily.",
             "necessity_label": "necessary",
             "reason": "Critical for preventing adverse drug-drug interactions, polypharmacy complications, and dosage conflicts.",
             "span": {
-                "start": 1246,
-                "end": 1320
+                "start": 1297,
+                "end": 1352
             }
         },
         {
@@ -142,8 +145,8 @@
             "necessity_label": "necessary",
             "reason": "Essential clinical context for differential diagnosis, identifying chronic comorbidities, and planning safe therapeutic interventions.",
             "span": {
-                "start": 1478,
-                "end": 1545
+                "start": 1510,
+                "end": 1577
             }
         }
     ]

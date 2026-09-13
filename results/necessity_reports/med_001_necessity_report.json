@@ -2,10 +2,10 @@
   "document_id": "med_001",
   "document_type": "medical_intake",
   "document_purpose": "To collect relevant patient information required for medical assessment, diagnosis, treatment, and healthcare administration.",
-  "hybrid_alpha": 1.0,
+  "hybrid_alpha": 0.0,
   "unnecessary_threshold": 0.5,
   "total_fields": 13,
-  "total_unnecessary_flagged": 1,
+  "total_unnecessary_flagged": 6,
   "fields": [
     {
       "field_type": "full_name",
@@ -17,19 +17,19 @@
       "ml_score_M": 1.0,
       "predicted_label": "necessary",
       "flagged_unnecessary": false,
-      "reasoning": "Essential for patient identification, medical record linkage, and preventing catastrophic misidentification in clinical care."
+      "reasoning": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
     },
     {
       "field_type": "date_of_birth",
       "field_name": "Date of Birth",
-      "field_value": "January 28, 1986",
+      "field_value": "January 29, 1986",
       "ground_truth_label": "necessary",
       "hybrid_score_N": 1.0,
       "rule_score_R": 1.0,
       "ml_score_M": 1.0,
       "predicted_label": "necessary",
       "flagged_unnecessary": false,
-      "reasoning": "Crucial for clinical safety, age-dependent pharmaceutical dosage calculations, developmental assessment, and primary patient record matching."
+      "reasoning": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
     },
     {
       "field_type": "phone",
@@ -41,91 +41,91 @@
       "ml_score_M": 1.0,
       "predicted_label": "necessary",
       "flagged_unnecessary": false,
-      "reasoning": "Required for appointment reminders, urgent clinical test result notifications, and post-procedure follow-ups."
+      "reasoning": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
     },
     {
       "field_type": "home_address",
       "field_name": "Home Address",
       "field_value": "6420 Lozano Spurs, Riveratown, AL 88533",
-      "ground_truth_label": "contextual",
-      "hybrid_score_N": 0.5,
+      "ground_truth_label": "unnecessary",
+      "hybrid_score_N": 0.0001,
       "rule_score_R": 0.5,
-      "ml_score_M": 0.5,
-      "predicted_label": "contextual",
-      "flagged_unnecessary": false,
-      "reasoning": "Used for patient billing, demographic analysis, and local public health reporting, though secondary to immediate clinical diagnosis."
+      "ml_score_M": 0.0001,
+      "predicted_label": "unnecessary",
+      "flagged_unnecessary": true,
+      "reasoning": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
     },
     {
       "field_type": "marital_status",
       "field_name": "Marital Status",
-      "field_value": "Divorced",
+      "field_value": "Single",
       "ground_truth_label": "contextual",
-      "hybrid_score_N": 0.5,
+      "hybrid_score_N": 0.4991,
       "rule_score_R": 0.5,
-      "ml_score_M": 0.5,
+      "ml_score_M": 0.4991,
       "predicted_label": "contextual",
-      "flagged_unnecessary": false,
-      "reasoning": "May provide helpful context regarding home support network and surrogate decision-makers, but not universally necessary for diagnostics."
+      "flagged_unnecessary": true,
+      "reasoning": "Flagged by learned contextual pattern (Model Confidence: 0.2%)."
     },
     {
       "field_type": "occupation",
       "field_name": "Occupation",
       "field_value": "Archaeologist",
       "ground_truth_label": "contextual",
-      "hybrid_score_N": 0.5,
+      "hybrid_score_N": 0.499,
       "rule_score_R": 0.5,
-      "ml_score_M": 0.5,
+      "ml_score_M": 0.499,
       "predicted_label": "contextual",
-      "flagged_unnecessary": false,
-      "reasoning": "Provides relevant context for evaluating occupational exposures, repetitive stress injuries, or physical disability accommodations."
+      "flagged_unnecessary": true,
+      "reasoning": "Flagged by learned contextual pattern (Model Confidence: 0.2%)."
     },
     {
       "field_type": "religion",
       "field_name": "Religious Affiliation",
-      "field_value": "Sikhism",
+      "field_value": "Buddhism",
       "ground_truth_label": "contextual",
-      "hybrid_score_N": 0.5,
+      "hybrid_score_N": 0.499,
       "rule_score_R": 0.5,
-      "ml_score_M": 0.5,
+      "ml_score_M": 0.499,
       "predicted_label": "contextual",
-      "flagged_unnecessary": false,
-      "reasoning": "Contextual in clinical settings to respect medical restrictions (e.g., blood transfusions, dietary rules, end-of-life pastoral care), but optional."
+      "flagged_unnecessary": true,
+      "reasoning": "Flagged by learned contextual pattern (Model Confidence: 0.2%)."
     },
     {
       "field_type": "national_id",
       "field_name": "National ID / SSN",
-      "field_value": "206-83-9313",
+      "field_value": "546-85-7560",
       "ground_truth_label": "unnecessary",
-      "hybrid_score_N": 0.0,
+      "hybrid_score_N": 0.0014,
       "rule_score_R": 0.0,
-      "ml_score_M": 0.0,
+      "ml_score_M": 0.0014,
       "predicted_label": "unnecessary",
       "flagged_unnecessary": true,
-      "reasoning": "Standard government national IDs are unnecessary when unique Medical Record Numbers (MRN) or insurance IDs exist, creating avoidable exposure."
+      "reasoning": "Flagged by learned contextual pattern (Model Confidence: 99.7%)."
     },
     {
       "field_type": "insurance_number",
       "field_name": "Health Insurance Policy Number",
-      "field_value": "BLU-30767532",
+      "field_value": "KSR-20555833",
       "ground_truth_label": "contextual",
-      "hybrid_score_N": 0.5,
+      "hybrid_score_N": 0.499,
       "rule_score_R": 0.5,
-      "ml_score_M": 0.5,
+      "ml_score_M": 0.499,
       "predicted_label": "contextual",
-      "flagged_unnecessary": false,
-      "reasoning": "Necessary for healthcare claims billing and insurance verification, but not strictly required for emergency or direct self-pay clinical triage."
+      "flagged_unnecessary": true,
+      "reasoning": "Flagged by learned contextual pattern (Model Confidence: 0.2%)."
     },
     {
       "field_type": "emergency_contact",
       "field_name": "Emergency Contact",
-      "field_value": "Brian Andrews (Partner) - Phone: 321.481.1437x4470",
+      "field_value": "Brian Andrews (Sibling) - Phone: 321.481.1437x4470",
       "ground_truth_label": "necessary",
       "hybrid_score_N": 1.0,
       "rule_score_R": 1.0,
       "ml_score_M": 1.0,
       "predicted_label": "necessary",
       "flagged_unnecessary": false,
-      "reasoning": "Vital in acute medical situations, patient incapacitation, or urgent medical decisions where patient proxy consent is needed."
+      "reasoning": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
     },
     {
       "field_type": "allergies",
@@ -137,31 +137,31 @@
       "ml_score_M": 1.0,
       "predicted_label": "necessary",
       "flagged_unnecessary": false,
-      "reasoning": "High-priority safety data required to prevent life-threatening anaphylaxis, drug allergies, and cross-reactive interventions."
+      "reasoning": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
     },
     {
       "field_type": "current_medications",
       "field_name": "Current Medications",
-      "field_value": "Metformin 500mg PO BID with meals, Glipizide 5mg daily.",
+      "field_value": "Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.",
       "ground_truth_label": "necessary",
       "hybrid_score_N": 1.0,
       "rule_score_R": 1.0,
       "ml_score_M": 1.0,
       "predicted_label": "necessary",
       "flagged_unnecessary": false,
-      "reasoning": "Critical for preventing adverse drug-drug interactions, polypharmacy complications, and dosage conflicts."
+      "reasoning": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
     },
     {
       "field_type": "medical_history",
       "field_name": "Past Medical History",
-      "field_value": "Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.",
+      "field_value": "No significant past medical history. Non-smoker, no past surgeries.",
       "ground_truth_label": "necessary",
       "hybrid_score_N": 1.0,
       "rule_score_R": 1.0,
       "ml_score_M": 1.0,
       "predicted_label": "necessary",
       "flagged_unnecessary": false,
-      "reasoning": "Essential clinical context for differential diagnosis, identifying chronic comorbidities, and planning safe therapeutic interventions."
+      "reasoning": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
     }
   ]
 }

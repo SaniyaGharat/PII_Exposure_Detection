@@ -4,37 +4,38 @@
 
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
-Full Name:            Jamie Cantu
-Date of Birth:        May 07, 1989
-Gender:               Female
-Marital Status:       Domestic Partnership
-Religious Belief:     Judaism
-National ID / SSN:    779-23-3200
-Email Address:        jamie.cantu@gmail.com
+Full Name:            James Cantu
+Date of Birth:        May 08, 1989
+Gender:               Non-Binary
+Marital Status:       Single
+Religious Belief:     Christianity
+National ID / SSN:    441-26-5291
+Email Address:        james.cantu@gmail.com
 Phone Number:         001-376-962-7028x9517
 Home Address:         2174 Hanson Locks, Port Markside, MS 42006
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Financial Analyst
+Position Applied For: Systems Architect
+Work Modality:        On-Site Office (Physical Facility)
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-M.S. in Data Analytics - University of Texas at Austin (Graduated 2012)
+MBA - University of Texas at Austin (Graduated 2023)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Financial Analyst at Pollard and Sons (2022 - Present)
+1. Systems Architect at Pollard and Sons (2021 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Reyes, Chase and Jenkins (2019 - 2020)
+2. Associate Specialist at Reyes, Chase and Jenkins (2017 - 2021)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA
+Financial Modeling, Risk Analysis, Bloomberg Terminal, Advanced Excel, CFA Level II
 
 --------------------------------------------------------------------------------
 DECLARATION:

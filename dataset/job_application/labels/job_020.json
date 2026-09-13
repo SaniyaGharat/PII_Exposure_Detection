@@ -2,6 +2,9 @@
     "document_id": "job_020",
     "document_type": "job_application",
     "document_purpose": "To evaluate a candidate's qualifications, skills, education, and professional experience for potential employment.",
+    "sub_conditions": {
+        "is_remote_role": false
+    },
     "fields": [
         {
             "field_type": "full_name",
@@ -17,7 +20,7 @@
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "January 17, 1987",
+            "field_value": "January 18, 1987",
             "necessity_label": "unnecessary",
             "reason": "Date of birth is generally not required for evaluating qualifications during initial employment screening and may create discrimination concerns.",
             "span": {
@@ -28,45 +31,45 @@
         {
             "field_type": "gender",
             "field_name": "Gender",
-            "field_value": "Prefer not to disclose",
+            "field_value": "Non-Binary",
             "necessity_label": "contextual",
             "reason": "Gender is not required for qualification evaluation, though occasionally collected under optional equal employment opportunity (EEO) demographic monitoring.",
             "span": {
                 "start": 442,
-                "end": 464
+                "end": 452
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Domestic Partnership",
+            "field_value": "Single",
             "necessity_label": "unnecessary",
             "reason": "Marital status is irrelevant to assessing job competence and creates potential exposure to marital status or gender discrimination.",
             "span": {
-                "start": 487,
-                "end": 507
+                "start": 475,
+                "end": 481
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religion",
-            "field_value": "Atheist",
+            "field_value": "Hinduism",
             "necessity_label": "unnecessary",
             "reason": "Religious beliefs are completely irrelevant to job performance and introduce unlawful bias risks under employment regulations.",
             "span": {
-                "start": 530,
-                "end": 537
+                "start": 504,
+                "end": 512
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "258-34-5861",
+            "field_value": "170-86-2113",
             "necessity_label": "unnecessary",
             "reason": "Government national identification numbers are unnecessary at initial screening and introduce high identity theft exposure.",
             "span": {
-                "start": 560,
-                "end": 571
+                "start": 535,
+                "end": 546
             }
         },
         {
@@ -76,8 +79,8 @@
             "necessity_label": "necessary",
             "reason": "Required as a primary electronic communication channel for interview scheduling and official employment notifications.",
             "span": {
-                "start": 594,
-                "end": 614
+                "start": 569,
+                "end": 589
             }
         },
         {
@@ -87,19 +90,19 @@
             "necessity_label": "necessary",
             "reason": "Required for direct contact, telephone screening sessions, and urgent recruitment updates.",
             "span": {
-                "start": 637,
-                "end": 654
+                "start": 612,
+                "end": 629
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "31869 Kimberly Light Suite 749, Torreston, RI 97505",
-            "necessity_label": "contextual",
-            "reason": "Full street address is unnecessary for initial screening (city/region suffices), but may be required for local payroll tax jurisdictions or commute assessment.",
+            "necessity_label": "necessary",
+            "reason": "Required for assessing commute feasibility, physical facility access, and local payroll tax withholding jurisdiction.",
             "span": {
-                "start": 677,
-                "end": 728
+                "start": 652,
+                "end": 703
             }
         },
         {
@@ -109,41 +112,41 @@
             "necessity_label": "necessary",
             "reason": "Specifies the target role against which candidate qualifications and criteria are evaluated.",
             "span": {
-                "start": 849,
-                "end": 873
+                "start": 840,
+                "end": 864
             }
         },
         {
             "field_type": "education",
             "field_name": "Education",
-            "field_value": "MBA - University of Texas at Austin (Graduated 2022)",
+            "field_value": "B.S. in Computer Science - Cornell University (Graduated 2017)",
             "necessity_label": "necessary",
             "reason": "Essential for verifying required academic degrees, institutional background, and formal qualifications.",
             "span": {
-                "start": 1013,
-                "end": 1065
+                "start": 1061,
+                "end": 1123
             }
         },
         {
             "field_type": "work_history",
             "field_name": "Work History",
-            "field_value": "1. Senior Software Engineer at Little Group (2022 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Salas PLC (2019 - 2021)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
+            "field_value": "1. Senior Software Engineer at Little Group (2023 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Salas PLC (2018 - 2020)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
             "necessity_label": "necessary",
             "reason": "Essential for evaluating candidate's prior professional experience, relevant responsibilities, and career trajectory.",
             "span": {
-                "start": 1206,
-                "end": 1471
+                "start": 1264,
+                "end": 1529
             }
         },
         {
             "field_type": "skills",
             "field_name": "Skills & Competencies",
-            "field_value": "Financial Modeling, Risk Analysis, Bloomberg Terminal, Advanced Excel, CFA Level II",
+            "field_value": "Statistical Analysis, R, Tableau, Data Pipelines, Predictive Modeling",
             "necessity_label": "necessary",
             "reason": "Directly reflects technical, operational, and domain competencies required for job performance.",
             "span": {
-                "start": 1614,
-                "end": 1697
+                "start": 1672,
+                "end": 1741
             }
         }
     ]

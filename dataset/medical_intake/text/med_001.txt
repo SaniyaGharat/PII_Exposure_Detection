@@ -2,22 +2,23 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Brian Meyer
-Date of Birth:        January 28, 1986
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        January 29, 1986
 Phone Number:         +1-526-618-9141x173
 Home Address:         6420 Lozano Spurs, Riveratown, AL 88533
-Marital Status:       Divorced
+Marital Status:       Single
 Occupation:           Archaeologist
-Religious Preference: Sikhism
-National ID / SSN:    206-83-9313
-Insurance Policy No:  BLU-30767532
+Religious Preference: Buddhism
+National ID / SSN:    546-85-7560
+Insurance Policy No:  KSR-20555833
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Brian Andrews (Partner) - Phone: 321.481.1437x4470
+Brian Andrews (Sibling) - Phone: 321.481.1437x4470
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
@@ -27,12 +28,12 @@ Aspirin (bronchospasm), Codeine (nausea).
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Metformin 500mg PO BID with meals, Glipizide 5mg daily.
+Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
+No significant past medical history. Non-smoker, no past surgeries.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

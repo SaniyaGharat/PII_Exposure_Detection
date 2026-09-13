@@ -2,23 +2,24 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Joint / Co-Borrower Credit Application
 Applicant Name:       James Ward
-Date of Birth:        December 16, 1973
-Marital Status:       Divorced
-Religious Belief:     Islam
+Date of Birth:        December 17, 1973
+Marital Status:       Domestic Partnership
+Religious Belief:     Buddhism
 Phone Number:         6942515480
 Email Address:        james.ward@hotmail.com
 Residential Address:  760 Hill Centers Apt. 797, Thompsonside, AS 14117
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Contractor / Freelancer
+Employment Status:    Retired
 Employer Name:        Salazar Ltd
-Gross Annual Income:  $50,000.00 USD
-Bank Account Number:  ACCT-3980840461
-Credit Score (FICO):  768 (FICO Score 8)
+Gross Annual Income:  $146,000.00 USD
+Bank Account Number:  ACCT-4413838650
+Credit Score (FICO):  625 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------

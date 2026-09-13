@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Joint / Co-Borrower Credit Application
 Applicant Name:       Jennifer Wright
-Date of Birth:        December 08, 1963
-Marital Status:       Single
-Religious Belief:     Christianity
+Date of Birth:        December 09, 1963
+Marital Status:       Widowed
+Religious Belief:     Sikhism
 Phone Number:         (300)805-3474
 Email Address:        jennifer.wright@gmail.com
 Residential Address:  5541 Elizabeth Springs Apt. 555, Johnview, IL 77089
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Retired
+Employment Status:    Contractor / Freelancer
 Employer Name:        Anderson Ltd
-Gross Annual Income:  $189,000.00 USD
-Bank Account Number:  ACCT-8396761430
-Credit Score (FICO):  695 (FICO Score 8)
+Gross Annual Income:  $164,000.00 USD
+Bank Account Number:  ACCT-5714255033
+Credit Score (FICO):  790 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Hypothyroidism (stable on levothyroxine), Migraines with aura.
+No significant past medical history. Non-smoker, no past surgeries.
 
 Biometric Security Identifier:
 SHA256:1e4f1f574842c560b4b39f78 (Biometric Minutiae Key)

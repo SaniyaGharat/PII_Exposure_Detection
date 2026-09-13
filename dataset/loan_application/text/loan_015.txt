@@ -2,11 +2,12 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Aaron Brown
-Date of Birth:        February 22, 1997
-Marital Status:       Married
+Date of Birth:        February 23, 1997
+Marital Status:       Divorced
 Religious Belief:     Agnostic
 Phone Number:         566.355.2899
 Email Address:        aaron.brown@yahoo.com
@@ -14,16 +15,16 @@ Residential Address:  752 Hood Parks, Hernandezport, FL 98419
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Employed Part-Time
+Employment Status:    Employed Full-Time
 Employer Name:        Johnson, Flores and Shaw
-Gross Annual Income:  $190,000.00 USD
-Bank Account Number:  ACCT-2095197958
-Credit Score (FICO):  725 (FICO Score 8)
+Gross Annual Income:  $71,000.00 USD
+Bank Account Number:  ACCT-6548442140
+Credit Score (FICO):  742 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
+Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
 
 Biometric Security Identifier:
 SHA256:6d242f58a2dd4869331e78f9 (Biometric Minutiae Key)

@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Joint / Co-Borrower Credit Application
 Applicant Name:       Melissa Miller
-Date of Birth:        March 04, 1970
-Marital Status:       Single
-Religious Belief:     Unaffiliated
+Date of Birth:        March 05, 1970
+Marital Status:       Divorced
+Religious Belief:     Atheist
 Phone Number:         397.224.5723x0848
 Email Address:        melissa.miller@gmail.com
 Residential Address:  418 Thomas Fork, East Ronaldberg, MI 86400
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Employed Full-Time
+Employment Status:    Retired
 Employer Name:        Cruz, Henson and Carson
-Gross Annual Income:  $132,000.00 USD
-Bank Account Number:  ACCT-1986839603
-Credit Score (FICO):  734 (FICO Score 8)
+Gross Annual Income:  $131,000.00 USD
+Bank Account Number:  ACCT-5785590330
+Credit Score (FICO):  640 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-No significant past medical history. Non-smoker, no past surgeries.
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
 
 Biometric Security Identifier:
 SHA256:25eedce6c790de0a9e5c1f35 (Biometric Minutiae Key)

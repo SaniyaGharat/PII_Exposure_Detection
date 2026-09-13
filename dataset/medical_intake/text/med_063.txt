@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Rachel Mora
-Date of Birth:        September 03, 1957
+Encounter Modality:   In-Person Outpatient Clinical Visit
+Date of Birth:        September 04, 1957
 Phone Number:         001-732-750-1249
 Home Address:         938 Cory Prairie, New Jayborough, LA 23015
-Marital Status:       Domestic Partnership
+Marital Status:       Divorced
 Occupation:           Museum education officer
-Religious Preference: Agnostic
-National ID / SSN:    732-91-1496
-Insurance Policy No:  UHC-94176528
+Religious Preference: Judaism
+National ID / SSN:    224-83-9899
+Insurance Policy No:  UHC-62953249
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Kimberly Beltran (Parent) - Phone: 438-775-9271
+Kimberly Beltran (Sibling) - Phone: 438-775-9271
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-No Known Drug Allergies (NKDA), No known environmental allergies.
+Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
+Metformin 500mg PO BID with meals, Glipizide 5mg daily.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-No significant past medical history. Non-smoker, no past surgeries.
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

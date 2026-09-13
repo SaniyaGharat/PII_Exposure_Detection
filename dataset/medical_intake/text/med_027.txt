@@ -2,27 +2,28 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Jason Morris
-Date of Birth:        March 31, 1950
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        April 01, 1950
 Phone Number:         910.622.0317x31096
 Home Address:         3910 Diana Village, South Laurieton, MN 73641
 Marital Status:       Married
 Occupation:           Ship broker
-Religious Preference: Hinduism
-National ID / SSN:    179-47-2657
-Insurance Policy No:  KSR-82446804
+Religious Preference: Atheist
+National ID / SSN:    812-71-3986
+Insurance Policy No:  BLU-18469210
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Stephanie Short (Parent) - Phone: 001-309-548-0141x381
+Stephanie Short (Partner) - Phone: 001-309-548-0141x381
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-No Known Drug Allergies (NKDA), No known environmental allergies.
+Aspirin (bronchospasm), Codeine (nausea).
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
@@ -32,7 +33,7 @@ Lisinopril 10mg PO daily, Atorvastatin 20mg PO at bedtime.
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-No significant past medical history. Non-smoker, no past surgeries.
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

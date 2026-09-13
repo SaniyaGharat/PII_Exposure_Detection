@@ -2,6 +2,9 @@
     "document_id": "med_022",
     "document_type": "medical_intake",
     "document_purpose": "To collect relevant patient information required for medical assessment, diagnosis, treatment, and healthcare administration.",
+    "sub_conditions": {
+        "is_telehealth": false
+    },
     "fields": [
         {
             "field_type": "full_name",
@@ -10,19 +13,19 @@
             "necessity_label": "necessary",
             "reason": "Essential for patient identification, medical record linkage, and preventing catastrophic misidentification in clinical care.",
             "span": {
-                "start": 359,
-                "end": 371
+                "start": 369,
+                "end": 381
             }
         },
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "May 18, 1991",
+            "field_value": "May 19, 1991",
             "necessity_label": "necessary",
             "reason": "Crucial for clinical safety, age-dependent pharmaceutical dosage calculations, developmental assessment, and primary patient record matching.",
             "span": {
-                "start": 394,
-                "end": 406
+                "start": 462,
+                "end": 474
             }
         },
         {
@@ -32,30 +35,30 @@
             "necessity_label": "necessary",
             "reason": "Required for appointment reminders, urgent clinical test result notifications, and post-procedure follow-ups.",
             "span": {
-                "start": 429,
-                "end": 450
+                "start": 497,
+                "end": 518
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "216 Perez Street Suite 722, North Austin, MI 43125",
-            "necessity_label": "contextual",
-            "reason": "Used for patient billing, demographic analysis, and local public health reporting, though secondary to immediate clinical diagnosis.",
+            "necessity_label": "necessary",
+            "reason": "Necessary for physical clinical admission, outpatient billing dispatch, and local public health reporting.",
             "span": {
-                "start": 473,
-                "end": 523
+                "start": 541,
+                "end": 591
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Domestic Partnership",
+            "field_value": "Single",
             "necessity_label": "contextual",
             "reason": "May provide helpful context regarding home support network and surrogate decision-makers, but not universally necessary for diagnostics.",
             "span": {
-                "start": 546,
-                "end": 566
+                "start": 614,
+                "end": 620
             }
         },
         {
@@ -65,52 +68,52 @@
             "necessity_label": "contextual",
             "reason": "Provides relevant context for evaluating occupational exposures, repetitive stress injuries, or physical disability accommodations.",
             "span": {
-                "start": 589,
-                "end": 611
+                "start": 643,
+                "end": 665
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religious Affiliation",
-            "field_value": "Unaffiliated",
+            "field_value": "Judaism",
             "necessity_label": "contextual",
             "reason": "Contextual in clinical settings to respect medical restrictions (e.g., blood transfusions, dietary rules, end-of-life pastoral care), but optional.",
             "span": {
-                "start": 634,
-                "end": 646
+                "start": 688,
+                "end": 695
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "724-30-6962",
+            "field_value": "343-48-2996",
             "necessity_label": "unnecessary",
             "reason": "Standard government national IDs are unnecessary when unique Medical Record Numbers (MRN) or insurance IDs exist, creating avoidable exposure.",
             "span": {
-                "start": 669,
-                "end": 680
+                "start": 718,
+                "end": 729
             }
         },
         {
             "field_type": "insurance_number",
             "field_name": "Health Insurance Policy Number",
-            "field_value": "AET-47969333",
+            "field_value": "MED-42002808",
             "necessity_label": "contextual",
             "reason": "Necessary for healthcare claims billing and insurance verification, but not strictly required for emergency or direct self-pay clinical triage.",
             "span": {
-                "start": 703,
-                "end": 715
+                "start": 752,
+                "end": 764
             }
         },
         {
             "field_type": "emergency_contact",
             "field_name": "Emergency Contact",
-            "field_value": "Julie Pitts (Adult Child) - Phone: 687-728-2997x968",
+            "field_value": "Julie Pitts (Partner) - Phone: 687-728-2997x968",
             "necessity_label": "necessary",
             "reason": "Vital in acute medical situations, patient incapacitation, or urgent medical decisions where patient proxy consent is needed.",
             "span": {
-                "start": 843,
-                "end": 894
+                "start": 892,
+                "end": 939
             }
         },
         {
@@ -120,30 +123,30 @@
             "necessity_label": "necessary",
             "reason": "High-priority safety data required to prevent life-threatening anaphylaxis, drug allergies, and cross-reactive interventions.",
             "span": {
-                "start": 1046,
-                "end": 1087
+                "start": 1091,
+                "end": 1132
             }
         },
         {
             "field_type": "current_medications",
             "field_name": "Current Medications",
-            "field_value": "Omeprazole 20mg PO daily before breakfast, Calcium + Vitamin D supplement.",
+            "field_value": "None reported / Over-the-counter multivitamins only.",
             "necessity_label": "necessary",
             "reason": "Critical for preventing adverse drug-drug interactions, polypharmacy complications, and dosage conflicts.",
             "span": {
-                "start": 1236,
-                "end": 1310
+                "start": 1281,
+                "end": 1333
             }
         },
         {
             "field_type": "medical_history",
             "field_name": "Past Medical History",
-            "field_value": "Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).",
+            "field_value": "Hypothyroidism (stable on levothyroxine), Migraines with aura.",
             "necessity_label": "necessary",
             "reason": "Essential clinical context for differential diagnosis, identifying chronic comorbidities, and planning safe therapeutic interventions.",
             "span": {
-                "start": 1468,
-                "end": 1551
+                "start": 1491,
+                "end": 1553
             }
         }
     ]

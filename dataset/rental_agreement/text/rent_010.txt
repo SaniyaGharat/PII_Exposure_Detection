@@ -2,28 +2,29 @@
                     RESIDENTIAL LEASE APPLICATION & AGREEMENT
 ================================================================================
 
-PROSPECTIVE TENANT IDENTIFICATION
+TENANCY PROFILE & PROSPECTIVE TENANT IDENTIFICATION
 --------------------------------------------------------------------------------
+Lease Category:       Standard Direct Individual Lease
 Tenant Full Name:     Melanie Chang
 Phone Number:         001-512-656-5237
 Email Address:        melanie.chang@gmail.com
-National ID / SSN:    730-29-5546
-Marital Status:       Single
-Religious Belief:     Judaism
+National ID / SSN:    326-91-2705
+Marital Status:       Widowed
+Religious Belief:     Hinduism
 Current Residence:    177 Katherine Junctions Suite 757, Ashleyton, WV 18853
 
 EMPLOYMENT & FINANCIAL BACKGROUND
 --------------------------------------------------------------------------------
-Employment Status:    Employed Full-Time
+Employment Status:    Self-Employed
 Employer Name:        Yoder, Compton and Schneider
-Monthly / Annual Inc: $12,291.00 / month
-Bank Account Number:  ACCT-4470591645
+Monthly / Annual Inc: $8,713.00 / month
+Bank Account Number:  ACCT-4201225242
 
 PREVIOUS TENANCY & EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Rental History:
 Previous Address: 544 Ashley Inlet Suite 742, East Catherine
-Tenancy: 2021 - 2024 | Landlord: Dylan Walker | Rent: $2501/mo
+Tenancy: 2021 - 2024 | Landlord: Dylan Walker | Rent: $3056/mo
 Reason for Leaving: Job relocation | Full security deposit returned: Yes
 
 Emergency Contact:
@@ -32,7 +33,7 @@ Dawn Perez (Sibling) - Tel: 894.929.0458
 SUPPLEMENTAL TENANT DECLARATION
 --------------------------------------------------------------------------------
 Medical History:
-Hypothyroidism (stable on levothyroxine), Migraines with aura.
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
 
 --------------------------------------------------------------------------------
 TENANT ACKNOWLEDGMENT:

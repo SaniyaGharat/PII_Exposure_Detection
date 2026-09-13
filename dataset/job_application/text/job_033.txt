@@ -5,36 +5,37 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Nicholas Edwards
-Date of Birth:        April 06, 1972
-Gender:               Non-Binary
-Marital Status:       Single
+Date of Birth:        April 07, 1972
+Gender:               Prefer not to disclose
+Marital Status:       Married
 Religious Belief:     Agnostic
-National ID / SSN:    101-76-9821
+National ID / SSN:    693-87-6279
 Email Address:        nicholas.edwards@yahoo.com
 Phone Number:         711-361-5280
 Home Address:         604 Bell Ports Apt. 273, West Meganstad, DE 37013
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Product Manager
+Position Applied For: HR Operations Generalist
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.S. in Information Systems - Columbia University (Graduated 2011)
+B.A. in Economics - Cornell University (Graduated 2019)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Product Manager at Ortega-Brooks (2022 - Present)
+1. HR Operations Generalist at Ortega-Brooks (2022 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Mcdaniel Group (2018 - 2021)
+2. Associate Specialist at Mcdaniel Group (2020 - 2020)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Statistical Analysis, R, Tableau, Data Pipelines, Predictive Modeling
+React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices
 
 --------------------------------------------------------------------------------
 DECLARATION:

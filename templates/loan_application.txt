@@ -2,8 +2,9 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     {{application_type}}
 Applicant Name:       {{full_name}}
 Date of Birth:        {{date_of_birth}}
 Marital Status:       {{marital_status}}

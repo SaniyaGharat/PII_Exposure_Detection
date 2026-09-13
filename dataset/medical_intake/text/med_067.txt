@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Lauren Hubbard
-Date of Birth:        March 28, 1986
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        March 29, 1986
 Phone Number:         361-365-5650x33349
 Home Address:         52085 Steven Way Suite 986, Andrewfort, OR 03415
-Marital Status:       Single
+Marital Status:       Married
 Occupation:           Social worker
-Religious Preference: Christianity
-National ID / SSN:    397-59-7850
-Insurance Policy No:  BLU-31434525
+Religious Preference: Judaism
+National ID / SSN:    428-46-1969
+Insurance Policy No:  MED-97550053
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Mrs. Jeanette Armstrong (Parent) - Phone: 913.357.8529x4563
+Mrs. Jeanette Armstrong (Adult Child) - Phone: 913.357.8529x4563
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
+No Known Drug Allergies (NKDA), No known environmental allergies.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.
+Metformin 500mg PO BID with meals, Glipizide 5mg daily.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-No significant past medical history. Non-smoker, no past surgeries.
+Hypothyroidism (stable on levothyroxine), Migraines with aura.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

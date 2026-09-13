@@ -2,6 +2,9 @@
     "document_id": "job_024",
     "document_type": "job_application",
     "document_purpose": "To evaluate a candidate's qualifications, skills, education, and professional experience for potential employment.",
+    "sub_conditions": {
+        "is_remote_role": true
+    },
     "fields": [
         {
             "field_type": "full_name",
@@ -17,7 +20,7 @@
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "April 29, 2002",
+            "field_value": "April 30, 2002",
             "necessity_label": "unnecessary",
             "reason": "Date of birth is generally not required for evaluating qualifications during initial employment screening and may create discrimination concerns.",
             "span": {
@@ -61,7 +64,7 @@
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "618-43-3170",
+            "field_value": "834-53-4335",
             "necessity_label": "unnecessary",
             "reason": "Government national identification numbers are unnecessary at initial screening and introduce high identity theft exposure.",
             "span": {
@@ -95,8 +98,8 @@
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "8404 Monroe Prairie Suite 278, Reedside, WV 71729",
-            "necessity_label": "contextual",
-            "reason": "Full street address is unnecessary for initial screening (city/region suffices), but may be required for local payroll tax jurisdictions or commute assessment.",
+            "necessity_label": "unnecessary",
+            "reason": "Full street address is unnecessary for initial screening for 100% remote roles; state/country jurisdiction suffices.",
             "span": {
                 "start": 667,
                 "end": 716
@@ -105,45 +108,45 @@
         {
             "field_type": "job_title",
             "field_name": "Position Applied For",
-            "field_value": "Database Administrator",
+            "field_value": "HR Operations Generalist",
             "necessity_label": "necessary",
             "reason": "Specifies the target role against which candidate qualifications and criteria are evaluated.",
             "span": {
-                "start": 837,
-                "end": 859
+                "start": 853,
+                "end": 877
             }
         },
         {
             "field_type": "education",
             "field_name": "Education",
-            "field_value": "M.S. in Data Analytics - Georgia Institute of Technology (Graduated 2010)",
+            "field_value": "B.S. in Computer Science - University of Michigan (Graduated 2014)",
             "necessity_label": "necessary",
             "reason": "Essential for verifying required academic degrees, institutional background, and formal qualifications.",
             "span": {
-                "start": 999,
-                "end": 1072
+                "start": 1066,
+                "end": 1132
             }
         },
         {
             "field_type": "work_history",
             "field_name": "Work History",
-            "field_value": "1. Database Administrator at Murray Inc (2022 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Collier, Jimenez and Moran (2017 - 2020)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
+            "field_value": "1. HR Operations Generalist at Murray Inc (2021 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Collier, Jimenez and Moran (2017 - 2020)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
             "necessity_label": "necessary",
             "reason": "Essential for evaluating candidate's prior professional experience, relevant responsibilities, and career trajectory.",
             "span": {
-                "start": 1213,
-                "end": 1491
+                "start": 1273,
+                "end": 1553
             }
         },
         {
             "field_type": "skills",
             "field_name": "Skills & Competencies",
-            "field_value": "Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA",
+            "field_value": "Statistical Analysis, R, Tableau, Data Pipelines, Predictive Modeling",
             "necessity_label": "necessary",
             "reason": "Directly reflects technical, operational, and domain competencies required for job performance.",
             "span": {
-                "start": 1634,
-                "end": 1715
+                "start": 1696,
+                "end": 1765
             }
         }
     ]

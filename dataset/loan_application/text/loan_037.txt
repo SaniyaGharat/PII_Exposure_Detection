@@ -2,23 +2,24 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Joint / Co-Borrower Credit Application
 Applicant Name:       Daniel Jackson
-Date of Birth:        March 11, 1968
+Date of Birth:        March 12, 1968
 Marital Status:       Divorced
-Religious Belief:     Christianity
+Religious Belief:     Prefer not to disclose
 Phone Number:         314.251.9515
 Email Address:        daniel.jackson@hotmail.com
 Residential Address:  68592 Hernandez Shores, Colleenport, MI 14122
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Employed Full-Time
+Employment Status:    Retired
 Employer Name:        Stanley-Cantu
-Gross Annual Income:  $193,000.00 USD
-Bank Account Number:  ACCT-3826557688
-Credit Score (FICO):  711 (FICO Score 8)
+Gross Annual Income:  $165,000.00 USD
+Bank Account Number:  ACCT-9953941533
+Credit Score (FICO):  748 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------

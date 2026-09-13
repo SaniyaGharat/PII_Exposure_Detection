@@ -2,6 +2,9 @@
     "document_id": "med_046",
     "document_type": "medical_intake",
     "document_purpose": "To collect relevant patient information required for medical assessment, diagnosis, treatment, and healthcare administration.",
+    "sub_conditions": {
+        "is_telehealth": true
+    },
     "fields": [
         {
             "field_type": "full_name",
@@ -10,19 +13,19 @@
             "necessity_label": "necessary",
             "reason": "Essential for patient identification, medical record linkage, and preventing catastrophic misidentification in clinical care.",
             "span": {
-                "start": 359,
-                "end": 371
+                "start": 369,
+                "end": 381
             }
         },
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "March 07, 1986",
+            "field_value": "March 08, 1986",
             "necessity_label": "necessary",
             "reason": "Crucial for clinical safety, age-dependent pharmaceutical dosage calculations, developmental assessment, and primary patient record matching.",
             "span": {
-                "start": 394,
-                "end": 408
+                "start": 463,
+                "end": 477
             }
         },
         {
@@ -32,30 +35,30 @@
             "necessity_label": "necessary",
             "reason": "Required for appointment reminders, urgent clinical test result notifications, and post-procedure follow-ups.",
             "span": {
-                "start": 431,
-                "end": 441
+                "start": 500,
+                "end": 510
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "0192 Donna Land Apt. 437, Port Alison, AZ 45438",
-            "necessity_label": "contextual",
-            "reason": "Used for patient billing, demographic analysis, and local public health reporting, though secondary to immediate clinical diagnosis.",
+            "necessity_label": "unnecessary",
+            "reason": "Physical residential street address is unnecessary for remote telehealth encounters; electronic communication channels suffice.",
             "span": {
-                "start": 464,
-                "end": 511
+                "start": 533,
+                "end": 580
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Divorced",
+            "field_value": "Single",
             "necessity_label": "contextual",
             "reason": "May provide helpful context regarding home support network and surrogate decision-makers, but not universally necessary for diagnostics.",
             "span": {
-                "start": 534,
-                "end": 542
+                "start": 603,
+                "end": 609
             }
         },
         {
@@ -65,41 +68,41 @@
             "necessity_label": "contextual",
             "reason": "Provides relevant context for evaluating occupational exposures, repetitive stress injuries, or physical disability accommodations.",
             "span": {
-                "start": 565,
-                "end": 578
+                "start": 632,
+                "end": 645
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religious Affiliation",
-            "field_value": "Unaffiliated",
+            "field_value": "Christianity",
             "necessity_label": "contextual",
             "reason": "Contextual in clinical settings to respect medical restrictions (e.g., blood transfusions, dietary rules, end-of-life pastoral care), but optional.",
             "span": {
-                "start": 601,
-                "end": 613
+                "start": 668,
+                "end": 680
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "373-20-7955",
+            "field_value": "261-66-7809",
             "necessity_label": "unnecessary",
             "reason": "Standard government national IDs are unnecessary when unique Medical Record Numbers (MRN) or insurance IDs exist, creating avoidable exposure.",
             "span": {
-                "start": 636,
-                "end": 647
+                "start": 703,
+                "end": 714
             }
         },
         {
             "field_type": "insurance_number",
             "field_name": "Health Insurance Policy Number",
-            "field_value": "MED-67795113",
+            "field_value": "UHC-72336371",
             "necessity_label": "contextual",
             "reason": "Necessary for healthcare claims billing and insurance verification, but not strictly required for emergency or direct self-pay clinical triage.",
             "span": {
-                "start": 670,
-                "end": 682
+                "start": 737,
+                "end": 749
             }
         },
         {
@@ -109,30 +112,30 @@
             "necessity_label": "necessary",
             "reason": "Vital in acute medical situations, patient incapacitation, or urgent medical decisions where patient proxy consent is needed.",
             "span": {
-                "start": 810,
-                "end": 870
+                "start": 877,
+                "end": 937
             }
         },
         {
             "field_type": "allergies",
             "field_name": "Allergies & Sensitivities",
-            "field_value": "No Known Drug Allergies (NKDA), No known environmental allergies.",
+            "field_value": "Sulfa antibiotics (severe skin reaction), Latex.",
             "necessity_label": "necessary",
             "reason": "High-priority safety data required to prevent life-threatening anaphylaxis, drug allergies, and cross-reactive interventions.",
             "span": {
-                "start": 1022,
-                "end": 1087
+                "start": 1089,
+                "end": 1137
             }
         },
         {
             "field_type": "current_medications",
             "field_name": "Current Medications",
-            "field_value": "Metformin 500mg PO BID with meals, Glipizide 5mg daily.",
+            "field_value": "Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.",
             "necessity_label": "necessary",
             "reason": "Critical for preventing adverse drug-drug interactions, polypharmacy complications, and dosage conflicts.",
             "span": {
-                "start": 1236,
-                "end": 1291
+                "start": 1286,
+                "end": 1357
             }
         },
         {
@@ -142,8 +145,8 @@
             "necessity_label": "necessary",
             "reason": "Essential clinical context for differential diagnosis, identifying chronic comorbidities, and planning safe therapeutic interventions.",
             "span": {
-                "start": 1449,
-                "end": 1511
+                "start": 1515,
+                "end": 1577
             }
         }
     ]

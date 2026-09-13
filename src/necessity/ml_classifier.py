@@ -5,6 +5,7 @@ using multi-modal context features (field_type, document_type, surrounding conte
 with inverse-frequency class weighting to handle minority categories.
 """
 
+import warnings
 import json
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple, Union
@@ -18,6 +19,8 @@ from sklearn.metrics import mean_absolute_error, root_mean_squared_error
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder
 
+warnings.filterwarnings("ignore")
+
 LABEL_TO_SCORE: Dict[str, float] = {
     "unnecessary": 0.0,
     "contextual": 0.5,
@@ -25,15 +28,22 @@ LABEL_TO_SCORE: Dict[str, float] = {
 }
 
 
-def extract_context_window(text: str, start: int, end: int, window_chars: int = 120) -> str:
-    """Extracts text surrounding a span [start, end] for contextual feature representation."""
-    if start is None or end is None or not text:
+def extract_context_window(text: str, start: int = None, end: int = None, window_chars: int = 160) -> str:
+    """
+    Extracts text surrounding a span [start, end] combined with document context header.
+    Allows ML model to learn document-level sub-conditions (e.g. Telehealth, Joint Applicant)
+    purely from natural language text features.
+    """
+    if not text:
         return ""
+    header = text[:350].replace("\n", " ").strip()
+    if start is None or end is None or (start == 0 and end == 0):
+        return f"HDR: {header}"
     w_start = max(0, start - window_chars)
     w_end = min(len(text), end + window_chars)
     left = text[w_start:start].replace("\n", " ").strip()
     right = text[end:w_end].replace("\n", " ").strip()
-    return f"{left} [TARGET] {right}"
+    return f"HDR: {header} | LOCAL: {left} [TARGET] {right}"
 
 
 class MLNecessityClassifier:
@@ -56,7 +66,7 @@ class MLNecessityClassifier:
                 ),
                 (
                     "context_tfidf",
-                    TfidfVectorizer(max_features=400, ngram_range=(1, 2), stop_words="english"),
+                    TfidfVectorizer(max_features=500, ngram_range=(1, 2), stop_words="english"),
                     "context_text",
                 ),
                 (
@@ -74,7 +84,7 @@ class MLNecessityClassifier:
                 max_depth=14,
                 min_samples_split=4,
                 random_state=self.random_state,
-                n_jobs=-1,
+                n_jobs=1,
             )
         else:
             regressor = Ridge(alpha=1.0, random_state=self.random_state)

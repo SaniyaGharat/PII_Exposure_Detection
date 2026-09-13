@@ -4,37 +4,38 @@
 
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
-Full Name:            Heather Lopez
-Date of Birth:        January 13, 2002
-Gender:               Female
+Full Name:            Ian Lopez
+Date of Birth:        January 14, 2002
+Gender:               Prefer not to disclose
 Marital Status:       Widowed
-Religious Belief:     Sikhism
-National ID / SSN:    781-64-1842
-Email Address:        heather.lopez@hotmail.com
+Religious Belief:     Christianity
+National ID / SSN:    432-31-8538
+Email Address:        ian.lopez@hotmail.com
 Phone Number:         (215)306-4890
 Home Address:         16761 Wells Drives, Lake Gina, AL 39968
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Account Executive
+Position Applied For: Data Scientist
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-M.S. in Data Analytics - University of Michigan (Graduated 2018)
+M.S. in Data Analytics - Cornell University (Graduated 2016)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Account Executive at Smith-Walker (2021 - Present)
+1. Data Scientist at Smith-Walker (2023 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Clark Inc (2019 - 2020)
+2. Associate Specialist at Clark Inc (2020 - 2021)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA
+Statistical Analysis, R, Tableau, Data Pipelines, Predictive Modeling
 
 --------------------------------------------------------------------------------
 DECLARATION:

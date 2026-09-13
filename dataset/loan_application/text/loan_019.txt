@@ -2,23 +2,24 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Joint / Co-Borrower Credit Application
 Applicant Name:       Bryan Stout
-Date of Birth:        April 10, 1997
-Marital Status:       Single
-Religious Belief:     Atheist
+Date of Birth:        April 11, 1997
+Marital Status:       Widowed
+Religious Belief:     Sikhism
 Phone Number:         (360)568-8871
 Email Address:        bryan.stout@hotmail.com
 Residential Address:  92087 Martinez Crossroad, Lake Evan, OH 34155
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Employed Part-Time
+Employment Status:    Retired
 Employer Name:        Miller Inc
-Gross Annual Income:  $96,000.00 USD
-Bank Account Number:  ACCT-4022663059
-Credit Score (FICO):  779 (FICO Score 8)
+Gross Annual Income:  $75,000.00 USD
+Bank Account Number:  ACCT-8998080862
+Credit Score (FICO):  624 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------

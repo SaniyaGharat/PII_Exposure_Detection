@@ -2,82 +2,85 @@
     "document_id": "job_091",
     "document_type": "job_application",
     "document_purpose": "To evaluate a candidate's qualifications, skills, education, and professional experience for potential employment.",
+    "sub_conditions": {
+        "is_remote_role": true
+    },
     "fields": [
         {
             "field_type": "full_name",
             "field_name": "Full Name",
-            "field_value": "Allison Jackson",
+            "field_value": "Alexander Jackson",
             "necessity_label": "necessary",
             "reason": "Required to unambiguously identify the candidate, manage application tracking, and conduct hiring correspondence.",
             "span": {
                 "start": 370,
-                "end": 385
+                "end": 387
             }
         },
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "September 29, 1999",
+            "field_value": "September 30, 1999",
             "necessity_label": "unnecessary",
             "reason": "Date of birth is generally not required for evaluating qualifications during initial employment screening and may create discrimination concerns.",
             "span": {
-                "start": 408,
-                "end": 426
+                "start": 410,
+                "end": 428
             }
         },
         {
             "field_type": "gender",
             "field_name": "Gender",
-            "field_value": "Female",
+            "field_value": "Non-Binary",
             "necessity_label": "contextual",
             "reason": "Gender is not required for qualification evaluation, though occasionally collected under optional equal employment opportunity (EEO) demographic monitoring.",
             "span": {
-                "start": 449,
-                "end": 455
+                "start": 451,
+                "end": 461
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Divorced",
+            "field_value": "Single",
             "necessity_label": "unnecessary",
             "reason": "Marital status is irrelevant to assessing job competence and creates potential exposure to marital status or gender discrimination.",
             "span": {
-                "start": 478,
-                "end": 486
+                "start": 484,
+                "end": 490
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religion",
-            "field_value": "Buddhism",
+            "field_value": "Islam",
             "necessity_label": "unnecessary",
             "reason": "Religious beliefs are completely irrelevant to job performance and introduce unlawful bias risks under employment regulations.",
             "span": {
-                "start": 509,
-                "end": 517
+                "start": 513,
+                "end": 518
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "225-68-2501",
+            "field_value": "542-22-7105",
             "necessity_label": "unnecessary",
             "reason": "Government national identification numbers are unnecessary at initial screening and introduce high identity theft exposure.",
             "span": {
-                "start": 540,
-                "end": 551
+                "start": 541,
+                "end": 552
             }
         },
         {
             "field_type": "email",
             "field_name": "Email Address",
-            "field_value": "allison.jackson@yahoo.com",
+            "field_value": "alexander.jackson@yahoo.com",
             "necessity_label": "necessary",
             "reason": "Required as a primary electronic communication channel for interview scheduling and official employment notifications.",
             "span": {
-                "start": 574,
-                "end": 599
+                "start": 575,
+                "end": 602
             }
         },
         {
@@ -87,19 +90,19 @@
             "necessity_label": "necessary",
             "reason": "Required for direct contact, telephone screening sessions, and urgent recruitment updates.",
             "span": {
-                "start": 622,
-                "end": 639
+                "start": 625,
+                "end": 642
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "9021 Elizabeth Valley, Arellanoshire, IN 73062",
-            "necessity_label": "contextual",
-            "reason": "Full street address is unnecessary for initial screening (city/region suffices), but may be required for local payroll tax jurisdictions or commute assessment.",
+            "necessity_label": "unnecessary",
+            "reason": "Full street address is unnecessary for initial screening for 100% remote roles; state/country jurisdiction suffices.",
             "span": {
-                "start": 662,
-                "end": 708
+                "start": 665,
+                "end": 711
             }
         },
         {
@@ -109,41 +112,41 @@
             "necessity_label": "necessary",
             "reason": "Specifies the target role against which candidate qualifications and criteria are evaluated.",
             "span": {
-                "start": 829,
-                "end": 853
+                "start": 848,
+                "end": 872
             }
         },
         {
             "field_type": "education",
             "field_name": "Education",
-            "field_value": "M.S. in Data Analytics - Columbia University (Graduated 2020)",
+            "field_value": "M.S. in Data Analytics - Purdue University (Graduated 2012)",
             "necessity_label": "necessary",
             "reason": "Essential for verifying required academic degrees, institutional background, and formal qualifications.",
             "span": {
-                "start": 993,
-                "end": 1054
+                "start": 1061,
+                "end": 1120
             }
         },
         {
             "field_type": "work_history",
             "field_name": "Work History",
-            "field_value": "1. HR Operations Generalist at Rowland-Wells (2022 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Parker Group (2017 - 2021)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
+            "field_value": "1. HR Operations Generalist at Rowland-Wells (2023 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Parker Group (2020 - 2020)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
             "necessity_label": "necessary",
             "reason": "Essential for evaluating candidate's prior professional experience, relevant responsibilities, and career trajectory.",
             "span": {
-                "start": 1195,
-                "end": 1464
+                "start": 1261,
+                "end": 1530
             }
         },
         {
             "field_type": "skills",
             "field_name": "Skills & Competencies",
-            "field_value": "Statistical Analysis, R, Tableau, Data Pipelines, Predictive Modeling",
+            "field_value": "Financial Modeling, Risk Analysis, Bloomberg Terminal, Advanced Excel, CFA Level II",
             "necessity_label": "necessary",
             "reason": "Directly reflects technical, operational, and domain competencies required for job performance.",
             "span": {
-                "start": 1607,
-                "end": 1676
+                "start": 1673,
+                "end": 1756
             }
         }
     ]

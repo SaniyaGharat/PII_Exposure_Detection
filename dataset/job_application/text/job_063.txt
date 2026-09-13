@@ -4,37 +4,38 @@
 
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
-Full Name:            Kathy Brooks
-Date of Birth:        July 02, 1968
-Gender:               Female
-Marital Status:       Divorced
-Religious Belief:     Judaism
-National ID / SSN:    819-68-2166
-Email Address:        kathy.brooks@hotmail.com
+Full Name:            Jonathan Brooks
+Date of Birth:        July 03, 1968
+Gender:               Prefer not to disclose
+Marital Status:       Widowed
+Religious Belief:     Unaffiliated
+National ID / SSN:    101-94-9889
+Email Address:        jonathan.brooks@hotmail.com
 Phone Number:         3843840862
 Home Address:         39845 Norton Common, Susanmouth, OK 32378
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Product Manager
+Position Applied For: Systems Architect
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-MBA - Cornell University (Graduated 2017)
+B.S. in Computer Science - Carnegie Mellon University (Graduated 2011)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Product Manager at Little, Peck and Durham (2022 - Present)
+1. Systems Architect at Little, Peck and Durham (2022 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Freeman, Smith and Arnold (2017 - 2020)
+2. Associate Specialist at Freeman, Smith and Arnold (2019 - 2021)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Statistical Analysis, R, Tableau, Data Pipelines, Predictive Modeling
+React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices
 
 --------------------------------------------------------------------------------
 DECLARATION:

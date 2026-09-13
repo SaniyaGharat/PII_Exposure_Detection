@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Stephanie Sutton
-Date of Birth:        January 23, 1979
-Marital Status:       Divorced
-Religious Belief:     Unaffiliated
+Date of Birth:        January 24, 1979
+Marital Status:       Married
+Religious Belief:     Prefer not to disclose
 Phone Number:         521-621-4614x768
 Email Address:        stephanie.sutton@gmail.com
 Residential Address:  65423 Mcmahon Orchard, Nicholsburgh, UT 57751
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Employed Full-Time
+Employment Status:    Self-Employed
 Employer Name:        Hudson, Morrow and Hoffman
-Gross Annual Income:  $54,000.00 USD
-Bank Account Number:  ACCT-8664105957
-Credit Score (FICO):  612 (FICO Score 8)
+Gross Annual Income:  $78,000.00 USD
+Bank Account Number:  ACCT-2838963536
+Credit Score (FICO):  788 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
+Hypothyroidism (stable on levothyroxine), Migraines with aura.
 
 Biometric Security Identifier:
 SHA256:1473025a736d566d5fd81dc1 (Biometric Minutiae Key)

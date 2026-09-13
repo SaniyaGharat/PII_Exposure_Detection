@@ -5,36 +5,37 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            George Morris
-Date of Birth:        December 23, 1991
-Gender:               Male
+Date of Birth:        December 24, 1991
+Gender:               Prefer not to disclose
 Marital Status:       Widowed
-Religious Belief:     Judaism
-National ID / SSN:    764-62-2911
+Religious Belief:     Islam
+National ID / SSN:    182-51-3430
 Email Address:        george.morris@gmail.com
 Phone Number:         892.264.4220
 Home Address:         391 Taylor Summit Apt. 355, Lake Nicole, CO 93426
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Database Administrator
+Position Applied For: HR Operations Generalist
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.S. in Computer Science - Cornell University (Graduated 2018)
+B.S. in Computer Science - University of Washington (Graduated 2017)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Database Administrator at Oconnor Group (2022 - Present)
+1. HR Operations Generalist at Oconnor Group (2022 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Yu, Banks and Thompson (2018 - 2020)
+2. Associate Specialist at Yu, Banks and Thompson (2020 - 2020)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Financial Modeling, Risk Analysis, Bloomberg Terminal, Advanced Excel, CFA Level II
+Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture
 
 --------------------------------------------------------------------------------
 DECLARATION:

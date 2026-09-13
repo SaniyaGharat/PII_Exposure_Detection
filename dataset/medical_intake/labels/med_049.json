@@ -2,6 +2,9 @@
     "document_id": "med_049",
     "document_type": "medical_intake",
     "document_purpose": "To collect relevant patient information required for medical assessment, diagnosis, treatment, and healthcare administration.",
+    "sub_conditions": {
+        "is_telehealth": false
+    },
     "fields": [
         {
             "field_type": "full_name",
@@ -10,19 +13,19 @@
             "necessity_label": "necessary",
             "reason": "Essential for patient identification, medical record linkage, and preventing catastrophic misidentification in clinical care.",
             "span": {
-                "start": 359,
-                "end": 372
+                "start": 369,
+                "end": 382
             }
         },
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "September 22, 1950",
+            "field_value": "September 23, 1950",
             "necessity_label": "necessary",
             "reason": "Crucial for clinical safety, age-dependent pharmaceutical dosage calculations, developmental assessment, and primary patient record matching.",
             "span": {
-                "start": 395,
-                "end": 413
+                "start": 463,
+                "end": 481
             }
         },
         {
@@ -32,30 +35,30 @@
             "necessity_label": "necessary",
             "reason": "Required for appointment reminders, urgent clinical test result notifications, and post-procedure follow-ups.",
             "span": {
-                "start": 436,
-                "end": 446
+                "start": 504,
+                "end": 514
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "2569 Zachary Trail Suite 766, New Jeremiahfurt, UT 63686",
-            "necessity_label": "contextual",
-            "reason": "Used for patient billing, demographic analysis, and local public health reporting, though secondary to immediate clinical diagnosis.",
+            "necessity_label": "necessary",
+            "reason": "Necessary for physical clinical admission, outpatient billing dispatch, and local public health reporting.",
             "span": {
-                "start": 469,
-                "end": 525
+                "start": 537,
+                "end": 593
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Widowed",
+            "field_value": "Domestic Partnership",
             "necessity_label": "contextual",
             "reason": "May provide helpful context regarding home support network and surrogate decision-makers, but not universally necessary for diagnostics.",
             "span": {
-                "start": 548,
-                "end": 555
+                "start": 616,
+                "end": 636
             }
         },
         {
@@ -65,8 +68,8 @@
             "necessity_label": "contextual",
             "reason": "Provides relevant context for evaluating occupational exposures, repetitive stress injuries, or physical disability accommodations.",
             "span": {
-                "start": 578,
-                "end": 600
+                "start": 659,
+                "end": 681
             }
         },
         {
@@ -76,63 +79,63 @@
             "necessity_label": "contextual",
             "reason": "Contextual in clinical settings to respect medical restrictions (e.g., blood transfusions, dietary rules, end-of-life pastoral care), but optional.",
             "span": {
-                "start": 623,
-                "end": 630
+                "start": 704,
+                "end": 711
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "625-96-3621",
+            "field_value": "294-30-9163",
             "necessity_label": "unnecessary",
             "reason": "Standard government national IDs are unnecessary when unique Medical Record Numbers (MRN) or insurance IDs exist, creating avoidable exposure.",
             "span": {
-                "start": 653,
-                "end": 664
+                "start": 734,
+                "end": 745
             }
         },
         {
             "field_type": "insurance_number",
             "field_name": "Health Insurance Policy Number",
-            "field_value": "MED-29163535",
+            "field_value": "KSR-72654864",
             "necessity_label": "contextual",
             "reason": "Necessary for healthcare claims billing and insurance verification, but not strictly required for emergency or direct self-pay clinical triage.",
             "span": {
-                "start": 687,
-                "end": 699
+                "start": 768,
+                "end": 780
             }
         },
         {
             "field_type": "emergency_contact",
             "field_name": "Emergency Contact",
-            "field_value": "Joseph Frey (Spouse) - Phone: 246-801-5851x74328",
+            "field_value": "Joseph Frey (Parent) - Phone: 246-801-5851x74328",
             "necessity_label": "necessary",
             "reason": "Vital in acute medical situations, patient incapacitation, or urgent medical decisions where patient proxy consent is needed.",
             "span": {
-                "start": 827,
-                "end": 875
+                "start": 908,
+                "end": 956
             }
         },
         {
             "field_type": "allergies",
             "field_name": "Allergies & Sensitivities",
-            "field_value": "No Known Drug Allergies (NKDA), No known environmental allergies.",
+            "field_value": "Aspirin (bronchospasm), Codeine (nausea).",
             "necessity_label": "necessary",
             "reason": "High-priority safety data required to prevent life-threatening anaphylaxis, drug allergies, and cross-reactive interventions.",
             "span": {
-                "start": 1027,
-                "end": 1092
+                "start": 1108,
+                "end": 1149
             }
         },
         {
             "field_type": "current_medications",
             "field_name": "Current Medications",
-            "field_value": "None reported / Over-the-counter multivitamins only.",
+            "field_value": "Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.",
             "necessity_label": "necessary",
             "reason": "Critical for preventing adverse drug-drug interactions, polypharmacy complications, and dosage conflicts.",
             "span": {
-                "start": 1241,
-                "end": 1293
+                "start": 1298,
+                "end": 1369
             }
         },
         {
@@ -142,8 +145,8 @@
             "necessity_label": "necessary",
             "reason": "Essential clinical context for differential diagnosis, identifying chronic comorbidities, and planning safe therapeutic interventions.",
             "span": {
-                "start": 1451,
-                "end": 1530
+                "start": 1527,
+                "end": 1606
             }
         }
     ]

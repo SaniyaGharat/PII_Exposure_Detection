@@ -2,28 +2,29 @@
                     RESIDENTIAL LEASE APPLICATION & AGREEMENT
 ================================================================================
 
-PROSPECTIVE TENANT IDENTIFICATION
+TENANCY PROFILE & PROSPECTIVE TENANT IDENTIFICATION
 --------------------------------------------------------------------------------
+Lease Category:       Standard Direct Individual Lease
 Tenant Full Name:     Emma Castillo
 Phone Number:         262-426-8171x516
 Email Address:        emma.castillo@yahoo.com
-National ID / SSN:    186-41-5668
-Marital Status:       Single
-Religious Belief:     Judaism
+National ID / SSN:    604-79-6063
+Marital Status:       Married
+Religious Belief:     Atheist
 Current Residence:    867 Todd Skyway, Hendersonton, ME 56204
 
 EMPLOYMENT & FINANCIAL BACKGROUND
 --------------------------------------------------------------------------------
-Employment Status:    Employed Part-Time
+Employment Status:    Employed Full-Time
 Employer Name:        Rogers-Phillips
-Monthly / Annual Inc: $8,037.00 / month
-Bank Account Number:  ACCT-3188382776
+Monthly / Annual Inc: $6,584.00 / month
+Bank Account Number:  ACCT-1387652480
 
 PREVIOUS TENANCY & EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Rental History:
 Previous Address: 575 Rodriguez Fall Suite 861, North Matthew
-Tenancy: 2021 - 2024 | Landlord: Mark Munoz | Rent: $2720/mo
+Tenancy: 2021 - 2024 | Landlord: Mark Munoz | Rent: $3113/mo
 Reason for Leaving: Job relocation | Full security deposit returned: Yes
 
 Emergency Contact:
@@ -32,7 +33,7 @@ Leslie Gonzalez (Sibling) - Tel: +1-776-607-4017x750
 SUPPLEMENTAL TENANT DECLARATION
 --------------------------------------------------------------------------------
 Medical History:
-No significant past medical history. Non-smoker, no past surgeries.
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
 
 --------------------------------------------------------------------------------
 TENANT ACKNOWLEDGMENT:

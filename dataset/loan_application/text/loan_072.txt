@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Jeanette Hunter
-Date of Birth:        July 15, 2005
-Marital Status:       Widowed
-Religious Belief:     Unaffiliated
+Date of Birth:        July 16, 2005
+Marital Status:       Married
+Religious Belief:     Christianity
 Phone Number:         542.359.9599x61002
 Email Address:        jeanette.hunter@hotmail.com
 Residential Address:  7533 Rachel Extensions, Camposchester, CA 08617
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Self-Employed
+Employment Status:    Employed Part-Time
 Employer Name:        Johnson Ltd
-Gross Annual Income:  $77,000.00 USD
-Bank Account Number:  ACCT-7858937483
-Credit Score (FICO):  657 (FICO Score 8)
+Gross Annual Income:  $159,000.00 USD
+Bank Account Number:  ACCT-2866092821
+Credit Score (FICO):  776 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Hypothyroidism (stable on levothyroxine), Migraines with aura.
+Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
 
 Biometric Security Identifier:
 SHA256:ff3a5038a56c119674003338 (Biometric Minutiae Key)

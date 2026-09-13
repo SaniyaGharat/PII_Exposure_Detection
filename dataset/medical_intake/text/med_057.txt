@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Shaun Meyer DDS
-Date of Birth:        August 24, 1963
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        August 25, 1963
 Phone Number:         (782)875-6704x31038
 Home Address:         579 Ellis Port Apt. 424, South Nathan, LA 06703
-Marital Status:       Widowed
+Marital Status:       Single
 Occupation:           Gaffer
-Religious Preference: Atheist
-National ID / SSN:    638-62-7708
-Insurance Policy No:  KSR-19898653
+Religious Preference: Agnostic
+National ID / SSN:    697-49-1436
+Insurance Policy No:  KSR-73698420
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Duane Huber (Sibling) - Phone: +1-428-942-2223x105
+Duane Huber (Spouse) - Phone: +1-428-942-2223x105
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Sulfa antibiotics (severe skin reaction), Latex.
+Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
+None reported / Over-the-counter multivitamins only.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-No significant past medical history. Non-smoker, no past surgeries.
+Hypothyroidism (stable on levothyroxine), Migraines with aura.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

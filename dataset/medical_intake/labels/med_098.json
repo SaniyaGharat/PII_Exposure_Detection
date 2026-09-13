@@ -2,6 +2,9 @@
     "document_id": "med_098",
     "document_type": "medical_intake",
     "document_purpose": "To collect relevant patient information required for medical assessment, diagnosis, treatment, and healthcare administration.",
+    "sub_conditions": {
+        "is_telehealth": false
+    },
     "fields": [
         {
             "field_type": "full_name",
@@ -10,19 +13,19 @@
             "necessity_label": "necessary",
             "reason": "Essential for patient identification, medical record linkage, and preventing catastrophic misidentification in clinical care.",
             "span": {
-                "start": 359,
-                "end": 371
+                "start": 369,
+                "end": 381
             }
         },
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "January 22, 2008",
+            "field_value": "January 23, 2008",
             "necessity_label": "necessary",
             "reason": "Crucial for clinical safety, age-dependent pharmaceutical dosage calculations, developmental assessment, and primary patient record matching.",
             "span": {
-                "start": 394,
-                "end": 410
+                "start": 462,
+                "end": 478
             }
         },
         {
@@ -32,30 +35,30 @@
             "necessity_label": "necessary",
             "reason": "Required for appointment reminders, urgent clinical test result notifications, and post-procedure follow-ups.",
             "span": {
-                "start": 433,
-                "end": 451
+                "start": 501,
+                "end": 519
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "53663 Cole Point Apt. 529, West Sherry, AL 66010",
-            "necessity_label": "contextual",
-            "reason": "Used for patient billing, demographic analysis, and local public health reporting, though secondary to immediate clinical diagnosis.",
+            "necessity_label": "necessary",
+            "reason": "Necessary for physical clinical admission, outpatient billing dispatch, and local public health reporting.",
             "span": {
-                "start": 474,
-                "end": 522
+                "start": 542,
+                "end": 590
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Domestic Partnership",
+            "field_value": "Single",
             "necessity_label": "contextual",
             "reason": "May provide helpful context regarding home support network and surrogate decision-makers, but not universally necessary for diagnostics.",
             "span": {
-                "start": 545,
-                "end": 565
+                "start": 613,
+                "end": 619
             }
         },
         {
@@ -65,41 +68,41 @@
             "necessity_label": "contextual",
             "reason": "Provides relevant context for evaluating occupational exposures, repetitive stress injuries, or physical disability accommodations.",
             "span": {
-                "start": 588,
-                "end": 604
+                "start": 642,
+                "end": 658
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religious Affiliation",
-            "field_value": "Unaffiliated",
+            "field_value": "Buddhism",
             "necessity_label": "contextual",
             "reason": "Contextual in clinical settings to respect medical restrictions (e.g., blood transfusions, dietary rules, end-of-life pastoral care), but optional.",
             "span": {
-                "start": 627,
-                "end": 639
+                "start": 681,
+                "end": 689
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "307-83-9792",
+            "field_value": "617-68-7114",
             "necessity_label": "unnecessary",
             "reason": "Standard government national IDs are unnecessary when unique Medical Record Numbers (MRN) or insurance IDs exist, creating avoidable exposure.",
             "span": {
-                "start": 662,
-                "end": 673
+                "start": 712,
+                "end": 723
             }
         },
         {
             "field_type": "insurance_number",
             "field_name": "Health Insurance Policy Number",
-            "field_value": "BLU-32083803",
+            "field_value": "MED-92924441",
             "necessity_label": "contextual",
             "reason": "Necessary for healthcare claims billing and insurance verification, but not strictly required for emergency or direct self-pay clinical triage.",
             "span": {
-                "start": 696,
-                "end": 708
+                "start": 746,
+                "end": 758
             }
         },
         {
@@ -109,41 +112,41 @@
             "necessity_label": "necessary",
             "reason": "Vital in acute medical situations, patient incapacitation, or urgent medical decisions where patient proxy consent is needed.",
             "span": {
-                "start": 836,
-                "end": 887
+                "start": 886,
+                "end": 937
             }
         },
         {
             "field_type": "allergies",
             "field_name": "Allergies & Sensitivities",
-            "field_value": "Peanuts (anaphylaxis - carries EpiPen), Tree nuts.",
+            "field_value": "No Known Drug Allergies (NKDA), No known environmental allergies.",
             "necessity_label": "necessary",
             "reason": "High-priority safety data required to prevent life-threatening anaphylaxis, drug allergies, and cross-reactive interventions.",
             "span": {
-                "start": 1039,
-                "end": 1089
+                "start": 1089,
+                "end": 1154
             }
         },
         {
             "field_type": "current_medications",
             "field_name": "Current Medications",
-            "field_value": "Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.",
+            "field_value": "Omeprazole 20mg PO daily before breakfast, Calcium + Vitamin D supplement.",
             "necessity_label": "necessary",
             "reason": "Critical for preventing adverse drug-drug interactions, polypharmacy complications, and dosage conflicts.",
             "span": {
-                "start": 1238,
-                "end": 1313
+                "start": 1303,
+                "end": 1377
             }
         },
         {
             "field_type": "medical_history",
             "field_name": "Past Medical History",
-            "field_value": "Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).",
+            "field_value": "No significant past medical history. Non-smoker, no past surgeries.",
             "necessity_label": "necessary",
             "reason": "Essential clinical context for differential diagnosis, identifying chronic comorbidities, and planning safe therapeutic interventions.",
             "span": {
-                "start": 1471,
-                "end": 1550
+                "start": 1535,
+                "end": 1602
             }
         }
     ]

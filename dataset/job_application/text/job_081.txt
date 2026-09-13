@@ -5,36 +5,37 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            John Reyes
-Date of Birth:        December 22, 1982
+Date of Birth:        December 23, 1982
 Gender:               Non-Binary
 Marital Status:       Single
-Religious Belief:     Atheist
-National ID / SSN:    453-85-5901
+Religious Belief:     Christianity
+National ID / SSN:    411-73-2902
 Email Address:        john.reyes@gmail.com
 Phone Number:         236-854-1951x80238
 Home Address:         4518 Smith Flats Suite 949, South Micheal, NM 26115
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Database Administrator
+Position Applied For: Cybersecurity Analyst
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-M.S. in Data Analytics - University of Washington (Graduated 2022)
+B.A. in Economics - Georgia Institute of Technology (Graduated 2020)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Database Administrator at White Inc (2022 - Present)
+1. Cybersecurity Analyst at White Inc (2022 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Pratt, Klein and Rios (2019 - 2020)
+2. Associate Specialist at Pratt, Klein and Rios (2019 - 2021)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Statistical Analysis, R, Tableau, Data Pipelines, Predictive Modeling
+Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture
 
 --------------------------------------------------------------------------------
 DECLARATION:

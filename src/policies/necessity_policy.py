@@ -6,7 +6,7 @@ and academically defensible justifications for research evaluation.
 
 from dataclasses import dataclass, asdict
 from enum import Enum
-from typing import Dict, List, Optional, Any
+from typing import Dict, List, Optional, Any, Tuple
 
 
 class NecessityLabel(str, Enum):
@@ -536,12 +536,101 @@ DOCUMENT_POLICIES: Dict[str, DocumentPurposePolicy] = {
 }
 
 
+# --- Sub-Condition Affected Fields Mapping ---
+# Fields where necessity genuinely varies depending on document-level context / sub-conditions
+AFFECTED_FIELDS: Dict[str, List[str]] = {
+    "job_application": ["home_address"],
+    "medical_intake": ["home_address"],
+    "loan_application": ["marital_status"],
+    "rental_agreement": ["emergency_contact"],
+}
+
+
 def get_field_policy(document_type: str, field_type: str) -> Optional[FieldPolicy]:
-    """Retrieve policy definition for a given document type and field name."""
+    """Retrieve static default policy definition for a given document type and field name."""
     doc_policy = DOCUMENT_POLICIES.get(document_type)
     if not doc_policy:
         return None
     return doc_policy.get_field_policy(field_type)
+
+
+def get_contextual_necessity_policy(
+    document_type: str,
+    field_type: str,
+    sub_conditions: Optional[Dict[str, Any]] = None,
+) -> Tuple[NecessityLabel, str]:
+    """
+    Computes genuine ground-truth necessity label based on both (field_type, document_type)
+    AND document-level context sub-conditions.
+
+    Args:
+        document_type: Domain of document.
+        field_type: Specific PII field type.
+        sub_conditions: Dictionary of contextual flags (e.g. is_remote_role, is_telehealth, is_joint_applicant, has_guarantor).
+
+    Returns:
+        Tuple of (NecessityLabel, detailed_justification_reason).
+    """
+    sub_conditions = sub_conditions or {}
+    static_policy = get_field_policy(document_type, field_type)
+
+    # 1. Job Application: home_address varies with work_modality (remote vs onsite)
+    if document_type == "job_application" and field_type == "home_address":
+        if sub_conditions.get("is_remote_role", False):
+            return (
+                NecessityLabel.UNNECESSARY,
+                "Full street address is unnecessary for initial screening for 100% remote roles; state/country jurisdiction suffices.",
+            )
+        else:
+            return (
+                NecessityLabel.NECESSARY,
+                "Required for assessing commute feasibility, physical facility access, and local payroll tax withholding jurisdiction.",
+            )
+
+    # 2. Medical Intake: home_address varies with encounter_type (telehealth vs in-person)
+    if document_type == "medical_intake" and field_type == "home_address":
+        if sub_conditions.get("is_telehealth", False):
+            return (
+                NecessityLabel.UNNECESSARY,
+                "Physical residential street address is unnecessary for remote telehealth encounters; electronic communication channels suffice.",
+            )
+        else:
+            return (
+                NecessityLabel.NECESSARY,
+                "Necessary for physical clinical admission, outpatient billing dispatch, and local public health reporting.",
+            )
+
+    # 3. Loan Application: marital_status varies with application_type (joint vs individual)
+    if document_type == "loan_application" and field_type == "marital_status":
+        if sub_conditions.get("is_joint_applicant", False):
+            return (
+                NecessityLabel.NECESSARY,
+                "Necessary for joint/co-borrower credit applications to establish joint spousal liability and community property asset evaluation.",
+            )
+        else:
+            return (
+                NecessityLabel.UNNECESSARY,
+                "Unnecessary for individual credit applications under the Equal Credit Opportunity Act (ECOA).",
+            )
+
+    # 4. Rental Agreement: emergency_contact varies with tenancy_type (guarantor/student vs individual)
+    if document_type == "rental_agreement" and field_type == "emergency_contact":
+        if sub_conditions.get("has_guarantor", False):
+            return (
+                NecessityLabel.NECESSARY,
+                "Mandatory emergency contact and legal proxy communication for guarantor-supported or student lease agreements.",
+            )
+        else:
+            return (
+                NecessityLabel.UNNECESSARY,
+                "Unnecessary for standard independent direct adult leases during initial rental screening.",
+            )
+
+    # Default to static policy for unaffected fields
+    if static_policy:
+        return static_policy.necessity_label, static_policy.reason
+
+    return NecessityLabel.CONTEXTUAL, f"Field '{field_type}' has no explicit policy in '{document_type}'."
 
 
 def get_all_policies() -> Dict[str, DocumentPurposePolicy]:
@@ -552,3 +641,4 @@ def get_all_policies() -> Dict[str, DocumentPurposePolicy]:
 def validate_necessity_label(label: str) -> bool:
     """Validate if a string is a recognized necessity label."""
     return label in {item.value for item in NecessityLabel}
+

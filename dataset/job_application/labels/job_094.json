@@ -2,11 +2,14 @@
     "document_id": "job_094",
     "document_type": "job_application",
     "document_purpose": "To evaluate a candidate's qualifications, skills, education, and professional experience for potential employment.",
+    "sub_conditions": {
+        "is_remote_role": true
+    },
     "fields": [
         {
             "field_type": "full_name",
             "field_name": "Full Name",
-            "field_value": "Lisa Becker",
+            "field_value": "Luke Becker",
             "necessity_label": "necessary",
             "reason": "Required to unambiguously identify the candidate, manage application tracking, and conduct hiring correspondence.",
             "span": {
@@ -17,7 +20,7 @@
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "January 13, 2000",
+            "field_value": "January 14, 2000",
             "necessity_label": "unnecessary",
             "reason": "Date of birth is generally not required for evaluating qualifications during initial employment screening and may create discrimination concerns.",
             "span": {
@@ -28,23 +31,23 @@
         {
             "field_type": "gender",
             "field_name": "Gender",
-            "field_value": "Female",
+            "field_value": "Male",
             "necessity_label": "contextual",
             "reason": "Gender is not required for qualification evaluation, though occasionally collected under optional equal employment opportunity (EEO) demographic monitoring.",
             "span": {
                 "start": 443,
-                "end": 449
+                "end": 447
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Married",
+            "field_value": "Divorced",
             "necessity_label": "unnecessary",
             "reason": "Marital status is irrelevant to assessing job competence and creates potential exposure to marital status or gender discrimination.",
             "span": {
-                "start": 472,
-                "end": 479
+                "start": 470,
+                "end": 478
             }
         },
         {
@@ -54,30 +57,30 @@
             "necessity_label": "unnecessary",
             "reason": "Religious beliefs are completely irrelevant to job performance and introduce unlawful bias risks under employment regulations.",
             "span": {
-                "start": 502,
-                "end": 509
+                "start": 501,
+                "end": 508
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "153-26-7897",
+            "field_value": "447-54-1100",
             "necessity_label": "unnecessary",
             "reason": "Government national identification numbers are unnecessary at initial screening and introduce high identity theft exposure.",
             "span": {
-                "start": 532,
-                "end": 543
+                "start": 531,
+                "end": 542
             }
         },
         {
             "field_type": "email",
             "field_name": "Email Address",
-            "field_value": "lisa.becker@yahoo.com",
+            "field_value": "luke.becker@yahoo.com",
             "necessity_label": "necessary",
             "reason": "Required as a primary electronic communication channel for interview scheduling and official employment notifications.",
             "span": {
-                "start": 566,
-                "end": 587
+                "start": 565,
+                "end": 586
             }
         },
         {
@@ -87,63 +90,63 @@
             "necessity_label": "necessary",
             "reason": "Required for direct contact, telephone screening sessions, and urgent recruitment updates.",
             "span": {
-                "start": 610,
-                "end": 626
+                "start": 609,
+                "end": 625
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "137 Robin Lodge Suite 850, North Larry, NY 53373",
-            "necessity_label": "contextual",
-            "reason": "Full street address is unnecessary for initial screening (city/region suffices), but may be required for local payroll tax jurisdictions or commute assessment.",
+            "necessity_label": "unnecessary",
+            "reason": "Full street address is unnecessary for initial screening for 100% remote roles; state/country jurisdiction suffices.",
             "span": {
-                "start": 649,
-                "end": 697
+                "start": 648,
+                "end": 696
             }
         },
         {
             "field_type": "job_title",
             "field_name": "Position Applied For",
-            "field_value": "DevOps Engineer",
+            "field_value": "Product Manager",
             "necessity_label": "necessary",
             "reason": "Specifies the target role against which candidate qualifications and criteria are evaluated.",
             "span": {
-                "start": 818,
-                "end": 833
+                "start": 833,
+                "end": 848
             }
         },
         {
             "field_type": "education",
             "field_name": "Education",
-            "field_value": "B.S. in Computer Science - Purdue University (Graduated 2022)",
+            "field_value": "B.S. in Information Systems - Cornell University (Graduated 2019)",
             "necessity_label": "necessary",
             "reason": "Essential for verifying required academic degrees, institutional background, and formal qualifications.",
             "span": {
-                "start": 973,
-                "end": 1034
+                "start": 1037,
+                "end": 1102
             }
         },
         {
             "field_type": "work_history",
             "field_name": "Work History",
-            "field_value": "1. DevOps Engineer at Williams-Preston (2021 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Vaughn-Williams (2019 - 2020)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
+            "field_value": "1. Product Manager at Williams-Preston (2023 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Vaughn-Williams (2017 - 2021)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
             "necessity_label": "necessary",
             "reason": "Essential for evaluating candidate's prior professional experience, relevant responsibilities, and career trajectory.",
             "span": {
-                "start": 1175,
-                "end": 1441
+                "start": 1243,
+                "end": 1509
             }
         },
         {
             "field_type": "skills",
             "field_name": "Skills & Competencies",
-            "field_value": "Network Security, Penetration Testing, SIEM, Incident Response, ISO 27001",
+            "field_value": "Financial Modeling, Risk Analysis, Bloomberg Terminal, Advanced Excel, CFA Level II",
             "necessity_label": "necessary",
             "reason": "Directly reflects technical, operational, and domain competencies required for job performance.",
             "span": {
-                "start": 1584,
-                "end": 1657
+                "start": 1652,
+                "end": 1735
             }
         }
     ]

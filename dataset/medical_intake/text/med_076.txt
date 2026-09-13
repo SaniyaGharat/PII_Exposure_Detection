@@ -2,17 +2,18 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Michael Becker
-Date of Birth:        July 09, 1970
+Encounter Modality:   In-Person Outpatient Clinical Visit
+Date of Birth:        July 10, 1970
 Phone Number:         (291)752-0177x749
 Home Address:         975 Jason Causeway, Marcuston, WA 09770
-Marital Status:       Divorced
+Marital Status:       Single
 Occupation:           Recycling officer
-Religious Preference: Atheist
-National ID / SSN:    117-57-6427
-Insurance Policy No:  MED-65907088
+Religious Preference: Unaffiliated
+National ID / SSN:    557-77-6927
+Insurance Policy No:  MED-85721444
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
@@ -22,17 +23,17 @@ Lindsey Davis (Partner) - Phone: 323-661-0326x642
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-No Known Drug Allergies (NKDA), No known environmental allergies.
+Penicillin (rash, hives), Shellfish (mild itching).
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
+Lisinopril 10mg PO daily, Atorvastatin 20mg PO at bedtime.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-No significant past medical history. Non-smoker, no past surgeries.
+Hypothyroidism (stable on levothyroxine), Migraines with aura.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

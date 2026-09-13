@@ -2,17 +2,18 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Victoria Mitchell
-Date of Birth:        February 15, 1985
+Encounter Modality:   In-Person Outpatient Clinical Visit
+Date of Birth:        February 16, 1985
 Phone Number:         548-699-5299x78772
 Home Address:         10713 Gutierrez Isle, Annborough, AL 84468
-Marital Status:       Domestic Partnership
+Marital Status:       Divorced
 Occupation:           Lawyer
-Religious Preference: Christianity
-National ID / SSN:    747-75-4963
-Insurance Policy No:  BLU-49093864
+Religious Preference: Hinduism
+National ID / SSN:    828-99-3852
+Insurance Policy No:  AET-78284040
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
@@ -22,7 +23,7 @@ Douglas Tyler (Partner) - Phone: 448-585-0155x6990
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Aspirin (bronchospasm), Codeine (nausea).
+Sulfa antibiotics (severe skin reaction), Latex.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
@@ -32,7 +33,7 @@ Lisinopril 10mg PO daily, Atorvastatin 20mg PO at bedtime.
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Hypothyroidism (stable on levothyroxine), Migraines with aura.
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

@@ -5,36 +5,37 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Chad Chavez
-Date of Birth:        June 08, 1974
+Date of Birth:        June 09, 1974
 Gender:               Non-Binary
-Marital Status:       Single
-Religious Belief:     Atheist
-National ID / SSN:    327-35-8541
+Marital Status:       Widowed
+Religious Belief:     Sikhism
+National ID / SSN:    846-50-8149
 Email Address:        chad.chavez@yahoo.com
 Phone Number:         796.240.5377x3515
 Home Address:         17139 Brent Isle Apt. 293, Port Kathyborough, OR 28806
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Product Manager
+Position Applied For: Senior Software Engineer
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.A. in Economics - University of Texas at Austin (Graduated 2012)
+B.S. in Computer Science - University of Texas at Austin (Graduated 2012)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Product Manager at Avery, Horton and Fernandez (2023 - Present)
+1. Senior Software Engineer at Avery, Horton and Fernandez (2023 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Newton, Moore and Perry (2017 - 2021)
+2. Associate Specialist at Newton, Moore and Perry (2019 - 2020)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA
+Network Security, Penetration Testing, SIEM, Incident Response, ISO 27001
 
 --------------------------------------------------------------------------------
 DECLARATION:

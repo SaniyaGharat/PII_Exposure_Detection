@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Matthew Smith
-Date of Birth:        October 14, 2002
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        October 15, 2002
 Phone Number:         +1-889-493-5889x16375
 Home Address:         28772 Karen Islands, West Tara, AR 66945
-Marital Status:       Single
+Marital Status:       Married
 Occupation:           Research scientist (medical)
-Religious Preference: Prefer not to disclose
-National ID / SSN:    773-98-5381
-Insurance Policy No:  MED-34215035
+Religious Preference: Judaism
+National ID / SSN:    302-32-3504
+Insurance Policy No:  MED-33776150
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Mason Powell (Partner) - Phone: 717.379.7177
+Mason Powell (Parent) - Phone: 717.379.7177
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
+Aspirin (bronchospasm), Codeine (nausea).
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-None reported / Over-the-counter multivitamins only.
+Omeprazole 20mg PO daily before breakfast, Calcium + Vitamin D supplement.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
+Hypothyroidism (stable on levothyroxine), Migraines with aura.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

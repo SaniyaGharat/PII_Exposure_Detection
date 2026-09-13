@@ -5,36 +5,37 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Ronald Robertson
-Date of Birth:        September 19, 1989
-Gender:               Non-Binary
+Date of Birth:        September 20, 1989
+Gender:               Male
 Marital Status:       Widowed
-Religious Belief:     Judaism
-National ID / SSN:    413-42-4777
+Religious Belief:     Atheist
+National ID / SSN:    553-48-8025
 Email Address:        ronald.robertson@hotmail.com
 Phone Number:         204.663.7454
 Home Address:         301 Parker Lodge Suite 145, East Susan, NJ 20579
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Database Administrator
+Position Applied For: Cybersecurity Analyst
+Work Modality:        On-Site Office (Physical Facility)
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.S. in Information Systems - Columbia University (Graduated 2015)
+M.S. in Data Analytics - Georgia Institute of Technology (Graduated 2013)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Database Administrator at Morales Inc (2022 - Present)
+1. Cybersecurity Analyst at Morales Inc (2021 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Holden Group (2019 - 2021)
+2. Associate Specialist at Holden Group (2020 - 2020)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture
+Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA
 
 --------------------------------------------------------------------------------
 DECLARATION:

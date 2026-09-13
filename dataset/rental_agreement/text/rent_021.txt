@@ -2,28 +2,29 @@
                     RESIDENTIAL LEASE APPLICATION & AGREEMENT
 ================================================================================
 
-PROSPECTIVE TENANT IDENTIFICATION
+TENANCY PROFILE & PROSPECTIVE TENANT IDENTIFICATION
 --------------------------------------------------------------------------------
+Lease Category:       Standard Direct Individual Lease
 Tenant Full Name:     Brian Garcia
 Phone Number:         001-944-548-5645x10173
 Email Address:        brian.garcia@hotmail.com
-National ID / SSN:    351-29-1104
-Marital Status:       Widowed
-Religious Belief:     Christianity
+National ID / SSN:    666-17-7342
+Marital Status:       Domestic Partnership
+Religious Belief:     Agnostic
 Current Residence:    417 Obrien Ways Suite 091, New Codybury, MN 76538
 
 EMPLOYMENT & FINANCIAL BACKGROUND
 --------------------------------------------------------------------------------
-Employment Status:    Employed Part-Time
+Employment Status:    Retired
 Employer Name:        Townsend, Kelley and Morris
-Monthly / Annual Inc: $12,454.00 / month
-Bank Account Number:  ACCT-7620886217
+Monthly / Annual Inc: $10,282.00 / month
+Bank Account Number:  ACCT-9316609031
 
 PREVIOUS TENANCY & EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Rental History:
 Previous Address: 057 Berry Pike Apt. 660, New Henry
-Tenancy: 2021 - 2024 | Landlord: Stephanie Fisher | Rent: $2957/mo
+Tenancy: 2021 - 2024 | Landlord: Stephanie Fisher | Rent: $2949/mo
 Reason for Leaving: Job relocation | Full security deposit returned: Yes
 
 Emergency Contact:
@@ -32,7 +33,7 @@ Erin Carter (Sibling) - Tel: (407)545-5534x70574
 SUPPLEMENTAL TENANT DECLARATION
 --------------------------------------------------------------------------------
 Medical History:
-No significant past medical history. Non-smoker, no past surgeries.
+Hypothyroidism (stable on levothyroxine), Migraines with aura.
 
 --------------------------------------------------------------------------------
 TENANT ACKNOWLEDGMENT:

@@ -2,6 +2,9 @@
     "document_id": "rent_096",
     "document_type": "rental_agreement",
     "document_purpose": "To collect information required to evaluate a tenant and establish a rental relationship between the tenant and property owner.",
+    "sub_conditions": {
+        "has_guarantor": false
+    },
     "fields": [
         {
             "field_type": "full_name",
@@ -10,8 +13,8 @@
             "necessity_label": "necessary",
             "reason": "Required to identify the legal tenant and execute an enforceable residential lease contract.",
             "span": {
-                "start": 362,
-                "end": 379
+                "start": 435,
+                "end": 452
             }
         },
         {
@@ -21,8 +24,8 @@
             "necessity_label": "necessary",
             "reason": "Essential for property management communication, maintenance requests, and emergency notifications.",
             "span": {
-                "start": 402,
-                "end": 420
+                "start": 475,
+                "end": 493
             }
         },
         {
@@ -32,41 +35,41 @@
             "necessity_label": "necessary",
             "reason": "Required for electronic lease execution, rent payment portal access, and digital delivery of legal notices.",
             "span": {
-                "start": 443,
-                "end": 470
+                "start": 516,
+                "end": 543
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "264-15-9980",
+            "field_value": "155-80-8557",
             "necessity_label": "contextual",
             "reason": "Often requested for credit and criminal background checks, but can be replaced by direct third-party screening services to reduce exposure.",
             "span": {
-                "start": 493,
-                "end": 504
+                "start": 566,
+                "end": 577
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Widowed",
+            "field_value": "Domestic Partnership",
             "necessity_label": "unnecessary",
             "reason": "Marital status is irrelevant to rental qualification and introduces unlawful discrimination risks under fair housing standards.",
             "span": {
-                "start": 527,
-                "end": 534
+                "start": 600,
+                "end": 620
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religion",
-            "field_value": "Buddhism",
+            "field_value": "Islam",
             "necessity_label": "unnecessary",
             "reason": "Religious beliefs are completely irrelevant to rental qualifications and collecting them violates the Fair Housing Act.",
             "span": {
-                "start": 557,
-                "end": 565
+                "start": 643,
+                "end": 648
             }
         },
         {
@@ -76,19 +79,19 @@
             "necessity_label": "necessary",
             "reason": "Required to verify current tenancy, assess residency stability, and contact previous landlords for reference checks.",
             "span": {
-                "start": 588,
-                "end": 640
+                "start": 671,
+                "end": 723
             }
         },
         {
             "field_type": "employment_status",
             "field_name": "Employment Status",
-            "field_value": "Contractor / Freelancer",
+            "field_value": "Self-Employed",
             "necessity_label": "necessary",
             "reason": "Directly indicates financial stability and ongoing ability to meet recurring monthly rent obligations.",
             "span": {
-                "start": 779,
-                "end": 802
+                "start": 862,
+                "end": 875
             }
         },
         {
@@ -98,63 +101,63 @@
             "necessity_label": "contextual",
             "reason": "Useful for independent employment verification, though verifiable pay stubs or bank statements can serve as alternative proof.",
             "span": {
-                "start": 825,
-                "end": 848
+                "start": 898,
+                "end": 921
             }
         },
         {
             "field_type": "income",
             "field_name": "Monthly / Annual Income",
-            "field_value": "$10,213.00 / month",
+            "field_value": "$6,471.00 / month",
             "necessity_label": "necessary",
             "reason": "Essential for determining rent-to-income ratio (standard industry threshold of monthly income >= 2.5x to 3x rent).",
             "span": {
-                "start": 871,
-                "end": 889
+                "start": 944,
+                "end": 961
             }
         },
         {
             "field_type": "bank_account_number",
             "field_name": "Bank Account Number",
-            "field_value": "ACCT-2419931729",
+            "field_value": "ACCT-3884866198",
             "necessity_label": "unnecessary",
             "reason": "Full banking account numbers are unnecessary during rental application screening and expose the applicant to financial fraud risks.",
             "span": {
-                "start": 912,
-                "end": 927
+                "start": 984,
+                "end": 999
             }
         },
         {
             "field_type": "rental_history",
             "field_name": "Previous Rental History",
-            "field_value": "Previous Address: 58488 Holder Avenue, North Thomashaven\nTenancy: 2021 - 2024 | Landlord: Brian Thompson | Rent: $2004/mo\nReason for Leaving: Job relocation | Full security deposit returned: Yes",
+            "field_value": "Previous Address: 58488 Holder Avenue, North Thomashaven\nTenancy: 2021 - 2024 | Landlord: Brian Thompson | Rent: $2774/mo\nReason for Leaving: Job relocation | Full security deposit returned: Yes",
             "necessity_label": "necessary",
             "reason": "Critical for evaluating past tenancy behavior, timely rent payment record, lease compliance, and eviction history.",
             "span": {
-                "start": 1063,
-                "end": 1257
+                "start": 1135,
+                "end": 1329
             }
         },
         {
             "field_type": "emergency_contact",
             "field_name": "Emergency Contact",
             "field_value": "Mrs. Kathleen Hansen (Sibling) - Tel: 912.499.5704",
-            "necessity_label": "contextual",
-            "reason": "Valuable in urgent property situations, abandonment, or tenant emergencies, but secondary to initial financial qualification.",
+            "necessity_label": "unnecessary",
+            "reason": "Unnecessary for standard independent direct adult leases during initial rental screening.",
             "span": {
-                "start": 1278,
-                "end": 1328
+                "start": 1350,
+                "end": 1400
             }
         },
         {
             "field_type": "medical_history",
             "field_name": "Medical History",
-            "field_value": "Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.",
+            "field_value": "Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).",
             "necessity_label": "unnecessary",
             "reason": "Medical history has no bearing on tenancy eligibility and exposes private health data in violation of fair housing privacy principles.",
             "span": {
-                "start": 1460,
-                "end": 1525
+                "start": 1532,
+                "end": 1615
             }
         }
     ]

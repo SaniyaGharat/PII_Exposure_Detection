@@ -2,23 +2,24 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Emily Macias
-Date of Birth:        April 28, 1996
-Marital Status:       Divorced
-Religious Belief:     Judaism
+Date of Birth:        April 29, 1996
+Marital Status:       Domestic Partnership
+Religious Belief:     Prefer not to disclose
 Phone Number:         921.852.8506
 Email Address:        emily.macias@gmail.com
 Residential Address:  53814 Webb Greens Apt. 096, West Sarah, SD 68072
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Contractor / Freelancer
+Employment Status:    Employed Full-Time
 Employer Name:        Walls PLC
-Gross Annual Income:  $188,000.00 USD
-Bank Account Number:  ACCT-7402059279
-Credit Score (FICO):  757 (FICO Score 8)
+Gross Annual Income:  $57,000.00 USD
+Bank Account Number:  ACCT-8149805821
+Credit Score (FICO):  792 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------

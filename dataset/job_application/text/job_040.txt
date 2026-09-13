@@ -5,36 +5,37 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Corey Cooke
-Date of Birth:        April 07, 1970
+Date of Birth:        April 08, 1970
 Gender:               Prefer not to disclose
 Marital Status:       Domestic Partnership
-Religious Belief:     Unaffiliated
-National ID / SSN:    536-80-8305
+Religious Belief:     Agnostic
+National ID / SSN:    588-10-6763
 Email Address:        corey.cooke@yahoo.com
 Phone Number:         +1-759-529-6222x92706
 Home Address:         738 Kyle Valleys Suite 359, Murrayport, WI 50553
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: DevOps Engineer
+Position Applied For: Product Manager
+Work Modality:        On-Site Office (Physical Facility)
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-MBA - Columbia University (Graduated 2018)
+B.S. in Computer Science - University of Illinois Urbana-Champaign (Graduated 2023)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. DevOps Engineer at Jones Inc (2023 - Present)
+1. Product Manager at Jones Inc (2022 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Wise, Conley and Stephenson (2019 - 2021)
+2. Associate Specialist at Wise, Conley and Stephenson (2020 - 2020)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Financial Modeling, Risk Analysis, Bloomberg Terminal, Advanced Excel, CFA Level II
+Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA
 
 --------------------------------------------------------------------------------
 DECLARATION:

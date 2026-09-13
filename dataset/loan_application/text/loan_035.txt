@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Joint / Co-Borrower Credit Application
 Applicant Name:       Lisa Mcdaniel
-Date of Birth:        June 24, 1973
-Marital Status:       Married
-Religious Belief:     Islam
+Date of Birth:        June 25, 1973
+Marital Status:       Single
+Religious Belief:     Prefer not to disclose
 Phone Number:         421-263-7618
 Email Address:        lisa.mcdaniel@hotmail.com
 Residential Address:  6010 David Trail, West Douglastown, WY 01732
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Contractor / Freelancer
+Employment Status:    Employed Full-Time
 Employer Name:        Daniels LLC
-Gross Annual Income:  $50,000.00 USD
-Bank Account Number:  ACCT-8925631115
-Credit Score (FICO):  769 (FICO Score 8)
+Gross Annual Income:  $102,000.00 USD
+Bank Account Number:  ACCT-3305920746
+Credit Score (FICO):  642 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-No significant past medical history. Non-smoker, no past surgeries.
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
 
 Biometric Security Identifier:
 SHA256:3fd877c5bb85b27fa99ee17a (Biometric Minutiae Key)

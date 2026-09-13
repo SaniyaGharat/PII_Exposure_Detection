@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Melissa Bell
-Date of Birth:        January 18, 1993
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        January 19, 1993
 Phone Number:         343-400-9109x3911
 Home Address:         921 Jon Mountain Apt. 746, Jonathanland, KY 08678
 Marital Status:       Widowed
 Occupation:           Visual merchandiser
-Religious Preference: Sikhism
-National ID / SSN:    557-15-6776
-Insurance Policy No:  KSR-68376726
+Religious Preference: Buddhism
+National ID / SSN:    244-22-1829
+Insurance Policy No:  AET-61559717
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Gary Brown (Parent) - Phone: 827-517-3962x712
+Gary Brown (Adult Child) - Phone: 827-517-3962x712
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
+No Known Drug Allergies (NKDA), No known environmental allergies.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-None reported / Over-the-counter multivitamins only.
+Omeprazole 20mg PO daily before breakfast, Calcium + Vitamin D supplement.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

@@ -2,11 +2,12 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Tammie Watson
-Date of Birth:        November 29, 1967
-Marital Status:       Single
+Date of Birth:        November 30, 1967
+Marital Status:       Married
 Religious Belief:     Unaffiliated
 Phone Number:         +1-891-479-2025x21310
 Email Address:        tammie.watson@gmail.com
@@ -14,16 +15,16 @@ Residential Address:  284 Jenkins Junction Suite 041, North Nicole, AZ 79691
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Self-Employed
+Employment Status:    Employed Part-Time
 Employer Name:        Martin, Sanders and Henderson
-Gross Annual Income:  $83,000.00 USD
-Bank Account Number:  ACCT-1230624431
-Credit Score (FICO):  792 (FICO Score 8)
+Gross Annual Income:  $185,000.00 USD
+Bank Account Number:  ACCT-7397963801
+Credit Score (FICO):  767 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
 
 Biometric Security Identifier:
 SHA256:3c227f4a7eb4fff15fa04242 (Biometric Minutiae Key)

@@ -2,23 +2,24 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Courtney Sanchez
-Date of Birth:        August 06, 2000
+Date of Birth:        August 07, 2000
 Marital Status:       Married
-Religious Belief:     Hinduism
+Religious Belief:     Prefer not to disclose
 Phone Number:         (533)247-2727x4231
 Email Address:        courtney.sanchez@yahoo.com
 Residential Address:  8932 Robert Greens, Welchbury, SC 46206
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Employed Part-Time
+Employment Status:    Employed Full-Time
 Employer Name:        Best, Humphrey and Pittman
-Gross Annual Income:  $63,000.00 USD
-Bank Account Number:  ACCT-6981604165
-Credit Score (FICO):  660 (FICO Score 8)
+Gross Annual Income:  $107,000.00 USD
+Bank Account Number:  ACCT-1667483244
+Credit Score (FICO):  609 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------

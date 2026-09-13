@@ -2,27 +2,28 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Tina Walter
-Date of Birth:        January 11, 1999
+Encounter Modality:   In-Person Outpatient Clinical Visit
+Date of Birth:        January 12, 1999
 Phone Number:         001-947-269-7357
 Home Address:         41633 Gutierrez Knoll Apt. 434, South Emilymouth, CA 73187
 Marital Status:       Divorced
 Occupation:           Engineer, electrical
-Religious Preference: Judaism
-National ID / SSN:    705-17-6766
-Insurance Policy No:  KSR-19957701
+Religious Preference: Islam
+National ID / SSN:    881-30-5469
+Insurance Policy No:  UHC-78901038
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Karen Gomez (Adult Child) - Phone: 001-542-537-3334
+Karen Gomez (Partner) - Phone: 001-542-537-3334
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
+Sulfa antibiotics (severe skin reaction), Latex.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
@@ -32,7 +33,7 @@ Omeprazole 20mg PO daily before breakfast, Calcium + Vitamin D supplement.
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
+Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

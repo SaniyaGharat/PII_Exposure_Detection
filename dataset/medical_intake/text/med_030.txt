@@ -2,17 +2,18 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Andrew Fernandez
-Date of Birth:        November 15, 1953
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        November 16, 1953
 Phone Number:         883-420-6799x81364
 Home Address:         1790 Baker Locks, Ayalaberg, WV 18178
-Marital Status:       Domestic Partnership
+Marital Status:       Widowed
 Occupation:           Patent attorney
-Religious Preference: Buddhism
-National ID / SSN:    416-70-4178
-Insurance Policy No:  AET-86560394
+Religious Preference: Sikhism
+National ID / SSN:    631-44-2353
+Insurance Policy No:  UHC-20593403
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
@@ -27,12 +28,12 @@ Aspirin (bronchospasm), Codeine (nausea).
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Omeprazole 20mg PO daily before breakfast, Calcium + Vitamin D supplement.
+Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

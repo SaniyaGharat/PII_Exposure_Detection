@@ -2,17 +2,18 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            William Lamb
-Date of Birth:        March 07, 1986
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        March 08, 1986
 Phone Number:         4476128144
 Home Address:         0192 Donna Land Apt. 437, Port Alison, AZ 45438
-Marital Status:       Divorced
+Marital Status:       Single
 Occupation:           Oceanographer
-Religious Preference: Unaffiliated
-National ID / SSN:    373-20-7955
-Insurance Policy No:  MED-67795113
+Religious Preference: Christianity
+National ID / SSN:    261-66-7809
+Insurance Policy No:  UHC-72336371
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
@@ -22,12 +23,12 @@ Dr. Linda Underwood (Adult Child) - Phone: 466.937.2395x0410
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-No Known Drug Allergies (NKDA), No known environmental allergies.
+Sulfa antibiotics (severe skin reaction), Latex.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Metformin 500mg PO BID with meals, Glipizide 5mg daily.
+Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------

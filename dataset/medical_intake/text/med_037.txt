@@ -2,17 +2,18 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Matthew Johnson
-Date of Birth:        October 19, 2001
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        October 20, 2001
 Phone Number:         4994451016
 Home Address:         998 Tammy Summit Suite 014, Miguelfurt, GU 09370
-Marital Status:       Divorced
+Marital Status:       Single
 Occupation:           Trade union research officer
-Religious Preference: Islam
-National ID / SSN:    148-40-7878
-Insurance Policy No:  KSR-71352751
+Religious Preference: Atheist
+National ID / SSN:    276-66-2438
+Insurance Policy No:  AET-99635939
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
@@ -22,17 +23,17 @@ Sarah Brown (Parent) - Phone: 321.945.8683x3901
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Penicillin (rash, hives), Shellfish (mild itching).
+Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Lisinopril 10mg PO daily, Atorvastatin 20mg PO at bedtime.
+None reported / Over-the-counter multivitamins only.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
+Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

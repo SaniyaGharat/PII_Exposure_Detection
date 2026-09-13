@@ -4,37 +4,38 @@
 
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
-Full Name:            Jesse Zhang
-Date of Birth:        July 23, 1982
-Gender:               Male
+Full Name:            Jordan Zhang
+Date of Birth:        July 24, 1982
+Gender:               Female
 Marital Status:       Married
-Religious Belief:     Atheist
-National ID / SSN:    383-85-9595
-Email Address:        jesse.zhang@gmail.com
+Religious Belief:     Unaffiliated
+National ID / SSN:    176-30-1043
+Email Address:        jordan.zhang@gmail.com
 Phone Number:         001-539-418-7851x91088
 Home Address:         713 Davis Pass Suite 072, Bryantton, OH 61105
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Marketing Specialist
+Position Applied For: Cybersecurity Analyst
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.S. in Computer Science - Columbia University (Graduated 2022)
+B.S. in Computer Science - University of Illinois Urbana-Champaign (Graduated 2020)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Marketing Specialist at Perry-Dunn (2023 - Present)
+1. Cybersecurity Analyst at Perry-Dunn (2021 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Todd-Pham (2018 - 2020)
+2. Associate Specialist at Todd-Pham (2019 - 2020)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Network Security, Penetration Testing, SIEM, Incident Response, ISO 27001
+React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices
 
 --------------------------------------------------------------------------------
 DECLARATION:

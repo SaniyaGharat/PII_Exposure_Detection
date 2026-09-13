@@ -2,27 +2,28 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Audrey Anderson
-Date of Birth:        November 16, 1944
+Encounter Modality:   In-Person Outpatient Clinical Visit
+Date of Birth:        November 17, 1944
 Phone Number:         554.452.7985x2401
 Home Address:         342 David Common, Vazquezville, CA 02965
-Marital Status:       Domestic Partnership
+Marital Status:       Divorced
 Occupation:           Administrator
-Religious Preference: Sikhism
-National ID / SSN:    677-15-1464
-Insurance Policy No:  MED-16101779
+Religious Preference: Unaffiliated
+National ID / SSN:    405-38-5876
+Insurance Policy No:  AET-37820354
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Nicole Williams (Partner) - Phone: 308-690-7140
+Nicole Williams (Parent) - Phone: 308-690-7140
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-No Known Drug Allergies (NKDA), No known environmental allergies.
+Aspirin (bronchospasm), Codeine (nausea).
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
@@ -32,7 +33,7 @@ Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-No significant past medical history. Non-smoker, no past surgeries.
+Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

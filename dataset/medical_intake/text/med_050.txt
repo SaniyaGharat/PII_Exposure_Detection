@@ -2,17 +2,18 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            James Rodriguez
-Date of Birth:        July 28, 1990
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        July 29, 1990
 Phone Number:         (871)373-2030x937
 Home Address:         8700 Brown Turnpike Apt. 613, Bentleyside, FL 97632
-Marital Status:       Married
+Marital Status:       Widowed
 Occupation:           Information systems manager
-Religious Preference: Islam
-National ID / SSN:    341-92-7001
-Insurance Policy No:  AET-61385847
+Religious Preference: Unaffiliated
+National ID / SSN:    568-40-4524
+Insurance Policy No:  KSR-57364777
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
@@ -22,7 +23,7 @@ Tammy Johnson (Spouse) - Phone: (470)279-0320
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-No Known Drug Allergies (NKDA), No known environmental allergies.
+Penicillin (rash, hives), Shellfish (mild itching).
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
@@ -32,7 +33,7 @@ Lisinopril 10mg PO daily, Atorvastatin 20mg PO at bedtime.
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Hypothyroidism (stable on levothyroxine), Migraines with aura.
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

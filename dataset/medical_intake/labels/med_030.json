@@ -2,6 +2,9 @@
     "document_id": "med_030",
     "document_type": "medical_intake",
     "document_purpose": "To collect relevant patient information required for medical assessment, diagnosis, treatment, and healthcare administration.",
+    "sub_conditions": {
+        "is_telehealth": true
+    },
     "fields": [
         {
             "field_type": "full_name",
@@ -10,19 +13,19 @@
             "necessity_label": "necessary",
             "reason": "Essential for patient identification, medical record linkage, and preventing catastrophic misidentification in clinical care.",
             "span": {
-                "start": 359,
-                "end": 375
+                "start": 369,
+                "end": 385
             }
         },
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "November 15, 1953",
+            "field_value": "November 16, 1953",
             "necessity_label": "necessary",
             "reason": "Crucial for clinical safety, age-dependent pharmaceutical dosage calculations, developmental assessment, and primary patient record matching.",
             "span": {
-                "start": 398,
-                "end": 415
+                "start": 467,
+                "end": 484
             }
         },
         {
@@ -32,30 +35,30 @@
             "necessity_label": "necessary",
             "reason": "Required for appointment reminders, urgent clinical test result notifications, and post-procedure follow-ups.",
             "span": {
-                "start": 438,
-                "end": 456
+                "start": 507,
+                "end": 525
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "1790 Baker Locks, Ayalaberg, WV 18178",
-            "necessity_label": "contextual",
-            "reason": "Used for patient billing, demographic analysis, and local public health reporting, though secondary to immediate clinical diagnosis.",
+            "necessity_label": "unnecessary",
+            "reason": "Physical residential street address is unnecessary for remote telehealth encounters; electronic communication channels suffice.",
             "span": {
-                "start": 479,
-                "end": 516
+                "start": 548,
+                "end": 585
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Domestic Partnership",
+            "field_value": "Widowed",
             "necessity_label": "contextual",
             "reason": "May provide helpful context regarding home support network and surrogate decision-makers, but not universally necessary for diagnostics.",
             "span": {
-                "start": 539,
-                "end": 559
+                "start": 608,
+                "end": 615
             }
         },
         {
@@ -65,41 +68,41 @@
             "necessity_label": "contextual",
             "reason": "Provides relevant context for evaluating occupational exposures, repetitive stress injuries, or physical disability accommodations.",
             "span": {
-                "start": 582,
-                "end": 597
+                "start": 638,
+                "end": 653
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religious Affiliation",
-            "field_value": "Buddhism",
+            "field_value": "Sikhism",
             "necessity_label": "contextual",
             "reason": "Contextual in clinical settings to respect medical restrictions (e.g., blood transfusions, dietary rules, end-of-life pastoral care), but optional.",
             "span": {
-                "start": 620,
-                "end": 628
+                "start": 676,
+                "end": 683
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "416-70-4178",
+            "field_value": "631-44-2353",
             "necessity_label": "unnecessary",
             "reason": "Standard government national IDs are unnecessary when unique Medical Record Numbers (MRN) or insurance IDs exist, creating avoidable exposure.",
             "span": {
-                "start": 651,
-                "end": 662
+                "start": 706,
+                "end": 717
             }
         },
         {
             "field_type": "insurance_number",
             "field_name": "Health Insurance Policy Number",
-            "field_value": "AET-86560394",
+            "field_value": "UHC-20593403",
             "necessity_label": "contextual",
             "reason": "Necessary for healthcare claims billing and insurance verification, but not strictly required for emergency or direct self-pay clinical triage.",
             "span": {
-                "start": 685,
-                "end": 697
+                "start": 740,
+                "end": 752
             }
         },
         {
@@ -109,8 +112,8 @@
             "necessity_label": "necessary",
             "reason": "Vital in acute medical situations, patient incapacitation, or urgent medical decisions where patient proxy consent is needed.",
             "span": {
-                "start": 825,
-                "end": 875
+                "start": 880,
+                "end": 930
             }
         },
         {
@@ -120,30 +123,30 @@
             "necessity_label": "necessary",
             "reason": "High-priority safety data required to prevent life-threatening anaphylaxis, drug allergies, and cross-reactive interventions.",
             "span": {
-                "start": 1027,
-                "end": 1068
+                "start": 1082,
+                "end": 1123
             }
         },
         {
             "field_type": "current_medications",
             "field_name": "Current Medications",
-            "field_value": "Omeprazole 20mg PO daily before breakfast, Calcium + Vitamin D supplement.",
+            "field_value": "Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.",
             "necessity_label": "necessary",
             "reason": "Critical for preventing adverse drug-drug interactions, polypharmacy complications, and dosage conflicts.",
             "span": {
-                "start": 1217,
-                "end": 1291
+                "start": 1272,
+                "end": 1347
             }
         },
         {
             "field_type": "medical_history",
             "field_name": "Past Medical History",
-            "field_value": "Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).",
+            "field_value": "Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.",
             "necessity_label": "necessary",
             "reason": "Essential clinical context for differential diagnosis, identifying chronic comorbidities, and planning safe therapeutic interventions.",
             "span": {
-                "start": 1449,
-                "end": 1532
+                "start": 1505,
+                "end": 1576
             }
         }
     ]

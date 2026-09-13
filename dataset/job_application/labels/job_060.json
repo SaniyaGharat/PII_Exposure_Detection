@@ -2,82 +2,85 @@
     "document_id": "job_060",
     "document_type": "job_application",
     "document_purpose": "To evaluate a candidate's qualifications, skills, education, and professional experience for potential employment.",
+    "sub_conditions": {
+        "is_remote_role": true
+    },
     "fields": [
         {
             "field_type": "full_name",
             "field_name": "Full Name",
-            "field_value": "Kenneth Ray",
+            "field_value": "Laura Ray",
             "necessity_label": "necessary",
             "reason": "Required to unambiguously identify the candidate, manage application tracking, and conduct hiring correspondence.",
             "span": {
                 "start": 370,
-                "end": 381
+                "end": 379
             }
         },
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "August 12, 1979",
+            "field_value": "August 13, 1979",
             "necessity_label": "unnecessary",
             "reason": "Date of birth is generally not required for evaluating qualifications during initial employment screening and may create discrimination concerns.",
             "span": {
-                "start": 404,
-                "end": 419
+                "start": 402,
+                "end": 417
             }
         },
         {
             "field_type": "gender",
             "field_name": "Gender",
-            "field_value": "Prefer not to disclose",
+            "field_value": "Female",
             "necessity_label": "contextual",
             "reason": "Gender is not required for qualification evaluation, though occasionally collected under optional equal employment opportunity (EEO) demographic monitoring.",
             "span": {
-                "start": 442,
-                "end": 464
+                "start": 440,
+                "end": 446
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Married",
+            "field_value": "Single",
             "necessity_label": "unnecessary",
             "reason": "Marital status is irrelevant to assessing job competence and creates potential exposure to marital status or gender discrimination.",
             "span": {
-                "start": 487,
-                "end": 494
+                "start": 469,
+                "end": 475
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religion",
-            "field_value": "Prefer not to disclose",
+            "field_value": "Agnostic",
             "necessity_label": "unnecessary",
             "reason": "Religious beliefs are completely irrelevant to job performance and introduce unlawful bias risks under employment regulations.",
             "span": {
-                "start": 517,
-                "end": 539
+                "start": 498,
+                "end": 506
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "411-20-5066",
+            "field_value": "852-51-5102",
             "necessity_label": "unnecessary",
             "reason": "Government national identification numbers are unnecessary at initial screening and introduce high identity theft exposure.",
             "span": {
-                "start": 562,
-                "end": 573
+                "start": 529,
+                "end": 540
             }
         },
         {
             "field_type": "email",
             "field_name": "Email Address",
-            "field_value": "kenneth.ray@hotmail.com",
+            "field_value": "laura.ray@hotmail.com",
             "necessity_label": "necessary",
             "reason": "Required as a primary electronic communication channel for interview scheduling and official employment notifications.",
             "span": {
-                "start": 596,
-                "end": 619
+                "start": 563,
+                "end": 584
             }
         },
         {
@@ -87,52 +90,52 @@
             "necessity_label": "necessary",
             "reason": "Required for direct contact, telephone screening sessions, and urgent recruitment updates.",
             "span": {
-                "start": 642,
-                "end": 662
+                "start": 607,
+                "end": 627
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "34270 Faulkner Point Apt. 634, West Deborah, NV 49138",
-            "necessity_label": "contextual",
-            "reason": "Full street address is unnecessary for initial screening (city/region suffices), but may be required for local payroll tax jurisdictions or commute assessment.",
+            "necessity_label": "unnecessary",
+            "reason": "Full street address is unnecessary for initial screening for 100% remote roles; state/country jurisdiction suffices.",
             "span": {
-                "start": 685,
-                "end": 738
+                "start": 650,
+                "end": 703
             }
         },
         {
             "field_type": "job_title",
             "field_name": "Position Applied For",
-            "field_value": "Data Scientist",
+            "field_value": "Database Administrator",
             "necessity_label": "necessary",
             "reason": "Specifies the target role against which candidate qualifications and criteria are evaluated.",
             "span": {
-                "start": 859,
-                "end": 873
+                "start": 840,
+                "end": 862
             }
         },
         {
             "field_type": "education",
             "field_name": "Education",
-            "field_value": "B.S. in Computer Science - UC San Diego (Graduated 2017)",
+            "field_value": "M.S. in Data Analytics - UC San Diego (Graduated 2014)",
             "necessity_label": "necessary",
             "reason": "Essential for verifying required academic degrees, institutional background, and formal qualifications.",
             "span": {
-                "start": 1013,
-                "end": 1069
+                "start": 1051,
+                "end": 1105
             }
         },
         {
             "field_type": "work_history",
             "field_name": "Work History",
-            "field_value": "1. Data Scientist at Cardenas, Young and Walter (2021 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Boyd, Gutierrez and Hill (2017 - 2020)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
+            "field_value": "1. Database Administrator at Cardenas, Young and Walter (2023 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Boyd, Gutierrez and Hill (2020 - 2021)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
             "necessity_label": "necessary",
             "reason": "Essential for evaluating candidate's prior professional experience, relevant responsibilities, and career trajectory.",
             "span": {
-                "start": 1210,
-                "end": 1494
+                "start": 1246,
+                "end": 1538
             }
         },
         {
@@ -142,8 +145,8 @@
             "necessity_label": "necessary",
             "reason": "Directly reflects technical, operational, and domain competencies required for job performance.",
             "span": {
-                "start": 1637,
-                "end": 1701
+                "start": 1681,
+                "end": 1745
             }
         }
     ]

@@ -2,11 +2,14 @@
     "document_id": "job_086",
     "document_type": "job_application",
     "document_purpose": "To evaluate a candidate's qualifications, skills, education, and professional experience for potential employment.",
+    "sub_conditions": {
+        "is_remote_role": true
+    },
     "fields": [
         {
             "field_type": "full_name",
             "field_name": "Full Name",
-            "field_value": "Richard Cooper",
+            "field_value": "Rachael Cooper",
             "necessity_label": "necessary",
             "reason": "Required to unambiguously identify the candidate, manage application tracking, and conduct hiring correspondence.",
             "span": {
@@ -17,7 +20,7 @@
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "October 24, 1986",
+            "field_value": "October 25, 1986",
             "necessity_label": "unnecessary",
             "reason": "Date of birth is generally not required for evaluating qualifications during initial employment screening and may create discrimination concerns.",
             "span": {
@@ -28,56 +31,56 @@
         {
             "field_type": "gender",
             "field_name": "Gender",
-            "field_value": "Non-Binary",
+            "field_value": "Female",
             "necessity_label": "contextual",
             "reason": "Gender is not required for qualification evaluation, though occasionally collected under optional equal employment opportunity (EEO) demographic monitoring.",
             "span": {
                 "start": 446,
-                "end": 456
+                "end": 452
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Widowed",
+            "field_value": "Single",
             "necessity_label": "unnecessary",
             "reason": "Marital status is irrelevant to assessing job competence and creates potential exposure to marital status or gender discrimination.",
             "span": {
-                "start": 479,
-                "end": 486
+                "start": 475,
+                "end": 481
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religion",
-            "field_value": "Islam",
+            "field_value": "Hinduism",
             "necessity_label": "unnecessary",
             "reason": "Religious beliefs are completely irrelevant to job performance and introduce unlawful bias risks under employment regulations.",
             "span": {
-                "start": 509,
-                "end": 514
+                "start": 504,
+                "end": 512
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "244-38-7511",
+            "field_value": "859-63-9619",
             "necessity_label": "unnecessary",
             "reason": "Government national identification numbers are unnecessary at initial screening and introduce high identity theft exposure.",
             "span": {
-                "start": 537,
-                "end": 548
+                "start": 535,
+                "end": 546
             }
         },
         {
             "field_type": "email",
             "field_name": "Email Address",
-            "field_value": "richard.cooper@hotmail.com",
+            "field_value": "rachael.cooper@hotmail.com",
             "necessity_label": "necessary",
             "reason": "Required as a primary electronic communication channel for interview scheduling and official employment notifications.",
             "span": {
-                "start": 571,
-                "end": 597
+                "start": 569,
+                "end": 595
             }
         },
         {
@@ -87,19 +90,19 @@
             "necessity_label": "necessary",
             "reason": "Required for direct contact, telephone screening sessions, and urgent recruitment updates.",
             "span": {
-                "start": 620,
-                "end": 630
+                "start": 618,
+                "end": 628
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "96522 Brittany Valley, Robintown, VT 92324",
-            "necessity_label": "contextual",
-            "reason": "Full street address is unnecessary for initial screening (city/region suffices), but may be required for local payroll tax jurisdictions or commute assessment.",
+            "necessity_label": "unnecessary",
+            "reason": "Full street address is unnecessary for initial screening for 100% remote roles; state/country jurisdiction suffices.",
             "span": {
-                "start": 653,
-                "end": 695
+                "start": 651,
+                "end": 693
             }
         },
         {
@@ -109,41 +112,41 @@
             "necessity_label": "necessary",
             "reason": "Specifies the target role against which candidate qualifications and criteria are evaluated.",
             "span": {
-                "start": 816,
-                "end": 831
+                "start": 830,
+                "end": 845
             }
         },
         {
             "field_type": "education",
             "field_name": "Education",
-            "field_value": "M.S. in Data Analytics - Carnegie Mellon University (Graduated 2022)",
+            "field_value": "B.S. in Computer Science - Purdue University (Graduated 2022)",
             "necessity_label": "necessary",
             "reason": "Essential for verifying required academic degrees, institutional background, and formal qualifications.",
             "span": {
-                "start": 971,
-                "end": 1039
+                "start": 1034,
+                "end": 1095
             }
         },
         {
             "field_type": "work_history",
             "field_name": "Work History",
-            "field_value": "1. DevOps Engineer at Shaw, Price and White (2022 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Harper-Johnson (2019 - 2020)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
+            "field_value": "1. DevOps Engineer at Shaw, Price and White (2021 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Harper-Johnson (2019 - 2020)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
             "necessity_label": "necessary",
             "reason": "Essential for evaluating candidate's prior professional experience, relevant responsibilities, and career trajectory.",
             "span": {
-                "start": 1180,
-                "end": 1450
+                "start": 1236,
+                "end": 1506
             }
         },
         {
             "field_type": "skills",
             "field_name": "Skills & Competencies",
-            "field_value": "Network Security, Penetration Testing, SIEM, Incident Response, ISO 27001",
+            "field_value": "Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture",
             "necessity_label": "necessary",
             "reason": "Directly reflects technical, operational, and domain competencies required for job performance.",
             "span": {
-                "start": 1593,
-                "end": 1666
+                "start": 1649,
+                "end": 1713
             }
         }
     ]

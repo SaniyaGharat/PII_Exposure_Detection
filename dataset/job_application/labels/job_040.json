@@ -2,6 +2,9 @@
     "document_id": "job_040",
     "document_type": "job_application",
     "document_purpose": "To evaluate a candidate's qualifications, skills, education, and professional experience for potential employment.",
+    "sub_conditions": {
+        "is_remote_role": false
+    },
     "fields": [
         {
             "field_type": "full_name",
@@ -17,7 +20,7 @@
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "April 07, 1970",
+            "field_value": "April 08, 1970",
             "necessity_label": "unnecessary",
             "reason": "Date of birth is generally not required for evaluating qualifications during initial employment screening and may create discrimination concerns.",
             "span": {
@@ -50,23 +53,23 @@
         {
             "field_type": "religion",
             "field_name": "Religion",
-            "field_value": "Unaffiliated",
+            "field_value": "Agnostic",
             "necessity_label": "unnecessary",
             "reason": "Religious beliefs are completely irrelevant to job performance and introduce unlawful bias risks under employment regulations.",
             "span": {
                 "start": 529,
-                "end": 541
+                "end": 537
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "536-80-8305",
+            "field_value": "588-10-6763",
             "necessity_label": "unnecessary",
             "reason": "Government national identification numbers are unnecessary at initial screening and introduce high identity theft exposure.",
             "span": {
-                "start": 564,
-                "end": 575
+                "start": 560,
+                "end": 571
             }
         },
         {
@@ -76,8 +79,8 @@
             "necessity_label": "necessary",
             "reason": "Required as a primary electronic communication channel for interview scheduling and official employment notifications.",
             "span": {
-                "start": 598,
-                "end": 619
+                "start": 594,
+                "end": 615
             }
         },
         {
@@ -87,63 +90,63 @@
             "necessity_label": "necessary",
             "reason": "Required for direct contact, telephone screening sessions, and urgent recruitment updates.",
             "span": {
-                "start": 642,
-                "end": 663
+                "start": 638,
+                "end": 659
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "738 Kyle Valleys Suite 359, Murrayport, WI 50553",
-            "necessity_label": "contextual",
-            "reason": "Full street address is unnecessary for initial screening (city/region suffices), but may be required for local payroll tax jurisdictions or commute assessment.",
+            "necessity_label": "necessary",
+            "reason": "Required for assessing commute feasibility, physical facility access, and local payroll tax withholding jurisdiction.",
             "span": {
-                "start": 686,
-                "end": 734
+                "start": 682,
+                "end": 730
             }
         },
         {
             "field_type": "job_title",
             "field_name": "Position Applied For",
-            "field_value": "DevOps Engineer",
+            "field_value": "Product Manager",
             "necessity_label": "necessary",
             "reason": "Specifies the target role against which candidate qualifications and criteria are evaluated.",
             "span": {
-                "start": 855,
-                "end": 870
+                "start": 867,
+                "end": 882
             }
         },
         {
             "field_type": "education",
             "field_name": "Education",
-            "field_value": "MBA - Columbia University (Graduated 2018)",
+            "field_value": "B.S. in Computer Science - University of Illinois Urbana-Champaign (Graduated 2023)",
             "necessity_label": "necessary",
             "reason": "Essential for verifying required academic degrees, institutional background, and formal qualifications.",
             "span": {
-                "start": 1010,
-                "end": 1052
+                "start": 1079,
+                "end": 1162
             }
         },
         {
             "field_type": "work_history",
             "field_name": "Work History",
-            "field_value": "1. DevOps Engineer at Jones Inc (2023 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Wise, Conley and Stephenson (2019 - 2021)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
+            "field_value": "1. Product Manager at Jones Inc (2022 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Wise, Conley and Stephenson (2020 - 2020)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
             "necessity_label": "necessary",
             "reason": "Essential for evaluating candidate's prior professional experience, relevant responsibilities, and career trajectory.",
             "span": {
-                "start": 1193,
-                "end": 1464
+                "start": 1303,
+                "end": 1574
             }
         },
         {
             "field_type": "skills",
             "field_name": "Skills & Competencies",
-            "field_value": "Financial Modeling, Risk Analysis, Bloomberg Terminal, Advanced Excel, CFA Level II",
+            "field_value": "Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA",
             "necessity_label": "necessary",
             "reason": "Directly reflects technical, operational, and domain competencies required for job performance.",
             "span": {
-                "start": 1607,
-                "end": 1690
+                "start": 1717,
+                "end": 1798
             }
         }
     ]

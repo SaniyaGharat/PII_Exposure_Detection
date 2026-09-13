@@ -2,6 +2,9 @@
     "document_id": "job_068",
     "document_type": "job_application",
     "document_purpose": "To evaluate a candidate's qualifications, skills, education, and professional experience for potential employment.",
+    "sub_conditions": {
+        "is_remote_role": true
+    },
     "fields": [
         {
             "field_type": "full_name",
@@ -17,7 +20,7 @@
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "April 17, 1981",
+            "field_value": "April 18, 1981",
             "necessity_label": "unnecessary",
             "reason": "Date of birth is generally not required for evaluating qualifications during initial employment screening and may create discrimination concerns.",
             "span": {
@@ -28,45 +31,45 @@
         {
             "field_type": "gender",
             "field_name": "Gender",
-            "field_value": "Non-Binary",
+            "field_value": "Prefer not to disclose",
             "necessity_label": "contextual",
             "reason": "Gender is not required for qualification evaluation, though occasionally collected under optional equal employment opportunity (EEO) demographic monitoring.",
             "span": {
                 "start": 443,
-                "end": 453
+                "end": 465
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Widowed",
+            "field_value": "Divorced",
             "necessity_label": "unnecessary",
             "reason": "Marital status is irrelevant to assessing job competence and creates potential exposure to marital status or gender discrimination.",
             "span": {
-                "start": 476,
-                "end": 483
+                "start": 488,
+                "end": 496
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religion",
-            "field_value": "Atheist",
+            "field_value": "Buddhism",
             "necessity_label": "unnecessary",
             "reason": "Religious beliefs are completely irrelevant to job performance and introduce unlawful bias risks under employment regulations.",
             "span": {
-                "start": 506,
-                "end": 513
+                "start": 519,
+                "end": 527
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "395-94-7561",
+            "field_value": "814-40-7274",
             "necessity_label": "unnecessary",
             "reason": "Government national identification numbers are unnecessary at initial screening and introduce high identity theft exposure.",
             "span": {
-                "start": 536,
-                "end": 547
+                "start": 550,
+                "end": 561
             }
         },
         {
@@ -76,8 +79,8 @@
             "necessity_label": "necessary",
             "reason": "Required as a primary electronic communication channel for interview scheduling and official employment notifications.",
             "span": {
-                "start": 570,
-                "end": 595
+                "start": 584,
+                "end": 609
             }
         },
         {
@@ -87,63 +90,63 @@
             "necessity_label": "necessary",
             "reason": "Required for direct contact, telephone screening sessions, and urgent recruitment updates.",
             "span": {
-                "start": 618,
-                "end": 634
+                "start": 632,
+                "end": 648
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "43426 Jones Rapid Suite 968, Stephensstad, UT 70874",
-            "necessity_label": "contextual",
-            "reason": "Full street address is unnecessary for initial screening (city/region suffices), but may be required for local payroll tax jurisdictions or commute assessment.",
+            "necessity_label": "unnecessary",
+            "reason": "Full street address is unnecessary for initial screening for 100% remote roles; state/country jurisdiction suffices.",
             "span": {
-                "start": 657,
-                "end": 708
+                "start": 671,
+                "end": 722
             }
         },
         {
             "field_type": "job_title",
             "field_name": "Position Applied For",
-            "field_value": "Product Manager",
+            "field_value": "DevOps Engineer",
             "necessity_label": "necessary",
             "reason": "Specifies the target role against which candidate qualifications and criteria are evaluated.",
             "span": {
-                "start": 829,
-                "end": 844
+                "start": 859,
+                "end": 874
             }
         },
         {
             "field_type": "education",
             "field_name": "Education",
-            "field_value": "M.S. in Data Analytics - Purdue University (Graduated 2020)",
+            "field_value": "MBA - Columbia University (Graduated 2017)",
             "necessity_label": "necessary",
             "reason": "Essential for verifying required academic degrees, institutional background, and formal qualifications.",
             "span": {
-                "start": 984,
-                "end": 1043
+                "start": 1063,
+                "end": 1105
             }
         },
         {
             "field_type": "work_history",
             "field_name": "Work History",
-            "field_value": "1. Product Manager at Nguyen LLC (2021 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Diaz-Frederick (2018 - 2021)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
+            "field_value": "1. DevOps Engineer at Nguyen LLC (2022 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Diaz-Frederick (2019 - 2021)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
             "necessity_label": "necessary",
             "reason": "Essential for evaluating candidate's prior professional experience, relevant responsibilities, and career trajectory.",
             "span": {
-                "start": 1184,
-                "end": 1443
+                "start": 1246,
+                "end": 1505
             }
         },
         {
             "field_type": "skills",
             "field_name": "Skills & Competencies",
-            "field_value": "Network Security, Penetration Testing, SIEM, Incident Response, ISO 27001",
+            "field_value": "Financial Modeling, Risk Analysis, Bloomberg Terminal, Advanced Excel, CFA Level II",
             "necessity_label": "necessary",
             "reason": "Directly reflects technical, operational, and domain competencies required for job performance.",
             "span": {
-                "start": 1586,
-                "end": 1659
+                "start": 1648,
+                "end": 1731
             }
         }
     ]

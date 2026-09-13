@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Joint / Co-Borrower Credit Application
 Applicant Name:       Jessica Meyer
-Date of Birth:        August 01, 1991
-Marital Status:       Domestic Partnership
-Religious Belief:     Judaism
+Date of Birth:        August 02, 1991
+Marital Status:       Divorced
+Religious Belief:     Agnostic
 Phone Number:         511-376-7412x4151
 Email Address:        jessica.meyer@yahoo.com
 Residential Address:  547 Jasmine Island, South Craighaven, MD 25456
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Retired
+Employment Status:    Self-Employed
 Employer Name:        Monroe, Garrett and Avery
-Gross Annual Income:  $122,000.00 USD
-Bank Account Number:  ACCT-1408988968
-Credit Score (FICO):  664 (FICO Score 8)
+Gross Annual Income:  $81,000.00 USD
+Bank Account Number:  ACCT-6661014794
+Credit Score (FICO):  650 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
 
 Biometric Security Identifier:
 SHA256:4ebe0ffa958713435971f073 (Biometric Minutiae Key)

@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Wanda Martinez
-Date of Birth:        September 23, 2000
+Encounter Modality:   In-Person Outpatient Clinical Visit
+Date of Birth:        September 24, 2000
 Phone Number:         (474)999-4657x96784
 Home Address:         47732 Cory Center, South Erikaburgh, MS 79745
-Marital Status:       Widowed
+Marital Status:       Married
 Occupation:           Sound technician, broadcasting/film/video
-Religious Preference: Atheist
-National ID / SSN:    308-53-3353
-Insurance Policy No:  AET-52857920
+Religious Preference: Islam
+National ID / SSN:    730-85-4920
+Insurance Policy No:  BLU-16813620
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Brittany Howell (Adult Child) - Phone: 618-777-3477
+Brittany Howell (Partner) - Phone: 618-777-3477
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
+No Known Drug Allergies (NKDA), No known environmental allergies.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Omeprazole 20mg PO daily before breakfast, Calcium + Vitamin D supplement.
+Metformin 500mg PO BID with meals, Glipizide 5mg daily.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
+No significant past medical history. Non-smoker, no past surgeries.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

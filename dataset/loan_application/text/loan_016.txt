@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Haley Hill
-Date of Birth:        October 04, 1999
-Marital Status:       Widowed
-Religious Belief:     Sikhism
+Date of Birth:        October 05, 1999
+Marital Status:       Married
+Religious Belief:     Prefer not to disclose
 Phone Number:         837.646.0523x3027
 Email Address:        haley.hill@hotmail.com
 Residential Address:  86567 Todd Lock, New Jessicaport, UT 26072
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Employed Full-Time
+Employment Status:    Retired
 Employer Name:        Long, Anderson and Goodwin
-Gross Annual Income:  $68,000.00 USD
-Bank Account Number:  ACCT-4562272871
-Credit Score (FICO):  826 (FICO Score 8)
+Gross Annual Income:  $69,000.00 USD
+Bank Account Number:  ACCT-2635231601
+Credit Score (FICO):  775 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
 
 Biometric Security Identifier:
 SHA256:6cf7799215af6978d91a667f (Biometric Minutiae Key)

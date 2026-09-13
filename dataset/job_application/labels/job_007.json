@@ -2,82 +2,85 @@
     "document_id": "job_007",
     "document_type": "job_application",
     "document_purpose": "To evaluate a candidate's qualifications, skills, education, and professional experience for potential employment.",
+    "sub_conditions": {
+        "is_remote_role": false
+    },
     "fields": [
         {
             "field_type": "full_name",
             "field_name": "Full Name",
-            "field_value": "Christopher Smith",
+            "field_value": "Carmen Smith",
             "necessity_label": "necessary",
             "reason": "Required to unambiguously identify the candidate, manage application tracking, and conduct hiring correspondence.",
             "span": {
                 "start": 370,
-                "end": 387
+                "end": 382
             }
         },
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "October 24, 2000",
+            "field_value": "October 25, 2000",
             "necessity_label": "unnecessary",
             "reason": "Date of birth is generally not required for evaluating qualifications during initial employment screening and may create discrimination concerns.",
             "span": {
-                "start": 410,
-                "end": 426
+                "start": 405,
+                "end": 421
             }
         },
         {
             "field_type": "gender",
             "field_name": "Gender",
-            "field_value": "Non-Binary",
+            "field_value": "Female",
             "necessity_label": "contextual",
             "reason": "Gender is not required for qualification evaluation, though occasionally collected under optional equal employment opportunity (EEO) demographic monitoring.",
             "span": {
-                "start": 449,
-                "end": 459
+                "start": 444,
+                "end": 450
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Single",
+            "field_value": "Widowed",
             "necessity_label": "unnecessary",
             "reason": "Marital status is irrelevant to assessing job competence and creates potential exposure to marital status or gender discrimination.",
             "span": {
-                "start": 482,
-                "end": 488
+                "start": 473,
+                "end": 480
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religion",
-            "field_value": "Buddhism",
+            "field_value": "Hinduism",
             "necessity_label": "unnecessary",
             "reason": "Religious beliefs are completely irrelevant to job performance and introduce unlawful bias risks under employment regulations.",
             "span": {
-                "start": 511,
-                "end": 519
+                "start": 503,
+                "end": 511
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "680-50-4483",
+            "field_value": "371-27-5040",
             "necessity_label": "unnecessary",
             "reason": "Government national identification numbers are unnecessary at initial screening and introduce high identity theft exposure.",
             "span": {
-                "start": 542,
-                "end": 553
+                "start": 534,
+                "end": 545
             }
         },
         {
             "field_type": "email",
             "field_name": "Email Address",
-            "field_value": "christopher.smith@hotmail.com",
+            "field_value": "carmen.smith@hotmail.com",
             "necessity_label": "necessary",
             "reason": "Required as a primary electronic communication channel for interview scheduling and official employment notifications.",
             "span": {
-                "start": 576,
-                "end": 605
+                "start": 568,
+                "end": 592
             }
         },
         {
@@ -87,52 +90,52 @@
             "necessity_label": "necessary",
             "reason": "Required for direct contact, telephone screening sessions, and urgent recruitment updates.",
             "span": {
-                "start": 628,
-                "end": 641
+                "start": 615,
+                "end": 628
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "820 Melissa Cliff Apt. 361, New Brooke, RI 11246",
-            "necessity_label": "contextual",
-            "reason": "Full street address is unnecessary for initial screening (city/region suffices), but may be required for local payroll tax jurisdictions or commute assessment.",
+            "necessity_label": "necessary",
+            "reason": "Required for assessing commute feasibility, physical facility access, and local payroll tax withholding jurisdiction.",
             "span": {
-                "start": 664,
-                "end": 712
+                "start": 651,
+                "end": 699
             }
         },
         {
             "field_type": "job_title",
             "field_name": "Position Applied For",
-            "field_value": "Senior Software Engineer",
+            "field_value": "Financial Analyst",
             "necessity_label": "necessary",
             "reason": "Specifies the target role against which candidate qualifications and criteria are evaluated.",
             "span": {
-                "start": 833,
-                "end": 857
+                "start": 836,
+                "end": 853
             }
         },
         {
             "field_type": "education",
             "field_name": "Education",
-            "field_value": "B.A. in Economics - University of Washington (Graduated 2022)",
+            "field_value": "B.S. in Information Systems - Purdue University (Graduated 2013)",
             "necessity_label": "necessary",
             "reason": "Essential for verifying required academic degrees, institutional background, and formal qualifications.",
             "span": {
-                "start": 997,
-                "end": 1058
+                "start": 1050,
+                "end": 1114
             }
         },
         {
             "field_type": "work_history",
             "field_name": "Work History",
-            "field_value": "1. Senior Software Engineer at Baker-Bowers (2022 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Mitchell-Horton (2020 - 2021)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
+            "field_value": "1. Financial Analyst at Baker-Bowers (2023 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Mitchell-Horton (2020 - 2021)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
             "necessity_label": "necessary",
             "reason": "Essential for evaluating candidate's prior professional experience, relevant responsibilities, and career trajectory.",
             "span": {
-                "start": 1199,
-                "end": 1470
+                "start": 1255,
+                "end": 1519
             }
         },
         {
@@ -142,8 +145,8 @@
             "necessity_label": "necessary",
             "reason": "Directly reflects technical, operational, and domain competencies required for job performance.",
             "span": {
-                "start": 1613,
-                "end": 1682
+                "start": 1662,
+                "end": 1731
             }
         }
     ]

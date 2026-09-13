@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Joint / Co-Borrower Credit Application
 Applicant Name:       Nancy Contreras
-Date of Birth:        January 21, 1994
-Marital Status:       Divorced
-Religious Belief:     Agnostic
+Date of Birth:        January 22, 1994
+Marital Status:       Single
+Religious Belief:     Unaffiliated
 Phone Number:         +1-769-558-7413x1467
 Email Address:        nancy.contreras@hotmail.com
 Residential Address:  27515 Bush Trail Suite 796, North Kelly, NY 28695
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Contractor / Freelancer
+Employment Status:    Self-Employed
 Employer Name:        Brown-Ingram
-Gross Annual Income:  $195,000.00 USD
-Bank Account Number:  ACCT-2941289685
-Credit Score (FICO):  751 (FICO Score 8)
+Gross Annual Income:  $163,000.00 USD
+Bank Account Number:  ACCT-6186758088
+Credit Score (FICO):  709 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-No significant past medical history. Non-smoker, no past surgeries.
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
 
 Biometric Security Identifier:
 SHA256:ff44a3ec6151f2f82d0b8cbc (Biometric Minutiae Key)

@@ -4,37 +4,38 @@
 
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
-Full Name:            Robert Blair
-Date of Birth:        April 21, 1992
-Gender:               Male
-Marital Status:       Widowed
-Religious Belief:     Prefer not to disclose
-National ID / SSN:    384-10-3615
-Email Address:        robert.blair@yahoo.com
+Full Name:            Renee Blair
+Date of Birth:        April 22, 1992
+Gender:               Female
+Marital Status:       Single
+Religious Belief:     Hinduism
+National ID / SSN:    814-64-6574
+Email Address:        renee.blair@yahoo.com
 Phone Number:         001-831-603-4131
 Home Address:         55341 Amanda Gardens Apt. 764, Lake Mark, WI 07832
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
 Position Applied For: Systems Architect
+Work Modality:        On-Site Office (Physical Facility)
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.S. in Information Systems - University of Washington (Graduated 2018)
+B.A. in Economics - Columbia University (Graduated 2016)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
 1. Systems Architect at Martinez, Nielsen and Miller (2021 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Calderon-Montgomery (2020 - 2020)
+2. Associate Specialist at Calderon-Montgomery (2020 - 2021)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Statistical Analysis, R, Tableau, Data Pipelines, Predictive Modeling
+Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA
 
 --------------------------------------------------------------------------------
 DECLARATION:

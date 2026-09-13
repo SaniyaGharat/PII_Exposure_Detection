@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Kelly Gregory
-Date of Birth:        January 31, 2003
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        February 01, 2003
 Phone Number:         +1-536-439-2649x5782
 Home Address:         48262 Lonnie Point, East Lonnieberg, VA 04365
 Marital Status:       Married
 Occupation:           Exercise physiologist
-Religious Preference: Agnostic
-National ID / SSN:    193-38-8391
-Insurance Policy No:  AET-13579612
+Religious Preference: Christianity
+National ID / SSN:    246-87-8179
+Insurance Policy No:  MED-26942307
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Sheryl Gutierrez (Partner) - Phone: (547)542-3122x09949
+Sheryl Gutierrez (Adult Child) - Phone: (547)542-3122x09949
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Aspirin (bronchospasm), Codeine (nausea).
+Penicillin (rash, hives), Shellfish (mild itching).
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Lisinopril 10mg PO daily, Atorvastatin 20mg PO at bedtime.
+Metformin 500mg PO BID with meals, Glipizide 5mg daily.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
+No significant past medical history. Non-smoker, no past surgeries.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

@@ -2,23 +2,24 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Amanda Sutton
-Date of Birth:        May 18, 1988
+Date of Birth:        May 19, 1988
 Marital Status:       Widowed
-Religious Belief:     Christianity
+Religious Belief:     Sikhism
 Phone Number:         251-355-4234
 Email Address:        amanda.sutton@yahoo.com
 Residential Address:  1128 Chapman Valley, Davisstad, UT 75494
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Retired
+Employment Status:    Employed Full-Time
 Employer Name:        Nelson, Garcia and Williams
-Gross Annual Income:  $142,000.00 USD
-Bank Account Number:  ACCT-4711216152
-Credit Score (FICO):  670 (FICO Score 8)
+Gross Annual Income:  $144,000.00 USD
+Bank Account Number:  ACCT-8418324922
+Credit Score (FICO):  661 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------

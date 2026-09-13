@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Andrew Harris
-Date of Birth:        December 30, 1949
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        December 31, 1949
 Phone Number:         480.378.2357x845
 Home Address:         07681 Larry Cape, West Steventon, CT 68734
-Marital Status:       Domestic Partnership
+Marital Status:       Widowed
 Occupation:           Colour technologist
 Religious Preference: Unaffiliated
-National ID / SSN:    120-59-8702
-Insurance Policy No:  MED-95318289
+National ID / SSN:    520-62-2208
+Insurance Policy No:  BLU-52550733
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Nichole Johnson (Partner) - Phone: 001-443-653-3448x57142
+Nichole Johnson (Spouse) - Phone: 001-443-653-3448x57142
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Aspirin (bronchospasm), Codeine (nausea).
+Penicillin (rash, hives), Shellfish (mild itching).
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
+Omeprazole 20mg PO daily before breakfast, Calcium + Vitamin D supplement.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
+Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

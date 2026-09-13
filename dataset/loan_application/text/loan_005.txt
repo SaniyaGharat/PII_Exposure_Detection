@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Devin Jimenez
-Date of Birth:        June 12, 1974
-Marital Status:       Widowed
-Religious Belief:     Unaffiliated
+Date of Birth:        June 13, 1974
+Marital Status:       Domestic Partnership
+Religious Belief:     Atheist
 Phone Number:         (663)703-9752
 Email Address:        devin.jimenez@hotmail.com
 Residential Address:  640 Melanie Isle, Johnside, AR 87664
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Contractor / Freelancer
+Employment Status:    Self-Employed
 Employer Name:        Horton, Walker and Salas
-Gross Annual Income:  $53,000.00 USD
-Bank Account Number:  ACCT-7579604766
-Credit Score (FICO):  666 (FICO Score 8)
+Gross Annual Income:  $102,000.00 USD
+Bank Account Number:  ACCT-9909257076
+Credit Score (FICO):  820 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
 
 Biometric Security Identifier:
 SHA256:d16a9d91a627e44735210052 (Biometric Minutiae Key)

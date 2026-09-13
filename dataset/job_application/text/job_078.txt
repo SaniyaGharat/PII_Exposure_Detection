@@ -5,36 +5,37 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Kyle Lawson
-Date of Birth:        July 13, 1980
-Gender:               Prefer not to disclose
-Marital Status:       Single
-Religious Belief:     Agnostic
-National ID / SSN:    200-91-2646
+Date of Birth:        July 14, 1980
+Gender:               Male
+Marital Status:       Domestic Partnership
+Religious Belief:     Sikhism
+National ID / SSN:    643-74-5465
 Email Address:        kyle.lawson@yahoo.com
 Phone Number:         001-264-703-7613x7918
 Home Address:         9658 Kathryn Trail, North Brendatown, KS 28778
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Systems Architect
+Position Applied For: Data Scientist
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.S. in Computer Science - Cornell University (Graduated 2011)
+M.S. in Data Analytics - Purdue University (Graduated 2021)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Systems Architect at Johnson, Boone and Liu (2021 - Present)
+1. Data Scientist at Johnson, Boone and Liu (2022 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Holmes PLC (2019 - 2020)
+2. Associate Specialist at Holmes PLC (2018 - 2020)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices
+Financial Modeling, Risk Analysis, Bloomberg Terminal, Advanced Excel, CFA Level II
 
 --------------------------------------------------------------------------------
 DECLARATION:

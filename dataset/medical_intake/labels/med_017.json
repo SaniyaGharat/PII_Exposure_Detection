@@ -2,6 +2,9 @@
     "document_id": "med_017",
     "document_type": "medical_intake",
     "document_purpose": "To collect relevant patient information required for medical assessment, diagnosis, treatment, and healthcare administration.",
+    "sub_conditions": {
+        "is_telehealth": false
+    },
     "fields": [
         {
             "field_type": "full_name",
@@ -10,19 +13,19 @@
             "necessity_label": "necessary",
             "reason": "Essential for patient identification, medical record linkage, and preventing catastrophic misidentification in clinical care.",
             "span": {
-                "start": 359,
-                "end": 369
+                "start": 369,
+                "end": 379
             }
         },
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "July 23, 1985",
+            "field_value": "July 24, 1985",
             "necessity_label": "necessary",
             "reason": "Crucial for clinical safety, age-dependent pharmaceutical dosage calculations, developmental assessment, and primary patient record matching.",
             "span": {
-                "start": 392,
-                "end": 405
+                "start": 460,
+                "end": 473
             }
         },
         {
@@ -32,30 +35,30 @@
             "necessity_label": "necessary",
             "reason": "Required for appointment reminders, urgent clinical test result notifications, and post-procedure follow-ups.",
             "span": {
-                "start": 428,
-                "end": 441
+                "start": 496,
+                "end": 509
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "380 Samantha Plaza Suite 895, Sylviaview, IN 79978",
-            "necessity_label": "contextual",
-            "reason": "Used for patient billing, demographic analysis, and local public health reporting, though secondary to immediate clinical diagnosis.",
+            "necessity_label": "necessary",
+            "reason": "Necessary for physical clinical admission, outpatient billing dispatch, and local public health reporting.",
             "span": {
-                "start": 464,
-                "end": 514
+                "start": 532,
+                "end": 582
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Widowed",
+            "field_value": "Married",
             "necessity_label": "contextual",
             "reason": "May provide helpful context regarding home support network and surrogate decision-makers, but not universally necessary for diagnostics.",
             "span": {
-                "start": 537,
-                "end": 544
+                "start": 605,
+                "end": 612
             }
         },
         {
@@ -65,8 +68,8 @@
             "necessity_label": "contextual",
             "reason": "Provides relevant context for evaluating occupational exposures, repetitive stress injuries, or physical disability accommodations.",
             "span": {
-                "start": 567,
-                "end": 592
+                "start": 635,
+                "end": 660
             }
         },
         {
@@ -76,52 +79,52 @@
             "necessity_label": "contextual",
             "reason": "Contextual in clinical settings to respect medical restrictions (e.g., blood transfusions, dietary rules, end-of-life pastoral care), but optional.",
             "span": {
-                "start": 615,
-                "end": 637
+                "start": 683,
+                "end": 705
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "758-91-6295",
+            "field_value": "241-42-1854",
             "necessity_label": "unnecessary",
             "reason": "Standard government national IDs are unnecessary when unique Medical Record Numbers (MRN) or insurance IDs exist, creating avoidable exposure.",
             "span": {
-                "start": 660,
-                "end": 671
+                "start": 728,
+                "end": 739
             }
         },
         {
             "field_type": "insurance_number",
             "field_name": "Health Insurance Policy Number",
-            "field_value": "AET-30261159",
+            "field_value": "UHC-59823245",
             "necessity_label": "contextual",
             "reason": "Necessary for healthcare claims billing and insurance verification, but not strictly required for emergency or direct self-pay clinical triage.",
             "span": {
-                "start": 694,
-                "end": 706
+                "start": 762,
+                "end": 774
             }
         },
         {
             "field_type": "emergency_contact",
             "field_name": "Emergency Contact",
-            "field_value": "Jordan Powell (Partner) - Phone: 6427681818",
+            "field_value": "Jordan Powell (Adult Child) - Phone: 6427681818",
             "necessity_label": "necessary",
             "reason": "Vital in acute medical situations, patient incapacitation, or urgent medical decisions where patient proxy consent is needed.",
             "span": {
-                "start": 834,
-                "end": 877
+                "start": 902,
+                "end": 949
             }
         },
         {
             "field_type": "allergies",
             "field_name": "Allergies & Sensitivities",
-            "field_value": "Aspirin (bronchospasm), Codeine (nausea).",
+            "field_value": "No Known Drug Allergies (NKDA), No known environmental allergies.",
             "necessity_label": "necessary",
             "reason": "High-priority safety data required to prevent life-threatening anaphylaxis, drug allergies, and cross-reactive interventions.",
             "span": {
-                "start": 1029,
-                "end": 1070
+                "start": 1101,
+                "end": 1166
             }
         },
         {
@@ -131,19 +134,19 @@
             "necessity_label": "necessary",
             "reason": "Critical for preventing adverse drug-drug interactions, polypharmacy complications, and dosage conflicts.",
             "span": {
-                "start": 1219,
-                "end": 1277
+                "start": 1315,
+                "end": 1373
             }
         },
         {
             "field_type": "medical_history",
             "field_name": "Past Medical History",
-            "field_value": "Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).",
+            "field_value": "No significant past medical history. Non-smoker, no past surgeries.",
             "necessity_label": "necessary",
             "reason": "Essential clinical context for differential diagnosis, identifying chronic comorbidities, and planning safe therapeutic interventions.",
             "span": {
-                "start": 1435,
-                "end": 1514
+                "start": 1531,
+                "end": 1598
             }
         }
     ]

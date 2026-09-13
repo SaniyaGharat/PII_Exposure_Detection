@@ -4,37 +4,38 @@
 
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
-Full Name:            Tracy Smith
-Date of Birth:        March 17, 1996
-Gender:               Non-Binary
-Marital Status:       Single
-Religious Belief:     Christianity
-National ID / SSN:    334-18-1514
-Email Address:        tracy.smith@yahoo.com
+Full Name:            Theresa Smith
+Date of Birth:        March 18, 1996
+Gender:               Female
+Marital Status:       Married
+Religious Belief:     Prefer not to disclose
+National ID / SSN:    690-70-4981
+Email Address:        theresa.smith@yahoo.com
 Phone Number:         +1-289-837-3467
 Home Address:         272 Rebecca Ramp Apt. 162, Whiteview, MS 43407
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
 Position Applied For: Senior Software Engineer
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.S. in Information Systems - Columbia University (Graduated 2013)
+M.S. in Data Analytics - Georgia Institute of Technology (Graduated 2018)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Senior Software Engineer at James, Smith and Bell (2023 - Present)
+1. Senior Software Engineer at James, Smith and Bell (2021 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Castaneda-Ashley (2018 - 2020)
+2. Associate Specialist at Castaneda-Ashley (2019 - 2021)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA
+React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices
 
 --------------------------------------------------------------------------------
 DECLARATION:

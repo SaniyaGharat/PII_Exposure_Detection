@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Amy Hughes
-Date of Birth:        January 02, 1976
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        January 03, 1976
 Phone Number:         459-274-1218
 Home Address:         23164 Jesse Shoals Apt. 705, East Markchester, MO 21083
-Marital Status:       Married
+Marital Status:       Domestic Partnership
 Occupation:           Engineer, drilling
-Religious Preference: Prefer not to disclose
-National ID / SSN:    600-21-9361
-Insurance Policy No:  UHC-17467311
+Religious Preference: Unaffiliated
+National ID / SSN:    521-11-1274
+Insurance Policy No:  KSR-46875077
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Betty Barnes PhD (Spouse) - Phone: (932)634-6729x9493
+Betty Barnes PhD (Adult Child) - Phone: (932)634-6729x9493
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Aspirin (bronchospasm), Codeine (nausea).
+No Known Drug Allergies (NKDA), No known environmental allergies.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Metformin 500mg PO BID with meals, Glipizide 5mg daily.
+Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Hypothyroidism (stable on levothyroxine), Migraines with aura.
+Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

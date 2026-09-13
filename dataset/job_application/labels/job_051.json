@@ -2,6 +2,9 @@
     "document_id": "job_051",
     "document_type": "job_application",
     "document_purpose": "To evaluate a candidate's qualifications, skills, education, and professional experience for potential employment.",
+    "sub_conditions": {
+        "is_remote_role": true
+    },
     "fields": [
         {
             "field_type": "full_name",
@@ -17,7 +20,7 @@
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "May 05, 2002",
+            "field_value": "May 06, 2002",
             "necessity_label": "unnecessary",
             "reason": "Date of birth is generally not required for evaluating qualifications during initial employment screening and may create discrimination concerns.",
             "span": {
@@ -28,23 +31,23 @@
         {
             "field_type": "gender",
             "field_name": "Gender",
-            "field_value": "Non-Binary",
+            "field_value": "Prefer not to disclose",
             "necessity_label": "contextual",
             "reason": "Gender is not required for qualification evaluation, though occasionally collected under optional equal employment opportunity (EEO) demographic monitoring.",
             "span": {
                 "start": 442,
-                "end": 452
+                "end": 464
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Widowed",
+            "field_value": "Domestic Partnership",
             "necessity_label": "unnecessary",
             "reason": "Marital status is irrelevant to assessing job competence and creates potential exposure to marital status or gender discrimination.",
             "span": {
-                "start": 475,
-                "end": 482
+                "start": 487,
+                "end": 507
             }
         },
         {
@@ -54,19 +57,19 @@
             "necessity_label": "unnecessary",
             "reason": "Religious beliefs are completely irrelevant to job performance and introduce unlawful bias risks under employment regulations.",
             "span": {
-                "start": 505,
-                "end": 512
+                "start": 530,
+                "end": 537
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "750-68-3506",
+            "field_value": "584-80-9698",
             "necessity_label": "unnecessary",
             "reason": "Government national identification numbers are unnecessary at initial screening and introduce high identity theft exposure.",
             "span": {
-                "start": 535,
-                "end": 546
+                "start": 560,
+                "end": 571
             }
         },
         {
@@ -76,8 +79,8 @@
             "necessity_label": "necessary",
             "reason": "Required as a primary electronic communication channel for interview scheduling and official employment notifications.",
             "span": {
-                "start": 569,
-                "end": 595
+                "start": 594,
+                "end": 620
             }
         },
         {
@@ -87,63 +90,63 @@
             "necessity_label": "necessary",
             "reason": "Required for direct contact, telephone screening sessions, and urgent recruitment updates.",
             "span": {
-                "start": 618,
-                "end": 636
+                "start": 643,
+                "end": 661
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "69495 Erickson Hills Suite 055, South Brandytown, PA 62706",
-            "necessity_label": "contextual",
-            "reason": "Full street address is unnecessary for initial screening (city/region suffices), but may be required for local payroll tax jurisdictions or commute assessment.",
+            "necessity_label": "unnecessary",
+            "reason": "Full street address is unnecessary for initial screening for 100% remote roles; state/country jurisdiction suffices.",
             "span": {
-                "start": 659,
-                "end": 717
+                "start": 684,
+                "end": 742
             }
         },
         {
             "field_type": "job_title",
             "field_name": "Position Applied For",
-            "field_value": "Data Scientist",
+            "field_value": "Database Administrator",
             "necessity_label": "necessary",
             "reason": "Specifies the target role against which candidate qualifications and criteria are evaluated.",
             "span": {
-                "start": 838,
-                "end": 852
+                "start": 879,
+                "end": 901
             }
         },
         {
             "field_type": "education",
             "field_name": "Education",
-            "field_value": "B.S. in Information Systems - Purdue University (Graduated 2010)",
+            "field_value": "B.S. in Computer Science - Georgia Institute of Technology (Graduated 2014)",
             "necessity_label": "necessary",
             "reason": "Essential for verifying required academic degrees, institutional background, and formal qualifications.",
             "span": {
-                "start": 992,
-                "end": 1056
+                "start": 1090,
+                "end": 1165
             }
         },
         {
             "field_type": "work_history",
             "field_name": "Work History",
-            "field_value": "1. Data Scientist at Long LLC (2022 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Mcmillan, Fischer and Gonzalez (2020 - 2020)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
+            "field_value": "1. Database Administrator at Long LLC (2021 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Mcmillan, Fischer and Gonzalez (2020 - 2020)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
             "necessity_label": "necessary",
             "reason": "Essential for evaluating candidate's prior professional experience, relevant responsibilities, and career trajectory.",
             "span": {
-                "start": 1197,
-                "end": 1469
+                "start": 1306,
+                "end": 1586
             }
         },
         {
             "field_type": "skills",
             "field_name": "Skills & Competencies",
-            "field_value": "React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices",
+            "field_value": "Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA",
             "necessity_label": "necessary",
             "reason": "Directly reflects technical, operational, and domain competencies required for job performance.",
             "span": {
-                "start": 1612,
-                "end": 1679
+                "start": 1729,
+                "end": 1810
             }
         }
     ]

@@ -2,6 +2,9 @@
     "document_id": "med_057",
     "document_type": "medical_intake",
     "document_purpose": "To collect relevant patient information required for medical assessment, diagnosis, treatment, and healthcare administration.",
+    "sub_conditions": {
+        "is_telehealth": true
+    },
     "fields": [
         {
             "field_type": "full_name",
@@ -10,19 +13,19 @@
             "necessity_label": "necessary",
             "reason": "Essential for patient identification, medical record linkage, and preventing catastrophic misidentification in clinical care.",
             "span": {
-                "start": 359,
-                "end": 374
+                "start": 369,
+                "end": 384
             }
         },
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "August 24, 1963",
+            "field_value": "August 25, 1963",
             "necessity_label": "necessary",
             "reason": "Crucial for clinical safety, age-dependent pharmaceutical dosage calculations, developmental assessment, and primary patient record matching.",
             "span": {
-                "start": 397,
-                "end": 412
+                "start": 466,
+                "end": 481
             }
         },
         {
@@ -32,30 +35,30 @@
             "necessity_label": "necessary",
             "reason": "Required for appointment reminders, urgent clinical test result notifications, and post-procedure follow-ups.",
             "span": {
-                "start": 435,
-                "end": 454
+                "start": 504,
+                "end": 523
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "579 Ellis Port Apt. 424, South Nathan, LA 06703",
-            "necessity_label": "contextual",
-            "reason": "Used for patient billing, demographic analysis, and local public health reporting, though secondary to immediate clinical diagnosis.",
+            "necessity_label": "unnecessary",
+            "reason": "Physical residential street address is unnecessary for remote telehealth encounters; electronic communication channels suffice.",
             "span": {
-                "start": 477,
-                "end": 524
+                "start": 546,
+                "end": 593
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Widowed",
+            "field_value": "Single",
             "necessity_label": "contextual",
             "reason": "May provide helpful context regarding home support network and surrogate decision-makers, but not universally necessary for diagnostics.",
             "span": {
-                "start": 547,
-                "end": 554
+                "start": 616,
+                "end": 622
             }
         },
         {
@@ -65,85 +68,85 @@
             "necessity_label": "contextual",
             "reason": "Provides relevant context for evaluating occupational exposures, repetitive stress injuries, or physical disability accommodations.",
             "span": {
-                "start": 577,
-                "end": 583
+                "start": 645,
+                "end": 651
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religious Affiliation",
-            "field_value": "Atheist",
+            "field_value": "Agnostic",
             "necessity_label": "contextual",
             "reason": "Contextual in clinical settings to respect medical restrictions (e.g., blood transfusions, dietary rules, end-of-life pastoral care), but optional.",
             "span": {
-                "start": 606,
-                "end": 613
+                "start": 674,
+                "end": 682
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "638-62-7708",
+            "field_value": "697-49-1436",
             "necessity_label": "unnecessary",
             "reason": "Standard government national IDs are unnecessary when unique Medical Record Numbers (MRN) or insurance IDs exist, creating avoidable exposure.",
             "span": {
-                "start": 636,
-                "end": 647
+                "start": 705,
+                "end": 716
             }
         },
         {
             "field_type": "insurance_number",
             "field_name": "Health Insurance Policy Number",
-            "field_value": "KSR-19898653",
+            "field_value": "KSR-73698420",
             "necessity_label": "contextual",
             "reason": "Necessary for healthcare claims billing and insurance verification, but not strictly required for emergency or direct self-pay clinical triage.",
             "span": {
-                "start": 670,
-                "end": 682
+                "start": 739,
+                "end": 751
             }
         },
         {
             "field_type": "emergency_contact",
             "field_name": "Emergency Contact",
-            "field_value": "Duane Huber (Sibling) - Phone: +1-428-942-2223x105",
+            "field_value": "Duane Huber (Spouse) - Phone: +1-428-942-2223x105",
             "necessity_label": "necessary",
             "reason": "Vital in acute medical situations, patient incapacitation, or urgent medical decisions where patient proxy consent is needed.",
             "span": {
-                "start": 810,
-                "end": 860
+                "start": 879,
+                "end": 928
             }
         },
         {
             "field_type": "allergies",
             "field_name": "Allergies & Sensitivities",
-            "field_value": "Sulfa antibiotics (severe skin reaction), Latex.",
+            "field_value": "Peanuts (anaphylaxis - carries EpiPen), Tree nuts.",
             "necessity_label": "necessary",
             "reason": "High-priority safety data required to prevent life-threatening anaphylaxis, drug allergies, and cross-reactive interventions.",
             "span": {
-                "start": 1012,
-                "end": 1060
+                "start": 1080,
+                "end": 1130
             }
         },
         {
             "field_type": "current_medications",
             "field_name": "Current Medications",
-            "field_value": "Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.",
+            "field_value": "None reported / Over-the-counter multivitamins only.",
             "necessity_label": "necessary",
             "reason": "Critical for preventing adverse drug-drug interactions, polypharmacy complications, and dosage conflicts.",
             "span": {
-                "start": 1209,
-                "end": 1280
+                "start": 1279,
+                "end": 1331
             }
         },
         {
             "field_type": "medical_history",
             "field_name": "Past Medical History",
-            "field_value": "No significant past medical history. Non-smoker, no past surgeries.",
+            "field_value": "Hypothyroidism (stable on levothyroxine), Migraines with aura.",
             "necessity_label": "necessary",
             "reason": "Essential clinical context for differential diagnosis, identifying chronic comorbidities, and planning safe therapeutic interventions.",
             "span": {
-                "start": 1438,
-                "end": 1505
+                "start": 1489,
+                "end": 1551
             }
         }
     ]

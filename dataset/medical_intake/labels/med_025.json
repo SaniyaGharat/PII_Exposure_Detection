@@ -2,6 +2,9 @@
     "document_id": "med_025",
     "document_type": "medical_intake",
     "document_purpose": "To collect relevant patient information required for medical assessment, diagnosis, treatment, and healthcare administration.",
+    "sub_conditions": {
+        "is_telehealth": false
+    },
     "fields": [
         {
             "field_type": "full_name",
@@ -10,19 +13,19 @@
             "necessity_label": "necessary",
             "reason": "Essential for patient identification, medical record linkage, and preventing catastrophic misidentification in clinical care.",
             "span": {
-                "start": 359,
-                "end": 367
+                "start": 369,
+                "end": 377
             }
         },
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "November 17, 1957",
+            "field_value": "November 18, 1957",
             "necessity_label": "necessary",
             "reason": "Crucial for clinical safety, age-dependent pharmaceutical dosage calculations, developmental assessment, and primary patient record matching.",
             "span": {
-                "start": 390,
-                "end": 407
+                "start": 458,
+                "end": 475
             }
         },
         {
@@ -32,30 +35,30 @@
             "necessity_label": "necessary",
             "reason": "Required for appointment reminders, urgent clinical test result notifications, and post-procedure follow-ups.",
             "span": {
-                "start": 430,
-                "end": 447
+                "start": 498,
+                "end": 515
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "36502 Richards Locks, North Tanya, OR 91039",
-            "necessity_label": "contextual",
-            "reason": "Used for patient billing, demographic analysis, and local public health reporting, though secondary to immediate clinical diagnosis.",
+            "necessity_label": "necessary",
+            "reason": "Necessary for physical clinical admission, outpatient billing dispatch, and local public health reporting.",
             "span": {
-                "start": 470,
-                "end": 513
+                "start": 538,
+                "end": 581
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Divorced",
+            "field_value": "Domestic Partnership",
             "necessity_label": "contextual",
             "reason": "May provide helpful context regarding home support network and surrogate decision-makers, but not universally necessary for diagnostics.",
             "span": {
-                "start": 536,
-                "end": 544
+                "start": 604,
+                "end": 624
             }
         },
         {
@@ -65,8 +68,8 @@
             "necessity_label": "contextual",
             "reason": "Provides relevant context for evaluating occupational exposures, repetitive stress injuries, or physical disability accommodations.",
             "span": {
-                "start": 567,
-                "end": 584
+                "start": 647,
+                "end": 664
             }
         },
         {
@@ -76,74 +79,74 @@
             "necessity_label": "contextual",
             "reason": "Contextual in clinical settings to respect medical restrictions (e.g., blood transfusions, dietary rules, end-of-life pastoral care), but optional.",
             "span": {
-                "start": 607,
-                "end": 619
+                "start": 687,
+                "end": 699
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "485-92-6381",
+            "field_value": "120-59-8702",
             "necessity_label": "unnecessary",
             "reason": "Standard government national IDs are unnecessary when unique Medical Record Numbers (MRN) or insurance IDs exist, creating avoidable exposure.",
             "span": {
-                "start": 642,
-                "end": 653
+                "start": 722,
+                "end": 733
             }
         },
         {
             "field_type": "insurance_number",
             "field_name": "Health Insurance Policy Number",
-            "field_value": "BLU-99941500",
+            "field_value": "MED-95318289",
             "necessity_label": "contextual",
             "reason": "Necessary for healthcare claims billing and insurance verification, but not strictly required for emergency or direct self-pay clinical triage.",
             "span": {
-                "start": 676,
-                "end": 688
+                "start": 756,
+                "end": 768
             }
         },
         {
             "field_type": "emergency_contact",
             "field_name": "Emergency Contact",
-            "field_value": "Kyle Watson (Spouse) - Phone: 732-471-9500",
+            "field_value": "Kyle Watson (Partner) - Phone: 732-471-9500",
             "necessity_label": "necessary",
             "reason": "Vital in acute medical situations, patient incapacitation, or urgent medical decisions where patient proxy consent is needed.",
             "span": {
-                "start": 816,
-                "end": 858
+                "start": 896,
+                "end": 939
             }
         },
         {
             "field_type": "allergies",
             "field_name": "Allergies & Sensitivities",
-            "field_value": "No Known Drug Allergies (NKDA), No known environmental allergies.",
+            "field_value": "Aspirin (bronchospasm), Codeine (nausea).",
             "necessity_label": "necessary",
             "reason": "High-priority safety data required to prevent life-threatening anaphylaxis, drug allergies, and cross-reactive interventions.",
             "span": {
-                "start": 1010,
-                "end": 1075
+                "start": 1091,
+                "end": 1132
             }
         },
         {
             "field_type": "current_medications",
             "field_name": "Current Medications",
-            "field_value": "Lisinopril 10mg PO daily, Atorvastatin 20mg PO at bedtime.",
+            "field_value": "Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.",
             "necessity_label": "necessary",
             "reason": "Critical for preventing adverse drug-drug interactions, polypharmacy complications, and dosage conflicts.",
             "span": {
-                "start": 1224,
-                "end": 1282
+                "start": 1281,
+                "end": 1352
             }
         },
         {
             "field_type": "medical_history",
             "field_name": "Past Medical History",
-            "field_value": "No significant past medical history. Non-smoker, no past surgeries.",
+            "field_value": "Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).",
             "necessity_label": "necessary",
             "reason": "Essential clinical context for differential diagnosis, identifying chronic comorbidities, and planning safe therapeutic interventions.",
             "span": {
-                "start": 1440,
-                "end": 1507
+                "start": 1510,
+                "end": 1593
             }
         }
     ]

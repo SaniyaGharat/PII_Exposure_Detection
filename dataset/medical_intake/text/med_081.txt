@@ -2,17 +2,18 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Katherine Young
-Date of Birth:        August 03, 1981
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        August 04, 1981
 Phone Number:         3057452280
 Home Address:         93183 Scott Junctions Suite 084, Port Hannah, NY 79706
-Marital Status:       Domestic Partnership
+Marital Status:       Widowed
 Occupation:           Medical illustrator
-Religious Preference: Sikhism
-National ID / SSN:    659-55-5331
-Insurance Policy No:  KSR-74985553
+Religious Preference: Atheist
+National ID / SSN:    486-58-2314
+Insurance Policy No:  KSR-27849589
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
@@ -22,17 +23,17 @@ Michelle House (Adult Child) - Phone: 371.519.9180x812
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Sulfa antibiotics (severe skin reaction), Latex.
+Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Metformin 500mg PO BID with meals, Glipizide 5mg daily.
+Lisinopril 10mg PO daily, Atorvastatin 20mg PO at bedtime.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

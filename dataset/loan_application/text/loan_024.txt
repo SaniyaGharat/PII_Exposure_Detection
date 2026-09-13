@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Joint / Co-Borrower Credit Application
 Applicant Name:       Christopher Miller
-Date of Birth:        January 12, 1977
-Marital Status:       Married
-Religious Belief:     Agnostic
+Date of Birth:        January 13, 1977
+Marital Status:       Widowed
+Religious Belief:     Islam
 Phone Number:         829-401-4870
 Email Address:        christopher.miller@yahoo.com
 Residential Address:  816 Christina Village Apt. 685, Lake Donna, PW 69721
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Retired
+Employment Status:    Contractor / Freelancer
 Employer Name:        Lawson and Sons
-Gross Annual Income:  $98,000.00 USD
-Bank Account Number:  ACCT-4579265601
-Credit Score (FICO):  674 (FICO Score 8)
+Gross Annual Income:  $87,000.00 USD
+Bank Account Number:  ACCT-8265834251
+Credit Score (FICO):  773 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
+Hypothyroidism (stable on levothyroxine), Migraines with aura.
 
 Biometric Security Identifier:
 SHA256:ea60a10fa8e499b63e93212b (Biometric Minutiae Key)

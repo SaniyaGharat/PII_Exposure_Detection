@@ -2,6 +2,9 @@
     "document_id": "med_001",
     "document_type": "medical_intake",
     "document_purpose": "To collect relevant patient information required for medical assessment, diagnosis, treatment, and healthcare administration.",
+    "sub_conditions": {
+        "is_telehealth": true
+    },
     "fields": [
         {
             "field_type": "full_name",
@@ -10,19 +13,19 @@
             "necessity_label": "necessary",
             "reason": "Essential for patient identification, medical record linkage, and preventing catastrophic misidentification in clinical care.",
             "span": {
-                "start": 359,
-                "end": 370
+                "start": 369,
+                "end": 380
             }
         },
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "January 28, 1986",
+            "field_value": "January 29, 1986",
             "necessity_label": "necessary",
             "reason": "Crucial for clinical safety, age-dependent pharmaceutical dosage calculations, developmental assessment, and primary patient record matching.",
             "span": {
-                "start": 393,
-                "end": 409
+                "start": 462,
+                "end": 478
             }
         },
         {
@@ -32,30 +35,30 @@
             "necessity_label": "necessary",
             "reason": "Required for appointment reminders, urgent clinical test result notifications, and post-procedure follow-ups.",
             "span": {
-                "start": 432,
-                "end": 451
+                "start": 501,
+                "end": 520
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "6420 Lozano Spurs, Riveratown, AL 88533",
-            "necessity_label": "contextual",
-            "reason": "Used for patient billing, demographic analysis, and local public health reporting, though secondary to immediate clinical diagnosis.",
+            "necessity_label": "unnecessary",
+            "reason": "Physical residential street address is unnecessary for remote telehealth encounters; electronic communication channels suffice.",
             "span": {
-                "start": 474,
-                "end": 513
+                "start": 543,
+                "end": 582
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Divorced",
+            "field_value": "Single",
             "necessity_label": "contextual",
             "reason": "May provide helpful context regarding home support network and surrogate decision-makers, but not universally necessary for diagnostics.",
             "span": {
-                "start": 536,
-                "end": 544
+                "start": 605,
+                "end": 611
             }
         },
         {
@@ -65,52 +68,52 @@
             "necessity_label": "contextual",
             "reason": "Provides relevant context for evaluating occupational exposures, repetitive stress injuries, or physical disability accommodations.",
             "span": {
-                "start": 567,
-                "end": 580
+                "start": 634,
+                "end": 647
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religious Affiliation",
-            "field_value": "Sikhism",
+            "field_value": "Buddhism",
             "necessity_label": "contextual",
             "reason": "Contextual in clinical settings to respect medical restrictions (e.g., blood transfusions, dietary rules, end-of-life pastoral care), but optional.",
             "span": {
-                "start": 603,
-                "end": 610
+                "start": 670,
+                "end": 678
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "206-83-9313",
+            "field_value": "546-85-7560",
             "necessity_label": "unnecessary",
             "reason": "Standard government national IDs are unnecessary when unique Medical Record Numbers (MRN) or insurance IDs exist, creating avoidable exposure.",
             "span": {
-                "start": 633,
-                "end": 644
+                "start": 701,
+                "end": 712
             }
         },
         {
             "field_type": "insurance_number",
             "field_name": "Health Insurance Policy Number",
-            "field_value": "BLU-30767532",
+            "field_value": "KSR-20555833",
             "necessity_label": "contextual",
             "reason": "Necessary for healthcare claims billing and insurance verification, but not strictly required for emergency or direct self-pay clinical triage.",
             "span": {
-                "start": 667,
-                "end": 679
+                "start": 735,
+                "end": 747
             }
         },
         {
             "field_type": "emergency_contact",
             "field_name": "Emergency Contact",
-            "field_value": "Brian Andrews (Partner) - Phone: 321.481.1437x4470",
+            "field_value": "Brian Andrews (Sibling) - Phone: 321.481.1437x4470",
             "necessity_label": "necessary",
             "reason": "Vital in acute medical situations, patient incapacitation, or urgent medical decisions where patient proxy consent is needed.",
             "span": {
-                "start": 807,
-                "end": 857
+                "start": 875,
+                "end": 925
             }
         },
         {
@@ -120,30 +123,30 @@
             "necessity_label": "necessary",
             "reason": "High-priority safety data required to prevent life-threatening anaphylaxis, drug allergies, and cross-reactive interventions.",
             "span": {
-                "start": 1009,
-                "end": 1050
+                "start": 1077,
+                "end": 1118
             }
         },
         {
             "field_type": "current_medications",
             "field_name": "Current Medications",
-            "field_value": "Metformin 500mg PO BID with meals, Glipizide 5mg daily.",
+            "field_value": "Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.",
             "necessity_label": "necessary",
             "reason": "Critical for preventing adverse drug-drug interactions, polypharmacy complications, and dosage conflicts.",
             "span": {
-                "start": 1199,
-                "end": 1254
+                "start": 1267,
+                "end": 1338
             }
         },
         {
             "field_type": "medical_history",
             "field_name": "Past Medical History",
-            "field_value": "Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.",
+            "field_value": "No significant past medical history. Non-smoker, no past surgeries.",
             "necessity_label": "necessary",
             "reason": "Essential clinical context for differential diagnosis, identifying chronic comorbidities, and planning safe therapeutic interventions.",
             "span": {
-                "start": 1412,
-                "end": 1477
+                "start": 1496,
+                "end": 1563
             }
         }
     ]

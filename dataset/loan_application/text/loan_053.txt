@@ -2,23 +2,24 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Andrew Mercer
-Date of Birth:        September 26, 1967
-Marital Status:       Widowed
-Religious Belief:     Prefer not to disclose
+Date of Birth:        September 27, 1967
+Marital Status:       Single
+Religious Belief:     Atheist
 Phone Number:         379-311-2442
 Email Address:        andrew.mercer@yahoo.com
 Residential Address:  61706 Tommy Road Apt. 366, Cynthiamouth, AS 21617
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Employed Part-Time
+Employment Status:    Self-Employed
 Employer Name:        Berger Ltd
-Gross Annual Income:  $160,000.00 USD
-Bank Account Number:  ACCT-6585327015
-Credit Score (FICO):  675 (FICO Score 8)
+Gross Annual Income:  $48,000.00 USD
+Bank Account Number:  ACCT-4651178503
+Credit Score (FICO):  812 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------

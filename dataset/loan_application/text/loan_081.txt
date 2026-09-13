@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Joint / Co-Borrower Credit Application
 Applicant Name:       Alexander Parker
-Date of Birth:        August 30, 2005
-Marital Status:       Single
-Religious Belief:     Judaism
+Date of Birth:        August 31, 2005
+Marital Status:       Domestic Partnership
+Religious Belief:     Christianity
 Phone Number:         842-277-0707x05783
 Email Address:        alexander.parker@hotmail.com
 Residential Address:  9851 White Trafficway, Jordanfort, DC 30309
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Employed Part-Time
+Employment Status:    Contractor / Freelancer
 Employer Name:        Pitts Ltd
-Gross Annual Income:  $104,000.00 USD
-Bank Account Number:  ACCT-7603978731
-Credit Score (FICO):  664 (FICO Score 8)
+Gross Annual Income:  $61,000.00 USD
+Bank Account Number:  ACCT-8923555411
+Credit Score (FICO):  635 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
 
 Biometric Security Identifier:
 SHA256:813d8b1fdfaa382b8d48578b (Biometric Minutiae Key)

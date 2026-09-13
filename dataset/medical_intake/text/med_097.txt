@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Brandy Miller
-Date of Birth:        December 11, 1973
+Encounter Modality:   In-Person Outpatient Clinical Visit
+Date of Birth:        December 12, 1973
 Phone Number:         753.990.7895x67766
 Home Address:         6027 Joseph Club Suite 148, Port Joshuabury, CT 16044
-Marital Status:       Married
+Marital Status:       Single
 Occupation:           Hydrographic surveyor
-Religious Preference: Prefer not to disclose
-National ID / SSN:    183-77-8319
-Insurance Policy No:  KSR-58557943
+Religious Preference: Unaffiliated
+National ID / SSN:    134-19-1794
+Insurance Policy No:  MED-65350347
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Andrew Gonzalez (Parent) - Phone: 654.244.3928
+Andrew Gonzalez (Partner) - Phone: 654.244.3928
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Penicillin (rash, hives), Shellfish (mild itching).
+Sulfa antibiotics (severe skin reaction), Latex.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.
+None reported / Over-the-counter multivitamins only.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

@@ -2,6 +2,9 @@
     "document_id": "med_084",
     "document_type": "medical_intake",
     "document_purpose": "To collect relevant patient information required for medical assessment, diagnosis, treatment, and healthcare administration.",
+    "sub_conditions": {
+        "is_telehealth": true
+    },
     "fields": [
         {
             "field_type": "full_name",
@@ -10,19 +13,19 @@
             "necessity_label": "necessary",
             "reason": "Essential for patient identification, medical record linkage, and preventing catastrophic misidentification in clinical care.",
             "span": {
-                "start": 359,
-                "end": 373
+                "start": 369,
+                "end": 383
             }
         },
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "March 08, 1952",
+            "field_value": "March 09, 1952",
             "necessity_label": "necessary",
             "reason": "Crucial for clinical safety, age-dependent pharmaceutical dosage calculations, developmental assessment, and primary patient record matching.",
             "span": {
-                "start": 396,
-                "end": 410
+                "start": 465,
+                "end": 479
             }
         },
         {
@@ -32,30 +35,30 @@
             "necessity_label": "necessary",
             "reason": "Required for appointment reminders, urgent clinical test result notifications, and post-procedure follow-ups.",
             "span": {
-                "start": 433,
-                "end": 449
+                "start": 502,
+                "end": 518
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "926 Daniel Path Apt. 571, Lake Ronald, MT 11241",
-            "necessity_label": "contextual",
-            "reason": "Used for patient billing, demographic analysis, and local public health reporting, though secondary to immediate clinical diagnosis.",
+            "necessity_label": "unnecessary",
+            "reason": "Physical residential street address is unnecessary for remote telehealth encounters; electronic communication channels suffice.",
             "span": {
-                "start": 472,
-                "end": 519
+                "start": 541,
+                "end": 588
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Divorced",
+            "field_value": "Single",
             "necessity_label": "contextual",
             "reason": "May provide helpful context regarding home support network and surrogate decision-makers, but not universally necessary for diagnostics.",
             "span": {
-                "start": 542,
-                "end": 550
+                "start": 611,
+                "end": 617
             }
         },
         {
@@ -65,85 +68,85 @@
             "necessity_label": "contextual",
             "reason": "Provides relevant context for evaluating occupational exposures, repetitive stress injuries, or physical disability accommodations.",
             "span": {
-                "start": 573,
-                "end": 603
+                "start": 640,
+                "end": 670
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religious Affiliation",
-            "field_value": "Islam",
+            "field_value": "Prefer not to disclose",
             "necessity_label": "contextual",
             "reason": "Contextual in clinical settings to respect medical restrictions (e.g., blood transfusions, dietary rules, end-of-life pastoral care), but optional.",
             "span": {
-                "start": 626,
-                "end": 631
+                "start": 693,
+                "end": 715
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "454-66-5201",
+            "field_value": "134-67-1797",
             "necessity_label": "unnecessary",
             "reason": "Standard government national IDs are unnecessary when unique Medical Record Numbers (MRN) or insurance IDs exist, creating avoidable exposure.",
             "span": {
-                "start": 654,
-                "end": 665
+                "start": 738,
+                "end": 749
             }
         },
         {
             "field_type": "insurance_number",
             "field_name": "Health Insurance Policy Number",
-            "field_value": "UHC-38720823",
+            "field_value": "BLU-15937353",
             "necessity_label": "contextual",
             "reason": "Necessary for healthcare claims billing and insurance verification, but not strictly required for emergency or direct self-pay clinical triage.",
             "span": {
-                "start": 688,
-                "end": 700
+                "start": 772,
+                "end": 784
             }
         },
         {
             "field_type": "emergency_contact",
             "field_name": "Emergency Contact",
-            "field_value": "Jeffery Anderson (Spouse) - Phone: 871.658.6988",
+            "field_value": "Jeffery Anderson (Parent) - Phone: 871.658.6988",
             "necessity_label": "necessary",
             "reason": "Vital in acute medical situations, patient incapacitation, or urgent medical decisions where patient proxy consent is needed.",
             "span": {
-                "start": 828,
-                "end": 875
+                "start": 912,
+                "end": 959
             }
         },
         {
             "field_type": "allergies",
             "field_name": "Allergies & Sensitivities",
-            "field_value": "Sulfa antibiotics (severe skin reaction), Latex.",
+            "field_value": "Aspirin (bronchospasm), Codeine (nausea).",
             "necessity_label": "necessary",
             "reason": "High-priority safety data required to prevent life-threatening anaphylaxis, drug allergies, and cross-reactive interventions.",
             "span": {
-                "start": 1027,
-                "end": 1075
+                "start": 1111,
+                "end": 1152
             }
         },
         {
             "field_type": "current_medications",
             "field_name": "Current Medications",
-            "field_value": "Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.",
+            "field_value": "Omeprazole 20mg PO daily before breakfast, Calcium + Vitamin D supplement.",
             "necessity_label": "necessary",
             "reason": "Critical for preventing adverse drug-drug interactions, polypharmacy complications, and dosage conflicts.",
             "span": {
-                "start": 1224,
-                "end": 1299
+                "start": 1301,
+                "end": 1375
             }
         },
         {
             "field_type": "medical_history",
             "field_name": "Past Medical History",
-            "field_value": "Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).",
+            "field_value": "Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.",
             "necessity_label": "necessary",
             "reason": "Essential clinical context for differential diagnosis, identifying chronic comorbidities, and planning safe therapeutic interventions.",
             "span": {
-                "start": 1457,
-                "end": 1540
+                "start": 1533,
+                "end": 1604
             }
         }
     ]

@@ -2,12 +2,13 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Sabrina Hood
-Date of Birth:        July 10, 1971
+Date of Birth:        July 11, 1971
 Marital Status:       Divorced
-Religious Belief:     Christianity
+Religious Belief:     Sikhism
 Phone Number:         831-210-6092x09819
 Email Address:        sabrina.hood@hotmail.com
 Residential Address:  5233 Lee Ville, Lake Kimberly, WY 50060
@@ -16,9 +17,9 @@ FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
 Employment Status:    Contractor / Freelancer
 Employer Name:        Williams, Miller and Thomas
-Gross Annual Income:  $75,000.00 USD
-Bank Account Number:  ACCT-7958672456
-Credit Score (FICO):  624 (FICO Score 8)
+Gross Annual Income:  $71,000.00 USD
+Bank Account Number:  ACCT-9376277483
+Credit Score (FICO):  693 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------

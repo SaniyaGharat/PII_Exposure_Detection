@@ -2,6 +2,9 @@
     "document_id": "job_006",
     "document_type": "job_application",
     "document_purpose": "To evaluate a candidate's qualifications, skills, education, and professional experience for potential employment.",
+    "sub_conditions": {
+        "is_remote_role": false
+    },
     "fields": [
         {
             "field_type": "full_name",
@@ -17,7 +20,7 @@
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "July 09, 1996",
+            "field_value": "July 10, 1996",
             "necessity_label": "unnecessary",
             "reason": "Date of birth is generally not required for evaluating qualifications during initial employment screening and may create discrimination concerns.",
             "span": {
@@ -28,45 +31,45 @@
         {
             "field_type": "gender",
             "field_name": "Gender",
-            "field_value": "Non-Binary",
+            "field_value": "Male",
             "necessity_label": "contextual",
             "reason": "Gender is not required for qualification evaluation, though occasionally collected under optional equal employment opportunity (EEO) demographic monitoring.",
             "span": {
                 "start": 444,
-                "end": 454
+                "end": 448
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Widowed",
+            "field_value": "Single",
             "necessity_label": "unnecessary",
             "reason": "Marital status is irrelevant to assessing job competence and creates potential exposure to marital status or gender discrimination.",
             "span": {
-                "start": 477,
-                "end": 484
+                "start": 471,
+                "end": 477
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religion",
-            "field_value": "Agnostic",
+            "field_value": "Buddhism",
             "necessity_label": "unnecessary",
             "reason": "Religious beliefs are completely irrelevant to job performance and introduce unlawful bias risks under employment regulations.",
             "span": {
-                "start": 507,
-                "end": 515
+                "start": 500,
+                "end": 508
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "376-91-4598",
+            "field_value": "132-50-7572",
             "necessity_label": "unnecessary",
             "reason": "Government national identification numbers are unnecessary at initial screening and introduce high identity theft exposure.",
             "span": {
-                "start": 538,
-                "end": 549
+                "start": 531,
+                "end": 542
             }
         },
         {
@@ -76,8 +79,8 @@
             "necessity_label": "necessary",
             "reason": "Required as a primary electronic communication channel for interview scheduling and official employment notifications.",
             "span": {
-                "start": 572,
-                "end": 597
+                "start": 565,
+                "end": 590
             }
         },
         {
@@ -87,63 +90,63 @@
             "necessity_label": "necessary",
             "reason": "Required for direct contact, telephone screening sessions, and urgent recruitment updates.",
             "span": {
-                "start": 620,
-                "end": 639
+                "start": 613,
+                "end": 632
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "17810 Tanya Terrace Apt. 267, Lewisfurt, MH 08186",
-            "necessity_label": "contextual",
-            "reason": "Full street address is unnecessary for initial screening (city/region suffices), but may be required for local payroll tax jurisdictions or commute assessment.",
+            "necessity_label": "necessary",
+            "reason": "Required for assessing commute feasibility, physical facility access, and local payroll tax withholding jurisdiction.",
             "span": {
-                "start": 662,
-                "end": 711
+                "start": 655,
+                "end": 704
             }
         },
         {
             "field_type": "job_title",
             "field_name": "Position Applied For",
-            "field_value": "Account Executive",
+            "field_value": "DevOps Engineer",
             "necessity_label": "necessary",
             "reason": "Specifies the target role against which candidate qualifications and criteria are evaluated.",
             "span": {
-                "start": 832,
-                "end": 849
+                "start": 841,
+                "end": 856
             }
         },
         {
             "field_type": "education",
             "field_name": "Education",
-            "field_value": "B.S. in Computer Science - Cornell University (Graduated 2020)",
+            "field_value": "MBA - UC San Diego (Graduated 2014)",
             "necessity_label": "necessary",
             "reason": "Essential for verifying required academic degrees, institutional background, and formal qualifications.",
             "span": {
-                "start": 989,
-                "end": 1051
+                "start": 1053,
+                "end": 1088
             }
         },
         {
             "field_type": "work_history",
             "field_name": "Work History",
-            "field_value": "1. Account Executive at Aguirre-Lee (2021 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Hopkins LLC (2018 - 2020)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
+            "field_value": "1. DevOps Engineer at Aguirre-Lee (2023 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Hopkins LLC (2018 - 2021)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
             "necessity_label": "necessary",
             "reason": "Essential for evaluating candidate's prior professional experience, relevant responsibilities, and career trajectory.",
             "span": {
-                "start": 1192,
-                "end": 1451
+                "start": 1229,
+                "end": 1486
             }
         },
         {
             "field_type": "skills",
             "field_name": "Skills & Competencies",
-            "field_value": "Statistical Analysis, R, Tableau, Data Pipelines, Predictive Modeling",
+            "field_value": "Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA",
             "necessity_label": "necessary",
             "reason": "Directly reflects technical, operational, and domain competencies required for job performance.",
             "span": {
-                "start": 1594,
-                "end": 1663
+                "start": 1629,
+                "end": 1710
             }
         }
     ]

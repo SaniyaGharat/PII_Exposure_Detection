@@ -2,6 +2,9 @@
     "document_id": "med_093",
     "document_type": "medical_intake",
     "document_purpose": "To collect relevant patient information required for medical assessment, diagnosis, treatment, and healthcare administration.",
+    "sub_conditions": {
+        "is_telehealth": true
+    },
     "fields": [
         {
             "field_type": "full_name",
@@ -10,19 +13,19 @@
             "necessity_label": "necessary",
             "reason": "Essential for patient identification, medical record linkage, and preventing catastrophic misidentification in clinical care.",
             "span": {
-                "start": 359,
-                "end": 368
+                "start": 369,
+                "end": 378
             }
         },
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "June 30, 1984",
+            "field_value": "July 01, 1984",
             "necessity_label": "necessary",
             "reason": "Crucial for clinical safety, age-dependent pharmaceutical dosage calculations, developmental assessment, and primary patient record matching.",
             "span": {
-                "start": 391,
-                "end": 404
+                "start": 460,
+                "end": 473
             }
         },
         {
@@ -32,30 +35,30 @@
             "necessity_label": "necessary",
             "reason": "Required for appointment reminders, urgent clinical test result notifications, and post-procedure follow-ups.",
             "span": {
-                "start": 427,
-                "end": 448
+                "start": 496,
+                "end": 517
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "09193 Dana Glens, Robertmouth, HI 32371",
-            "necessity_label": "contextual",
-            "reason": "Used for patient billing, demographic analysis, and local public health reporting, though secondary to immediate clinical diagnosis.",
+            "necessity_label": "unnecessary",
+            "reason": "Physical residential street address is unnecessary for remote telehealth encounters; electronic communication channels suffice.",
             "span": {
-                "start": 471,
-                "end": 510
+                "start": 540,
+                "end": 579
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Single",
+            "field_value": "Divorced",
             "necessity_label": "contextual",
             "reason": "May provide helpful context regarding home support network and surrogate decision-makers, but not universally necessary for diagnostics.",
             "span": {
-                "start": 533,
-                "end": 539
+                "start": 602,
+                "end": 610
             }
         },
         {
@@ -65,8 +68,8 @@
             "necessity_label": "contextual",
             "reason": "Provides relevant context for evaluating occupational exposures, repetitive stress injuries, or physical disability accommodations.",
             "span": {
-                "start": 562,
-                "end": 574
+                "start": 633,
+                "end": 645
             }
         },
         {
@@ -76,74 +79,74 @@
             "necessity_label": "contextual",
             "reason": "Contextual in clinical settings to respect medical restrictions (e.g., blood transfusions, dietary rules, end-of-life pastoral care), but optional.",
             "span": {
-                "start": 597,
-                "end": 604
+                "start": 668,
+                "end": 675
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "492-40-8319",
+            "field_value": "367-56-9401",
             "necessity_label": "unnecessary",
             "reason": "Standard government national IDs are unnecessary when unique Medical Record Numbers (MRN) or insurance IDs exist, creating avoidable exposure.",
             "span": {
-                "start": 627,
-                "end": 638
+                "start": 698,
+                "end": 709
             }
         },
         {
             "field_type": "insurance_number",
             "field_name": "Health Insurance Policy Number",
-            "field_value": "AET-54241559",
+            "field_value": "UHC-72546007",
             "necessity_label": "contextual",
             "reason": "Necessary for healthcare claims billing and insurance verification, but not strictly required for emergency or direct self-pay clinical triage.",
             "span": {
-                "start": 661,
-                "end": 673
+                "start": 732,
+                "end": 744
             }
         },
         {
             "field_type": "emergency_contact",
             "field_name": "Emergency Contact",
-            "field_value": "Andrew Anderson (Parent) - Phone: 001-968-654-9822",
+            "field_value": "Andrew Anderson (Adult Child) - Phone: 001-968-654-9822",
             "necessity_label": "necessary",
             "reason": "Vital in acute medical situations, patient incapacitation, or urgent medical decisions where patient proxy consent is needed.",
             "span": {
-                "start": 801,
-                "end": 851
+                "start": 872,
+                "end": 927
             }
         },
         {
             "field_type": "allergies",
             "field_name": "Allergies & Sensitivities",
-            "field_value": "Peanuts (anaphylaxis - carries EpiPen), Tree nuts.",
+            "field_value": "Penicillin (rash, hives), Shellfish (mild itching).",
             "necessity_label": "necessary",
             "reason": "High-priority safety data required to prevent life-threatening anaphylaxis, drug allergies, and cross-reactive interventions.",
             "span": {
-                "start": 1003,
-                "end": 1053
+                "start": 1079,
+                "end": 1130
             }
         },
         {
             "field_type": "current_medications",
             "field_name": "Current Medications",
-            "field_value": "Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.",
+            "field_value": "None reported / Over-the-counter multivitamins only.",
             "necessity_label": "necessary",
             "reason": "Critical for preventing adverse drug-drug interactions, polypharmacy complications, and dosage conflicts.",
             "span": {
-                "start": 1202,
-                "end": 1277
+                "start": 1279,
+                "end": 1331
             }
         },
         {
             "field_type": "medical_history",
             "field_name": "Past Medical History",
-            "field_value": "No significant past medical history. Non-smoker, no past surgeries.",
+            "field_value": "Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).",
             "necessity_label": "necessary",
             "reason": "Essential clinical context for differential diagnosis, identifying chronic comorbidities, and planning safe therapeutic interventions.",
             "span": {
-                "start": 1435,
-                "end": 1502
+                "start": 1489,
+                "end": 1568
             }
         }
     ]

@@ -5,28 +5,29 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Michael Parker
-Date of Birth:        January 13, 1972
-Gender:               Non-Binary
-Marital Status:       Single
-Religious Belief:     Unaffiliated
-National ID / SSN:    229-45-1745
+Date of Birth:        January 14, 1972
+Gender:               Prefer not to disclose
+Marital Status:       Widowed
+Religious Belief:     Islam
+National ID / SSN:    803-39-5334
 Email Address:        michael.parker@yahoo.com
 Phone Number:         +1-801-770-4622
 Home Address:         6182 Wilson Plain Suite 823, Port Andrewport, NH 88777
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Data Scientist
+Position Applied For: Account Executive
+Work Modality:        On-Site Office (Physical Facility)
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.A. in Economics - University of Texas at Austin (Graduated 2013)
+B.S. in Information Systems - Carnegie Mellon University (Graduated 2014)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Data Scientist at Foster Inc (2022 - Present)
+1. Account Executive at Foster Inc (2021 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
 2. Associate Specialist at Robinson, Jones and Henderson (2018 - 2021)
    - Managed key deliverables, analyzed system data, and automated workflows.
@@ -34,7 +35,7 @@ Recent Experience:
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture
+Statistical Analysis, R, Tableau, Data Pipelines, Predictive Modeling
 
 --------------------------------------------------------------------------------
 DECLARATION:

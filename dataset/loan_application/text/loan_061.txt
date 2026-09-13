@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Joint / Co-Borrower Credit Application
 Applicant Name:       Dylan Walter
-Date of Birth:        March 13, 1968
+Date of Birth:        March 14, 1968
 Marital Status:       Widowed
-Religious Belief:     Sikhism
+Religious Belief:     Islam
 Phone Number:         707.624.0787
 Email Address:        dylan.walter@gmail.com
 Residential Address:  6326 Romero Center, Nelsonville, AR 85517
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Contractor / Freelancer
+Employment Status:    Employed Full-Time
 Employer Name:        Lee-Lopez
-Gross Annual Income:  $59,000.00 USD
-Bank Account Number:  ACCT-1455028401
-Credit Score (FICO):  734 (FICO Score 8)
+Gross Annual Income:  $81,000.00 USD
+Bank Account Number:  ACCT-5738214525
+Credit Score (FICO):  712 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
 
 Biometric Security Identifier:
 SHA256:0905ce585197447d0c11323b (Biometric Minutiae Key)

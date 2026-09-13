@@ -2,11 +2,12 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Joint / Co-Borrower Credit Application
 Applicant Name:       Erika Hughes
-Date of Birth:        November 10, 1987
-Marital Status:       Divorced
+Date of Birth:        November 11, 1987
+Marital Status:       Domestic Partnership
 Religious Belief:     Islam
 Phone Number:         444-594-2965
 Email Address:        erika.hughes@yahoo.com
@@ -14,16 +15,16 @@ Residential Address:  8344 Kenneth Road, Gardnerfurt, WY 57765
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Employed Part-Time
+Employment Status:    Retired
 Employer Name:        Ramos, Edwards and Donovan
-Gross Annual Income:  $77,000.00 USD
-Bank Account Number:  ACCT-4180378138
-Credit Score (FICO):  595 (FICO Score 8)
+Gross Annual Income:  $146,000.00 USD
+Bank Account Number:  ACCT-2359239702
+Credit Score (FICO):  618 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Hypothyroidism (stable on levothyroxine), Migraines with aura.
+Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
 
 Biometric Security Identifier:
 SHA256:a42f5bdcc767834cb5ae03a1 (Biometric Minutiae Key)

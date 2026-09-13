@@ -2,28 +2,29 @@
                     RESIDENTIAL LEASE APPLICATION & AGREEMENT
 ================================================================================
 
-PROSPECTIVE TENANT IDENTIFICATION
+TENANCY PROFILE & PROSPECTIVE TENANT IDENTIFICATION
 --------------------------------------------------------------------------------
+Lease Category:       Standard Direct Individual Lease
 Tenant Full Name:     David Johnson
 Phone Number:         695-741-9666
 Email Address:        david.johnson@gmail.com
-National ID / SSN:    134-47-1328
-Marital Status:       Divorced
-Religious Belief:     Judaism
+National ID / SSN:    703-74-3768
+Marital Status:       Single
+Religious Belief:     Sikhism
 Current Residence:    3036 Shannon Ramp Apt. 463, North Rachel, MH 58045
 
 EMPLOYMENT & FINANCIAL BACKGROUND
 --------------------------------------------------------------------------------
 Employment Status:    Employed Full-Time
 Employer Name:        Thomas Ltd
-Monthly / Annual Inc: $4,707.00 / month
-Bank Account Number:  ACCT-5613655595
+Monthly / Annual Inc: $5,649.00 / month
+Bank Account Number:  ACCT-8045125420
 
 PREVIOUS TENANCY & EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Rental History:
 Previous Address: 72603 Penny Courts Suite 505, Blankenshipchester
-Tenancy: 2021 - 2024 | Landlord: James Marquez | Rent: $3036/mo
+Tenancy: 2021 - 2024 | Landlord: James Marquez | Rent: $1832/mo
 Reason for Leaving: Job relocation | Full security deposit returned: Yes
 
 Emergency Contact:
@@ -32,7 +33,7 @@ Edward Nicholson (Sibling) - Tel: +1-470-271-5534
 SUPPLEMENTAL TENANT DECLARATION
 --------------------------------------------------------------------------------
 Medical History:
-Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
+Hypothyroidism (stable on levothyroxine), Migraines with aura.
 
 --------------------------------------------------------------------------------
 TENANT ACKNOWLEDGMENT:

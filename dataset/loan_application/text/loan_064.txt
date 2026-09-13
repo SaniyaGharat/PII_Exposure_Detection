@@ -2,23 +2,24 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Joint / Co-Borrower Credit Application
 Applicant Name:       Wesley Fischer
-Date of Birth:        February 02, 1967
-Marital Status:       Divorced
-Religious Belief:     Agnostic
+Date of Birth:        February 03, 1967
+Marital Status:       Widowed
+Religious Belief:     Sikhism
 Phone Number:         645-777-5847
 Email Address:        wesley.fischer@yahoo.com
 Residential Address:  4589 Rodriguez Spur, East Tiffanybury, TN 19065
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Employed Full-Time
+Employment Status:    Contractor / Freelancer
 Employer Name:        Sanchez Ltd
-Gross Annual Income:  $171,000.00 USD
-Bank Account Number:  ACCT-5903457537
-Credit Score (FICO):  616 (FICO Score 8)
+Gross Annual Income:  $83,000.00 USD
+Bank Account Number:  ACCT-1600566083
+Credit Score (FICO):  782 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------

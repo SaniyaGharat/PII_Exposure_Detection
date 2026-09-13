@@ -5,36 +5,37 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Briana Murray
-Date of Birth:        June 12, 1978
+Date of Birth:        June 13, 1978
 Gender:               Female
-Marital Status:       Divorced
-Religious Belief:     Hinduism
-National ID / SSN:    859-66-8007
+Marital Status:       Domestic Partnership
+Religious Belief:     Agnostic
+National ID / SSN:    735-29-4878
 Email Address:        briana.murray@yahoo.com
 Phone Number:         575-894-6474
 Home Address:         69594 Johnson Village, Hillshire, VI 90390
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: HR Operations Generalist
+Position Applied For: Clinical Research Coordinator
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-MBA - University of Texas at Austin (Graduated 2010)
+M.S. in Data Analytics - University of Washington (Graduated 2015)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. HR Operations Generalist at Stevens-Estrada (2021 - Present)
+1. Clinical Research Coordinator at Stevens-Estrada (2021 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Santana-Byrd (2019 - 2020)
+2. Associate Specialist at Santana-Byrd (2018 - 2020)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Network Security, Penetration Testing, SIEM, Incident Response, ISO 27001
+Financial Modeling, Risk Analysis, Bloomberg Terminal, Advanced Excel, CFA Level II
 
 --------------------------------------------------------------------------------
 DECLARATION:

@@ -4,37 +4,38 @@
 
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
-Full Name:            Jessica Harrison
-Date of Birth:        February 04, 1997
-Gender:               Female
+Full Name:            Jeffrey Harrison
+Date of Birth:        February 05, 1997
+Gender:               Non-Binary
 Marital Status:       Single
-Religious Belief:     Prefer not to disclose
-National ID / SSN:    352-84-1651
-Email Address:        jessica.harrison@hotmail.com
+Religious Belief:     Christianity
+National ID / SSN:    569-89-2638
+Email Address:        jeffrey.harrison@hotmail.com
 Phone Number:         001-459-940-1399x0490
 Home Address:         2967 Theodore Lodge Suite 512, Robertfort, LA 87347
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: DevOps Engineer
+Position Applied For: Financial Analyst
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.S. in Computer Science - Cornell University (Graduated 2011)
+M.S. in Data Analytics - UC San Diego (Graduated 2012)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. DevOps Engineer at Lyons-Bender (2023 - Present)
+1. Financial Analyst at Lyons-Bender (2023 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Fernandez, Kim and George (2018 - 2021)
+2. Associate Specialist at Fernandez, Kim and George (2019 - 2021)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Network Security, Penetration Testing, SIEM, Incident Response, ISO 27001
+Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture
 
 --------------------------------------------------------------------------------
 DECLARATION:

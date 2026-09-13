@@ -4,37 +4,38 @@
 
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
-Full Name:            Jacob Edwards
-Date of Birth:        September 16, 1975
-Gender:               Prefer not to disclose
+Full Name:            Holly Edwards
+Date of Birth:        September 17, 1975
+Gender:               Female
 Marital Status:       Married
-Religious Belief:     Atheist
-National ID / SSN:    434-53-7211
-Email Address:        jacob.edwards@gmail.com
+Religious Belief:     Islam
+National ID / SSN:    813-48-2983
+Email Address:        holly.edwards@gmail.com
 Phone Number:         447-939-4731x217
 Home Address:         518 Vance Vista Apt. 258, North Tracie, WY 18703
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: DevOps Engineer
+Position Applied For: Clinical Research Coordinator
+Work Modality:        On-Site Office (Physical Facility)
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-MBA - University of Michigan (Graduated 2010)
+B.S. in Information Systems - UC San Diego (Graduated 2016)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. DevOps Engineer at Wright-Wilson (2022 - Present)
+1. Clinical Research Coordinator at Wright-Wilson (2023 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Lopez, Holmes and Mcintyre (2020 - 2021)
+2. Associate Specialist at Lopez, Holmes and Mcintyre (2018 - 2020)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA
+Network Security, Penetration Testing, SIEM, Incident Response, ISO 27001
 
 --------------------------------------------------------------------------------
 DECLARATION:

@@ -2,82 +2,85 @@
     "document_id": "job_069",
     "document_type": "job_application",
     "document_purpose": "To evaluate a candidate's qualifications, skills, education, and professional experience for potential employment.",
+    "sub_conditions": {
+        "is_remote_role": true
+    },
     "fields": [
         {
             "field_type": "full_name",
             "field_name": "Full Name",
-            "field_value": "Linda Rocha",
+            "field_value": "Kirk Rocha",
             "necessity_label": "necessary",
             "reason": "Required to unambiguously identify the candidate, manage application tracking, and conduct hiring correspondence.",
             "span": {
                 "start": 370,
-                "end": 381
+                "end": 380
             }
         },
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "November 21, 1994",
+            "field_value": "November 22, 1994",
             "necessity_label": "unnecessary",
             "reason": "Date of birth is generally not required for evaluating qualifications during initial employment screening and may create discrimination concerns.",
             "span": {
-                "start": 404,
-                "end": 421
+                "start": 403,
+                "end": 420
             }
         },
         {
             "field_type": "gender",
             "field_name": "Gender",
-            "field_value": "Female",
+            "field_value": "Prefer not to disclose",
             "necessity_label": "contextual",
             "reason": "Gender is not required for qualification evaluation, though occasionally collected under optional equal employment opportunity (EEO) demographic monitoring.",
             "span": {
-                "start": 444,
-                "end": 450
+                "start": 443,
+                "end": 465
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Domestic Partnership",
+            "field_value": "Single",
             "necessity_label": "unnecessary",
             "reason": "Marital status is irrelevant to assessing job competence and creates potential exposure to marital status or gender discrimination.",
             "span": {
-                "start": 473,
-                "end": 493
+                "start": 488,
+                "end": 494
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religion",
-            "field_value": "Christianity",
+            "field_value": "Hinduism",
             "necessity_label": "unnecessary",
             "reason": "Religious beliefs are completely irrelevant to job performance and introduce unlawful bias risks under employment regulations.",
             "span": {
-                "start": 516,
-                "end": 528
+                "start": 517,
+                "end": 525
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "773-79-8569",
+            "field_value": "614-85-6439",
             "necessity_label": "unnecessary",
             "reason": "Government national identification numbers are unnecessary at initial screening and introduce high identity theft exposure.",
             "span": {
-                "start": 551,
-                "end": 562
+                "start": 548,
+                "end": 559
             }
         },
         {
             "field_type": "email",
             "field_name": "Email Address",
-            "field_value": "linda.rocha@yahoo.com",
+            "field_value": "kirk.rocha@yahoo.com",
             "necessity_label": "necessary",
             "reason": "Required as a primary electronic communication channel for interview scheduling and official employment notifications.",
             "span": {
-                "start": 585,
-                "end": 606
+                "start": 582,
+                "end": 602
             }
         },
         {
@@ -87,63 +90,63 @@
             "necessity_label": "necessary",
             "reason": "Required for direct contact, telephone screening sessions, and urgent recruitment updates.",
             "span": {
-                "start": 629,
-                "end": 651
+                "start": 625,
+                "end": 647
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "982 Cuevas Orchard Apt. 461, Port Sheliaberg, MI 41381",
-            "necessity_label": "contextual",
-            "reason": "Full street address is unnecessary for initial screening (city/region suffices), but may be required for local payroll tax jurisdictions or commute assessment.",
+            "necessity_label": "unnecessary",
+            "reason": "Full street address is unnecessary for initial screening for 100% remote roles; state/country jurisdiction suffices.",
             "span": {
-                "start": 674,
-                "end": 728
+                "start": 670,
+                "end": 724
             }
         },
         {
             "field_type": "job_title",
             "field_name": "Position Applied For",
-            "field_value": "Database Administrator",
+            "field_value": "Senior Software Engineer",
             "necessity_label": "necessary",
             "reason": "Specifies the target role against which candidate qualifications and criteria are evaluated.",
             "span": {
-                "start": 849,
-                "end": 871
+                "start": 861,
+                "end": 885
             }
         },
         {
             "field_type": "education",
             "field_name": "Education",
-            "field_value": "B.S. in Computer Science - Purdue University (Graduated 2014)",
+            "field_value": "M.S. in Data Analytics - Carnegie Mellon University (Graduated 2021)",
             "necessity_label": "necessary",
             "reason": "Essential for verifying required academic degrees, institutional background, and formal qualifications.",
             "span": {
-                "start": 1011,
-                "end": 1072
+                "start": 1074,
+                "end": 1142
             }
         },
         {
             "field_type": "work_history",
             "field_name": "Work History",
-            "field_value": "1. Database Administrator at Mack Ltd (2022 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Kelly, Holland and Williams (2017 - 2021)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
+            "field_value": "1. Senior Software Engineer at Mack Ltd (2022 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Kelly, Holland and Williams (2020 - 2020)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
             "necessity_label": "necessary",
             "reason": "Essential for evaluating candidate's prior professional experience, relevant responsibilities, and career trajectory.",
             "span": {
-                "start": 1213,
-                "end": 1490
+                "start": 1283,
+                "end": 1562
             }
         },
         {
             "field_type": "skills",
             "field_name": "Skills & Competencies",
-            "field_value": "React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices",
+            "field_value": "Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture",
             "necessity_label": "necessary",
             "reason": "Directly reflects technical, operational, and domain competencies required for job performance.",
             "span": {
-                "start": 1633,
-                "end": 1700
+                "start": 1705,
+                "end": 1769
             }
         }
     ]

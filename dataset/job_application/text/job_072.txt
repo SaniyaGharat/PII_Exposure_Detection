@@ -4,37 +4,38 @@
 
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
-Full Name:            Linda Andrews
-Date of Birth:        January 19, 1979
-Gender:               Female
-Marital Status:       Widowed
-Religious Belief:     Atheist
-National ID / SSN:    583-41-8483
-Email Address:        linda.andrews@yahoo.com
+Full Name:            Kyle Andrews
+Date of Birth:        January 20, 1979
+Gender:               Non-Binary
+Marital Status:       Divorced
+Religious Belief:     Christianity
+National ID / SSN:    147-51-1919
+Email Address:        kyle.andrews@yahoo.com
 Phone Number:         842.925.7905x0723
 Home Address:         7721 Laura Forges Suite 043, Garymouth, OK 97824
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Database Administrator
+Position Applied For: Financial Analyst
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.S. in Computer Science - University of Michigan (Graduated 2017)
+B.S. in Computer Science - UC San Diego (Graduated 2011)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Database Administrator at Lopez-Reid (2023 - Present)
+1. Financial Analyst at Lopez-Reid (2023 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Ellison, Arias and Thompson (2019 - 2021)
+2. Associate Specialist at Ellison, Arias and Thompson (2017 - 2021)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Network Security, Penetration Testing, SIEM, Incident Response, ISO 27001
+Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA
 
 --------------------------------------------------------------------------------
 DECLARATION:

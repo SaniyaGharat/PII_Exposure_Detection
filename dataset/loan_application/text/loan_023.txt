@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Louis Walton
-Date of Birth:        December 28, 1972
-Marital Status:       Divorced
-Religious Belief:     Unaffiliated
+Date of Birth:        December 29, 1972
+Marital Status:       Single
+Religious Belief:     Agnostic
 Phone Number:         (488)496-7924x082
 Email Address:        louis.walton@yahoo.com
 Residential Address:  53967 Scott Knoll Suite 844, Meyerbury, ME 83814
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Retired
+Employment Status:    Contractor / Freelancer
 Employer Name:        Russell-Edwards
-Gross Annual Income:  $85,000.00 USD
-Bank Account Number:  ACCT-7088451458
-Credit Score (FICO):  594 (FICO Score 8)
+Gross Annual Income:  $101,000.00 USD
+Bank Account Number:  ACCT-2300656317
+Credit Score (FICO):  702 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
 
 Biometric Security Identifier:
 SHA256:075547aba33b8b01e154b71e (Biometric Minutiae Key)

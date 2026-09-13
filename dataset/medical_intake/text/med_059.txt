@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Lee Lee
-Date of Birth:        July 09, 1979
+Encounter Modality:   In-Person Outpatient Clinical Visit
+Date of Birth:        July 10, 1979
 Phone Number:         843.501.8718
 Home Address:         9980 Sanders Stravenue Suite 565, West Michaelport, NV 74036
-Marital Status:       Domestic Partnership
+Marital Status:       Single
 Occupation:           Therapeutic radiographer
-Religious Preference: Christianity
-National ID / SSN:    227-76-3507
-Insurance Policy No:  AET-32099899
+Religious Preference: Buddhism
+National ID / SSN:    119-66-6139
+Insurance Policy No:  UHC-30324759
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Nicholas Wallace (Adult Child) - Phone: (774)326-6299x12347
+Nicholas Wallace (Spouse) - Phone: (774)326-6299x12347
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Sulfa antibiotics (severe skin reaction), Latex.
+Aspirin (bronchospasm), Codeine (nausea).
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
+None reported / Over-the-counter multivitamins only.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-No significant past medical history. Non-smoker, no past surgeries.
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

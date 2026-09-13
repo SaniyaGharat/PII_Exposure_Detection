@@ -2,8 +2,9 @@
                     RESIDENTIAL LEASE APPLICATION & AGREEMENT
 ================================================================================
 
-PROSPECTIVE TENANT IDENTIFICATION
+TENANCY PROFILE & PROSPECTIVE TENANT IDENTIFICATION
 --------------------------------------------------------------------------------
+Lease Category:       {{lease_category}}
 Tenant Full Name:     {{full_name}}
 Phone Number:         {{phone}}
 Email Address:        {{email}}

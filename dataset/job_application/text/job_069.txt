@@ -4,37 +4,38 @@
 
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
-Full Name:            Linda Rocha
-Date of Birth:        November 21, 1994
-Gender:               Female
-Marital Status:       Domestic Partnership
-Religious Belief:     Christianity
-National ID / SSN:    773-79-8569
-Email Address:        linda.rocha@yahoo.com
+Full Name:            Kirk Rocha
+Date of Birth:        November 22, 1994
+Gender:               Prefer not to disclose
+Marital Status:       Single
+Religious Belief:     Hinduism
+National ID / SSN:    614-85-6439
+Email Address:        kirk.rocha@yahoo.com
 Phone Number:         001-956-710-1438x88993
 Home Address:         982 Cuevas Orchard Apt. 461, Port Sheliaberg, MI 41381
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Database Administrator
+Position Applied For: Senior Software Engineer
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.S. in Computer Science - Purdue University (Graduated 2014)
+M.S. in Data Analytics - Carnegie Mellon University (Graduated 2021)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Database Administrator at Mack Ltd (2022 - Present)
+1. Senior Software Engineer at Mack Ltd (2022 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Kelly, Holland and Williams (2017 - 2021)
+2. Associate Specialist at Kelly, Holland and Williams (2020 - 2020)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices
+Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture
 
 --------------------------------------------------------------------------------
 DECLARATION:

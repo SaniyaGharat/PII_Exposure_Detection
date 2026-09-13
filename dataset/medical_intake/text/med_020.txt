@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Debbie Dunn
-Date of Birth:        November 01, 1959
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        November 02, 1959
 Phone Number:         879-655-2763x655
 Home Address:         92931 Brock Point Suite 632, South Linda, HI 55750
-Marital Status:       Domestic Partnership
+Marital Status:       Divorced
 Occupation:           Lecturer, higher education
-Religious Preference: Christianity
-National ID / SSN:    560-83-4084
-Insurance Policy No:  AET-91202508
+Religious Preference: Islam
+National ID / SSN:    831-93-6493
+Insurance Policy No:  BLU-28468304
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Dr. Samuel Holmes DDS (Partner) - Phone: 344.989.0612x0347
+Dr. Samuel Holmes DDS (Sibling) - Phone: 344.989.0612x0347
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Aspirin (bronchospasm), Codeine (nausea).
+Penicillin (rash, hives), Shellfish (mild itching).
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.
+Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
+Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

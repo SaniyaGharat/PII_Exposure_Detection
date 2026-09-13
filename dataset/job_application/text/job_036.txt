@@ -4,37 +4,38 @@
 
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
-Full Name:            Jamie Padilla
-Date of Birth:        December 20, 1968
-Gender:               Female
-Marital Status:       Widowed
+Full Name:            James Padilla
+Date of Birth:        December 21, 1968
+Gender:               Prefer not to disclose
+Marital Status:       Domestic Partnership
 Religious Belief:     Atheist
-National ID / SSN:    791-37-9375
-Email Address:        jamie.padilla@hotmail.com
+National ID / SSN:    151-81-5082
+Email Address:        james.padilla@hotmail.com
 Phone Number:         715.496.9664x160
 Home Address:         516 John Radial Suite 816, Juliebury, MA 22538
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Clinical Research Coordinator
+Position Applied For: Financial Analyst
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-M.S. in Data Analytics - University of Illinois Urbana-Champaign (Graduated 2016)
+B.A. in Economics - University of Washington (Graduated 2022)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Clinical Research Coordinator at Hansen, Barnett and Gomez (2023 - Present)
+1. Financial Analyst at Hansen, Barnett and Gomez (2021 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Hensley-Williams (2019 - 2021)
+2. Associate Specialist at Hensley-Williams (2020 - 2020)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices
+Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture
 
 --------------------------------------------------------------------------------
 DECLARATION:

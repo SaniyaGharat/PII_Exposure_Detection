@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Mark Powers
-Date of Birth:        January 30, 1952
+Encounter Modality:   In-Person Outpatient Clinical Visit
+Date of Birth:        January 31, 1952
 Phone Number:         001-477-498-2708x08697
 Home Address:         69958 Barnes Rest, West Raymond, MA 39058
-Marital Status:       Married
+Marital Status:       Domestic Partnership
 Occupation:           Retail manager
-Religious Preference: Agnostic
-National ID / SSN:    529-68-6585
-Insurance Policy No:  BLU-59667685
+Religious Preference: Christianity
+National ID / SSN:    460-74-2215
+Insurance Policy No:  AET-71974027
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Casey Gutierrez (Partner) - Phone: 001-484-485-8333x945
+Casey Gutierrez (Sibling) - Phone: 001-484-485-8333x945
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
+Aspirin (bronchospasm), Codeine (nausea).
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-None reported / Over-the-counter multivitamins only.
+Lisinopril 10mg PO daily, Atorvastatin 20mg PO at bedtime.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
+Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Christopher Smith
-Date of Birth:        September 07, 1988
-Marital Status:       Widowed
-Religious Belief:     Judaism
+Date of Birth:        September 08, 1988
+Marital Status:       Married
+Religious Belief:     Buddhism
 Phone Number:         679-881-7890
 Email Address:        christopher.smith@gmail.com
 Residential Address:  8613 Sampson Keys, Gutierrezfurt, AL 49606
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Contractor / Freelancer
+Employment Status:    Employed Part-Time
 Employer Name:        Campbell, Hobbs and Baker
-Gross Annual Income:  $64,000.00 USD
-Bank Account Number:  ACCT-6582393412
-Credit Score (FICO):  632 (FICO Score 8)
+Gross Annual Income:  $118,000.00 USD
+Bank Account Number:  ACCT-8350384902
+Credit Score (FICO):  811 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
 
 Biometric Security Identifier:
 SHA256:2d32f76f64dccc4d6e38dbfa (Biometric Minutiae Key)

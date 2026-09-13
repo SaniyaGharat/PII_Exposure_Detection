@@ -2,12 +2,13 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Robert Turner
-Date of Birth:        April 13, 1982
-Marital Status:       Divorced
-Religious Belief:     Hinduism
+Date of Birth:        April 14, 1982
+Marital Status:       Married
+Religious Belief:     Christianity
 Phone Number:         001-756-318-5790x64771
 Email Address:        robert.turner@gmail.com
 Residential Address:  02156 George Field, Lisaside, AL 90710
@@ -16,14 +17,14 @@ FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
 Employment Status:    Contractor / Freelancer
 Employer Name:        Ware-Williams
-Gross Annual Income:  $125,000.00 USD
-Bank Account Number:  ACCT-8684026200
-Credit Score (FICO):  651 (FICO Score 8)
+Gross Annual Income:  $69,000.00 USD
+Bank Account Number:  ACCT-7981917208
+Credit Score (FICO):  685 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
+No significant past medical history. Non-smoker, no past surgeries.
 
 Biometric Security Identifier:
 SHA256:1deb57e782d303a0bb73cf44 (Biometric Minutiae Key)

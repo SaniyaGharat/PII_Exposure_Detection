@@ -2,13 +2,14 @@
                     RESIDENTIAL LEASE APPLICATION & AGREEMENT
 ================================================================================
 
-PROSPECTIVE TENANT IDENTIFICATION
+TENANCY PROFILE & PROSPECTIVE TENANT IDENTIFICATION
 --------------------------------------------------------------------------------
+Lease Category:       Standard Direct Individual Lease
 Tenant Full Name:     Nicholas Chapman
 Phone Number:         7513502675
 Email Address:        nicholas.chapman@gmail.com
-National ID / SSN:    459-37-3480
-Marital Status:       Widowed
+National ID / SSN:    372-78-1916
+Marital Status:       Married
 Religious Belief:     Prefer not to disclose
 Current Residence:    2782 Scott Ridges Suite 996, Wellsbury, KS 95314
 
@@ -16,14 +17,14 @@ EMPLOYMENT & FINANCIAL BACKGROUND
 --------------------------------------------------------------------------------
 Employment Status:    Contractor / Freelancer
 Employer Name:        Hopkins and Sons
-Monthly / Annual Inc: $6,188.00 / month
-Bank Account Number:  ACCT-4693510920
+Monthly / Annual Inc: $5,140.00 / month
+Bank Account Number:  ACCT-4630196130
 
 PREVIOUS TENANCY & EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Rental History:
 Previous Address: 38166 Finley Locks Apt. 282, Oliviahaven
-Tenancy: 2021 - 2024 | Landlord: George Gregory | Rent: $2301/mo
+Tenancy: 2021 - 2024 | Landlord: George Gregory | Rent: $1907/mo
 Reason for Leaving: Job relocation | Full security deposit returned: Yes
 
 Emergency Contact:
@@ -32,7 +33,7 @@ William Walton (Sibling) - Tel: (450)914-2576
 SUPPLEMENTAL TENANT DECLARATION
 --------------------------------------------------------------------------------
 Medical History:
-Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
 
 --------------------------------------------------------------------------------
 TENANT ACKNOWLEDGMENT:

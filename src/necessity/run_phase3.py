@@ -81,15 +81,29 @@ def run_phase3_workflow(
     print("\n[Step 3/5] Evaluating on Held-Out Test Set (60 docs, 810 instances)...")
     test_eval = evaluator.evaluate_test_set(dataset_path, "test", unnecessary_threshold=0.5)
 
-    print("\n" + "=" * 75)
+    print("\n" + "=" * 85)
     print("        HELD-OUT TEST SET EVALUATION REPORT (60 Documents)")
-    print("=" * 75)
-    print(f"{'Approach':<16} | {'MAE':<8} | {'RMSE':<8} | {'Binary Prec':<12} | {'Binary Rec':<12} | {'Binary F1':<10}")
-    print("-" * 75)
+    print("=" * 85)
+    print(f"{'Approach':<18} | {'MAE':<8} | {'RMSE':<8} | {'Binary Prec':<12} | {'Binary Rec':<12} | {'Binary F1':<10} | {'Binary Acc':<10}")
+    print("-" * 85)
 
     for app_name, m in test_eval["approaches"].items():
         disp_name = "Rule-Only (R)" if app_name == "rule_only" else ("ML-Only (M)" if app_name == "ml_only" else f"Hybrid (N, a={best_alpha})")
-        print(f"{disp_name:<16} | {m['mae']:<8.4f} | {m['rmse']:<8.4f} | {m['binary_unnecessary_precision']:<12.4f} | {m['binary_unnecessary_recall']:<12.4f} | {m['binary_unnecessary_f1']:<10.4f}")
+        print(f"{disp_name:<18} | {m['mae']:<8.4f} | {m['rmse']:<8.4f} | {m['binary_unnecessary_precision']:<12.4f} | {m['binary_unnecessary_recall']:<12.4f} | {m['binary_unnecessary_f1']:<10.4f} | {m['binary_unnecessary_accuracy']:<10.4f}")
+
+    # Sub-Condition Affected vs Unaffected Breakdown
+    print("\n" + "=" * 85)
+    print("   CONTEXT-AFFECTED FIELDS vs. UNAFFECTED FIELDS BREAKDOWN (DEMONSTRATING HYBRID VALUE)")
+    print("=" * 85)
+    aff_data = test_eval.get("affected_vs_unaffected", {})
+    for subset_key, s_data in aff_data.items():
+        subset_title = "CONTEXT-AFFECTED FIELDS (Varies with Sub-Conditions)" if subset_key == "affected_fields" else "UNAFFECTED STATIC FIELDS (Static Default Holds)"
+        print(f"\n--- {subset_title} [N={s_data['count']} instances] ---")
+        print(f"{'Approach':<18} | {'MAE':<8} | {'RMSE':<8} | {'Binary Prec':<12} | {'Binary Rec':<12} | {'Binary F1':<10} | {'Binary Acc':<10}")
+        print("-" * 85)
+        for app_name, m in s_data["approaches"].items():
+            disp_name = "Rule-Only (R)" if app_name == "rule_only" else ("ML-Only (M)" if app_name == "ml_only" else f"Hybrid (N, a={best_alpha})")
+            print(f"{disp_name:<18} | {m['mae']:<8.4f} | {m['rmse']:<8.4f} | {m['binary_unnecessary_precision']:<12.4f} | {m['binary_unnecessary_recall']:<12.4f} | {m['binary_unnecessary_f1']:<10.4f} | {m['binary_unnecessary_accuracy']:<10.4f}")
 
     print("\n--- PER-DOMAIN BREAKDOWN (Test Set MAE / Binary F1) ---")
     for dt, approaches in test_eval["per_domain"].items():
@@ -113,7 +127,7 @@ def run_phase3_workflow(
     print(f"    - Hybrid (N) Accuracy:  {dis['hybrid_accuracy_on_disagreements']:.4f}")
 
     # 5. Step 5: End-to-End Compounding Error Test
-    print("\n[Step 4/5] Running End-to-End Compounding Error Test on Phase 2 Predictions...")
+    print("\n[Step 4/5] Running Honest End-to-End Compounding Error Test (Accounting for Undetected PII)...")
     predictions_dir = results_path / "predictions"
     e2e_results = run_end_to_end_evaluation(
         dataset_dir=dataset_path,
@@ -122,21 +136,25 @@ def run_phase3_workflow(
         unnecessary_threshold=0.5,
     )
 
-    print("\n" + "=" * 75)
-    print("         END-TO-END SYSTEM RELIABILITY (DETECT -> CLASSIFY)")
-    print("=" * 75)
-    print(f"{'Document Stream':<20} | {'Docs':<6} | {'E2E Prec':<10} | {'E2E Rec':<10} | {'E2E F1':<10} | {'E2E Acc':<10}")
-    print("-" * 75)
-
-    # Compare against Oracle / Perfect Detection from Step 4
-    oracle_f1 = test_eval["approaches"]["hybrid"]["binary_unnecessary_f1"]
-    oracle_acc = test_eval["approaches"]["hybrid"]["binary_unnecessary_accuracy"]
-    print(f"{'Oracle (GT Detection)':<20} | {'60':<6} | {test_eval['approaches']['hybrid']['binary_unnecessary_precision']:<10.4f} | {test_eval['approaches']['hybrid']['binary_unnecessary_recall']:<10.4f} | {oracle_f1:<10.4f} | {oracle_acc:<10.4f}")
+    print("\n" + "=" * 90)
+    print("         HONEST END-TO-END PIPELINE RELIABILITY (DETECT -> CLASSIFY)")
+    print("=" * 90)
+    print(f"{'Stream':<18} | {'Total GT':<9} | {'Undetected Rate':<17} | {'E2E Catch':<11} | {'Oracle Catch':<13} | {'Detection Gap'}")
+    print("-" * 90)
 
     for mod, e_m in e2e_results.items():
-        disp_mod = "Clean Digital Text" if mod == "clean" else "Scanned OCR Images"
-        delta_f1 = e_m["end_to_end_f1"] - oracle_f1
-        print(f"{disp_mod:<20} | {e_m['total_documents']:<6} | {e_m['end_to_end_precision']:<10.4f} | {e_m['end_to_end_recall']:<10.4f} | {e_m['end_to_end_f1']:<10.4f} | {e_m['end_to_end_accuracy']:<10.4f} (Delta F1={delta_f1:+.4f})")
+        disp_mod = "Clean Text" if mod == "clean" else "Scanned OCR"
+        unnec_info = e_m["unnecessary_pii_evaluation"]
+        print(f"{disp_mod:<18} | {e_m['total_gt_instances']:<9} | {e_m['total_undetected_unassessed']:>4} ({e_m['overall_undetected_rate']*100:.1f}%)      | {unnec_info['caught_unnecessary_e2e']:>4}/{unnec_info['total_gt_unnecessary']} ({unnec_info['e2e_unnecessary_catch_rate']*100:.1f}%) | {unnec_info['oracle_unnecessary_catch_rate']*100:.1f}%        | -{unnec_info['detection_gap']*100:.1f}%")
+
+    print("\n--- ZERO-RECALL & HIGH-LEAKAGE FIELDS IN PHASE 2 DETECTION (Clean Text) ---")
+    if "clean" in e2e_results:
+        clean_breakdown = e2e_results["clean"]["per_field_undetected_breakdown"]
+        high_miss = {k: v for k, v in clean_breakdown.items() if v["undetected_unassessed_rate"] > 0.0}
+        print(f"{'Field Type':<24} | {'Total GT':<9} | {'Undetected / Unassessed':<25} | {'Unassessed Rate':<16} | {'Unnecessary Missed'}")
+        print("-" * 88)
+        for ft, stats in sorted(high_miss.items(), key=lambda x: x[1]["undetected_unassessed_rate"], reverse=True):
+            print(f"{ft:<24} | {stats['total_gt_instances']:<9} | {stats['undetected_unassessed_count']:<25} | {stats['undetected_unassessed_rate']*100:>6.1f}%          | {stats['missed_due_to_detection']}")
 
     # 6. Step 6: Sample Necessity Reports Generation
     print("\n[Step 5/5] Generating Sample Necessity Reports (8 representative documents)...")
@@ -157,10 +175,11 @@ def run_phase3_workflow(
     with open(results_path / "necessity_evaluation_metrics.json", "w", encoding="utf-8") as f:
         json.dump(metrics_export, f, indent=2)
 
-    print("\n" + "=" * 75)
+    print("\n" + "=" * 85)
     print("            PHASE 3 WORKFLOW COMPLETED SUCCESSFULLY")
-    print("=" * 75 + "\n")
+    print("=" * 85 + "\n")
     return metrics_export
 
 
 import numpy as np
+

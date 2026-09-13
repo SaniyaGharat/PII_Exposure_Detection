@@ -2,82 +2,85 @@
     "document_id": "job_015",
     "document_type": "job_application",
     "document_purpose": "To evaluate a candidate's qualifications, skills, education, and professional experience for potential employment.",
+    "sub_conditions": {
+        "is_remote_role": true
+    },
     "fields": [
         {
             "field_type": "full_name",
             "field_name": "Full Name",
-            "field_value": "Tracy Smith",
+            "field_value": "Theresa Smith",
             "necessity_label": "necessary",
             "reason": "Required to unambiguously identify the candidate, manage application tracking, and conduct hiring correspondence.",
             "span": {
                 "start": 370,
-                "end": 381
+                "end": 383
             }
         },
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "March 17, 1996",
+            "field_value": "March 18, 1996",
             "necessity_label": "unnecessary",
             "reason": "Date of birth is generally not required for evaluating qualifications during initial employment screening and may create discrimination concerns.",
             "span": {
-                "start": 404,
-                "end": 418
+                "start": 406,
+                "end": 420
             }
         },
         {
             "field_type": "gender",
             "field_name": "Gender",
-            "field_value": "Non-Binary",
+            "field_value": "Female",
             "necessity_label": "contextual",
             "reason": "Gender is not required for qualification evaluation, though occasionally collected under optional equal employment opportunity (EEO) demographic monitoring.",
             "span": {
-                "start": 441,
-                "end": 451
+                "start": 443,
+                "end": 449
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Single",
+            "field_value": "Married",
             "necessity_label": "unnecessary",
             "reason": "Marital status is irrelevant to assessing job competence and creates potential exposure to marital status or gender discrimination.",
             "span": {
-                "start": 474,
-                "end": 480
+                "start": 472,
+                "end": 479
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religion",
-            "field_value": "Christianity",
+            "field_value": "Prefer not to disclose",
             "necessity_label": "unnecessary",
             "reason": "Religious beliefs are completely irrelevant to job performance and introduce unlawful bias risks under employment regulations.",
             "span": {
-                "start": 503,
-                "end": 515
+                "start": 502,
+                "end": 524
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "334-18-1514",
+            "field_value": "690-70-4981",
             "necessity_label": "unnecessary",
             "reason": "Government national identification numbers are unnecessary at initial screening and introduce high identity theft exposure.",
             "span": {
-                "start": 538,
-                "end": 549
+                "start": 547,
+                "end": 558
             }
         },
         {
             "field_type": "email",
             "field_name": "Email Address",
-            "field_value": "tracy.smith@yahoo.com",
+            "field_value": "theresa.smith@yahoo.com",
             "necessity_label": "necessary",
             "reason": "Required as a primary electronic communication channel for interview scheduling and official employment notifications.",
             "span": {
-                "start": 572,
-                "end": 593
+                "start": 581,
+                "end": 604
             }
         },
         {
@@ -87,19 +90,19 @@
             "necessity_label": "necessary",
             "reason": "Required for direct contact, telephone screening sessions, and urgent recruitment updates.",
             "span": {
-                "start": 616,
-                "end": 631
+                "start": 627,
+                "end": 642
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "272 Rebecca Ramp Apt. 162, Whiteview, MS 43407",
-            "necessity_label": "contextual",
-            "reason": "Full street address is unnecessary for initial screening (city/region suffices), but may be required for local payroll tax jurisdictions or commute assessment.",
+            "necessity_label": "unnecessary",
+            "reason": "Full street address is unnecessary for initial screening for 100% remote roles; state/country jurisdiction suffices.",
             "span": {
-                "start": 654,
-                "end": 700
+                "start": 665,
+                "end": 711
             }
         },
         {
@@ -109,41 +112,41 @@
             "necessity_label": "necessary",
             "reason": "Specifies the target role against which candidate qualifications and criteria are evaluated.",
             "span": {
-                "start": 821,
-                "end": 845
+                "start": 848,
+                "end": 872
             }
         },
         {
             "field_type": "education",
             "field_name": "Education",
-            "field_value": "B.S. in Information Systems - Columbia University (Graduated 2013)",
+            "field_value": "M.S. in Data Analytics - Georgia Institute of Technology (Graduated 2018)",
             "necessity_label": "necessary",
             "reason": "Essential for verifying required academic degrees, institutional background, and formal qualifications.",
             "span": {
-                "start": 985,
-                "end": 1051
+                "start": 1061,
+                "end": 1134
             }
         },
         {
             "field_type": "work_history",
             "field_name": "Work History",
-            "field_value": "1. Senior Software Engineer at James, Smith and Bell (2023 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Castaneda-Ashley (2018 - 2020)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
+            "field_value": "1. Senior Software Engineer at James, Smith and Bell (2021 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Castaneda-Ashley (2019 - 2021)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
             "necessity_label": "necessary",
             "reason": "Essential for evaluating candidate's prior professional experience, relevant responsibilities, and career trajectory.",
             "span": {
-                "start": 1192,
-                "end": 1473
+                "start": 1275,
+                "end": 1556
             }
         },
         {
             "field_type": "skills",
             "field_name": "Skills & Competencies",
-            "field_value": "Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA",
+            "field_value": "React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices",
             "necessity_label": "necessary",
             "reason": "Directly reflects technical, operational, and domain competencies required for job performance.",
             "span": {
-                "start": 1616,
-                "end": 1697
+                "start": 1699,
+                "end": 1766
             }
         }
     ]

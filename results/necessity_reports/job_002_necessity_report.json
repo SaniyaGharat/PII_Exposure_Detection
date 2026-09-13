@@ -2,94 +2,94 @@
   "document_id": "job_002",
   "document_type": "job_application",
   "document_purpose": "To evaluate a candidate's qualifications, skills, education, and professional experience for potential employment.",
-  "hybrid_alpha": 1.0,
+  "hybrid_alpha": 0.0,
   "unnecessary_threshold": 0.5,
   "total_fields": 13,
-  "total_unnecessary_flagged": 4,
+  "total_unnecessary_flagged": 5,
   "fields": [
     {
       "field_type": "full_name",
       "field_name": "Full Name",
-      "field_value": "Robert Blair",
+      "field_value": "Renee Blair",
       "ground_truth_label": "necessary",
       "hybrid_score_N": 1.0,
       "rule_score_R": 1.0,
       "ml_score_M": 1.0,
       "predicted_label": "necessary",
       "flagged_unnecessary": false,
-      "reasoning": "Required to unambiguously identify the candidate, manage application tracking, and conduct hiring correspondence."
+      "reasoning": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
     },
     {
       "field_type": "date_of_birth",
       "field_name": "Date of Birth",
-      "field_value": "April 21, 1992",
+      "field_value": "April 22, 1992",
       "ground_truth_label": "unnecessary",
-      "hybrid_score_N": 0.0,
+      "hybrid_score_N": 0.0013,
       "rule_score_R": 0.0,
-      "ml_score_M": 0.0,
+      "ml_score_M": 0.0013,
       "predicted_label": "unnecessary",
       "flagged_unnecessary": true,
-      "reasoning": "Date of birth is generally not required for evaluating qualifications during initial employment screening and may create discrimination concerns."
+      "reasoning": "Flagged by learned contextual pattern (Model Confidence: 99.7%)."
     },
     {
       "field_type": "gender",
       "field_name": "Gender",
-      "field_value": "Male",
+      "field_value": "Female",
       "ground_truth_label": "contextual",
-      "hybrid_score_N": 0.5,
+      "hybrid_score_N": 0.4999,
       "rule_score_R": 0.5,
-      "ml_score_M": 0.5,
+      "ml_score_M": 0.4999,
       "predicted_label": "contextual",
-      "flagged_unnecessary": false,
-      "reasoning": "Gender is not required for qualification evaluation, though occasionally collected under optional equal employment opportunity (EEO) demographic monitoring."
+      "flagged_unnecessary": true,
+      "reasoning": "Flagged by learned contextual pattern (Model Confidence: 0.0%)."
     },
     {
       "field_type": "marital_status",
       "field_name": "Marital Status",
-      "field_value": "Widowed",
+      "field_value": "Single",
       "ground_truth_label": "unnecessary",
-      "hybrid_score_N": 0.0,
+      "hybrid_score_N": 0.0053,
       "rule_score_R": 0.0,
-      "ml_score_M": 0.0333,
+      "ml_score_M": 0.0053,
       "predicted_label": "unnecessary",
       "flagged_unnecessary": true,
-      "reasoning": "Marital status is irrelevant to assessing job competence and creates potential exposure to marital status or gender discrimination."
+      "reasoning": "Flagged by learned contextual pattern (Model Confidence: 98.9%)."
     },
     {
       "field_type": "religion",
       "field_name": "Religion",
-      "field_value": "Prefer not to disclose",
+      "field_value": "Hinduism",
       "ground_truth_label": "unnecessary",
-      "hybrid_score_N": 0.0,
+      "hybrid_score_N": 0.0003,
       "rule_score_R": 0.0,
-      "ml_score_M": 0.0,
+      "ml_score_M": 0.0003,
       "predicted_label": "unnecessary",
       "flagged_unnecessary": true,
-      "reasoning": "Religious beliefs are completely irrelevant to job performance and introduce unlawful bias risks under employment regulations."
+      "reasoning": "Flagged by learned contextual pattern (Model Confidence: 99.9%)."
     },
     {
       "field_type": "national_id",
       "field_name": "National ID / SSN",
-      "field_value": "384-10-3615",
+      "field_value": "814-64-6574",
       "ground_truth_label": "unnecessary",
-      "hybrid_score_N": 0.0,
+      "hybrid_score_N": 0.0057,
       "rule_score_R": 0.0,
-      "ml_score_M": 0.0,
+      "ml_score_M": 0.0057,
       "predicted_label": "unnecessary",
       "flagged_unnecessary": true,
-      "reasoning": "Government national identification numbers are unnecessary at initial screening and introduce high identity theft exposure."
+      "reasoning": "Flagged by learned contextual pattern (Model Confidence: 98.9%)."
     },
     {
       "field_type": "email",
       "field_name": "Email Address",
-      "field_value": "robert.blair@yahoo.com",
+      "field_value": "renee.blair@yahoo.com",
       "ground_truth_label": "necessary",
       "hybrid_score_N": 1.0,
       "rule_score_R": 1.0,
       "ml_score_M": 1.0,
       "predicted_label": "necessary",
       "flagged_unnecessary": false,
-      "reasoning": "Required as a primary electronic communication channel for interview scheduling and official employment notifications."
+      "reasoning": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
     },
     {
       "field_type": "phone",
@@ -101,19 +101,19 @@
       "ml_score_M": 1.0,
       "predicted_label": "necessary",
       "flagged_unnecessary": false,
-      "reasoning": "Required for direct contact, telephone screening sessions, and urgent recruitment updates."
+      "reasoning": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
     },
     {
       "field_type": "home_address",
       "field_name": "Home Address",
       "field_value": "55341 Amanda Gardens Apt. 764, Lake Mark, WI 07832",
-      "ground_truth_label": "contextual",
-      "hybrid_score_N": 0.5,
+      "ground_truth_label": "necessary",
+      "hybrid_score_N": 0.7098,
       "rule_score_R": 0.5,
-      "ml_score_M": 0.5,
-      "predicted_label": "contextual",
+      "ml_score_M": 0.7098,
+      "predicted_label": "necessary",
       "flagged_unnecessary": false,
-      "reasoning": "Full street address is unnecessary for initial screening (city/region suffices), but may be required for local payroll tax jurisdictions or commute assessment."
+      "reasoning": "Flagged by learned contextual pattern (Model Confidence: 42.0%)."
     },
     {
       "field_type": "job_title",
@@ -125,43 +125,43 @@
       "ml_score_M": 1.0,
       "predicted_label": "necessary",
       "flagged_unnecessary": false,
-      "reasoning": "Specifies the target role against which candidate qualifications and criteria are evaluated."
+      "reasoning": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
     },
     {
       "field_type": "education",
       "field_name": "Education",
-      "field_value": "B.S. in Information Systems - University of Washington (Graduated 2018)",
+      "field_value": "B.A. in Economics - Columbia University (Graduated 2016)",
       "ground_truth_label": "necessary",
       "hybrid_score_N": 1.0,
       "rule_score_R": 1.0,
       "ml_score_M": 1.0,
       "predicted_label": "necessary",
       "flagged_unnecessary": false,
-      "reasoning": "Essential for verifying required academic degrees, institutional background, and formal qualifications."
+      "reasoning": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
     },
     {
       "field_type": "work_history",
       "field_name": "Work History",
-      "field_value": "1. Systems Architect at Martinez, Nielsen and Miller (2021 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Calderon-Montgomery (2020 - 2020)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
+      "field_value": "1. Systems Architect at Martinez, Nielsen and Miller (2021 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Calderon-Montgomery (2020 - 2021)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
       "ground_truth_label": "necessary",
       "hybrid_score_N": 1.0,
       "rule_score_R": 1.0,
       "ml_score_M": 1.0,
       "predicted_label": "necessary",
       "flagged_unnecessary": false,
-      "reasoning": "Essential for evaluating candidate's prior professional experience, relevant responsibilities, and career trajectory."
+      "reasoning": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
     },
     {
       "field_type": "skills",
       "field_name": "Skills & Competencies",
-      "field_value": "Statistical Analysis, R, Tableau, Data Pipelines, Predictive Modeling",
+      "field_value": "Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA",
       "ground_truth_label": "necessary",
       "hybrid_score_N": 1.0,
       "rule_score_R": 1.0,
       "ml_score_M": 1.0,
       "predicted_label": "necessary",
       "flagged_unnecessary": false,
-      "reasoning": "Directly reflects technical, operational, and domain competencies required for job performance."
+      "reasoning": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
     }
   ]
 }

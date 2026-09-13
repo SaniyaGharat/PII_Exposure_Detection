@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Amanda Forbes
-Date of Birth:        December 29, 1978
+Encounter Modality:   In-Person Outpatient Clinical Visit
+Date of Birth:        December 30, 1978
 Phone Number:         +1-960-886-8034
 Home Address:         7264 Hannah Divide Suite 718, East Kimberlyside, DC 52021
-Marital Status:       Married
+Marital Status:       Widowed
 Occupation:           Medical laboratory scientific officer
-Religious Preference: Hinduism
-National ID / SSN:    139-46-8740
-Insurance Policy No:  BLU-72962895
+Religious Preference: Sikhism
+National ID / SSN:    765-45-5089
+Insurance Policy No:  MED-13478029
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Jerry White (Sibling) - Phone: 001-337-914-5211
+Jerry White (Parent) - Phone: 001-337-914-5211
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Aspirin (bronchospasm), Codeine (nausea).
+Sulfa antibiotics (severe skin reaction), Latex.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.
+Omeprazole 20mg PO daily before breakfast, Calcium + Vitamin D supplement.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
+Hypothyroidism (stable on levothyroxine), Migraines with aura.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

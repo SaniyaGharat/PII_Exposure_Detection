@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Kimberly Smith
-Date of Birth:        July 05, 2007
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        July 06, 2007
 Phone Number:         001-368-865-0863x76599
 Home Address:         7314 Scott Avenue, New Alexandrahaven, AL 49656
 Marital Status:       Divorced
 Occupation:           Engineer, electronics
-Religious Preference: Sikhism
-National ID / SSN:    844-92-3419
-Insurance Policy No:  BLU-23798190
+Religious Preference: Buddhism
+National ID / SSN:    554-88-5668
+Insurance Policy No:  UHC-41407343
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Melissa Stewart (Parent) - Phone: (612)869-4486x959
+Melissa Stewart (Adult Child) - Phone: (612)869-4486x959
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Sulfa antibiotics (severe skin reaction), Latex.
+No Known Drug Allergies (NKDA), No known environmental allergies.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
+Metformin 500mg PO BID with meals, Glipizide 5mg daily.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

@@ -2,232 +2,878 @@
   "alpha_grid_search": [
     {
       "alpha": 0.0,
-      "mae": 0.0024,
-      "rmse": 0.0259
+      "mae": 0.0238,
+      "rmse": 0.1143
     },
     {
       "alpha": 0.1,
-      "mae": 0.0022,
-      "rmse": 0.0233
+      "mae": 0.0251,
+      "rmse": 0.1125
     },
     {
       "alpha": 0.2,
-      "mae": 0.0019,
-      "rmse": 0.0207
+      "mae": 0.0265,
+      "rmse": 0.1115
     },
     {
       "alpha": 0.3,
-      "mae": 0.0017,
-      "rmse": 0.0182
+      "mae": 0.0278,
+      "rmse": 0.1116
     },
     {
       "alpha": 0.4,
-      "mae": 0.0015,
-      "rmse": 0.0156
+      "mae": 0.0291,
+      "rmse": 0.1125
     },
     {
       "alpha": 0.5,
-      "mae": 0.0012,
-      "rmse": 0.013
+      "mae": 0.0304,
+      "rmse": 0.1145
     },
     {
       "alpha": 0.6,
-      "mae": 0.001,
-      "rmse": 0.0104
+      "mae": 0.0318,
+      "rmse": 0.1173
     },
     {
       "alpha": 0.7,
-      "mae": 0.0007,
-      "rmse": 0.0078
+      "mae": 0.0331,
+      "rmse": 0.1209
     },
     {
       "alpha": 0.8,
-      "mae": 0.0005,
-      "rmse": 0.0052
+      "mae": 0.0344,
+      "rmse": 0.1253
     },
     {
       "alpha": 0.9,
-      "mae": 0.0002,
-      "rmse": 0.0026
+      "mae": 0.0357,
+      "rmse": 0.1304
     },
     {
       "alpha": 1.0,
-      "mae": 0.0,
-      "rmse": 0.0
+      "mae": 0.037,
+      "rmse": 0.1361
     }
   ],
-  "optimal_alpha": 1.0,
+  "optimal_alpha": 0.0,
   "test_evaluation": {
-    "alpha": 1.0,
+    "alpha": 0.0,
     "unnecessary_threshold": 0.5,
     "total_test_instances": 810,
     "approaches": {
       "rule_only": {
-        "mae": 0.0,
-        "rmse": 0.0,
+        "mae": 0.037,
+        "rmse": 0.1361,
         "binary_unnecessary_precision": 1.0,
-        "binary_unnecessary_recall": 1.0,
-        "binary_unnecessary_f1": 1.0,
-        "binary_unnecessary_accuracy": 1.0
+        "binary_unnecessary_recall": 0.8531,
+        "binary_unnecessary_f1": 0.9207,
+        "binary_unnecessary_accuracy": 0.9617
       },
       "ml_only": {
-        "mae": 0.0019,
-        "rmse": 0.023,
-        "binary_unnecessary_precision": 0.9326,
-        "binary_unnecessary_recall": 1.0,
-        "binary_unnecessary_f1": 0.9651,
-        "binary_unnecessary_accuracy": 0.984
+        "mae": 0.0235,
+        "rmse": 0.1112,
+        "binary_unnecessary_precision": 0.646,
+        "binary_unnecessary_recall": 0.9858,
+        "binary_unnecessary_f1": 0.7805,
+        "binary_unnecessary_accuracy": 0.8556
       },
       "hybrid": {
-        "mae": 0.0,
-        "rmse": 0.0,
-        "binary_unnecessary_precision": 1.0,
-        "binary_unnecessary_recall": 1.0,
-        "binary_unnecessary_f1": 1.0,
-        "binary_unnecessary_accuracy": 1.0
+        "mae": 0.0235,
+        "rmse": 0.1112,
+        "binary_unnecessary_precision": 0.646,
+        "binary_unnecessary_recall": 0.9858,
+        "binary_unnecessary_f1": 0.7805,
+        "binary_unnecessary_accuracy": 0.8556
+      }
+    },
+    "affected_vs_unaffected": {
+      "affected_fields": {
+        "count": 60,
+        "approaches": {
+          "rule_only": {
+            "mae": 0.5,
+            "rmse": 0.5,
+            "binary_unnecessary_precision": 0.0,
+            "binary_unnecessary_recall": 0.0,
+            "binary_unnecessary_f1": 0.0,
+            "binary_unnecessary_accuracy": 0.4833
+          },
+          "ml_only": {
+            "mae": 0.2809,
+            "rmse": 0.4058,
+            "binary_unnecessary_precision": 0.6829,
+            "binary_unnecessary_recall": 0.9032,
+            "binary_unnecessary_f1": 0.7778,
+            "binary_unnecessary_accuracy": 0.7333
+          },
+          "hybrid": {
+            "mae": 0.2809,
+            "rmse": 0.4058,
+            "binary_unnecessary_precision": 0.6829,
+            "binary_unnecessary_recall": 0.9032,
+            "binary_unnecessary_f1": 0.7778,
+            "binary_unnecessary_accuracy": 0.7333
+          }
+        }
+      },
+      "unaffected_fields": {
+        "count": 750,
+        "approaches": {
+          "rule_only": {
+            "mae": 0.0,
+            "rmse": 0.0,
+            "binary_unnecessary_precision": 1.0,
+            "binary_unnecessary_recall": 1.0,
+            "binary_unnecessary_f1": 1.0,
+            "binary_unnecessary_accuracy": 1.0
+          },
+          "ml_only": {
+            "mae": 0.0029,
+            "rmse": 0.0137,
+            "binary_unnecessary_precision": 0.6406,
+            "binary_unnecessary_recall": 1.0,
+            "binary_unnecessary_f1": 0.7809,
+            "binary_unnecessary_accuracy": 0.8653
+          },
+          "hybrid": {
+            "mae": 0.0029,
+            "rmse": 0.0137,
+            "binary_unnecessary_precision": 0.6406,
+            "binary_unnecessary_recall": 1.0,
+            "binary_unnecessary_f1": 0.7809,
+            "binary_unnecessary_accuracy": 0.8653
+          }
+        }
       }
     },
     "per_domain": {
       "job_application": {
         "rule_only": {
           "count": 195,
-          "mae": 0.0,
-          "rmse": 0.0,
-          "binary_f1": 1.0
+          "mae": 0.0385,
+          "rmse": 0.1387,
+          "binary_f1": 0.9375
         },
         "ml_only": {
           "count": 195,
-          "mae": 0.0059,
-          "rmse": 0.0459,
-          "binary_f1": 0.9836
+          "mae": 0.046,
+          "rmse": 0.1639,
+          "binary_f1": 0.8442
         },
         "hybrid": {
           "count": 195,
-          "mae": 0.0,
-          "rmse": 0.0,
-          "binary_f1": 1.0
+          "mae": 0.046,
+          "rmse": 0.1639,
+          "binary_f1": 0.8442
         }
       },
       "loan_application": {
         "rule_only": {
           "count": 210,
-          "mae": 0.0,
-          "rmse": 0.0,
-          "binary_f1": 1.0
+          "mae": 0.0357,
+          "rmse": 0.1336,
+          "binary_f1": 0.9091
         },
         "ml_only": {
           "count": 210,
-          "mae": 0.0006,
-          "rmse": 0.0033,
+          "mae": 0.0038,
+          "rmse": 0.0198,
           "binary_f1": 1.0
         },
         "hybrid": {
           "count": 210,
-          "mae": 0.0,
-          "rmse": 0.0,
+          "mae": 0.0038,
+          "rmse": 0.0198,
           "binary_f1": 1.0
         }
       },
       "medical_intake": {
         "rule_only": {
           "count": 195,
-          "mae": 0.0,
-          "rmse": 0.0,
-          "binary_f1": 1.0
+          "mae": 0.0385,
+          "rmse": 0.1387,
+          "binary_f1": 0.7895
         },
         "ml_only": {
           "count": 195,
-          "mae": 0.0004,
-          "rmse": 0.0049,
-          "binary_f1": 0.9091
+          "mae": 0.0057,
+          "rmse": 0.0273,
+          "binary_f1": 0.434
         },
         "hybrid": {
           "count": 195,
-          "mae": 0.0,
-          "rmse": 0.0,
-          "binary_f1": 1.0
+          "mae": 0.0057,
+          "rmse": 0.0273,
+          "binary_f1": 0.434
         }
       },
       "rental_agreement": {
         "rule_only": {
           "count": 210,
-          "mae": 0.0,
-          "rmse": 0.0,
-          "binary_f1": 1.0
+          "mae": 0.0357,
+          "rmse": 0.1336,
+          "binary_f1": 0.9524
         },
         "ml_only": {
           "count": 210,
-          "mae": 0.0008,
-          "rmse": 0.0074,
-          "binary_f1": 0.9375
+          "mae": 0.0387,
+          "rmse": 0.1472,
+          "binary_f1": 0.8
         },
         "hybrid": {
           "count": 210,
-          "mae": 0.0,
-          "rmse": 0.0,
-          "binary_f1": 1.0
+          "mae": 0.0387,
+          "rmse": 0.1472,
+          "binary_f1": 0.8
         }
       }
     },
     "threshold_sensitivity": {
       "threshold_0.25": {
-        "precision": 1.0,
-        "recall": 1.0,
-        "f1": 1.0
+        "precision": 0.9804,
+        "recall": 0.9479,
+        "f1": 0.9639
       },
       "threshold_0.5": {
-        "precision": 1.0,
-        "recall": 1.0,
-        "f1": 1.0
+        "precision": 0.646,
+        "recall": 0.9858,
+        "f1": 0.7805
       },
       "threshold_0.75": {
-        "precision": 1.0,
+        "precision": 0.9566,
         "recall": 1.0,
-        "f1": 1.0
+        "f1": 0.9778
       }
     },
     "disagreement_analysis": {
-      "total_disagreements": 13,
-      "disagreement_rate": 0.016,
+      "total_disagreements": 142,
+      "disagreement_rate": 0.1753,
       "confusion_matrix_r_vs_m": [
         [
-          617,
-          13
+          488,
+          142
         ],
         [
           0,
           180
         ]
       ],
-      "rule_accuracy_on_disagreements": 1.0,
-      "ml_accuracy_on_disagreements": 0.0,
-      "hybrid_accuracy_on_disagreements": 1.0
+      "rule_accuracy_on_disagreements": 0.8028,
+      "ml_accuracy_on_disagreements": 0.1972,
+      "hybrid_accuracy_on_disagreements": 0.1972
     }
   },
   "end_to_end_compounding_error": {
     "clean": {
-      "total_documents": 400,
-      "total_evaluated_instances": 5400,
-      "total_gt_unnecessary": 1200,
-      "correctly_flagged_unnecessary": 1200,
-      "missed_unnecessary": 0,
-      "spurious_flagged_unnecessary": 0,
-      "end_to_end_precision": 1.0,
-      "end_to_end_recall": 1.0,
-      "end_to_end_f1": 1.0,
-      "end_to_end_accuracy": 1.0
+      "total_documents": 60,
+      "total_gt_instances": 810,
+      "total_detected_instances": 738,
+      "total_undetected_unassessed": 72,
+      "overall_undetected_rate": 0.0889,
+      "unnecessary_pii_evaluation": {
+        "total_gt_unnecessary": 211,
+        "caught_unnecessary_e2e": 123,
+        "missed_due_to_detection": 0,
+        "missed_due_to_classification": 88,
+        "e2e_unnecessary_catch_rate": 0.5829,
+        "oracle_unnecessary_catch_rate": 0.9858,
+        "detection_gap": 0.4028
+      },
+      "necessary_pii_evaluation": {
+        "total_gt_necessary": 599,
+        "correctly_cleared_necessary": 402,
+        "unassessed_necessary_leakage": 72,
+        "over_redacted_necessary": 125,
+        "e2e_necessary_clearance_rate": 0.6711
+      },
+      "per_field_undetected_breakdown": {
+        "allergies": {
+          "total_gt_instances": 15,
+          "detected_instances": 15,
+          "undetected_unassessed_count": 0,
+          "undetected_unassessed_rate": 0.0,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "annual_income": {
+          "total_gt_instances": 15,
+          "detected_instances": 15,
+          "undetected_unassessed_count": 0,
+          "undetected_unassessed_rate": 0.0,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "bank_account_number": {
+          "total_gt_instances": 30,
+          "detected_instances": 30,
+          "undetected_unassessed_count": 0,
+          "undetected_unassessed_rate": 0.0,
+          "gt_unnecessary_instances": 15,
+          "caught_unnecessary_e2e": 3,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": 0.2
+        },
+        "biometric_information": {
+          "total_gt_instances": 15,
+          "detected_instances": 15,
+          "undetected_unassessed_count": 0,
+          "undetected_unassessed_rate": 0.0,
+          "gt_unnecessary_instances": 15,
+          "caught_unnecessary_e2e": 15,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": 1.0
+        },
+        "credit_score": {
+          "total_gt_instances": 15,
+          "detected_instances": 15,
+          "undetected_unassessed_count": 0,
+          "undetected_unassessed_rate": 0.0,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "current_address": {
+          "total_gt_instances": 15,
+          "detected_instances": 8,
+          "undetected_unassessed_count": 7,
+          "undetected_unassessed_rate": 0.4667,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "current_medications": {
+          "total_gt_instances": 15,
+          "detected_instances": 15,
+          "undetected_unassessed_count": 0,
+          "undetected_unassessed_rate": 0.0,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "date_of_birth": {
+          "total_gt_instances": 45,
+          "detected_instances": 45,
+          "undetected_unassessed_count": 0,
+          "undetected_unassessed_rate": 0.0,
+          "gt_unnecessary_instances": 15,
+          "caught_unnecessary_e2e": 15,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": 1.0
+        },
+        "education": {
+          "total_gt_instances": 15,
+          "detected_instances": 13,
+          "undetected_unassessed_count": 2,
+          "undetected_unassessed_rate": 0.1333,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "email": {
+          "total_gt_instances": 45,
+          "detected_instances": 45,
+          "undetected_unassessed_count": 0,
+          "undetected_unassessed_rate": 0.0,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "emergency_contact": {
+          "total_gt_instances": 30,
+          "detected_instances": 30,
+          "undetected_unassessed_count": 0,
+          "undetected_unassessed_rate": 0.0,
+          "gt_unnecessary_instances": 6,
+          "caught_unnecessary_e2e": 3,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": 0.5
+        },
+        "employer_name": {
+          "total_gt_instances": 30,
+          "detected_instances": 0,
+          "undetected_unassessed_count": 30,
+          "undetected_unassessed_rate": 1.0,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "employment_status": {
+          "total_gt_instances": 30,
+          "detected_instances": 30,
+          "undetected_unassessed_count": 0,
+          "undetected_unassessed_rate": 0.0,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "full_name": {
+          "total_gt_instances": 60,
+          "detected_instances": 60,
+          "undetected_unassessed_count": 0,
+          "undetected_unassessed_rate": 0.0,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "gender": {
+          "total_gt_instances": 15,
+          "detected_instances": 15,
+          "undetected_unassessed_count": 0,
+          "undetected_unassessed_rate": 0.0,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "home_address": {
+          "total_gt_instances": 45,
+          "detected_instances": 44,
+          "undetected_unassessed_count": 1,
+          "undetected_unassessed_rate": 0.0222,
+          "gt_unnecessary_instances": 16,
+          "caught_unnecessary_e2e": 8,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": 0.5
+        },
+        "income": {
+          "total_gt_instances": 15,
+          "detected_instances": 15,
+          "undetected_unassessed_count": 0,
+          "undetected_unassessed_rate": 0.0,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "insurance_number": {
+          "total_gt_instances": 15,
+          "detected_instances": 15,
+          "undetected_unassessed_count": 0,
+          "undetected_unassessed_rate": 0.0,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "job_title": {
+          "total_gt_instances": 15,
+          "detected_instances": 15,
+          "undetected_unassessed_count": 0,
+          "undetected_unassessed_rate": 0.0,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "marital_status": {
+          "total_gt_instances": 60,
+          "detected_instances": 60,
+          "undetected_unassessed_count": 0,
+          "undetected_unassessed_rate": 0.0,
+          "gt_unnecessary_instances": 39,
+          "caught_unnecessary_e2e": 18,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": 0.4615
+        },
+        "medical_history": {
+          "total_gt_instances": 45,
+          "detected_instances": 45,
+          "undetected_unassessed_count": 0,
+          "undetected_unassessed_rate": 0.0,
+          "gt_unnecessary_instances": 30,
+          "caught_unnecessary_e2e": 15,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": 0.5
+        },
+        "national_id": {
+          "total_gt_instances": 45,
+          "detected_instances": 45,
+          "undetected_unassessed_count": 0,
+          "undetected_unassessed_rate": 0.0,
+          "gt_unnecessary_instances": 30,
+          "caught_unnecessary_e2e": 30,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": 1.0
+        },
+        "occupation": {
+          "total_gt_instances": 15,
+          "detected_instances": 0,
+          "undetected_unassessed_count": 15,
+          "undetected_unassessed_rate": 1.0,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "phone": {
+          "total_gt_instances": 60,
+          "detected_instances": 58,
+          "undetected_unassessed_count": 2,
+          "undetected_unassessed_rate": 0.0333,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "religion": {
+          "total_gt_instances": 60,
+          "detected_instances": 60,
+          "undetected_unassessed_count": 0,
+          "undetected_unassessed_rate": 0.0,
+          "gt_unnecessary_instances": 45,
+          "caught_unnecessary_e2e": 16,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": 0.3556
+        },
+        "rental_history": {
+          "total_gt_instances": 15,
+          "detected_instances": 15,
+          "undetected_unassessed_count": 0,
+          "undetected_unassessed_rate": 0.0,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "skills": {
+          "total_gt_instances": 15,
+          "detected_instances": 15,
+          "undetected_unassessed_count": 0,
+          "undetected_unassessed_rate": 0.0,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "work_history": {
+          "total_gt_instances": 15,
+          "detected_instances": 0,
+          "undetected_unassessed_count": 15,
+          "undetected_unassessed_rate": 1.0,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        }
+      }
     },
     "ocr": {
-      "total_documents": 100,
-      "total_evaluated_instances": 1350,
-      "total_gt_unnecessary": 300,
-      "correctly_flagged_unnecessary": 296,
-      "missed_unnecessary": 4,
-      "spurious_flagged_unnecessary": 0,
-      "end_to_end_precision": 1.0,
-      "end_to_end_recall": 0.9867,
-      "end_to_end_f1": 0.9933,
-      "end_to_end_accuracy": 0.997
+      "total_documents": 26,
+      "total_gt_instances": 346,
+      "total_detected_instances": 255,
+      "total_undetected_unassessed": 91,
+      "overall_undetected_rate": 0.263,
+      "unnecessary_pii_evaluation": {
+        "total_gt_unnecessary": 105,
+        "caught_unnecessary_e2e": 27,
+        "missed_due_to_detection": 4,
+        "missed_due_to_classification": 74,
+        "e2e_unnecessary_catch_rate": 0.2571,
+        "oracle_unnecessary_catch_rate": 0.9714,
+        "detection_gap": 0.7143
+      },
+      "necessary_pii_evaluation": {
+        "total_gt_necessary": 241,
+        "correctly_cleared_necessary": 131,
+        "unassessed_necessary_leakage": 87,
+        "over_redacted_necessary": 23,
+        "e2e_necessary_clearance_rate": 0.5436
+      },
+      "per_field_undetected_breakdown": {
+        "allergies": {
+          "total_gt_instances": 3,
+          "detected_instances": 3,
+          "undetected_unassessed_count": 0,
+          "undetected_unassessed_rate": 0.0,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "annual_income": {
+          "total_gt_instances": 4,
+          "detected_instances": 0,
+          "undetected_unassessed_count": 4,
+          "undetected_unassessed_rate": 1.0,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "bank_account_number": {
+          "total_gt_instances": 8,
+          "detected_instances": 8,
+          "undetected_unassessed_count": 0,
+          "undetected_unassessed_rate": 0.0,
+          "gt_unnecessary_instances": 4,
+          "caught_unnecessary_e2e": 3,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": 0.75
+        },
+        "biometric_information": {
+          "total_gt_instances": 4,
+          "detected_instances": 4,
+          "undetected_unassessed_count": 0,
+          "undetected_unassessed_rate": 0.0,
+          "gt_unnecessary_instances": 4,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": 0.0
+        },
+        "credit_score": {
+          "total_gt_instances": 4,
+          "detected_instances": 3,
+          "undetected_unassessed_count": 1,
+          "undetected_unassessed_rate": 0.25,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "current_address": {
+          "total_gt_instances": 4,
+          "detected_instances": 3,
+          "undetected_unassessed_count": 1,
+          "undetected_unassessed_rate": 0.25,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "current_medications": {
+          "total_gt_instances": 3,
+          "detected_instances": 3,
+          "undetected_unassessed_count": 0,
+          "undetected_unassessed_rate": 0.0,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "date_of_birth": {
+          "total_gt_instances": 22,
+          "detected_instances": 22,
+          "undetected_unassessed_count": 0,
+          "undetected_unassessed_rate": 0.0,
+          "gt_unnecessary_instances": 15,
+          "caught_unnecessary_e2e": 7,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": 0.4667
+        },
+        "education": {
+          "total_gt_instances": 15,
+          "detected_instances": 0,
+          "undetected_unassessed_count": 15,
+          "undetected_unassessed_rate": 1.0,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "email": {
+          "total_gt_instances": 23,
+          "detected_instances": 4,
+          "undetected_unassessed_count": 19,
+          "undetected_unassessed_rate": 0.8261,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "emergency_contact": {
+          "total_gt_instances": 7,
+          "detected_instances": 0,
+          "undetected_unassessed_count": 7,
+          "undetected_unassessed_rate": 1.0,
+          "gt_unnecessary_instances": 2,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 2,
+          "field_unnecessary_catch_rate": 0.0
+        },
+        "employer_name": {
+          "total_gt_instances": 8,
+          "detected_instances": 0,
+          "undetected_unassessed_count": 8,
+          "undetected_unassessed_rate": 1.0,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "employment_status": {
+          "total_gt_instances": 8,
+          "detected_instances": 7,
+          "undetected_unassessed_count": 1,
+          "undetected_unassessed_rate": 0.125,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "full_name": {
+          "total_gt_instances": 26,
+          "detected_instances": 26,
+          "undetected_unassessed_count": 0,
+          "undetected_unassessed_rate": 0.0,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "gender": {
+          "total_gt_instances": 15,
+          "detected_instances": 14,
+          "undetected_unassessed_count": 1,
+          "undetected_unassessed_rate": 0.0667,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "home_address": {
+          "total_gt_instances": 22,
+          "detected_instances": 20,
+          "undetected_unassessed_count": 2,
+          "undetected_unassessed_rate": 0.0909,
+          "gt_unnecessary_instances": 10,
+          "caught_unnecessary_e2e": 2,
+          "missed_due_to_detection": 1,
+          "field_unnecessary_catch_rate": 0.2
+        },
+        "income": {
+          "total_gt_instances": 4,
+          "detected_instances": 0,
+          "undetected_unassessed_count": 4,
+          "undetected_unassessed_rate": 1.0,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "insurance_number": {
+          "total_gt_instances": 3,
+          "detected_instances": 3,
+          "undetected_unassessed_count": 0,
+          "undetected_unassessed_rate": 0.0,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "job_title": {
+          "total_gt_instances": 15,
+          "detected_instances": 15,
+          "undetected_unassessed_count": 0,
+          "undetected_unassessed_rate": 0.0,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "marital_status": {
+          "total_gt_instances": 26,
+          "detected_instances": 25,
+          "undetected_unassessed_count": 1,
+          "undetected_unassessed_rate": 0.0385,
+          "gt_unnecessary_instances": 21,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": 0.0
+        },
+        "medical_history": {
+          "total_gt_instances": 11,
+          "detected_instances": 11,
+          "undetected_unassessed_count": 0,
+          "undetected_unassessed_rate": 0.0,
+          "gt_unnecessary_instances": 8,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": 0.0
+        },
+        "national_id": {
+          "total_gt_instances": 22,
+          "detected_instances": 22,
+          "undetected_unassessed_count": 0,
+          "undetected_unassessed_rate": 0.0,
+          "gt_unnecessary_instances": 18,
+          "caught_unnecessary_e2e": 15,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": 0.8333
+        },
+        "occupation": {
+          "total_gt_instances": 3,
+          "detected_instances": 0,
+          "undetected_unassessed_count": 3,
+          "undetected_unassessed_rate": 1.0,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "phone": {
+          "total_gt_instances": 26,
+          "detected_instances": 23,
+          "undetected_unassessed_count": 3,
+          "undetected_unassessed_rate": 0.1154,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "religion": {
+          "total_gt_instances": 26,
+          "detected_instances": 25,
+          "undetected_unassessed_count": 1,
+          "undetected_unassessed_rate": 0.0385,
+          "gt_unnecessary_instances": 23,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 1,
+          "field_unnecessary_catch_rate": 0.0
+        },
+        "rental_history": {
+          "total_gt_instances": 4,
+          "detected_instances": 0,
+          "undetected_unassessed_count": 4,
+          "undetected_unassessed_rate": 1.0,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "skills": {
+          "total_gt_instances": 15,
+          "detected_instances": 14,
+          "undetected_unassessed_count": 1,
+          "undetected_unassessed_rate": 0.0667,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        },
+        "work_history": {
+          "total_gt_instances": 15,
+          "detected_instances": 0,
+          "undetected_unassessed_count": 15,
+          "undetected_unassessed_rate": 1.0,
+          "gt_unnecessary_instances": 0,
+          "caught_unnecessary_e2e": 0,
+          "missed_due_to_detection": 0,
+          "field_unnecessary_catch_rate": "N/A"
+        }
+      }
     }
   }
 }

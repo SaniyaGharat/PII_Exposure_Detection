@@ -2,82 +2,85 @@
     "document_id": "job_089",
     "document_type": "job_application",
     "document_purpose": "To evaluate a candidate's qualifications, skills, education, and professional experience for potential employment.",
+    "sub_conditions": {
+        "is_remote_role": false
+    },
     "fields": [
         {
             "field_type": "full_name",
             "field_name": "Full Name",
-            "field_value": "Meagan Daniel",
+            "field_value": "Michael Daniel",
             "necessity_label": "necessary",
             "reason": "Required to unambiguously identify the candidate, manage application tracking, and conduct hiring correspondence.",
             "span": {
                 "start": 370,
-                "end": 383
+                "end": 384
             }
         },
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "February 28, 1985",
+            "field_value": "March 01, 1985",
             "necessity_label": "unnecessary",
             "reason": "Date of birth is generally not required for evaluating qualifications during initial employment screening and may create discrimination concerns.",
             "span": {
-                "start": 406,
-                "end": 423
+                "start": 407,
+                "end": 421
             }
         },
         {
             "field_type": "gender",
             "field_name": "Gender",
-            "field_value": "Female",
+            "field_value": "Male",
             "necessity_label": "contextual",
             "reason": "Gender is not required for qualification evaluation, though occasionally collected under optional equal employment opportunity (EEO) demographic monitoring.",
             "span": {
-                "start": 446,
-                "end": 452
+                "start": 444,
+                "end": 448
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Widowed",
+            "field_value": "Domestic Partnership",
             "necessity_label": "unnecessary",
             "reason": "Marital status is irrelevant to assessing job competence and creates potential exposure to marital status or gender discrimination.",
             "span": {
-                "start": 475,
-                "end": 482
+                "start": 471,
+                "end": 491
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religion",
-            "field_value": "Atheist",
+            "field_value": "Judaism",
             "necessity_label": "unnecessary",
             "reason": "Religious beliefs are completely irrelevant to job performance and introduce unlawful bias risks under employment regulations.",
             "span": {
-                "start": 505,
-                "end": 512
+                "start": 514,
+                "end": 521
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "479-95-9850",
+            "field_value": "564-74-8048",
             "necessity_label": "unnecessary",
             "reason": "Government national identification numbers are unnecessary at initial screening and introduce high identity theft exposure.",
             "span": {
-                "start": 535,
-                "end": 546
+                "start": 544,
+                "end": 555
             }
         },
         {
             "field_type": "email",
             "field_name": "Email Address",
-            "field_value": "meagan.daniel@hotmail.com",
+            "field_value": "michael.daniel@hotmail.com",
             "necessity_label": "necessary",
             "reason": "Required as a primary electronic communication channel for interview scheduling and official employment notifications.",
             "span": {
-                "start": 569,
-                "end": 594
+                "start": 578,
+                "end": 604
             }
         },
         {
@@ -87,63 +90,63 @@
             "necessity_label": "necessary",
             "reason": "Required for direct contact, telephone screening sessions, and urgent recruitment updates.",
             "span": {
-                "start": 617,
-                "end": 629
+                "start": 627,
+                "end": 639
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "79327 Lauren Bypass Suite 054, North Matthewfurt, GA 96443",
-            "necessity_label": "contextual",
-            "reason": "Full street address is unnecessary for initial screening (city/region suffices), but may be required for local payroll tax jurisdictions or commute assessment.",
+            "necessity_label": "necessary",
+            "reason": "Required for assessing commute feasibility, physical facility access, and local payroll tax withholding jurisdiction.",
             "span": {
-                "start": 652,
-                "end": 710
+                "start": 662,
+                "end": 720
             }
         },
         {
             "field_type": "job_title",
             "field_name": "Position Applied For",
-            "field_value": "Senior Software Engineer",
+            "field_value": "Clinical Research Coordinator",
             "necessity_label": "necessary",
             "reason": "Specifies the target role against which candidate qualifications and criteria are evaluated.",
             "span": {
-                "start": 831,
-                "end": 855
+                "start": 857,
+                "end": 886
             }
         },
         {
             "field_type": "education",
             "field_name": "Education",
-            "field_value": "M.S. in Data Analytics - Carnegie Mellon University (Graduated 2011)",
+            "field_value": "B.S. in Information Systems - Cornell University (Graduated 2018)",
             "necessity_label": "necessary",
             "reason": "Essential for verifying required academic degrees, institutional background, and formal qualifications.",
             "span": {
-                "start": 995,
-                "end": 1063
+                "start": 1083,
+                "end": 1148
             }
         },
         {
             "field_type": "work_history",
             "field_name": "Work History",
-            "field_value": "1. Senior Software Engineer at Griffin-Baker (2021 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Steele LLC (2018 - 2020)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
+            "field_value": "1. Clinical Research Coordinator at Griffin-Baker (2023 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Steele LLC (2019 - 2021)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
             "necessity_label": "necessary",
             "reason": "Essential for evaluating candidate's prior professional experience, relevant responsibilities, and career trajectory.",
             "span": {
-                "start": 1204,
-                "end": 1471
+                "start": 1289,
+                "end": 1561
             }
         },
         {
             "field_type": "skills",
             "field_name": "Skills & Competencies",
-            "field_value": "React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices",
+            "field_value": "Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture",
             "necessity_label": "necessary",
             "reason": "Directly reflects technical, operational, and domain competencies required for job performance.",
             "span": {
-                "start": 1614,
-                "end": 1681
+                "start": 1704,
+                "end": 1768
             }
         }
     ]

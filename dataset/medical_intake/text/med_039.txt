@@ -2,27 +2,28 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Tammy Mendoza
-Date of Birth:        December 26, 1975
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        December 27, 1975
 Phone Number:         2276278576
 Home Address:         803 Marsh Underpass Suite 124, West Tonyaside, MP 22254
-Marital Status:       Married
+Marital Status:       Widowed
 Occupation:           Clinical research associate
-Religious Preference: Prefer not to disclose
-National ID / SSN:    526-33-2402
-Insurance Policy No:  KSR-58399417
+Religious Preference: Christianity
+National ID / SSN:    469-80-7044
+Insurance Policy No:  UHC-84040798
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Jean Larson (Sibling) - Phone: 001-645-404-6173x57438
+Jean Larson (Parent) - Phone: 001-645-404-6173x57438
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Penicillin (rash, hives), Shellfish (mild itching).
+Sulfa antibiotics (severe skin reaction), Latex.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
@@ -32,7 +33,7 @@ Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Hypothyroidism (stable on levothyroxine), Migraines with aura.
+Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

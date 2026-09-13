@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Joint / Co-Borrower Credit Application
 Applicant Name:       Jennifer Mcdonald
-Date of Birth:        October 19, 1989
+Date of Birth:        October 20, 1989
 Marital Status:       Married
-Religious Belief:     Sikhism
+Religious Belief:     Atheist
 Phone Number:         566.770.8061x294
 Email Address:        jennifer.mcdonald@gmail.com
 Residential Address:  62607 Combs Corner Apt. 415, Port Kellyfort, UT 43926
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Retired
+Employment Status:    Employed Full-Time
 Employer Name:        Yang Ltd
-Gross Annual Income:  $92,000.00 USD
-Bank Account Number:  ACCT-2984507492
-Credit Score (FICO):  731 (FICO Score 8)
+Gross Annual Income:  $193,000.00 USD
+Bank Account Number:  ACCT-9661615016
+Credit Score (FICO):  697 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
+Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
 
 Biometric Security Identifier:
 SHA256:9d54e17bb771de1e4aec3162 (Biometric Minutiae Key)

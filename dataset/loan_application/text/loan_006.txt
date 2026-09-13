@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Adrienne White
-Date of Birth:        July 22, 2003
-Marital Status:       Divorced
-Religious Belief:     Hinduism
+Date of Birth:        July 23, 2003
+Marital Status:       Married
+Religious Belief:     Sikhism
 Phone Number:         3174130232
 Email Address:        adrienne.white@hotmail.com
 Residential Address:  81674 Jennifer Gardens, Thompsonbury, ME 37902
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Self-Employed
+Employment Status:    Employed Full-Time
 Employer Name:        Harris, Huffman and Olson
-Gross Annual Income:  $111,000.00 USD
-Bank Account Number:  ACCT-4287754238
-Credit Score (FICO):  707 (FICO Score 8)
+Gross Annual Income:  $187,000.00 USD
+Bank Account Number:  ACCT-5129478722
+Credit Score (FICO):  734 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
+Hypothyroidism (stable on levothyroxine), Migraines with aura.
 
 Biometric Security Identifier:
 SHA256:c3307aca3662a46fb836fad6 (Biometric Minutiae Key)

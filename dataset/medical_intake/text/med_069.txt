@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Jennifer Dalton
-Date of Birth:        September 12, 2005
+Encounter Modality:   In-Person Outpatient Clinical Visit
+Date of Birth:        September 13, 2005
 Phone Number:         836-544-2493
 Home Address:         30347 Castro Mews, Lucaston, ID 21388
-Marital Status:       Domestic Partnership
+Marital Status:       Single
 Occupation:           Chemical engineer
-Religious Preference: Atheist
-National ID / SSN:    346-37-6781
-Insurance Policy No:  MED-16783418
+Religious Preference: Sikhism
+National ID / SSN:    391-68-9901
+Insurance Policy No:  KSR-76291802
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Allen Clarke (Adult Child) - Phone: 882-707-0015x941
+Allen Clarke (Sibling) - Phone: 882-707-0015x941
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
+Sulfa antibiotics (severe skin reaction), Latex.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Omeprazole 20mg PO daily before breakfast, Calcium + Vitamin D supplement.
+Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Hypothyroidism (stable on levothyroxine), Migraines with aura.
+Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

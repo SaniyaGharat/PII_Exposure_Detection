@@ -2,12 +2,13 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Joint / Co-Borrower Credit Application
 Applicant Name:       Toni Richardson
-Date of Birth:        November 16, 1973
-Marital Status:       Domestic Partnership
-Religious Belief:     Hinduism
+Date of Birth:        November 17, 1973
+Marital Status:       Divorced
+Religious Belief:     Islam
 Phone Number:         560-233-1903x68900
 Email Address:        toni.richardson@gmail.com
 Residential Address:  72405 Morrison Gardens, Davidfurt, NJ 86691
@@ -16,14 +17,14 @@ FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
 Employment Status:    Retired
 Employer Name:        Jones PLC
-Gross Annual Income:  $172,000.00 USD
-Bank Account Number:  ACCT-6011649263
-Credit Score (FICO):  752 (FICO Score 8)
+Gross Annual Income:  $193,000.00 USD
+Bank Account Number:  ACCT-1495354059
+Credit Score (FICO):  632 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
+No significant past medical history. Non-smoker, no past surgeries.
 
 Biometric Security Identifier:
 SHA256:189d01002ca4e0699001ea34 (Biometric Minutiae Key)

@@ -256,23 +256,21 @@ def main() -> None:
         )
         sys.exit(0 if success else 1)
 
-    if args.detect and not args.evaluate:
+    if args.detect or args.evaluate:
         predictions_dir = results_dir / "predictions"
-        run_detection_pipeline(
-            dataset_dir=dataset_dir,
-            output_dir=predictions_dir,
-            process_ocr=not args.no_ocr,
-            score_threshold=args.threshold,
-        )
-        sys.exit(0)
-
-    if args.evaluate and not args.detect:
-        predictions_dir = results_dir / "predictions"
-        eval_results = run_evaluation_pipeline(
-            dataset_dir=dataset_dir,
-            predictions_dir=predictions_dir,
-            results_dir=results_dir,
-        )
+        if args.detect:
+            run_detection_pipeline(
+                dataset_dir=dataset_dir,
+                output_dir=predictions_dir,
+                process_ocr=not args.no_ocr,
+                score_threshold=args.threshold,
+            )
+        if args.evaluate:
+            eval_results = run_evaluation_pipeline(
+                dataset_dir=dataset_dir,
+                predictions_dir=predictions_dir,
+                results_dir=results_dir,
+            )
         sys.exit(0)
 
     if args.necessity:

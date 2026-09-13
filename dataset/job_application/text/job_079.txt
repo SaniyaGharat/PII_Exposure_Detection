@@ -5,36 +5,37 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Andrew Brown
-Date of Birth:        March 17, 2004
-Gender:               Male
-Marital Status:       Divorced
-Religious Belief:     Sikhism
-National ID / SSN:    541-28-5000
+Date of Birth:        March 18, 2004
+Gender:               Non-Binary
+Marital Status:       Married
+Religious Belief:     Agnostic
+National ID / SSN:    670-56-2479
 Email Address:        andrew.brown@yahoo.com
 Phone Number:         +1-492-741-4183
 Home Address:         6303 Sandy Crescent, Salazarton, ME 87805
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Account Executive
+Position Applied For: Database Administrator
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-M.S. in Data Analytics - University of Washington (Graduated 2010)
+M.S. in Data Analytics - Purdue University (Graduated 2022)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Account Executive at Hunter-Fuller (2022 - Present)
+1. Database Administrator at Hunter-Fuller (2021 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Wang, Henderson and Morales (2017 - 2021)
+2. Associate Specialist at Wang, Henderson and Morales (2020 - 2020)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Network Security, Penetration Testing, SIEM, Incident Response, ISO 27001
+React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices
 
 --------------------------------------------------------------------------------
 DECLARATION:

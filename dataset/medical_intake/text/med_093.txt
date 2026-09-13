@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Paul Hall
-Date of Birth:        June 30, 1984
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        July 01, 1984
 Phone Number:         +1-790-576-7699x15078
 Home Address:         09193 Dana Glens, Robertmouth, HI 32371
-Marital Status:       Single
+Marital Status:       Divorced
 Occupation:           Toxicologist
 Religious Preference: Judaism
-National ID / SSN:    492-40-8319
-Insurance Policy No:  AET-54241559
+National ID / SSN:    367-56-9401
+Insurance Policy No:  UHC-72546007
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Andrew Anderson (Parent) - Phone: 001-968-654-9822
+Andrew Anderson (Adult Child) - Phone: 001-968-654-9822
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
+Penicillin (rash, hives), Shellfish (mild itching).
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.
+None reported / Over-the-counter multivitamins only.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-No significant past medical history. Non-smoker, no past surgeries.
+Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

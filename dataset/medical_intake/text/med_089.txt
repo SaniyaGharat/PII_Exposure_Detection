@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Tonya Oliver
-Date of Birth:        February 19, 1988
+Encounter Modality:   In-Person Outpatient Clinical Visit
+Date of Birth:        February 20, 1988
 Phone Number:         (500)674-9465
 Home Address:         89141 Hale Village, Lake Angela, KY 57119
-Marital Status:       Divorced
+Marital Status:       Domestic Partnership
 Occupation:           Accountant, chartered management
-Religious Preference: Christianity
-National ID / SSN:    109-48-2758
-Insurance Policy No:  AET-48193218
+Religious Preference: Agnostic
+National ID / SSN:    526-81-9683
+Insurance Policy No:  BLU-62132722
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Jonathan Pham (Parent) - Phone: +1-254-974-3553x79502
+Jonathan Pham (Adult Child) - Phone: +1-254-974-3553x79502
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Aspirin (bronchospasm), Codeine (nausea).
+Sulfa antibiotics (severe skin reaction), Latex.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-None reported / Over-the-counter multivitamins only.
+Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Hypothyroidism (stable on levothyroxine), Migraines with aura.
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

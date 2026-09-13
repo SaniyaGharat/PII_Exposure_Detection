@@ -2,6 +2,9 @@
     "document_id": "job_037",
     "document_type": "job_application",
     "document_purpose": "To evaluate a candidate's qualifications, skills, education, and professional experience for potential employment.",
+    "sub_conditions": {
+        "is_remote_role": false
+    },
     "fields": [
         {
             "field_type": "full_name",
@@ -17,7 +20,7 @@
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "September 10, 1974",
+            "field_value": "September 11, 1974",
             "necessity_label": "unnecessary",
             "reason": "Date of birth is generally not required for evaluating qualifications during initial employment screening and may create discrimination concerns.",
             "span": {
@@ -28,45 +31,45 @@
         {
             "field_type": "gender",
             "field_name": "Gender",
-            "field_value": "Male",
+            "field_value": "Prefer not to disclose",
             "necessity_label": "contextual",
             "reason": "Gender is not required for qualification evaluation, though occasionally collected under optional equal employment opportunity (EEO) demographic monitoring.",
             "span": {
                 "start": 447,
-                "end": 451
+                "end": 469
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Married",
+            "field_value": "Domestic Partnership",
             "necessity_label": "unnecessary",
             "reason": "Marital status is irrelevant to assessing job competence and creates potential exposure to marital status or gender discrimination.",
             "span": {
-                "start": 474,
-                "end": 481
+                "start": 492,
+                "end": 512
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religion",
-            "field_value": "Judaism",
+            "field_value": "Agnostic",
             "necessity_label": "unnecessary",
             "reason": "Religious beliefs are completely irrelevant to job performance and introduce unlawful bias risks under employment regulations.",
             "span": {
-                "start": 504,
-                "end": 511
+                "start": 535,
+                "end": 543
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "330-35-3414",
+            "field_value": "661-67-3607",
             "necessity_label": "unnecessary",
             "reason": "Government national identification numbers are unnecessary at initial screening and introduce high identity theft exposure.",
             "span": {
-                "start": 534,
-                "end": 545
+                "start": 566,
+                "end": 577
             }
         },
         {
@@ -76,8 +79,8 @@
             "necessity_label": "necessary",
             "reason": "Required as a primary electronic communication channel for interview scheduling and official employment notifications.",
             "span": {
-                "start": 568,
-                "end": 593
+                "start": 600,
+                "end": 625
             }
         },
         {
@@ -87,63 +90,63 @@
             "necessity_label": "necessary",
             "reason": "Required for direct contact, telephone screening sessions, and urgent recruitment updates.",
             "span": {
-                "start": 616,
-                "end": 629
+                "start": 648,
+                "end": 661
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "527 Taylor Roads Suite 490, Williamport, NH 59734",
-            "necessity_label": "contextual",
-            "reason": "Full street address is unnecessary for initial screening (city/region suffices), but may be required for local payroll tax jurisdictions or commute assessment.",
+            "necessity_label": "necessary",
+            "reason": "Required for assessing commute feasibility, physical facility access, and local payroll tax withholding jurisdiction.",
             "span": {
-                "start": 652,
-                "end": 701
+                "start": 684,
+                "end": 733
             }
         },
         {
             "field_type": "job_title",
             "field_name": "Position Applied For",
-            "field_value": "HR Operations Generalist",
+            "field_value": "DevOps Engineer",
             "necessity_label": "necessary",
             "reason": "Specifies the target role against which candidate qualifications and criteria are evaluated.",
             "span": {
-                "start": 822,
-                "end": 846
+                "start": 870,
+                "end": 885
             }
         },
         {
             "field_type": "education",
             "field_name": "Education",
-            "field_value": "B.S. in Computer Science - University of Texas at Austin (Graduated 2018)",
+            "field_value": "MBA - Columbia University (Graduated 2018)",
             "necessity_label": "necessary",
             "reason": "Essential for verifying required academic degrees, institutional background, and formal qualifications.",
             "span": {
-                "start": 986,
-                "end": 1059
+                "start": 1082,
+                "end": 1124
             }
         },
         {
             "field_type": "work_history",
             "field_name": "Work History",
-            "field_value": "1. HR Operations Generalist at Hicks, Bullock and Bailey (2023 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Mullen, Brewer and Hernandez (2019 - 2020)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
+            "field_value": "1. DevOps Engineer at Hicks, Bullock and Bailey (2023 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Mullen, Brewer and Hernandez (2019 - 2021)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
             "necessity_label": "necessary",
             "reason": "Essential for evaluating candidate's prior professional experience, relevant responsibilities, and career trajectory.",
             "span": {
-                "start": 1200,
-                "end": 1497
+                "start": 1265,
+                "end": 1553
             }
         },
         {
             "field_type": "skills",
             "field_name": "Skills & Competencies",
-            "field_value": "Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture",
+            "field_value": "Statistical Analysis, R, Tableau, Data Pipelines, Predictive Modeling",
             "necessity_label": "necessary",
             "reason": "Directly reflects technical, operational, and domain competencies required for job performance.",
             "span": {
-                "start": 1640,
-                "end": 1704
+                "start": 1696,
+                "end": 1765
             }
         }
     ]

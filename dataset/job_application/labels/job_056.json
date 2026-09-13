@@ -2,6 +2,9 @@
     "document_id": "job_056",
     "document_type": "job_application",
     "document_purpose": "To evaluate a candidate's qualifications, skills, education, and professional experience for potential employment.",
+    "sub_conditions": {
+        "is_remote_role": false
+    },
     "fields": [
         {
             "field_type": "full_name",
@@ -17,7 +20,7 @@
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "September 19, 1989",
+            "field_value": "September 20, 1989",
             "necessity_label": "unnecessary",
             "reason": "Date of birth is generally not required for evaluating qualifications during initial employment screening and may create discrimination concerns.",
             "span": {
@@ -28,12 +31,12 @@
         {
             "field_type": "gender",
             "field_name": "Gender",
-            "field_value": "Non-Binary",
+            "field_value": "Male",
             "necessity_label": "contextual",
             "reason": "Gender is not required for qualification evaluation, though occasionally collected under optional equal employment opportunity (EEO) demographic monitoring.",
             "span": {
                 "start": 450,
-                "end": 460
+                "end": 454
             }
         },
         {
@@ -43,30 +46,30 @@
             "necessity_label": "unnecessary",
             "reason": "Marital status is irrelevant to assessing job competence and creates potential exposure to marital status or gender discrimination.",
             "span": {
-                "start": 483,
-                "end": 490
+                "start": 477,
+                "end": 484
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religion",
-            "field_value": "Judaism",
+            "field_value": "Atheist",
             "necessity_label": "unnecessary",
             "reason": "Religious beliefs are completely irrelevant to job performance and introduce unlawful bias risks under employment regulations.",
             "span": {
-                "start": 513,
-                "end": 520
+                "start": 507,
+                "end": 514
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "413-42-4777",
+            "field_value": "553-48-8025",
             "necessity_label": "unnecessary",
             "reason": "Government national identification numbers are unnecessary at initial screening and introduce high identity theft exposure.",
             "span": {
-                "start": 543,
-                "end": 554
+                "start": 537,
+                "end": 548
             }
         },
         {
@@ -76,8 +79,8 @@
             "necessity_label": "necessary",
             "reason": "Required as a primary electronic communication channel for interview scheduling and official employment notifications.",
             "span": {
-                "start": 577,
-                "end": 605
+                "start": 571,
+                "end": 599
             }
         },
         {
@@ -87,63 +90,63 @@
             "necessity_label": "necessary",
             "reason": "Required for direct contact, telephone screening sessions, and urgent recruitment updates.",
             "span": {
-                "start": 628,
-                "end": 640
+                "start": 622,
+                "end": 634
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "301 Parker Lodge Suite 145, East Susan, NJ 20579",
-            "necessity_label": "contextual",
-            "reason": "Full street address is unnecessary for initial screening (city/region suffices), but may be required for local payroll tax jurisdictions or commute assessment.",
+            "necessity_label": "necessary",
+            "reason": "Required for assessing commute feasibility, physical facility access, and local payroll tax withholding jurisdiction.",
             "span": {
-                "start": 663,
-                "end": 711
+                "start": 657,
+                "end": 705
             }
         },
         {
             "field_type": "job_title",
             "field_name": "Position Applied For",
-            "field_value": "Database Administrator",
+            "field_value": "Cybersecurity Analyst",
             "necessity_label": "necessary",
             "reason": "Specifies the target role against which candidate qualifications and criteria are evaluated.",
             "span": {
-                "start": 832,
-                "end": 854
+                "start": 842,
+                "end": 863
             }
         },
         {
             "field_type": "education",
             "field_name": "Education",
-            "field_value": "B.S. in Information Systems - Columbia University (Graduated 2015)",
+            "field_value": "M.S. in Data Analytics - Georgia Institute of Technology (Graduated 2013)",
             "necessity_label": "necessary",
             "reason": "Essential for verifying required academic degrees, institutional background, and formal qualifications.",
             "span": {
-                "start": 994,
-                "end": 1060
+                "start": 1060,
+                "end": 1133
             }
         },
         {
             "field_type": "work_history",
             "field_name": "Work History",
-            "field_value": "1. Database Administrator at Morales Inc (2022 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Holden Group (2019 - 2021)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
+            "field_value": "1. Cybersecurity Analyst at Morales Inc (2021 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Holden Group (2020 - 2020)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
             "necessity_label": "necessary",
             "reason": "Essential for evaluating candidate's prior professional experience, relevant responsibilities, and career trajectory.",
             "span": {
-                "start": 1201,
-                "end": 1466
+                "start": 1274,
+                "end": 1538
             }
         },
         {
             "field_type": "skills",
             "field_name": "Skills & Competencies",
-            "field_value": "Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture",
+            "field_value": "Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA",
             "necessity_label": "necessary",
             "reason": "Directly reflects technical, operational, and domain competencies required for job performance.",
             "span": {
-                "start": 1609,
-                "end": 1673
+                "start": 1681,
+                "end": 1762
             }
         }
     ]

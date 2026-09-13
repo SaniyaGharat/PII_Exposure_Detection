@@ -2,6 +2,9 @@
     "document_id": "loan_025",
     "document_type": "loan_application",
     "document_purpose": "To collect financial and personal information required to evaluate an applicant's eligibility and risk for a loan or credit service.",
+    "sub_conditions": {
+        "is_joint_applicant": false
+    },
     "fields": [
         {
             "field_type": "full_name",
@@ -10,41 +13,41 @@
             "necessity_label": "necessary",
             "reason": "Mandatory for establishing legal borrower identity and executing legally binding credit agreements.",
             "span": {
-                "start": 354,
-                "end": 366
+                "start": 425,
+                "end": 437
             }
         },
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "April 28, 1996",
+            "field_value": "April 29, 1996",
             "necessity_label": "necessary",
             "reason": "Required to verify legal age of majority for credit contracts and pull accurate consumer credit bureau reports.",
             "span": {
-                "start": 389,
-                "end": 403
+                "start": 460,
+                "end": 474
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Divorced",
-            "necessity_label": "contextual",
-            "reason": "Relevant in community property jurisdictions or joint loan applications, but restricted under fair lending laws for individual applications.",
+            "field_value": "Domestic Partnership",
+            "necessity_label": "unnecessary",
+            "reason": "Unnecessary for individual credit applications under the Equal Credit Opportunity Act (ECOA).",
             "span": {
-                "start": 426,
-                "end": 434
+                "start": 497,
+                "end": 517
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religion",
-            "field_value": "Judaism",
+            "field_value": "Prefer not to disclose",
             "necessity_label": "unnecessary",
             "reason": "Religious affiliation is completely irrelevant to credit risk assessment and its collection violates the Equal Credit Opportunity Act (ECOA).",
             "span": {
-                "start": 457,
-                "end": 464
+                "start": 540,
+                "end": 562
             }
         },
         {
@@ -54,8 +57,8 @@
             "necessity_label": "necessary",
             "reason": "Required for customer identity verification, fraud prevention multi-factor authentication, and account servicing.",
             "span": {
-                "start": 487,
-                "end": 499
+                "start": 585,
+                "end": 597
             }
         },
         {
@@ -65,8 +68,8 @@
             "necessity_label": "necessary",
             "reason": "Required for delivery of mandated Truth in Lending disclosures, electronic contract execution, and official statements.",
             "span": {
-                "start": 522,
-                "end": 544
+                "start": 620,
+                "end": 642
             }
         },
         {
@@ -76,19 +79,19 @@
             "necessity_label": "necessary",
             "reason": "Mandatory under Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations to establish legal residential domicile.",
             "span": {
-                "start": 567,
-                "end": 615
+                "start": 665,
+                "end": 713
             }
         },
         {
             "field_type": "employment_status",
             "field_name": "Employment Status",
-            "field_value": "Contractor / Freelancer",
+            "field_value": "Employed Full-Time",
             "necessity_label": "necessary",
             "reason": "Essential for evaluating income continuity, employment stability, and the borrower's recurring repayment capacity.",
             "span": {
-                "start": 757,
-                "end": 780
+                "start": 855,
+                "end": 873
             }
         },
         {
@@ -98,41 +101,41 @@
             "necessity_label": "necessary",
             "reason": "Required for independent employment verification and underwriting validation of stated income sources.",
             "span": {
-                "start": 803,
-                "end": 812
+                "start": 896,
+                "end": 905
             }
         },
         {
             "field_type": "annual_income",
             "field_name": "Annual Income",
-            "field_value": "$188,000.00 USD",
+            "field_value": "$57,000.00 USD",
             "necessity_label": "necessary",
             "reason": "Fundamental metric for calculating Debt-to-Income (DTI) ratio and determining loan affordability and credit limits.",
             "span": {
-                "start": 835,
-                "end": 850
+                "start": 928,
+                "end": 942
             }
         },
         {
             "field_type": "bank_account_number",
             "field_name": "Bank Account Number",
-            "field_value": "ACCT-7402059279",
+            "field_value": "ACCT-8149805821",
             "necessity_label": "contextual",
             "reason": "Contextual during pre-qualification screening; necessary later for direct loan disbursement and automated clearing house (ACH) repayments.",
             "span": {
-                "start": 873,
-                "end": 888
+                "start": 965,
+                "end": 980
             }
         },
         {
             "field_type": "credit_score",
             "field_name": "Credit Score",
-            "field_value": "757 (FICO Score 8)",
+            "field_value": "792 (FICO Score 8)",
             "necessity_label": "necessary",
             "reason": "Primary quantitative metric reflecting historical credit risk, default probability, and determining loan interest pricing.",
             "span": {
-                "start": 911,
-                "end": 929
+                "start": 1003,
+                "end": 1021
             }
         },
         {
@@ -142,8 +145,8 @@
             "necessity_label": "unnecessary",
             "reason": "Health and medical conditions are irrelevant to financial solvency evaluation and collecting them exposes high-liability sensitive health data.",
             "span": {
-                "start": 1065,
-                "end": 1136
+                "start": 1157,
+                "end": 1228
             }
         },
         {
@@ -153,8 +156,8 @@
             "necessity_label": "unnecessary",
             "reason": "Biometric markers are disproportionate and unnecessary for standard consumer credit evaluation, posing severe privacy risks.",
             "span": {
-                "start": 1169,
-                "end": 1225
+                "start": 1261,
+                "end": 1317
             }
         }
     ]

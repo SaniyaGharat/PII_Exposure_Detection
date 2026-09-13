@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Samantha Dodson
-Date of Birth:        July 09, 1988
-Marital Status:       Domestic Partnership
-Religious Belief:     Hinduism
+Date of Birth:        July 10, 1988
+Marital Status:       Divorced
+Religious Belief:     Atheist
 Phone Number:         +1-776-947-2298x1209
 Email Address:        samantha.dodson@yahoo.com
 Residential Address:  2894 Jesse Park Suite 098, Mitchellfurt, MD 99761
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Employed Part-Time
+Employment Status:    Employed Full-Time
 Employer Name:        Williams Ltd
-Gross Annual Income:  $157,000.00 USD
-Bank Account Number:  ACCT-4494084172
-Credit Score (FICO):  632 (FICO Score 8)
+Gross Annual Income:  $181,000.00 USD
+Bank Account Number:  ACCT-3494390866
+Credit Score (FICO):  695 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
+Hypothyroidism (stable on levothyroxine), Migraines with aura.
 
 Biometric Security Identifier:
 SHA256:32a387fb655c27783e748d02 (Biometric Minutiae Key)

@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Jacob Smith
-Date of Birth:        August 09, 1983
+Encounter Modality:   In-Person Outpatient Clinical Visit
+Date of Birth:        August 10, 1983
 Phone Number:         +1-520-938-8065x33315
 Home Address:         599 Jensen Manor Suite 217, South Jeffreytown, SC 29733
-Marital Status:       Single
+Marital Status:       Divorced
 Occupation:           Horticultural therapist
-Religious Preference: Judaism
-National ID / SSN:    769-56-4871
-Insurance Policy No:  MED-99628735
+Religious Preference: Sikhism
+National ID / SSN:    523-15-4625
+Insurance Policy No:  BLU-12176998
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Julie Lewis (Partner) - Phone: 356.436.2050x1508
+Julie Lewis (Sibling) - Phone: 356.436.2050x1508
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Penicillin (rash, hives), Shellfish (mild itching).
+Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Omeprazole 20mg PO daily before breakfast, Calcium + Vitamin D supplement.
+Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
+Hypothyroidism (stable on levothyroxine), Migraines with aura.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

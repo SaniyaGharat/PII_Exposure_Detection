@@ -2,28 +2,29 @@
                     RESIDENTIAL LEASE APPLICATION & AGREEMENT
 ================================================================================
 
-PROSPECTIVE TENANT IDENTIFICATION
+TENANCY PROFILE & PROSPECTIVE TENANT IDENTIFICATION
 --------------------------------------------------------------------------------
+Lease Category:       Standard Direct Individual Lease
 Tenant Full Name:     Dana Stevens
 Phone Number:         001-734-832-4064x2429
 Email Address:        dana.stevens@gmail.com
-National ID / SSN:    871-27-3340
-Marital Status:       Single
+National ID / SSN:    897-45-1959
+Marital Status:       Widowed
 Religious Belief:     Unaffiliated
 Current Residence:    3244 Baker Overpass, Bethstad, WI 84626
 
 EMPLOYMENT & FINANCIAL BACKGROUND
 --------------------------------------------------------------------------------
-Employment Status:    Retired
+Employment Status:    Self-Employed
 Employer Name:        Willis-Watson
-Monthly / Annual Inc: $9,770.00 / month
-Bank Account Number:  ACCT-9626333315
+Monthly / Annual Inc: $7,088.00 / month
+Bank Account Number:  ACCT-5293274004
 
 PREVIOUS TENANCY & EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Rental History:
 Previous Address: 96289 Victoria Mews, Debbieport
-Tenancy: 2021 - 2024 | Landlord: Sandra Mcdaniel | Rent: $2984/mo
+Tenancy: 2021 - 2024 | Landlord: Sandra Mcdaniel | Rent: $1460/mo
 Reason for Leaving: Job relocation | Full security deposit returned: Yes
 
 Emergency Contact:
@@ -32,7 +33,7 @@ Michael Gordon (Sibling) - Tel: 001-941-483-4374x0182
 SUPPLEMENTAL TENANT DECLARATION
 --------------------------------------------------------------------------------
 Medical History:
-No significant past medical history. Non-smoker, no past surgeries.
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
 
 --------------------------------------------------------------------------------
 TENANT ACKNOWLEDGMENT:

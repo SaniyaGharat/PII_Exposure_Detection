@@ -2,6 +2,9 @@
     "document_id": "med_060",
     "document_type": "medical_intake",
     "document_purpose": "To collect relevant patient information required for medical assessment, diagnosis, treatment, and healthcare administration.",
+    "sub_conditions": {
+        "is_telehealth": false
+    },
     "fields": [
         {
             "field_type": "full_name",
@@ -10,19 +13,19 @@
             "necessity_label": "necessary",
             "reason": "Essential for patient identification, medical record linkage, and preventing catastrophic misidentification in clinical care.",
             "span": {
-                "start": 359,
-                "end": 368
+                "start": 369,
+                "end": 378
             }
         },
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "December 02, 2005",
+            "field_value": "December 03, 2005",
             "necessity_label": "necessary",
             "reason": "Crucial for clinical safety, age-dependent pharmaceutical dosage calculations, developmental assessment, and primary patient record matching.",
             "span": {
-                "start": 391,
-                "end": 408
+                "start": 459,
+                "end": 476
             }
         },
         {
@@ -32,30 +35,30 @@
             "necessity_label": "necessary",
             "reason": "Required for appointment reminders, urgent clinical test result notifications, and post-procedure follow-ups.",
             "span": {
-                "start": 431,
-                "end": 447
+                "start": 499,
+                "end": 515
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "478 Walker Turnpike Apt. 244, Martinezport, MT 24011",
-            "necessity_label": "contextual",
-            "reason": "Used for patient billing, demographic analysis, and local public health reporting, though secondary to immediate clinical diagnosis.",
+            "necessity_label": "necessary",
+            "reason": "Necessary for physical clinical admission, outpatient billing dispatch, and local public health reporting.",
             "span": {
-                "start": 470,
-                "end": 522
+                "start": 538,
+                "end": 590
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Divorced",
+            "field_value": "Domestic Partnership",
             "necessity_label": "contextual",
             "reason": "May provide helpful context regarding home support network and surrogate decision-makers, but not universally necessary for diagnostics.",
             "span": {
-                "start": 545,
-                "end": 553
+                "start": 613,
+                "end": 633
             }
         },
         {
@@ -65,52 +68,52 @@
             "necessity_label": "contextual",
             "reason": "Provides relevant context for evaluating occupational exposures, repetitive stress injuries, or physical disability accommodations.",
             "span": {
-                "start": 576,
-                "end": 590
+                "start": 656,
+                "end": 670
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religious Affiliation",
-            "field_value": "Unaffiliated",
+            "field_value": "Atheist",
             "necessity_label": "contextual",
             "reason": "Contextual in clinical settings to respect medical restrictions (e.g., blood transfusions, dietary rules, end-of-life pastoral care), but optional.",
             "span": {
-                "start": 613,
-                "end": 625
+                "start": 693,
+                "end": 700
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "390-20-5105",
+            "field_value": "853-17-3262",
             "necessity_label": "unnecessary",
             "reason": "Standard government national IDs are unnecessary when unique Medical Record Numbers (MRN) or insurance IDs exist, creating avoidable exposure.",
             "span": {
-                "start": 648,
-                "end": 659
+                "start": 723,
+                "end": 734
             }
         },
         {
             "field_type": "insurance_number",
             "field_name": "Health Insurance Policy Number",
-            "field_value": "BLU-95235919",
+            "field_value": "KSR-37828932",
             "necessity_label": "contextual",
             "reason": "Necessary for healthcare claims billing and insurance verification, but not strictly required for emergency or direct self-pay clinical triage.",
             "span": {
-                "start": 682,
-                "end": 694
+                "start": 757,
+                "end": 769
             }
         },
         {
             "field_type": "emergency_contact",
             "field_name": "Emergency Contact",
-            "field_value": "Michael Sanchez Jr. (Parent) - Phone: 771-295-9796x471",
+            "field_value": "Michael Sanchez Jr. (Adult Child) - Phone: 771-295-9796x471",
             "necessity_label": "necessary",
             "reason": "Vital in acute medical situations, patient incapacitation, or urgent medical decisions where patient proxy consent is needed.",
             "span": {
-                "start": 822,
-                "end": 876
+                "start": 897,
+                "end": 956
             }
         },
         {
@@ -120,8 +123,8 @@
             "necessity_label": "necessary",
             "reason": "High-priority safety data required to prevent life-threatening anaphylaxis, drug allergies, and cross-reactive interventions.",
             "span": {
-                "start": 1028,
-                "end": 1093
+                "start": 1108,
+                "end": 1173
             }
         },
         {
@@ -131,19 +134,19 @@
             "necessity_label": "necessary",
             "reason": "Critical for preventing adverse drug-drug interactions, polypharmacy complications, and dosage conflicts.",
             "span": {
-                "start": 1242,
-                "end": 1313
+                "start": 1322,
+                "end": 1393
             }
         },
         {
             "field_type": "medical_history",
             "field_name": "Past Medical History",
-            "field_value": "Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.",
+            "field_value": "No significant past medical history. Non-smoker, no past surgeries.",
             "necessity_label": "necessary",
             "reason": "Essential clinical context for differential diagnosis, identifying chronic comorbidities, and planning safe therapeutic interventions.",
             "span": {
-                "start": 1471,
-                "end": 1542
+                "start": 1551,
+                "end": 1618
             }
         }
     ]

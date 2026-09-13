@@ -2,17 +2,18 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Brandi Phillips
-Date of Birth:        October 08, 1987
+Encounter Modality:   In-Person Outpatient Clinical Visit
+Date of Birth:        October 09, 1987
 Phone Number:         907-942-7990
 Home Address:         625 Padilla Alley, South Patriciamouth, NC 04788
-Marital Status:       Married
+Marital Status:       Domestic Partnership
 Occupation:           Psychologist, occupational
-Religious Preference: Hinduism
-National ID / SSN:    470-75-4673
-Insurance Policy No:  MED-36975128
+Religious Preference: Atheist
+National ID / SSN:    252-87-9446
+Insurance Policy No:  BLU-54018830
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
@@ -22,17 +23,17 @@ Paul Wolfe (Sibling) - Phone: +1-889-731-9508x501
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Sulfa antibiotics (severe skin reaction), Latex.
+No Known Drug Allergies (NKDA), No known environmental allergies.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Metformin 500mg PO BID with meals, Glipizide 5mg daily.
+Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

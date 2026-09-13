@@ -4,37 +4,38 @@
 
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
-Full Name:            Caroline Adams
-Date of Birth:        December 05, 1972
-Gender:               Female
+Full Name:            Christopher Adams
+Date of Birth:        December 06, 1972
+Gender:               Male
 Marital Status:       Domestic Partnership
-Religious Belief:     Agnostic
-National ID / SSN:    750-72-2494
-Email Address:        caroline.adams@hotmail.com
+Religious Belief:     Judaism
+National ID / SSN:    102-46-5891
+Email Address:        christopher.adams@hotmail.com
 Phone Number:         (843)779-9371x240
 Home Address:         7569 Kevin Rapids Apt. 752, Novakport, WA 91590
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: DevOps Engineer
+Position Applied For: Cybersecurity Analyst
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-MBA - Columbia University (Graduated 2020)
+B.S. in Information Systems - University of Michigan (Graduated 2023)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. DevOps Engineer at Snyder-Brown (2022 - Present)
+1. Cybersecurity Analyst at Snyder-Brown (2021 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Hill-Evans (2019 - 2020)
+2. Associate Specialist at Hill-Evans (2019 - 2021)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices
+Network Security, Penetration Testing, SIEM, Incident Response, ISO 27001
 
 --------------------------------------------------------------------------------
 DECLARATION:

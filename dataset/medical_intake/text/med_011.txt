@@ -2,32 +2,33 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Jerry Jensen
-Date of Birth:        June 30, 1964
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        July 01, 1964
 Phone Number:         001-592-899-5562x053
 Home Address:         2577 Howard Inlet Suite 812, Port Juanberg, MH 71098
 Marital Status:       Widowed
 Occupation:           Medical secretary
-Religious Preference: Christianity
-National ID / SSN:    570-19-6129
-Insurance Policy No:  KSR-67617561
+Religious Preference: Hinduism
+National ID / SSN:    709-20-6072
+Insurance Policy No:  KSR-60557040
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Nicholas Sims (Spouse) - Phone: 001-910-480-9969x3084
+Nicholas Sims (Sibling) - Phone: 001-910-480-9969x3084
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-No Known Drug Allergies (NKDA), No known environmental allergies.
+Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Omeprazole 20mg PO daily before breakfast, Calcium + Vitamin D supplement.
+Metformin 500mg PO BID with meals, Glipizide 5mg daily.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------

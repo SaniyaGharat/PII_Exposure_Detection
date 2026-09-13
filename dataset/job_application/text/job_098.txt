@@ -5,36 +5,37 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Jacob Richards
-Date of Birth:        December 07, 1980
-Gender:               Prefer not to disclose
+Date of Birth:        December 08, 1980
+Gender:               Non-Binary
 Marital Status:       Married
-Religious Belief:     Agnostic
-National ID / SSN:    447-68-7532
+Religious Belief:     Hinduism
+National ID / SSN:    882-42-5742
 Email Address:        jacob.richards@hotmail.com
 Phone Number:         416.784.6022x35697
 Home Address:         75250 Shannon Fords, New Kathy, NM 12040
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Data Scientist
+Position Applied For: Senior Software Engineer
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.S. in Computer Science - Columbia University (Graduated 2021)
+B.A. in Economics - UC San Diego (Graduated 2019)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Data Scientist at York-Ruiz (2021 - Present)
+1. Senior Software Engineer at York-Ruiz (2021 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Silva, Blackburn and Jones (2020 - 2021)
+2. Associate Specialist at Silva, Blackburn and Jones (2017 - 2020)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices
+Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA
 
 --------------------------------------------------------------------------------
 DECLARATION:

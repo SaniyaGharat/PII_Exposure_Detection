@@ -5,30 +5,31 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Robert Peck
-Date of Birth:        October 28, 1973
-Gender:               Male
-Marital Status:       Domestic Partnership
-Religious Belief:     Christianity
-National ID / SSN:    455-78-8018
+Date of Birth:        October 29, 1973
+Gender:               Non-Binary
+Marital Status:       Widowed
+Religious Belief:     Atheist
+National ID / SSN:    668-40-8800
 Email Address:        robert.peck@gmail.com
 Phone Number:         (687)233-9500x4797
 Home Address:         45650 Williams Points Apt. 584, South Williamside, KY 82190
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Data Scientist
+Position Applied For: Clinical Research Coordinator
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.S. in Information Systems - University of Illinois Urbana-Champaign (Graduated 2011)
+B.S. in Information Systems - University of Texas at Austin (Graduated 2018)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Data Scientist at Edwards, Hines and Jimenez (2023 - Present)
+1. Clinical Research Coordinator at Edwards, Hines and Jimenez (2021 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Owens, Koch and Jimenez (2019 - 2020)
+2. Associate Specialist at Owens, Koch and Jimenez (2018 - 2020)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES

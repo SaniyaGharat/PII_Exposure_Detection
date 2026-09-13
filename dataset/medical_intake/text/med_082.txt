@@ -2,17 +2,18 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Edgar Alexander
-Date of Birth:        February 14, 1978
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        February 15, 1978
 Phone Number:         712.655.2137x6037
 Home Address:         45653 Karen Pines, Cobbberg, AS 56707
-Marital Status:       Divorced
+Marital Status:       Married
 Occupation:           Animator
 Religious Preference: Buddhism
-National ID / SSN:    404-46-4396
-Insurance Policy No:  UHC-52552488
+National ID / SSN:    103-12-5888
+Insurance Policy No:  UHC-83074216
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
@@ -27,12 +28,12 @@ Aspirin (bronchospasm), Codeine (nausea).
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
+Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Hypothyroidism (stable on levothyroxine), Migraines with aura.
+Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

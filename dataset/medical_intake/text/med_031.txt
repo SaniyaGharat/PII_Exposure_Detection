@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Gregory Flores
-Date of Birth:        February 09, 1984
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        February 10, 1984
 Phone Number:         +1-704-425-9792x7033
 Home Address:         03924 Matthew Unions, West Shannontown, MA 27896
-Marital Status:       Domestic Partnership
+Marital Status:       Single
 Occupation:           Waste management officer
-Religious Preference: Unaffiliated
-National ID / SSN:    528-30-4271
-Insurance Policy No:  KSR-28575536
+Religious Preference: Islam
+National ID / SSN:    435-94-5843
+Insurance Policy No:  AET-69849800
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Christy Payne (Adult Child) - Phone: 001-648-579-2069x80420
+Christy Payne (Partner) - Phone: 001-648-579-2069x80420
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
+No Known Drug Allergies (NKDA), No known environmental allergies.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Lisinopril 10mg PO daily, Atorvastatin 20mg PO at bedtime.
+None reported / Over-the-counter multivitamins only.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-No significant past medical history. Non-smoker, no past surgeries.
+Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

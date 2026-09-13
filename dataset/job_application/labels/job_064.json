@@ -2,6 +2,9 @@
     "document_id": "job_064",
     "document_type": "job_application",
     "document_purpose": "To evaluate a candidate's qualifications, skills, education, and professional experience for potential employment.",
+    "sub_conditions": {
+        "is_remote_role": false
+    },
     "fields": [
         {
             "field_type": "full_name",
@@ -17,7 +20,7 @@
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "February 02, 2000",
+            "field_value": "February 03, 2000",
             "necessity_label": "unnecessary",
             "reason": "Date of birth is generally not required for evaluating qualifications during initial employment screening and may create discrimination concerns.",
             "span": {
@@ -28,45 +31,45 @@
         {
             "field_type": "gender",
             "field_name": "Gender",
-            "field_value": "Male",
+            "field_value": "Prefer not to disclose",
             "necessity_label": "contextual",
             "reason": "Gender is not required for qualification evaluation, though occasionally collected under optional equal employment opportunity (EEO) demographic monitoring.",
             "span": {
                 "start": 446,
-                "end": 450
+                "end": 468
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Divorced",
+            "field_value": "Married",
             "necessity_label": "unnecessary",
             "reason": "Marital status is irrelevant to assessing job competence and creates potential exposure to marital status or gender discrimination.",
             "span": {
-                "start": 473,
-                "end": 481
+                "start": 491,
+                "end": 498
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religion",
-            "field_value": "Hinduism",
+            "field_value": "Judaism",
             "necessity_label": "unnecessary",
             "reason": "Religious beliefs are completely irrelevant to job performance and introduce unlawful bias risks under employment regulations.",
             "span": {
-                "start": 504,
-                "end": 512
+                "start": 521,
+                "end": 528
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "173-17-3718",
+            "field_value": "662-26-5719",
             "necessity_label": "unnecessary",
             "reason": "Government national identification numbers are unnecessary at initial screening and introduce high identity theft exposure.",
             "span": {
-                "start": 535,
-                "end": 546
+                "start": 551,
+                "end": 562
             }
         },
         {
@@ -76,8 +79,8 @@
             "necessity_label": "necessary",
             "reason": "Required as a primary electronic communication channel for interview scheduling and official employment notifications.",
             "span": {
-                "start": 569,
-                "end": 592
+                "start": 585,
+                "end": 608
             }
         },
         {
@@ -87,63 +90,63 @@
             "necessity_label": "necessary",
             "reason": "Required for direct contact, telephone screening sessions, and urgent recruitment updates.",
             "span": {
-                "start": 615,
-                "end": 625
+                "start": 631,
+                "end": 641
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "0148 Harry Vista Suite 039, Port Lori, GU 52706",
-            "necessity_label": "contextual",
-            "reason": "Full street address is unnecessary for initial screening (city/region suffices), but may be required for local payroll tax jurisdictions or commute assessment.",
+            "necessity_label": "necessary",
+            "reason": "Required for assessing commute feasibility, physical facility access, and local payroll tax withholding jurisdiction.",
             "span": {
-                "start": 648,
-                "end": 695
+                "start": 664,
+                "end": 711
             }
         },
         {
             "field_type": "job_title",
             "field_name": "Position Applied For",
-            "field_value": "Clinical Research Coordinator",
+            "field_value": "Senior Software Engineer",
             "necessity_label": "necessary",
             "reason": "Specifies the target role against which candidate qualifications and criteria are evaluated.",
             "span": {
-                "start": 816,
-                "end": 845
+                "start": 848,
+                "end": 872
             }
         },
         {
             "field_type": "education",
             "field_name": "Education",
-            "field_value": "B.S. in Information Systems - University of Illinois Urbana-Champaign (Graduated 2016)",
+            "field_value": "B.A. in Economics - Columbia University (Graduated 2015)",
             "necessity_label": "necessary",
             "reason": "Essential for verifying required academic degrees, institutional background, and formal qualifications.",
             "span": {
-                "start": 985,
-                "end": 1071
+                "start": 1069,
+                "end": 1125
             }
         },
         {
             "field_type": "work_history",
             "field_name": "Work History",
-            "field_value": "1. Clinical Research Coordinator at Clayton, Miller and Frey (2021 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Malone, Davis and Gray (2018 - 2020)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
+            "field_value": "1. Senior Software Engineer at Clayton, Miller and Frey (2023 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Malone, Davis and Gray (2020 - 2021)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
             "necessity_label": "necessary",
             "reason": "Essential for evaluating candidate's prior professional experience, relevant responsibilities, and career trajectory.",
             "span": {
-                "start": 1212,
-                "end": 1507
+                "start": 1266,
+                "end": 1556
             }
         },
         {
             "field_type": "skills",
             "field_name": "Skills & Competencies",
-            "field_value": "Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA",
+            "field_value": "React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices",
             "necessity_label": "necessary",
             "reason": "Directly reflects technical, operational, and domain competencies required for job performance.",
             "span": {
-                "start": 1650,
-                "end": 1731
+                "start": 1699,
+                "end": 1766
             }
         }
     ]

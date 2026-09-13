@@ -5,36 +5,37 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Raymond Simpson
-Date of Birth:        September 24, 1997
-Gender:               Male
-Marital Status:       Divorced
-Religious Belief:     Agnostic
-National ID / SSN:    448-74-5377
+Date of Birth:        September 25, 1997
+Gender:               Non-Binary
+Marital Status:       Single
+Religious Belief:     Prefer not to disclose
+National ID / SSN:    491-89-4945
 Email Address:        raymond.simpson@yahoo.com
 Phone Number:         +1-736-313-4074
 Home Address:         39596 Christina Tunnel, Port Jamie, AR 75221
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Product Manager
+Position Applied For: Marketing Specialist
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.A. in Economics - Cornell University (Graduated 2018)
+MBA - University of Michigan (Graduated 2013)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Product Manager at Wilson, Wilson and Hampton (2023 - Present)
+1. Marketing Specialist at Wilson, Wilson and Hampton (2023 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Weaver-Sherman (2018 - 2020)
+2. Associate Specialist at Weaver-Sherman (2020 - 2020)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture
+React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices
 
 --------------------------------------------------------------------------------
 DECLARATION:

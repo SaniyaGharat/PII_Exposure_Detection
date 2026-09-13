@@ -2,82 +2,85 @@
     "document_id": "job_031",
     "document_type": "job_application",
     "document_purpose": "To evaluate a candidate's qualifications, skills, education, and professional experience for potential employment.",
+    "sub_conditions": {
+        "is_remote_role": false
+    },
     "fields": [
         {
             "field_type": "full_name",
             "field_name": "Full Name",
-            "field_value": "Robert Hall",
+            "field_value": "Robin Hall",
             "necessity_label": "necessary",
             "reason": "Required to unambiguously identify the candidate, manage application tracking, and conduct hiring correspondence.",
             "span": {
                 "start": 370,
-                "end": 381
+                "end": 380
             }
         },
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "July 16, 1976",
+            "field_value": "July 17, 1976",
             "necessity_label": "unnecessary",
             "reason": "Date of birth is generally not required for evaluating qualifications during initial employment screening and may create discrimination concerns.",
             "span": {
-                "start": 404,
-                "end": 417
+                "start": 403,
+                "end": 416
             }
         },
         {
             "field_type": "gender",
             "field_name": "Gender",
-            "field_value": "Non-Binary",
+            "field_value": "Female",
             "necessity_label": "contextual",
             "reason": "Gender is not required for qualification evaluation, though occasionally collected under optional equal employment opportunity (EEO) demographic monitoring.",
             "span": {
-                "start": 440,
-                "end": 450
+                "start": 439,
+                "end": 445
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Divorced",
+            "field_value": "Domestic Partnership",
             "necessity_label": "unnecessary",
             "reason": "Marital status is irrelevant to assessing job competence and creates potential exposure to marital status or gender discrimination.",
             "span": {
-                "start": 473,
-                "end": 481
+                "start": 468,
+                "end": 488
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religion",
-            "field_value": "Islam",
+            "field_value": "Buddhism",
             "necessity_label": "unnecessary",
             "reason": "Religious beliefs are completely irrelevant to job performance and introduce unlawful bias risks under employment regulations.",
             "span": {
-                "start": 504,
-                "end": 509
+                "start": 511,
+                "end": 519
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "891-45-6753",
+            "field_value": "472-65-2146",
             "necessity_label": "unnecessary",
             "reason": "Government national identification numbers are unnecessary at initial screening and introduce high identity theft exposure.",
             "span": {
-                "start": 532,
-                "end": 543
+                "start": 542,
+                "end": 553
             }
         },
         {
             "field_type": "email",
             "field_name": "Email Address",
-            "field_value": "robert.hall@gmail.com",
+            "field_value": "robin.hall@gmail.com",
             "necessity_label": "necessary",
             "reason": "Required as a primary electronic communication channel for interview scheduling and official employment notifications.",
             "span": {
-                "start": 566,
-                "end": 587
+                "start": 576,
+                "end": 596
             }
         },
         {
@@ -87,52 +90,52 @@
             "necessity_label": "necessary",
             "reason": "Required for direct contact, telephone screening sessions, and urgent recruitment updates.",
             "span": {
-                "start": 610,
-                "end": 625
+                "start": 619,
+                "end": 634
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "26811 West Lake Apt. 783, Lake Kristahaven, ME 60537",
-            "necessity_label": "contextual",
-            "reason": "Full street address is unnecessary for initial screening (city/region suffices), but may be required for local payroll tax jurisdictions or commute assessment.",
+            "necessity_label": "necessary",
+            "reason": "Required for assessing commute feasibility, physical facility access, and local payroll tax withholding jurisdiction.",
             "span": {
-                "start": 648,
-                "end": 700
+                "start": 657,
+                "end": 709
             }
         },
         {
             "field_type": "job_title",
             "field_name": "Position Applied For",
-            "field_value": "Financial Analyst",
+            "field_value": "Product Manager",
             "necessity_label": "necessary",
             "reason": "Specifies the target role against which candidate qualifications and criteria are evaluated.",
             "span": {
-                "start": 821,
-                "end": 838
+                "start": 846,
+                "end": 861
             }
         },
         {
             "field_type": "education",
             "field_name": "Education",
-            "field_value": "B.A. in Economics - University of Washington (Graduated 2020)",
+            "field_value": "B.S. in Information Systems - University of Illinois Urbana-Champaign (Graduated 2014)",
             "necessity_label": "necessary",
             "reason": "Essential for verifying required academic degrees, institutional background, and formal qualifications.",
             "span": {
-                "start": 978,
-                "end": 1039
+                "start": 1058,
+                "end": 1144
             }
         },
         {
             "field_type": "work_history",
             "field_name": "Work History",
-            "field_value": "1. Financial Analyst at Kramer PLC (2021 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Ramirez and Sons (2020 - 2021)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
+            "field_value": "1. Product Manager at Kramer PLC (2021 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Ramirez and Sons (2020 - 2020)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
             "necessity_label": "necessary",
             "reason": "Essential for evaluating candidate's prior professional experience, relevant responsibilities, and career trajectory.",
             "span": {
-                "start": 1180,
-                "end": 1443
+                "start": 1285,
+                "end": 1546
             }
         },
         {
@@ -142,8 +145,8 @@
             "necessity_label": "necessary",
             "reason": "Directly reflects technical, operational, and domain competencies required for job performance.",
             "span": {
-                "start": 1586,
-                "end": 1655
+                "start": 1689,
+                "end": 1758
             }
         }
     ]

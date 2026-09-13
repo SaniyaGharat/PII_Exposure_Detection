@@ -4,37 +4,38 @@
 
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
-Full Name:            Sharon Figueroa
-Date of Birth:        May 08, 1983
-Gender:               Female
-Marital Status:       Married
-Religious Belief:     Buddhism
-National ID / SSN:    277-80-2229
-Email Address:        sharon.figueroa@gmail.com
+Full Name:            Sean Figueroa
+Date of Birth:        May 09, 1983
+Gender:               Male
+Marital Status:       Single
+Religious Belief:     Hinduism
+National ID / SSN:    437-62-9117
+Email Address:        sean.figueroa@gmail.com
 Phone Number:         (493)978-5477x7252
 Home Address:         010 Robert Ville, North Jasmine, AL 29169
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
 Position Applied For: Cybersecurity Analyst
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.S. in Computer Science - University of Illinois Urbana-Champaign (Graduated 2020)
+MBA - Carnegie Mellon University (Graduated 2011)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Cybersecurity Analyst at Green PLC (2021 - Present)
+1. Cybersecurity Analyst at Green PLC (2022 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Cortez, Phillips and Gonzalez (2019 - 2020)
+2. Associate Specialist at Cortez, Phillips and Gonzalez (2019 - 2021)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Financial Modeling, Risk Analysis, Bloomberg Terminal, Advanced Excel, CFA Level II
+Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA
 
 --------------------------------------------------------------------------------
 DECLARATION:

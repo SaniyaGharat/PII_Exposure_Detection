@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Margaret Orr
-Date of Birth:        August 18, 1947
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        August 19, 1947
 Phone Number:         +1-484-866-8455x0489
 Home Address:         389 Terry Valleys Suite 341, New Matthewberg, NC 71383
 Marital Status:       Divorced
 Occupation:           Runner, broadcasting/film/video
-Religious Preference: Islam
-National ID / SSN:    687-96-9899
-Insurance Policy No:  UHC-62953249
+Religious Preference: Hinduism
+National ID / SSN:    382-34-2848
+Insurance Policy No:  MED-98610233
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Brandon Arnold (Sibling) - Phone: 752.600.8943x46810
+Brandon Arnold (Parent) - Phone: 752.600.8943x46810
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
+Aspirin (bronchospasm), Codeine (nausea).
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Metformin 500mg PO BID with meals, Glipizide 5mg daily.
+Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
+Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

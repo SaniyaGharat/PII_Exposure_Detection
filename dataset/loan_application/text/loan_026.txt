@@ -2,12 +2,13 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Melinda Brown
-Date of Birth:        February 05, 1961
-Marital Status:       Married
-Religious Belief:     Unaffiliated
+Date of Birth:        February 06, 1961
+Marital Status:       Widowed
+Religious Belief:     Sikhism
 Phone Number:         +1-375-845-1052x650
 Email Address:        melinda.brown@yahoo.com
 Residential Address:  88261 Smith Trafficway, Jeremyfurt, MN 39728
@@ -16,14 +17,14 @@ FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
 Employment Status:    Contractor / Freelancer
 Employer Name:        Herrera LLC
-Gross Annual Income:  $138,000.00 USD
-Bank Account Number:  ACCT-5111301175
-Credit Score (FICO):  633 (FICO Score 8)
+Gross Annual Income:  $59,000.00 USD
+Bank Account Number:  ACCT-1455028401
+Credit Score (FICO):  734 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Hypothyroidism (stable on levothyroxine), Migraines with aura.
+Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
 
 Biometric Security Identifier:
 SHA256:a0c262cd7f471d209bb6dbc7 (Biometric Minutiae Key)

@@ -5,30 +5,31 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Steven Trujillo
-Date of Birth:        May 08, 1985
-Gender:               Male
-Marital Status:       Domestic Partnership
-Religious Belief:     Unaffiliated
-National ID / SSN:    401-68-9282
+Date of Birth:        May 09, 1985
+Gender:               Prefer not to disclose
+Marital Status:       Single
+Religious Belief:     Judaism
+National ID / SSN:    794-96-8972
 Email Address:        steven.trujillo@yahoo.com
 Phone Number:         (466)409-9353x87584
 Home Address:         2482 Pena Forges, Jeffreyport, MT 43927
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Data Scientist
+Position Applied For: Database Administrator
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.A. in Economics - University of Texas at Austin (Graduated 2019)
+B.S. in Information Systems - Carnegie Mellon University (Graduated 2016)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Data Scientist at Powell, Flores and Taylor (2023 - Present)
+1. Database Administrator at Powell, Flores and Taylor (2022 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Rios LLC (2019 - 2021)
+2. Associate Specialist at Rios LLC (2018 - 2020)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES

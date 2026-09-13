@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Marcus Palmer
-Date of Birth:        October 02, 1957
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        October 03, 1957
 Phone Number:         +1-458-354-2493
 Home Address:         587 David Mountains Apt. 160, South Philipshire, SC 90957
-Marital Status:       Divorced
+Marital Status:       Domestic Partnership
 Occupation:           Psychologist, occupational
-Religious Preference: Islam
-National ID / SSN:    453-40-2698
-Insurance Policy No:  KSR-54629892
+Religious Preference: Prefer not to disclose
+National ID / SSN:    286-26-8088
+Insurance Policy No:  KSR-17437386
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Lisa Edwards (Spouse) - Phone: 981.679.2171
+Lisa Edwards (Partner) - Phone: 981.679.2171
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Sulfa antibiotics (severe skin reaction), Latex.
+Penicillin (rash, hives), Shellfish (mild itching).
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Lisinopril 10mg PO daily, Atorvastatin 20mg PO at bedtime.
+Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

@@ -5,36 +5,37 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Jonathan Barnes
-Date of Birth:        May 26, 2000
+Date of Birth:        May 27, 2000
 Gender:               Prefer not to disclose
-Marital Status:       Married
-Religious Belief:     Judaism
-National ID / SSN:    550-19-5681
+Marital Status:       Widowed
+Religious Belief:     Atheist
+National ID / SSN:    129-59-6507
 Email Address:        jonathan.barnes@gmail.com
 Phone Number:         (881)381-4124x782
 Home Address:         0606 Young Common Suite 305, Port Jennifermouth, WY 19643
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Database Administrator
+Position Applied For: Product Manager
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-M.S. in Data Analytics - University of Illinois Urbana-Champaign (Graduated 2023)
+B.S. in Information Systems - Columbia University (Graduated 2022)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Database Administrator at Montoya PLC (2023 - Present)
+1. Product Manager at Montoya PLC (2023 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Salas Inc (2019 - 2021)
+2. Associate Specialist at Salas Inc (2018 - 2021)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Financial Modeling, Risk Analysis, Bloomberg Terminal, Advanced Excel, CFA Level II
+Statistical Analysis, R, Tableau, Data Pipelines, Predictive Modeling
 
 --------------------------------------------------------------------------------
 DECLARATION:

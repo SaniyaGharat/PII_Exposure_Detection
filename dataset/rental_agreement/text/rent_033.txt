@@ -2,28 +2,29 @@
                     RESIDENTIAL LEASE APPLICATION & AGREEMENT
 ================================================================================
 
-PROSPECTIVE TENANT IDENTIFICATION
+TENANCY PROFILE & PROSPECTIVE TENANT IDENTIFICATION
 --------------------------------------------------------------------------------
+Lease Category:       Standard Direct Individual Lease
 Tenant Full Name:     David Padilla
 Phone Number:         212.311.0633
 Email Address:        david.padilla@yahoo.com
-National ID / SSN:    543-60-9128
-Marital Status:       Single
-Religious Belief:     Agnostic
+National ID / SSN:    585-85-6730
+Marital Status:       Divorced
+Religious Belief:     Hinduism
 Current Residence:    837 Jeanette Park Apt. 749, South Jacksontown, CO 23550
 
 EMPLOYMENT & FINANCIAL BACKGROUND
 --------------------------------------------------------------------------------
-Employment Status:    Contractor / Freelancer
+Employment Status:    Self-Employed
 Employer Name:        Cooper-Quinn
-Monthly / Annual Inc: $6,252.00 / month
-Bank Account Number:  ACCT-6037168610
+Monthly / Annual Inc: $10,808.00 / month
+Bank Account Number:  ACCT-3958590550
 
 PREVIOUS TENANCY & EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Rental History:
 Previous Address: 113 Melinda Throughway, East Ralph
-Tenancy: 2021 - 2024 | Landlord: Deborah Humphrey | Rent: $2575/mo
+Tenancy: 2021 - 2024 | Landlord: Deborah Humphrey | Rent: $1763/mo
 Reason for Leaving: Job relocation | Full security deposit returned: Yes
 
 Emergency Contact:
@@ -32,7 +33,7 @@ Elizabeth Gutierrez (Sibling) - Tel: +1-243-364-5380x4421
 SUPPLEMENTAL TENANT DECLARATION
 --------------------------------------------------------------------------------
 Medical History:
-Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
 
 --------------------------------------------------------------------------------
 TENANT ACKNOWLEDGMENT:

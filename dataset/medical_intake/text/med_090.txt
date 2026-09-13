@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Megan Gutierrez
-Date of Birth:        August 14, 2004
+Encounter Modality:   In-Person Outpatient Clinical Visit
+Date of Birth:        August 15, 2004
 Phone Number:         001-776-881-1807x156
 Home Address:         017 Mayer Mills, East Juliaview, TX 93456
 Marital Status:       Widowed
 Occupation:           Teacher, adult education
-Religious Preference: Hinduism
-National ID / SSN:    616-69-5470
-Insurance Policy No:  BLU-25119192
+Religious Preference: Sikhism
+National ID / SSN:    194-78-4120
+Insurance Policy No:  MED-46032304
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Brandon Austin (Partner) - Phone: 333-675-0479x3036
+Brandon Austin (Sibling) - Phone: 333-675-0479x3036
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
+Aspirin (bronchospasm), Codeine (nausea).
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Metformin 500mg PO BID with meals, Glipizide 5mg daily.
+None reported / Over-the-counter multivitamins only.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-No significant past medical history. Non-smoker, no past surgeries.
+Hypothyroidism (stable on levothyroxine), Migraines with aura.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

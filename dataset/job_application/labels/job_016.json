@@ -2,82 +2,85 @@
     "document_id": "job_016",
     "document_type": "job_application",
     "document_purpose": "To evaluate a candidate's qualifications, skills, education, and professional experience for potential employment.",
+    "sub_conditions": {
+        "is_remote_role": true
+    },
     "fields": [
         {
             "field_type": "full_name",
             "field_name": "Full Name",
-            "field_value": "Christine Murphy",
+            "field_value": "Daniel Murphy",
             "necessity_label": "necessary",
             "reason": "Required to unambiguously identify the candidate, manage application tracking, and conduct hiring correspondence.",
             "span": {
                 "start": 370,
-                "end": 386
+                "end": 383
             }
         },
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "January 05, 1969",
+            "field_value": "January 06, 1969",
             "necessity_label": "unnecessary",
             "reason": "Date of birth is generally not required for evaluating qualifications during initial employment screening and may create discrimination concerns.",
             "span": {
-                "start": 409,
-                "end": 425
+                "start": 406,
+                "end": 422
             }
         },
         {
             "field_type": "gender",
             "field_name": "Gender",
-            "field_value": "Female",
+            "field_value": "Prefer not to disclose",
             "necessity_label": "contextual",
             "reason": "Gender is not required for qualification evaluation, though occasionally collected under optional equal employment opportunity (EEO) demographic monitoring.",
             "span": {
-                "start": 448,
-                "end": 454
+                "start": 445,
+                "end": 467
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Domestic Partnership",
+            "field_value": "Single",
             "necessity_label": "unnecessary",
             "reason": "Marital status is irrelevant to assessing job competence and creates potential exposure to marital status or gender discrimination.",
             "span": {
-                "start": 477,
-                "end": 497
+                "start": 490,
+                "end": 496
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religion",
-            "field_value": "Prefer not to disclose",
+            "field_value": "Islam",
             "necessity_label": "unnecessary",
             "reason": "Religious beliefs are completely irrelevant to job performance and introduce unlawful bias risks under employment regulations.",
             "span": {
-                "start": 520,
-                "end": 542
+                "start": 519,
+                "end": 524
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "584-41-8749",
+            "field_value": "162-61-6559",
             "necessity_label": "unnecessary",
             "reason": "Government national identification numbers are unnecessary at initial screening and introduce high identity theft exposure.",
             "span": {
-                "start": 565,
-                "end": 576
+                "start": 547,
+                "end": 558
             }
         },
         {
             "field_type": "email",
             "field_name": "Email Address",
-            "field_value": "christine.murphy@yahoo.com",
+            "field_value": "daniel.murphy@yahoo.com",
             "necessity_label": "necessary",
             "reason": "Required as a primary electronic communication channel for interview scheduling and official employment notifications.",
             "span": {
-                "start": 599,
-                "end": 625
+                "start": 581,
+                "end": 604
             }
         },
         {
@@ -87,63 +90,63 @@
             "necessity_label": "necessary",
             "reason": "Required for direct contact, telephone screening sessions, and urgent recruitment updates.",
             "span": {
-                "start": 648,
-                "end": 669
+                "start": 627,
+                "end": 648
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "374 Jackson Rest, Port Loriport, CT 76350",
-            "necessity_label": "contextual",
-            "reason": "Full street address is unnecessary for initial screening (city/region suffices), but may be required for local payroll tax jurisdictions or commute assessment.",
+            "necessity_label": "unnecessary",
+            "reason": "Full street address is unnecessary for initial screening for 100% remote roles; state/country jurisdiction suffices.",
             "span": {
-                "start": 692,
-                "end": 733
+                "start": 671,
+                "end": 712
             }
         },
         {
             "field_type": "job_title",
             "field_name": "Position Applied For",
-            "field_value": "Systems Architect",
+            "field_value": "Financial Analyst",
             "necessity_label": "necessary",
             "reason": "Specifies the target role against which candidate qualifications and criteria are evaluated.",
             "span": {
-                "start": 854,
-                "end": 871
+                "start": 849,
+                "end": 866
             }
         },
         {
             "field_type": "education",
             "field_name": "Education",
-            "field_value": "B.A. in Economics - University of Texas at Austin (Graduated 2020)",
+            "field_value": "B.S. in Computer Science - Georgia Institute of Technology (Graduated 2020)",
             "necessity_label": "necessary",
             "reason": "Essential for verifying required academic degrees, institutional background, and formal qualifications.",
             "span": {
-                "start": 1011,
-                "end": 1077
+                "start": 1055,
+                "end": 1130
             }
         },
         {
             "field_type": "work_history",
             "field_name": "Work History",
-            "field_value": "1. Systems Architect at Ramirez-Bean (2022 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at King-Miller (2018 - 2020)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
+            "field_value": "1. Financial Analyst at Ramirez-Bean (2022 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at King-Miller (2019 - 2021)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
             "necessity_label": "necessary",
             "reason": "Essential for evaluating candidate's prior professional experience, relevant responsibilities, and career trajectory.",
             "span": {
-                "start": 1218,
-                "end": 1478
+                "start": 1271,
+                "end": 1531
             }
         },
         {
             "field_type": "skills",
             "field_name": "Skills & Competencies",
-            "field_value": "React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices",
+            "field_value": "Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture",
             "necessity_label": "necessary",
             "reason": "Directly reflects technical, operational, and domain competencies required for job performance.",
             "span": {
-                "start": 1621,
-                "end": 1688
+                "start": 1674,
+                "end": 1738
             }
         }
     ]

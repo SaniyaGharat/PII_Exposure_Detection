@@ -4,37 +4,38 @@
 
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
-Full Name:            Antonio Hughes
-Date of Birth:        January 13, 1988
-Gender:               Male
-Marital Status:       Domestic Partnership
-Religious Belief:     Buddhism
-National ID / SSN:    170-80-4394
-Email Address:        antonio.hughes@gmail.com
+Full Name:            Amy Hughes
+Date of Birth:        January 14, 1988
+Gender:               Female
+Marital Status:       Widowed
+Religious Belief:     Christianity
+National ID / SSN:    394-86-6119
+Email Address:        amy.hughes@gmail.com
 Phone Number:         360-989-8992
 Home Address:         32061 Harris View, Port Brooke, MD 95803
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: HR Operations Generalist
+Position Applied For: Cybersecurity Analyst
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.S. in Information Systems - University of Washington (Graduated 2010)
+B.S. in Information Systems - Columbia University (Graduated 2015)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. HR Operations Generalist at Barnes, Nichols and Camacho (2022 - Present)
+1. Cybersecurity Analyst at Barnes, Nichols and Camacho (2023 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Armstrong-Young (2018 - 2020)
+2. Associate Specialist at Armstrong-Young (2017 - 2021)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Network Security, Penetration Testing, SIEM, Incident Response, ISO 27001
+Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA
 
 --------------------------------------------------------------------------------
 DECLARATION:

@@ -4,31 +4,32 @@
 
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
-Full Name:            Kenneth Ray
-Date of Birth:        August 12, 1979
-Gender:               Prefer not to disclose
-Marital Status:       Married
-Religious Belief:     Prefer not to disclose
-National ID / SSN:    411-20-5066
-Email Address:        kenneth.ray@hotmail.com
+Full Name:            Laura Ray
+Date of Birth:        August 13, 1979
+Gender:               Female
+Marital Status:       Single
+Religious Belief:     Agnostic
+National ID / SSN:    852-51-5102
+Email Address:        laura.ray@hotmail.com
 Phone Number:         +1-868-470-5685x6624
 Home Address:         34270 Faulkner Point Apt. 634, West Deborah, NV 49138
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Data Scientist
+Position Applied For: Database Administrator
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.S. in Computer Science - UC San Diego (Graduated 2017)
+M.S. in Data Analytics - UC San Diego (Graduated 2014)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Data Scientist at Cardenas, Young and Walter (2021 - Present)
+1. Database Administrator at Cardenas, Young and Walter (2023 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Boyd, Gutierrez and Hill (2017 - 2020)
+2. Associate Specialist at Boyd, Gutierrez and Hill (2020 - 2021)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES

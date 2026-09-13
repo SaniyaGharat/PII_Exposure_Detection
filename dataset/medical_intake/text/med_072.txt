@@ -2,27 +2,28 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Margaret White
-Date of Birth:        November 13, 1973
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        November 14, 1973
 Phone Number:         +1-420-863-4591x1238
 Home Address:         7242 Marsh Flat Apt. 652, Waltershire, IN 03218
-Marital Status:       Widowed
+Marital Status:       Married
 Occupation:           Mental health nurse
-Religious Preference: Unaffiliated
-National ID / SSN:    386-89-2946
-Insurance Policy No:  BLU-22976369
+Religious Preference: Christianity
+National ID / SSN:    367-59-4858
+Insurance Policy No:  UHC-45835371
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Tammy Holland (Partner) - Phone: +1-431-373-4206x9694
+Tammy Holland (Adult Child) - Phone: +1-431-373-4206x9694
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Aspirin (bronchospasm), Codeine (nausea).
+Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
@@ -32,7 +33,7 @@ Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
+Hypothyroidism (stable on levothyroxine), Migraines with aura.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

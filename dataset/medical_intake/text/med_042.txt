@@ -2,22 +2,23 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Travis Thomas
-Date of Birth:        August 24, 2004
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        August 25, 2004
 Phone Number:         +1-345-762-5577x017
 Home Address:         2459 William Lodge Apt. 581, Amandafurt, OR 54691
 Marital Status:       Divorced
 Occupation:           Colour technologist
-Religious Preference: Hinduism
-National ID / SSN:    897-97-8612
-Insurance Policy No:  UHC-94790150
+Religious Preference: Buddhism
+National ID / SSN:    454-76-5653
+Insurance Policy No:  MED-43635675
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-David Moore (Partner) - Phone: 361.953.9669x5832
+David Moore (Sibling) - Phone: 361.953.9669x5832
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
@@ -27,12 +28,12 @@ Sulfa antibiotics (severe skin reaction), Latex.
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Metformin 500mg PO BID with meals, Glipizide 5mg daily.
+None reported / Over-the-counter multivitamins only.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
+Hypothyroidism (stable on levothyroxine), Migraines with aura.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

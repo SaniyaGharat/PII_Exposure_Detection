@@ -2,6 +2,9 @@
     "document_id": "job_011",
     "document_type": "job_application",
     "document_purpose": "To evaluate a candidate's qualifications, skills, education, and professional experience for potential employment.",
+    "sub_conditions": {
+        "is_remote_role": false
+    },
     "fields": [
         {
             "field_type": "full_name",
@@ -17,7 +20,7 @@
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "March 08, 2004",
+            "field_value": "March 09, 2004",
             "necessity_label": "unnecessary",
             "reason": "Date of birth is generally not required for evaluating qualifications during initial employment screening and may create discrimination concerns.",
             "span": {
@@ -50,23 +53,23 @@
         {
             "field_type": "religion",
             "field_name": "Religion",
-            "field_value": "Prefer not to disclose",
+            "field_value": "Unaffiliated",
             "necessity_label": "unnecessary",
             "reason": "Religious beliefs are completely irrelevant to job performance and introduce unlawful bias risks under employment regulations.",
             "span": {
                 "start": 511,
-                "end": 533
+                "end": 523
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "303-29-7126",
+            "field_value": "100-86-6310",
             "necessity_label": "unnecessary",
             "reason": "Government national identification numbers are unnecessary at initial screening and introduce high identity theft exposure.",
             "span": {
-                "start": 556,
-                "end": 567
+                "start": 546,
+                "end": 557
             }
         },
         {
@@ -76,8 +79,8 @@
             "necessity_label": "necessary",
             "reason": "Required as a primary electronic communication channel for interview scheduling and official employment notifications.",
             "span": {
-                "start": 590,
-                "end": 611
+                "start": 580,
+                "end": 601
             }
         },
         {
@@ -87,63 +90,63 @@
             "necessity_label": "necessary",
             "reason": "Required for direct contact, telephone screening sessions, and urgent recruitment updates.",
             "span": {
-                "start": 634,
-                "end": 652
+                "start": 624,
+                "end": 642
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "0608 Michael Cliff, Cindyville, VA 39864",
-            "necessity_label": "contextual",
-            "reason": "Full street address is unnecessary for initial screening (city/region suffices), but may be required for local payroll tax jurisdictions or commute assessment.",
+            "necessity_label": "necessary",
+            "reason": "Required for assessing commute feasibility, physical facility access, and local payroll tax withholding jurisdiction.",
             "span": {
-                "start": 675,
-                "end": 715
+                "start": 665,
+                "end": 705
             }
         },
         {
             "field_type": "job_title",
             "field_name": "Position Applied For",
-            "field_value": "Account Executive",
+            "field_value": "HR Operations Generalist",
             "necessity_label": "necessary",
             "reason": "Specifies the target role against which candidate qualifications and criteria are evaluated.",
             "span": {
-                "start": 836,
-                "end": 853
+                "start": 842,
+                "end": 866
             }
         },
         {
             "field_type": "education",
             "field_name": "Education",
-            "field_value": "M.S. in Data Analytics - Columbia University (Graduated 2022)",
+            "field_value": "M.S. in Data Analytics - Columbia University (Graduated 2019)",
             "necessity_label": "necessary",
             "reason": "Essential for verifying required academic degrees, institutional background, and formal qualifications.",
             "span": {
-                "start": 993,
-                "end": 1054
+                "start": 1063,
+                "end": 1124
             }
         },
         {
             "field_type": "work_history",
             "field_name": "Work History",
-            "field_value": "1. Account Executive at Lin-Rasmussen (2021 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Bell-Hicks (2017 - 2021)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
+            "field_value": "1. HR Operations Generalist at Lin-Rasmussen (2021 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Bell-Hicks (2018 - 2021)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
             "necessity_label": "necessary",
             "reason": "Essential for evaluating candidate's prior professional experience, relevant responsibilities, and career trajectory.",
             "span": {
-                "start": 1195,
-                "end": 1455
+                "start": 1265,
+                "end": 1532
             }
         },
         {
             "field_type": "skills",
             "field_name": "Skills & Competencies",
-            "field_value": "Financial Modeling, Risk Analysis, Bloomberg Terminal, Advanced Excel, CFA Level II",
+            "field_value": "React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices",
             "necessity_label": "necessary",
             "reason": "Directly reflects technical, operational, and domain competencies required for job performance.",
             "span": {
-                "start": 1598,
-                "end": 1681
+                "start": 1675,
+                "end": 1742
             }
         }
     ]

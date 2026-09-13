@@ -5,36 +5,37 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Robert Cohen
-Date of Birth:        April 20, 1999
-Gender:               Male
-Marital Status:       Domestic Partnership
-Religious Belief:     Christianity
-National ID / SSN:    419-83-7149
+Date of Birth:        April 21, 1999
+Gender:               Prefer not to disclose
+Marital Status:       Divorced
+Religious Belief:     Hinduism
+National ID / SSN:    599-37-6813
 Email Address:        robert.cohen@yahoo.com
 Phone Number:         759.325.5562
 Home Address:         1473 Colin Highway, Linchester, IA 21433
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Cybersecurity Analyst
+Position Applied For: Financial Analyst
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.S. in Information Systems - Georgia Institute of Technology (Graduated 2022)
+MBA - Cornell University (Graduated 2019)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Cybersecurity Analyst at Chavez-Barker (2021 - Present)
+1. Financial Analyst at Chavez-Barker (2023 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Gonzales Group (2019 - 2020)
+2. Associate Specialist at Gonzales Group (2020 - 2021)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices
+Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA
 
 --------------------------------------------------------------------------------
 DECLARATION:

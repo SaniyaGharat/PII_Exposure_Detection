@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Amy Taylor
-Date of Birth:        August 25, 2001
+Encounter Modality:   In-Person Outpatient Clinical Visit
+Date of Birth:        August 26, 2001
 Phone Number:         576.325.3492x929
 Home Address:         739 Hood Harbors Apt. 633, Ryanbury, MH 78065
 Marital Status:       Married
 Occupation:           Optometrist
-Religious Preference: Atheist
-National ID / SSN:    189-97-6236
-Insurance Policy No:  AET-18715975
+Religious Preference: Buddhism
+National ID / SSN:    716-75-7576
+Insurance Policy No:  KSR-15402922
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Susan Villanueva (Adult Child) - Phone: (300)278-0686x71773
+Susan Villanueva (Partner) - Phone: (300)278-0686x71773
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-No Known Drug Allergies (NKDA), No known environmental allergies.
+Penicillin (rash, hives), Shellfish (mild itching).
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.
+Lisinopril 10mg PO daily, Atorvastatin 20mg PO at bedtime.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

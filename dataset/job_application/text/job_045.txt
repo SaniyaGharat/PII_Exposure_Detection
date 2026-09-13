@@ -5,30 +5,31 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Frank Miller
-Date of Birth:        February 14, 1998
-Gender:               Non-Binary
-Marital Status:       Widowed
-Religious Belief:     Prefer not to disclose
-National ID / SSN:    677-94-1444
+Date of Birth:        February 15, 1998
+Gender:               Male
+Marital Status:       Domestic Partnership
+Religious Belief:     Islam
+National ID / SSN:    896-30-6096
 Email Address:        frank.miller@gmail.com
 Phone Number:         4592640165
 Home Address:         21355 Herring Bypass Apt. 755, Hinesshire, DC 69898
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: HR Operations Generalist
+Position Applied For: Database Administrator
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-MBA - University of Michigan (Graduated 2023)
+B.S. in Computer Science - Cornell University (Graduated 2013)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. HR Operations Generalist at Phillips, Griffin and Robbins (2022 - Present)
+1. Database Administrator at Phillips, Griffin and Robbins (2022 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Norris LLC (2018 - 2020)
+2. Associate Specialist at Norris LLC (2019 - 2021)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES

@@ -2,82 +2,85 @@
     "document_id": "job_062",
     "document_type": "job_application",
     "document_purpose": "To evaluate a candidate's qualifications, skills, education, and professional experience for potential employment.",
+    "sub_conditions": {
+        "is_remote_role": true
+    },
     "fields": [
         {
             "field_type": "full_name",
             "field_name": "Full Name",
-            "field_value": "Sharon Figueroa",
+            "field_value": "Sean Figueroa",
             "necessity_label": "necessary",
             "reason": "Required to unambiguously identify the candidate, manage application tracking, and conduct hiring correspondence.",
             "span": {
                 "start": 370,
-                "end": 385
+                "end": 383
             }
         },
         {
             "field_type": "date_of_birth",
             "field_name": "Date of Birth",
-            "field_value": "May 08, 1983",
+            "field_value": "May 09, 1983",
             "necessity_label": "unnecessary",
             "reason": "Date of birth is generally not required for evaluating qualifications during initial employment screening and may create discrimination concerns.",
             "span": {
-                "start": 408,
-                "end": 420
+                "start": 406,
+                "end": 418
             }
         },
         {
             "field_type": "gender",
             "field_name": "Gender",
-            "field_value": "Female",
+            "field_value": "Male",
             "necessity_label": "contextual",
             "reason": "Gender is not required for qualification evaluation, though occasionally collected under optional equal employment opportunity (EEO) demographic monitoring.",
             "span": {
-                "start": 443,
-                "end": 449
+                "start": 441,
+                "end": 445
             }
         },
         {
             "field_type": "marital_status",
             "field_name": "Marital Status",
-            "field_value": "Married",
+            "field_value": "Single",
             "necessity_label": "unnecessary",
             "reason": "Marital status is irrelevant to assessing job competence and creates potential exposure to marital status or gender discrimination.",
             "span": {
-                "start": 472,
-                "end": 479
+                "start": 468,
+                "end": 474
             }
         },
         {
             "field_type": "religion",
             "field_name": "Religion",
-            "field_value": "Buddhism",
+            "field_value": "Hinduism",
             "necessity_label": "unnecessary",
             "reason": "Religious beliefs are completely irrelevant to job performance and introduce unlawful bias risks under employment regulations.",
             "span": {
-                "start": 502,
-                "end": 510
+                "start": 497,
+                "end": 505
             }
         },
         {
             "field_type": "national_id",
             "field_name": "National ID / SSN",
-            "field_value": "277-80-2229",
+            "field_value": "437-62-9117",
             "necessity_label": "unnecessary",
             "reason": "Government national identification numbers are unnecessary at initial screening and introduce high identity theft exposure.",
             "span": {
-                "start": 533,
-                "end": 544
+                "start": 528,
+                "end": 539
             }
         },
         {
             "field_type": "email",
             "field_name": "Email Address",
-            "field_value": "sharon.figueroa@gmail.com",
+            "field_value": "sean.figueroa@gmail.com",
             "necessity_label": "necessary",
             "reason": "Required as a primary electronic communication channel for interview scheduling and official employment notifications.",
             "span": {
-                "start": 567,
-                "end": 592
+                "start": 562,
+                "end": 585
             }
         },
         {
@@ -87,19 +90,19 @@
             "necessity_label": "necessary",
             "reason": "Required for direct contact, telephone screening sessions, and urgent recruitment updates.",
             "span": {
-                "start": 615,
-                "end": 633
+                "start": 608,
+                "end": 626
             }
         },
         {
             "field_type": "home_address",
             "field_name": "Home Address",
             "field_value": "010 Robert Ville, North Jasmine, AL 29169",
-            "necessity_label": "contextual",
-            "reason": "Full street address is unnecessary for initial screening (city/region suffices), but may be required for local payroll tax jurisdictions or commute assessment.",
+            "necessity_label": "unnecessary",
+            "reason": "Full street address is unnecessary for initial screening for 100% remote roles; state/country jurisdiction suffices.",
             "span": {
-                "start": 656,
-                "end": 697
+                "start": 649,
+                "end": 690
             }
         },
         {
@@ -109,41 +112,41 @@
             "necessity_label": "necessary",
             "reason": "Specifies the target role against which candidate qualifications and criteria are evaluated.",
             "span": {
-                "start": 818,
-                "end": 839
+                "start": 827,
+                "end": 848
             }
         },
         {
             "field_type": "education",
             "field_name": "Education",
-            "field_value": "B.S. in Computer Science - University of Illinois Urbana-Champaign (Graduated 2020)",
+            "field_value": "MBA - Carnegie Mellon University (Graduated 2011)",
             "necessity_label": "necessary",
             "reason": "Essential for verifying required academic degrees, institutional background, and formal qualifications.",
             "span": {
-                "start": 979,
-                "end": 1062
+                "start": 1037,
+                "end": 1086
             }
         },
         {
             "field_type": "work_history",
             "field_name": "Work History",
-            "field_value": "1. Cybersecurity Analyst at Green PLC (2021 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Cortez, Phillips and Gonzalez (2019 - 2020)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
+            "field_value": "1. Cybersecurity Analyst at Green PLC (2022 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Cortez, Phillips and Gonzalez (2019 - 2021)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
             "necessity_label": "necessary",
             "reason": "Essential for evaluating candidate's prior professional experience, relevant responsibilities, and career trajectory.",
             "span": {
-                "start": 1203,
-                "end": 1482
+                "start": 1227,
+                "end": 1506
             }
         },
         {
             "field_type": "skills",
             "field_name": "Skills & Competencies",
-            "field_value": "Financial Modeling, Risk Analysis, Bloomberg Terminal, Advanced Excel, CFA Level II",
+            "field_value": "Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA",
             "necessity_label": "necessary",
             "reason": "Directly reflects technical, operational, and domain competencies required for job performance.",
             "span": {
-                "start": 1625,
-                "end": 1708
+                "start": 1649,
+                "end": 1730
             }
         }
     ]

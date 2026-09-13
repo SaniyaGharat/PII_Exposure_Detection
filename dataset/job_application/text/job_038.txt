@@ -4,37 +4,38 @@
 
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
-Full Name:            Amanda Wood
-Date of Birth:        November 10, 1993
-Gender:               Female
-Marital Status:       Domestic Partnership
-Religious Belief:     Buddhism
-National ID / SSN:    835-99-7291
-Email Address:        amanda.wood@gmail.com
+Full Name:            Andrew Wood
+Date of Birth:        November 11, 1993
+Gender:               Prefer not to disclose
+Marital Status:       Divorced
+Religious Belief:     Atheist
+National ID / SSN:    179-46-4841
+Email Address:        andrew.wood@gmail.com
 Phone Number:         298.907.9359x782
 Home Address:         182 John Mill Suite 889, West Nathan, LA 51280
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Financial Analyst
+Position Applied For: Database Administrator
+Work Modality:        On-Site Office (Physical Facility)
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-MBA - Cornell University (Graduated 2023)
+M.S. in Data Analytics - University of Illinois Urbana-Champaign (Graduated 2023)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Financial Analyst at Jones-Lin (2021 - Present)
+1. Database Administrator at Jones-Lin (2023 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Gilbert PLC (2020 - 2021)
+2. Associate Specialist at Gilbert PLC (2019 - 2021)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices
+Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA
 
 --------------------------------------------------------------------------------
 DECLARATION:

@@ -5,36 +5,37 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Dean Edwards
-Date of Birth:        June 28, 1981
+Date of Birth:        June 29, 1981
 Gender:               Non-Binary
-Marital Status:       Single
-Religious Belief:     Prefer not to disclose
-National ID / SSN:    802-16-9138
+Marital Status:       Divorced
+Religious Belief:     Christianity
+National ID / SSN:    507-45-4109
 Email Address:        dean.edwards@hotmail.com
 Phone Number:         (891)321-2775
 Home Address:         74741 Eric Spur Suite 903, Eddiebury, MI 52437
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Account Executive
+Position Applied For: Financial Analyst
+Work Modality:        On-Site Office (Physical Facility)
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-M.S. in Data Analytics - University of Washington (Graduated 2023)
+MBA - Carnegie Mellon University (Graduated 2013)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Account Executive at Haynes-Moss (2023 - Present)
+1. Financial Analyst at Haynes-Moss (2022 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Chavez-Hall (2020 - 2021)
+2. Associate Specialist at Chavez-Hall (2017 - 2021)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA
+Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture
 
 --------------------------------------------------------------------------------
 DECLARATION:

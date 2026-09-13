@@ -2,12 +2,13 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Jorge Salazar
-Date of Birth:        July 31, 1990
-Marital Status:       Single
-Religious Belief:     Buddhism
+Date of Birth:        August 01, 1990
+Marital Status:       Domestic Partnership
+Religious Belief:     Prefer not to disclose
 Phone Number:         +1-991-662-0223x28837
 Email Address:        jorge.salazar@yahoo.com
 Residential Address:  754 Cruz Union, South Robertchester, FL 04167
@@ -16,14 +17,14 @@ FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
 Employment Status:    Employed Part-Time
 Employer Name:        Elliott Inc
-Gross Annual Income:  $157,000.00 USD
-Bank Account Number:  ACCT-4418828570
-Credit Score (FICO):  689 (FICO Score 8)
+Gross Annual Income:  $150,000.00 USD
+Bank Account Number:  ACCT-2191714875
+Credit Score (FICO):  611 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Hypothyroidism (stable on levothyroxine), Migraines with aura.
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
 
 Biometric Security Identifier:
 SHA256:4a59b703418bdf709fd91cff (Biometric Minutiae Key)

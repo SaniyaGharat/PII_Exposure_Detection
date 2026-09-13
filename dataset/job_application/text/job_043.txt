@@ -5,36 +5,37 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Bradley Villegas
-Date of Birth:        September 09, 1999
-Gender:               Prefer not to disclose
+Date of Birth:        September 10, 1999
+Gender:               Male
 Marital Status:       Widowed
-Religious Belief:     Prefer not to disclose
-National ID / SSN:    812-12-7232
+Religious Belief:     Judaism
+National ID / SSN:    870-63-5133
 Email Address:        bradley.villegas@gmail.com
 Phone Number:         3657405153
 Home Address:         8527 Welch Valleys, North Jennifer, NH 05348
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Marketing Specialist
+Position Applied For: Senior Software Engineer
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.S. in Information Systems - Carnegie Mellon University (Graduated 2016)
+M.S. in Data Analytics - UC San Diego (Graduated 2015)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Marketing Specialist at Ashley PLC (2021 - Present)
+1. Senior Software Engineer at Ashley PLC (2021 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Hartman, Romero and Smith (2018 - 2021)
+2. Associate Specialist at Hartman, Romero and Smith (2020 - 2021)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices
+Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture
 
 --------------------------------------------------------------------------------
 DECLARATION:

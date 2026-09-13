@@ -5,36 +5,37 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Katie Estrada
-Date of Birth:        June 30, 1993
+Date of Birth:        July 01, 1993
 Gender:               Female
-Marital Status:       Married
-Religious Belief:     Christianity
-National ID / SSN:    346-82-2290
+Marital Status:       Widowed
+Religious Belief:     Islam
+National ID / SSN:    878-78-3060
 Email Address:        katie.estrada@yahoo.com
 Phone Number:         +1-729-994-6804x43699
 Home Address:         387 Donna Haven Suite 134, Port James, AK 06558
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Cybersecurity Analyst
+Position Applied For: Data Scientist
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-M.S. in Data Analytics - Carnegie Mellon University (Graduated 2010)
+M.S. in Data Analytics - University of Texas at Austin (Graduated 2013)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Cybersecurity Analyst at Powell-Phillips (2021 - Present)
+1. Data Scientist at Powell-Phillips (2021 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Lee Ltd (2019 - 2021)
+2. Associate Specialist at Lee Ltd (2018 - 2020)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture
+Financial Modeling, Risk Analysis, Bloomberg Terminal, Advanced Excel, CFA Level II
 
 --------------------------------------------------------------------------------
 DECLARATION:

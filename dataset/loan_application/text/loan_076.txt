@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Stacey Nelson
-Date of Birth:        July 16, 1963
-Marital Status:       Widowed
-Religious Belief:     Agnostic
+Date of Birth:        July 17, 1963
+Marital Status:       Domestic Partnership
+Religious Belief:     Islam
 Phone Number:         507-283-5674
 Email Address:        stacey.nelson@gmail.com
 Residential Address:  89608 Williams Trafficway, Dominguezchester, UT 56446
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Retired
+Employment Status:    Contractor / Freelancer
 Employer Name:        Kim PLC
-Gross Annual Income:  $84,000.00 USD
-Bank Account Number:  ACCT-6942989052
-Credit Score (FICO):  720 (FICO Score 8)
+Gross Annual Income:  $64,000.00 USD
+Bank Account Number:  ACCT-2546720356
+Credit Score (FICO):  657 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
+Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
 
 Biometric Security Identifier:
 SHA256:f46e43da0ef9eda8a8ba7d70 (Biometric Minutiae Key)

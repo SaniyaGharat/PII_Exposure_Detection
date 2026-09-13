@@ -2,17 +2,18 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Mr. Jeremiah Galvan MD
-Date of Birth:        January 25, 1972
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        January 26, 1972
 Phone Number:         (328)527-7288
 Home Address:         0285 Carolyn Lodge Apt. 159, Billyberg, DE 49189
-Marital Status:       Divorced
+Marital Status:       Single
 Occupation:           Accountant, chartered
 Religious Preference: Hinduism
-National ID / SSN:    211-88-4920
-Insurance Policy No:  BLU-16813620
+National ID / SSN:    615-47-4836
+Insurance Policy No:  KSR-52802529
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
@@ -27,7 +28,7 @@ No Known Drug Allergies (NKDA), No known environmental allergies.
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Metformin 500mg PO BID with meals, Glipizide 5mg daily.
+Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------

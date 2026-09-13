@@ -2,28 +2,29 @@
                     RESIDENTIAL LEASE APPLICATION & AGREEMENT
 ================================================================================
 
-PROSPECTIVE TENANT IDENTIFICATION
+TENANCY PROFILE & PROSPECTIVE TENANT IDENTIFICATION
 --------------------------------------------------------------------------------
+Lease Category:       Standard Direct Individual Lease
 Tenant Full Name:     Kevin Moses
 Phone Number:         +1-443-937-9766
 Email Address:        kevin.moses@hotmail.com
-National ID / SSN:    521-80-8848
-Marital Status:       Single
-Religious Belief:     Islam
+National ID / SSN:    885-97-1145
+Marital Status:       Widowed
+Religious Belief:     Hinduism
 Current Residence:    1157 Thomas Path, Larachester, NM 02200
 
 EMPLOYMENT & FINANCIAL BACKGROUND
 --------------------------------------------------------------------------------
-Employment Status:    Self-Employed
+Employment Status:    Employed Part-Time
 Employer Name:        Sheppard Ltd
-Monthly / Annual Inc: $8,335.00 / month
-Bank Account Number:  ACCT-2645038111
+Monthly / Annual Inc: $3,828.00 / month
+Bank Account Number:  ACCT-1036351450
 
 PREVIOUS TENANCY & EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Rental History:
 Previous Address: 969 Carol Pines Suite 552, Annettefort
-Tenancy: 2021 - 2024 | Landlord: Lynn Morgan | Rent: $2421/mo
+Tenancy: 2021 - 2024 | Landlord: Lynn Morgan | Rent: $3170/mo
 Reason for Leaving: Job relocation | Full security deposit returned: Yes
 
 Emergency Contact:
@@ -32,7 +33,7 @@ Jeremy Butler (Sibling) - Tel: 753.557.4859
 SUPPLEMENTAL TENANT DECLARATION
 --------------------------------------------------------------------------------
 Medical History:
-Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
 
 --------------------------------------------------------------------------------
 TENANT ACKNOWLEDGMENT:

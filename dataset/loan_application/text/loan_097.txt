@@ -2,23 +2,24 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Joint / Co-Borrower Credit Application
 Applicant Name:       Edward Jones
-Date of Birth:        January 29, 1961
-Marital Status:       Divorced
-Religious Belief:     Judaism
+Date of Birth:        January 30, 1961
+Marital Status:       Domestic Partnership
+Religious Belief:     Agnostic
 Phone Number:         333-718-7510x9792
 Email Address:        edward.jones@hotmail.com
 Residential Address:  0344 Silva Inlet, Claudiafurt, KS 74047
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Employed Full-Time
+Employment Status:    Contractor / Freelancer
 Employer Name:        Harris, Watkins and Garcia
-Gross Annual Income:  $71,000.00 USD
-Bank Account Number:  ACCT-1710924824
-Credit Score (FICO):  757 (FICO Score 8)
+Gross Annual Income:  $166,000.00 USD
+Bank Account Number:  ACCT-3130846652
+Credit Score (FICO):  602 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------

@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Kevin Roberts
-Date of Birth:        October 02, 1980
-Marital Status:       Widowed
-Religious Belief:     Sikhism
+Date of Birth:        October 03, 1980
+Marital Status:       Domestic Partnership
+Religious Belief:     Buddhism
 Phone Number:         6702349107
 Email Address:        kevin.roberts@yahoo.com
 Residential Address:  004 Michael Haven Apt. 142, South Brenda, CO 38617
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Employed Full-Time
+Employment Status:    Contractor / Freelancer
 Employer Name:        Fitzpatrick-Wright
-Gross Annual Income:  $160,000.00 USD
-Bank Account Number:  ACCT-2289624427
-Credit Score (FICO):  774 (FICO Score 8)
+Gross Annual Income:  $125,000.00 USD
+Bank Account Number:  ACCT-5100282913
+Credit Score (FICO):  642 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-No significant past medical history. Non-smoker, no past surgeries.
+Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
 
 Biometric Security Identifier:
 SHA256:c179ce17542eb828fd5b0c41 (Biometric Minutiae Key)

@@ -2,11 +2,12 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       James Davis
-Date of Birth:        March 24, 1998
-Marital Status:       Married
+Date of Birth:        March 25, 1998
+Marital Status:       Widowed
 Religious Belief:     Sikhism
 Phone Number:         +1-347-676-8634x2346
 Email Address:        james.davis@gmail.com
@@ -14,16 +15,16 @@ Residential Address:  767 Carlson Groves, Cindyfurt, NE 26678
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Contractor / Freelancer
+Employment Status:    Employed Full-Time
 Employer Name:        Hurst-Weiss
-Gross Annual Income:  $173,000.00 USD
-Bank Account Number:  ACCT-8670238355
-Credit Score (FICO):  737 (FICO Score 8)
+Gross Annual Income:  $195,000.00 USD
+Bank Account Number:  ACCT-1197323378
+Credit Score (FICO):  623 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
+No significant past medical history. Non-smoker, no past surgeries.
 
 Biometric Security Identifier:
 SHA256:464a28627a57735a4ef3ad69 (Biometric Minutiae Key)

@@ -14,9 +14,10 @@ Email Address:        {{email}}
 Phone Number:         {{phone}}
 Home Address:         {{home_address}}
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
 Position Applied For: {{job_title}}
+Work Modality:        {{work_modality}}
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------

@@ -5,28 +5,29 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Michael Wilson
-Date of Birth:        May 05, 2002
-Gender:               Non-Binary
-Marital Status:       Widowed
+Date of Birth:        May 06, 2002
+Gender:               Prefer not to disclose
+Marital Status:       Domestic Partnership
 Religious Belief:     Sikhism
-National ID / SSN:    750-68-3506
+National ID / SSN:    584-80-9698
 Email Address:        michael.wilson@hotmail.com
 Phone Number:         (480)700-2578x7298
 Home Address:         69495 Erickson Hills Suite 055, South Brandytown, PA 62706
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Data Scientist
+Position Applied For: Database Administrator
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.S. in Information Systems - Purdue University (Graduated 2010)
+B.S. in Computer Science - Georgia Institute of Technology (Graduated 2014)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Data Scientist at Long LLC (2022 - Present)
+1. Database Administrator at Long LLC (2021 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
 2. Associate Specialist at Mcmillan, Fischer and Gonzalez (2020 - 2020)
    - Managed key deliverables, analyzed system data, and automated workflows.
@@ -34,7 +35,7 @@ Recent Experience:
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices
+Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA
 
 --------------------------------------------------------------------------------
 DECLARATION:

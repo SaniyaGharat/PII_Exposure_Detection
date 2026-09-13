@@ -2,17 +2,18 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Sharon Young
-Date of Birth:        June 25, 1991
+Encounter Modality:   In-Person Outpatient Clinical Visit
+Date of Birth:        June 26, 1991
 Phone Number:         001-465-966-6683
 Home Address:         86562 Bright Skyway, East Alexander, SD 02559
-Marital Status:       Widowed
+Marital Status:       Domestic Partnership
 Occupation:           Sub
-Religious Preference: Judaism
-National ID / SSN:    137-92-4131
-Insurance Policy No:  AET-57912262
+Religious Preference: Sikhism
+National ID / SSN:    677-15-1464
+Insurance Policy No:  MED-16101779
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
@@ -22,17 +23,17 @@ Stephen Barrett (Partner) - Phone: (912)867-9692
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Penicillin (rash, hives), Shellfish (mild itching).
+No Known Drug Allergies (NKDA), No known environmental allergies.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-None reported / Over-the-counter multivitamins only.
+Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
+No significant past medical history. Non-smoker, no past surgeries.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

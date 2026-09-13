@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Corey Sandoval
-Date of Birth:        June 27, 1982
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        June 28, 1982
 Phone Number:         +1-828-786-1957x6122
 Home Address:         975 Pierce Islands, Robertchester, GU 95641
-Marital Status:       Domestic Partnership
+Marital Status:       Married
 Occupation:           Accounting technician
-Religious Preference: Hinduism
-National ID / SSN:    711-58-3527
-Insurance Policy No:  BLU-34272734
+Religious Preference: Christianity
+National ID / SSN:    423-49-9444
+Insurance Policy No:  UHC-82884346
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-David Gardner (Sibling) - Phone: (484)657-7600x4908
+David Gardner (Parent) - Phone: (484)657-7600x4908
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-No Known Drug Allergies (NKDA), No known environmental allergies.
+Aspirin (bronchospasm), Codeine (nausea).
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Metformin 500mg PO BID with meals, Glipizide 5mg daily.
+Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-No significant past medical history. Non-smoker, no past surgeries.
+Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

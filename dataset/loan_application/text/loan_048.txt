@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Joint / Co-Borrower Credit Application
 Applicant Name:       Patricia Gonzalez
-Date of Birth:        January 24, 2000
-Marital Status:       Widowed
-Religious Belief:     Agnostic
+Date of Birth:        January 25, 2000
+Marital Status:       Married
+Religious Belief:     Christianity
 Phone Number:         +1-625-250-2727x516
 Email Address:        patricia.gonzalez@yahoo.com
 Residential Address:  791 Jeffery Field, Hortonburgh, PA 49988
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Employed Full-Time
+Employment Status:    Retired
 Employer Name:        Farley Ltd
-Gross Annual Income:  $51,000.00 USD
-Bank Account Number:  ACCT-3238126936
-Credit Score (FICO):  664 (FICO Score 8)
+Gross Annual Income:  $83,000.00 USD
+Bank Account Number:  ACCT-3313993297
+Credit Score (FICO):  790 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-No significant past medical history. Non-smoker, no past surgeries.
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
 
 Biometric Security Identifier:
 SHA256:b4bb536183d62c092bc2b250 (Biometric Minutiae Key)

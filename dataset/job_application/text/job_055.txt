@@ -5,36 +5,37 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Matthew Hall
-Date of Birth:        March 03, 1970
-Gender:               Male
-Marital Status:       Married
-Religious Belief:     Agnostic
-National ID / SSN:    808-41-6016
+Date of Birth:        March 04, 1970
+Gender:               Non-Binary
+Marital Status:       Single
+Religious Belief:     Prefer not to disclose
+National ID / SSN:    744-97-1878
 Email Address:        matthew.hall@hotmail.com
 Phone Number:         (972)440-0499x1547
 Home Address:         3152 Wong Stravenue Apt. 054, East Cheryl, SC 53649
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Account Executive
+Position Applied For: DevOps Engineer
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-MBA - Carnegie Mellon University (Graduated 2017)
+B.S. in Computer Science - University of Texas at Austin (Graduated 2023)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Account Executive at Sharp, Zuniga and Gentry (2021 - Present)
+1. DevOps Engineer at Sharp, Zuniga and Gentry (2022 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Butler and Sons (2017 - 2021)
+2. Associate Specialist at Butler and Sons (2017 - 2020)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Statistical Analysis, R, Tableau, Data Pipelines, Predictive Modeling
+Financial Modeling, Risk Analysis, Bloomberg Terminal, Advanced Excel, CFA Level II
 
 --------------------------------------------------------------------------------
 DECLARATION:

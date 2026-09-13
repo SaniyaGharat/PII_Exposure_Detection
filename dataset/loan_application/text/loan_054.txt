@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Ashley Obrien
-Date of Birth:        November 02, 1962
-Marital Status:       Divorced
-Religious Belief:     Hinduism
+Date of Birth:        November 03, 1962
+Marital Status:       Married
+Religious Belief:     Atheist
 Phone Number:         655-379-9802
 Email Address:        ashley.obrien@gmail.com
 Residential Address:  088 Javier Lakes, East Anthonyberg, IN 11438
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Contractor / Freelancer
+Employment Status:    Self-Employed
 Employer Name:        Adams Group
-Gross Annual Income:  $99,000.00 USD
-Bank Account Number:  ACCT-9455610447
-Credit Score (FICO):  712 (FICO Score 8)
+Gross Annual Income:  $149,000.00 USD
+Bank Account Number:  ACCT-6512990303
+Credit Score (FICO):  645 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
+Hypothyroidism (stable on levothyroxine), Migraines with aura.
 
 Biometric Security Identifier:
 SHA256:3a2bdb6f224589d171eea79b (Biometric Minutiae Key)

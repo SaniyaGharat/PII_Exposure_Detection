@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Joint / Co-Borrower Credit Application
 Applicant Name:       Vincent Wilson
-Date of Birth:        October 25, 1998
-Marital Status:       Single
-Religious Belief:     Hinduism
+Date of Birth:        October 26, 1998
+Marital Status:       Widowed
+Religious Belief:     Unaffiliated
 Phone Number:         (666)475-4858x1932
 Email Address:        vincent.wilson@yahoo.com
 Residential Address:  4186 Thompson Way Suite 756, New Anita, PW 25533
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Retired
+Employment Status:    Contractor / Freelancer
 Employer Name:        Fitzpatrick Inc
-Gross Annual Income:  $102,000.00 USD
-Bank Account Number:  ACCT-8215470878
-Credit Score (FICO):  712 (FICO Score 8)
+Gross Annual Income:  $110,000.00 USD
+Bank Account Number:  ACCT-1261903104
+Credit Score (FICO):  755 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
 
 Biometric Security Identifier:
 SHA256:471abd0c745528a0e60c5a13 (Biometric Minutiae Key)

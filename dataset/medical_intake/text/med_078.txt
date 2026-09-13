@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Nathan Hess
-Date of Birth:        November 19, 1967
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        November 20, 1967
 Phone Number:         891-680-1722x601
 Home Address:         779 Peterson Well Apt. 321, Monicaville, NE 70542
-Marital Status:       Widowed
+Marital Status:       Domestic Partnership
 Occupation:           Administrator, education
-Religious Preference: Hinduism
-National ID / SSN:    797-41-1517
-Insurance Policy No:  KSR-24749927
+Religious Preference: Atheist
+National ID / SSN:    156-68-3161
+Insurance Policy No:  KSR-65757342
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-James Smith (Partner) - Phone: +1-477-469-7499x5641
+James Smith (Adult Child) - Phone: +1-477-469-7499x5641
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Sulfa antibiotics (severe skin reaction), Latex.
+Aspirin (bronchospasm), Codeine (nausea).
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Lisinopril 10mg PO daily, Atorvastatin 20mg PO at bedtime.
+Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
+Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

@@ -5,36 +5,37 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Mason Johnson
-Date of Birth:        September 11, 1972
-Gender:               Prefer not to disclose
-Marital Status:       Domestic Partnership
-Religious Belief:     Judaism
-National ID / SSN:    139-23-8119
+Date of Birth:        September 12, 1972
+Gender:               Non-Binary
+Marital Status:       Divorced
+Religious Belief:     Unaffiliated
+National ID / SSN:    230-34-7888
 Email Address:        mason.johnson@hotmail.com
 Phone Number:         759-821-2499
 Home Address:         8961 Melissa Run Apt. 673, Morganmouth, MO 55025
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: HR Operations Generalist
+Position Applied For: Cybersecurity Analyst
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.S. in Information Systems - Purdue University (Graduated 2010)
+M.S. in Data Analytics - Georgia Institute of Technology (Graduated 2021)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. HR Operations Generalist at Boone-Simmons (2021 - Present)
+1. Cybersecurity Analyst at Boone-Simmons (2022 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Henry Group (2019 - 2020)
+2. Associate Specialist at Henry Group (2019 - 2021)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA
+Statistical Analysis, R, Tableau, Data Pipelines, Predictive Modeling
 
 --------------------------------------------------------------------------------
 DECLARATION:

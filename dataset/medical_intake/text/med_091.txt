@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Carolyn Lee
-Date of Birth:        December 21, 1993
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        December 22, 1993
 Phone Number:         001-699-521-9212
 Home Address:         08948 Smith Meadow Apt. 566, Davidhaven, NH 65456
-Marital Status:       Divorced
+Marital Status:       Single
 Occupation:           Ceramics designer
-Religious Preference: Hinduism
-National ID / SSN:    114-53-5833
-Insurance Policy No:  KSR-35925669
+Religious Preference: Buddhism
+National ID / SSN:    879-85-4555
+Insurance Policy No:  UHC-38036618
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Peter Stephenson (Adult Child) - Phone: 504.768.7506
+Peter Stephenson (Partner) - Phone: 504.768.7506
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Sulfa antibiotics (severe skin reaction), Latex.
+Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.
+Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-No significant past medical history. Non-smoker, no past surgeries.
+Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

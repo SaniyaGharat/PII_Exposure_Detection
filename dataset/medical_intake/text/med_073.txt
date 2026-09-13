@@ -2,17 +2,18 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Keith Smith
-Date of Birth:        June 24, 1979
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        June 25, 1979
 Phone Number:         (577)613-3344x76263
 Home Address:         2620 Cherry Freeway, Solomonstad, OR 90189
 Marital Status:       Divorced
 Occupation:           Trading standards officer
-Religious Preference: Hinduism
-National ID / SSN:    303-87-9341
-Insurance Policy No:  UHC-77119320
+Religious Preference: Buddhism
+National ID / SSN:    163-95-2936
+Insurance Policy No:  UHC-51178850
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
@@ -22,17 +23,17 @@ Angelica Harrison (Partner) - Phone: 963-766-9411x80053
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Penicillin (rash, hives), Shellfish (mild itching).
+Sulfa antibiotics (severe skin reaction), Latex.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Lisinopril 10mg PO daily, Atorvastatin 20mg PO at bedtime.
+Omeprazole 20mg PO daily before breakfast, Calcium + Vitamin D supplement.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
+No significant past medical history. Non-smoker, no past surgeries.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

@@ -4,29 +4,30 @@
 
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
-Full Name:            Christopher Smith
-Date of Birth:        October 24, 2000
-Gender:               Non-Binary
-Marital Status:       Single
-Religious Belief:     Buddhism
-National ID / SSN:    680-50-4483
-Email Address:        christopher.smith@hotmail.com
+Full Name:            Carmen Smith
+Date of Birth:        October 25, 2000
+Gender:               Female
+Marital Status:       Widowed
+Religious Belief:     Hinduism
+National ID / SSN:    371-27-5040
+Email Address:        carmen.smith@hotmail.com
 Phone Number:         (234)230-9805
 Home Address:         820 Melissa Cliff Apt. 361, New Brooke, RI 11246
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Senior Software Engineer
+Position Applied For: Financial Analyst
+Work Modality:        On-Site Office (Physical Facility)
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.A. in Economics - University of Washington (Graduated 2022)
+B.S. in Information Systems - Purdue University (Graduated 2013)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Senior Software Engineer at Baker-Bowers (2022 - Present)
+1. Financial Analyst at Baker-Bowers (2023 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
 2. Associate Specialist at Mitchell-Horton (2020 - 2021)
    - Managed key deliverables, analyzed system data, and automated workflows.

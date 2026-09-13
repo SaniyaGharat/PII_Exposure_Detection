@@ -4,29 +4,30 @@
 
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
-Full Name:            Richard Cooper
-Date of Birth:        October 24, 1986
-Gender:               Non-Binary
-Marital Status:       Widowed
-Religious Belief:     Islam
-National ID / SSN:    244-38-7511
-Email Address:        richard.cooper@hotmail.com
+Full Name:            Rachael Cooper
+Date of Birth:        October 25, 1986
+Gender:               Female
+Marital Status:       Single
+Religious Belief:     Hinduism
+National ID / SSN:    859-63-9619
+Email Address:        rachael.cooper@hotmail.com
 Phone Number:         5786593213
 Home Address:         96522 Brittany Valley, Robintown, VT 92324
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
 Position Applied For: DevOps Engineer
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-M.S. in Data Analytics - Carnegie Mellon University (Graduated 2022)
+B.S. in Computer Science - Purdue University (Graduated 2022)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. DevOps Engineer at Shaw, Price and White (2022 - Present)
+1. DevOps Engineer at Shaw, Price and White (2021 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
 2. Associate Specialist at Harper-Johnson (2019 - 2020)
    - Managed key deliverables, analyzed system data, and automated workflows.
@@ -34,7 +35,7 @@ Recent Experience:
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Network Security, Penetration Testing, SIEM, Incident Response, ISO 27001
+Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture
 
 --------------------------------------------------------------------------------
 DECLARATION:

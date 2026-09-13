@@ -2,11 +2,12 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       David Dean
-Date of Birth:        October 04, 1965
-Marital Status:       Domestic Partnership
+Date of Birth:        October 05, 1965
+Marital Status:       Divorced
 Religious Belief:     Atheist
 Phone Number:         +1-844-462-6714
 Email Address:        david.dean@hotmail.com
@@ -14,16 +15,16 @@ Residential Address:  43598 Robert Drives, Victoriachester, MS 03897
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Contractor / Freelancer
+Employment Status:    Retired
 Employer Name:        Jones Inc
-Gross Annual Income:  $114,000.00 USD
-Bank Account Number:  ACCT-8901585274
-Credit Score (FICO):  682 (FICO Score 8)
+Gross Annual Income:  $93,000.00 USD
+Bank Account Number:  ACCT-4358554365
+Credit Score (FICO):  691 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
 
 Biometric Security Identifier:
 SHA256:537b576d8bc3eb478fe197ee (Biometric Minutiae Key)

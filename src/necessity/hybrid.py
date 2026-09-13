@@ -21,6 +21,7 @@ from sklearn.metrics import (
 
 from src.necessity.ml_classifier import MLNecessityClassifier, extract_context_window
 from src.necessity.rule_engine import RuleEngine, LABEL_TO_SCORE
+from src.policies.necessity_policy import AFFECTED_FIELDS
 
 
 class HybridNecessityEvaluator:
@@ -113,6 +114,7 @@ class HybridNecessityEvaluator:
             "unnecessary_threshold": unnecessary_threshold,
             "total_test_instances": len(y_test),
             "approaches": {},
+            "affected_vs_unaffected": {},
             "per_domain": {},
             "threshold_sensitivity": {},
             "disagreement_analysis": {},
@@ -137,6 +139,48 @@ class HybridNecessityEvaluator:
                 "binary_unnecessary_f1": round(f1, 4),
                 "binary_unnecessary_accuracy": round(acc, 4),
             }
+
+        # 2. Affected vs Unaffected Breakdown
+        affected_indices = [
+            i for i, f in enumerate(feats)
+            if f["field_type"] in AFFECTED_FIELDS.get(f["document_type"], [])
+        ]
+        unaffected_indices = [
+            i for i, f in enumerate(feats)
+            if f["field_type"] not in AFFECTED_FIELDS.get(f["document_type"], [])
+        ]
+
+        subsets = {
+            "affected_fields": affected_indices,
+            "unaffected_fields": unaffected_indices,
+        }
+
+        for subset_key, idxs in subsets.items():
+            sub_y = y_test[idxs]
+            sub_y_bin = y_test_binary[idxs]
+            eval_summary["affected_vs_unaffected"][subset_key] = {
+                "count": len(idxs),
+                "approaches": {},
+            }
+
+            for name, scores in approaches.items():
+                sub_scores = scores[idxs]
+                sub_pred_bin = (sub_scores < unnecessary_threshold).astype(int)
+                sub_mae = float(mean_absolute_error(sub_y, sub_scores))
+                sub_rmse = float(root_mean_squared_error(sub_y, sub_scores))
+                sub_p = float(precision_score(sub_y_bin, sub_pred_bin, zero_division=0))
+                sub_r = float(recall_score(sub_y_bin, sub_pred_bin, zero_division=0))
+                sub_f1 = float(f1_score(sub_y_bin, sub_pred_bin, zero_division=0))
+                sub_acc = float(accuracy_score(sub_y_bin, sub_pred_bin))
+
+                eval_summary["affected_vs_unaffected"][subset_key]["approaches"][name] = {
+                    "mae": round(sub_mae, 4),
+                    "rmse": round(sub_rmse, 4),
+                    "binary_unnecessary_precision": round(sub_p, 4),
+                    "binary_unnecessary_recall": round(sub_r, 4),
+                    "binary_unnecessary_f1": round(sub_f1, 4),
+                    "binary_unnecessary_accuracy": round(sub_acc, 4),
+                }
 
         # 2. Per-Domain Breakdown
         doc_types = sorted(list(set(f["document_type"] for f in feats)))

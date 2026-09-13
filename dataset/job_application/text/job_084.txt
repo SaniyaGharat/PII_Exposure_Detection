@@ -5,28 +5,29 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Jose Byrd
-Date of Birth:        September 12, 1984
-Gender:               Male
-Marital Status:       Single
-Religious Belief:     Christianity
-National ID / SSN:    416-66-1546
+Date of Birth:        September 13, 1984
+Gender:               Prefer not to disclose
+Marital Status:       Domestic Partnership
+Religious Belief:     Buddhism
+National ID / SSN:    170-80-4394
 Email Address:        jose.byrd@yahoo.com
 Phone Number:         571-821-0032
 Home Address:         941 Wendy Flat, Lambland, MH 43957
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Cybersecurity Analyst
+Position Applied For: Data Scientist
+Work Modality:        On-Site Office (Physical Facility)
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-M.S. in Data Analytics - University of Illinois Urbana-Champaign (Graduated 2020)
+B.A. in Economics - Cornell University (Graduated 2010)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Cybersecurity Analyst at Wilkins-Thompson (2021 - Present)
+1. Data Scientist at Wilkins-Thompson (2021 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
 2. Associate Specialist at Bond-Hawkins (2019 - 2020)
    - Managed key deliverables, analyzed system data, and automated workflows.

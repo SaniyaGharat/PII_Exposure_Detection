@@ -4,37 +4,38 @@
 
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
-Full Name:            Patrick Yang
-Date of Birth:        November 22, 2002
-Gender:               Prefer not to disclose
-Marital Status:       Widowed
-Religious Belief:     Prefer not to disclose
-National ID / SSN:    246-39-8555
-Email Address:        patrick.yang@yahoo.com
+Full Name:            Natalie Yang
+Date of Birth:        November 23, 2002
+Gender:               Female
+Marital Status:       Divorced
+Religious Belief:     Islam
+National ID / SSN:    791-39-8724
+Email Address:        natalie.yang@yahoo.com
 Phone Number:         001-642-352-4105x6481
 Home Address:         507 Michael Glens Apt. 913, North Micheletown, IA 06527
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Cybersecurity Analyst
+Position Applied For: Clinical Research Coordinator
+Work Modality:        On-Site Office (Physical Facility)
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.A. in Economics - University of Michigan (Graduated 2012)
+B.S. in Information Systems - Georgia Institute of Technology (Graduated 2017)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Cybersecurity Analyst at Smith and Sons (2021 - Present)
+1. Clinical Research Coordinator at Smith and Sons (2022 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Smith, Crawford and Reed (2020 - 2020)
+2. Associate Specialist at Smith, Crawford and Reed (2019 - 2021)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Statistical Analysis, R, Tableau, Data Pipelines, Predictive Modeling
+Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture
 
 --------------------------------------------------------------------------------
 DECLARATION:

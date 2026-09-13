@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Charles Brown
-Date of Birth:        November 12, 1970
+Encounter Modality:   In-Person Outpatient Clinical Visit
+Date of Birth:        November 13, 1970
 Phone Number:         +1-938-759-7779x014
 Home Address:         9263 Rachel Street Suite 762, South Hollyton, IA 21201
 Marital Status:       Widowed
 Occupation:           Production designer, theatre/television/film
-Religious Preference: Prefer not to disclose
-National ID / SSN:    159-81-8575
-Insurance Policy No:  AET-12921981
+Religious Preference: Hinduism
+National ID / SSN:    209-22-9591
+Insurance Policy No:  BLU-42342289
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Mark Carter (Adult Child) - Phone: 737-868-1511
+Mark Carter (Partner) - Phone: 737-868-1511
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Aspirin (bronchospasm), Codeine (nausea).
+Sulfa antibiotics (severe skin reaction), Latex.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
+Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
+Hypothyroidism (stable on levothyroxine), Migraines with aura.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

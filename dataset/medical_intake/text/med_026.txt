@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Beth Hall
-Date of Birth:        September 09, 1981
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        September 10, 1981
 Phone Number:         +1-657-930-6524x0778
 Home Address:         285 Oconnor Harbor, North Amanda, NV 39255
-Marital Status:       Domestic Partnership
+Marital Status:       Single
 Occupation:           Video editor
 Religious Preference: Sikhism
-National ID / SSN:    118-56-6060
-Insurance Policy No:  BLU-38748452
+National ID / SSN:    346-94-2698
+Insurance Policy No:  KSR-54629892
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Kimberly Gibson (Adult Child) - Phone: 001-986-420-9593x51863
+Kimberly Gibson (Spouse) - Phone: 001-986-420-9593x51863
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
+Sulfa antibiotics (severe skin reaction), Latex.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Omeprazole 20mg PO daily before breakfast, Calcium + Vitamin D supplement.
+Lisinopril 10mg PO daily, Atorvastatin 20mg PO at bedtime.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

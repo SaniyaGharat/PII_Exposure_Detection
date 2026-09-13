@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Randy Turner
-Date of Birth:        April 07, 2001
-Marital Status:       Widowed
-Religious Belief:     Buddhism
+Date of Birth:        April 08, 2001
+Marital Status:       Divorced
+Religious Belief:     Judaism
 Phone Number:         (361)376-4750
 Email Address:        randy.turner@gmail.com
 Residential Address:  8309 Hill Summit, Port Brittanyfurt, NJ 84989
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Self-Employed
+Employment Status:    Employed Part-Time
 Employer Name:        Duncan-Garcia
-Gross Annual Income:  $191,000.00 USD
-Bank Account Number:  ACCT-4904100195
-Credit Score (FICO):  645 (FICO Score 8)
+Gross Annual Income:  $124,000.00 USD
+Bank Account Number:  ACCT-3648572296
+Credit Score (FICO):  713 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
+Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
 
 Biometric Security Identifier:
 SHA256:f896bc35ad41772abaca9cef (Biometric Minutiae Key)

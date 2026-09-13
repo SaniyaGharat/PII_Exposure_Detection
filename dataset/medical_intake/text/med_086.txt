@@ -2,27 +2,28 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Gregory Harrell
-Date of Birth:        February 10, 1972
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        February 11, 1972
 Phone Number:         994.997.5679x2287
 Home Address:         519 Hughes Locks, Ambermouth, WA 36857
-Marital Status:       Single
+Marital Status:       Married
 Occupation:           Publishing copy
-Religious Preference: Islam
-National ID / SSN:    523-52-8739
-Insurance Policy No:  MED-28450513
+Religious Preference: Unaffiliated
+National ID / SSN:    326-62-5923
+Insurance Policy No:  AET-18181595
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Sharon Mann (Parent) - Phone: 001-248-518-1398
+Sharon Mann (Sibling) - Phone: 001-248-518-1398
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Penicillin (rash, hives), Shellfish (mild itching).
+No Known Drug Allergies (NKDA), No known environmental allergies.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
@@ -32,7 +33,7 @@ Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
+No significant past medical history. Non-smoker, no past surgeries.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

@@ -4,29 +4,30 @@
 
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
-Full Name:            Annette Farmer
-Date of Birth:        November 17, 1967
-Gender:               Female
+Full Name:            Brett Farmer
+Date of Birth:        November 18, 1967
+Gender:               Male
 Marital Status:       Domestic Partnership
-Religious Belief:     Atheist
-National ID / SSN:    614-77-3579
-Email Address:        annette.farmer@gmail.com
+Religious Belief:     Prefer not to disclose
+National ID / SSN:    635-50-5272
+Email Address:        brett.farmer@gmail.com
 Phone Number:         (579)874-0344x71349
 Home Address:         242 Brian Turnpike, Brookeshire, PW 38329
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Cybersecurity Analyst
+Position Applied For: Product Manager
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.S. in Information Systems - University of Washington (Graduated 2021)
+B.S. in Computer Science - Cornell University (Graduated 2013)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Cybersecurity Analyst at Clark, Guerrero and Moore (2022 - Present)
+1. Product Manager at Clark, Guerrero and Moore (2023 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
 2. Associate Specialist at Arnold and Sons (2017 - 2020)
    - Managed key deliverables, analyzed system data, and automated workflows.
@@ -34,7 +35,7 @@ Recent Experience:
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture
+Financial Modeling, Risk Analysis, Bloomberg Terminal, Advanced Excel, CFA Level II
 
 --------------------------------------------------------------------------------
 DECLARATION:

@@ -2,11 +2,12 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Mary Nelson
-Date of Birth:        September 22, 2000
-Marital Status:       Widowed
+Date of Birth:        September 23, 2000
+Marital Status:       Single
 Religious Belief:     Unaffiliated
 Phone Number:         (541)504-9670x6670
 Email Address:        mary.nelson@yahoo.com
@@ -14,16 +15,16 @@ Residential Address:  680 Johnson Track, Sharonmouth, MP 34911
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Retired
+Employment Status:    Contractor / Freelancer
 Employer Name:        Robinson, Johnson and Swanson
-Gross Annual Income:  $97,000.00 USD
-Bank Account Number:  ACCT-8099880573
-Credit Score (FICO):  798 (FICO Score 8)
+Gross Annual Income:  $86,000.00 USD
+Bank Account Number:  ACCT-6259253237
+Credit Score (FICO):  635 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
 
 Biometric Security Identifier:
 SHA256:ccfb4b6547f2b7a24fcae73e (Biometric Minutiae Key)

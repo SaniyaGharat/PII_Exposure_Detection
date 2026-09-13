@@ -4,37 +4,38 @@
 
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
-Full Name:            Brandy York
-Date of Birth:        February 19, 1971
-Gender:               Female
-Marital Status:       Domestic Partnership
-Religious Belief:     Buddhism
-National ID / SSN:    729-15-9543
-Email Address:        brandy.york@yahoo.com
+Full Name:            Chad York
+Date of Birth:        February 20, 1971
+Gender:               Male
+Marital Status:       Married
+Religious Belief:     Agnostic
+National ID / SSN:    529-68-6585
+Email Address:        chad.york@yahoo.com
 Phone Number:         (934)457-8610x357
 Home Address:         2414 Paul Estates Apt. 333, Denisehaven, AK 89918
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Account Executive
+Position Applied For: Cybersecurity Analyst
+Work Modality:        On-Site Office (Physical Facility)
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.S. in Computer Science - Carnegie Mellon University (Graduated 2017)
+MBA - Georgia Institute of Technology (Graduated 2012)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Account Executive at Johnson, Lee and Whitaker (2022 - Present)
+1. Cybersecurity Analyst at Johnson, Lee and Whitaker (2023 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Wright Group (2017 - 2021)
+2. Associate Specialist at Wright Group (2017 - 2020)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA
+Financial Modeling, Risk Analysis, Bloomberg Terminal, Advanced Excel, CFA Level II
 
 --------------------------------------------------------------------------------
 DECLARATION:

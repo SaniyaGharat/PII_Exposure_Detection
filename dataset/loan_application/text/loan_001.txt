@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Joint / Co-Borrower Credit Application
 Applicant Name:       Frederick Clark
-Date of Birth:        September 26, 1963
-Marital Status:       Single
-Religious Belief:     Christianity
+Date of Birth:        September 27, 1963
+Marital Status:       Widowed
+Religious Belief:     Islam
 Phone Number:         301.476.5636x004
 Email Address:        frederick.clark@yahoo.com
 Residential Address:  7118 Jennifer Mill Apt. 742, Port Andrew, CT 23731
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Contractor / Freelancer
+Employment Status:    Self-Employed
 Employer Name:        Figueroa, Jackson and Powers
-Gross Annual Income:  $103,000.00 USD
-Bank Account Number:  ACCT-9863781331
-Credit Score (FICO):  738 (FICO Score 8)
+Gross Annual Income:  $112,000.00 USD
+Bank Account Number:  ACCT-9415119956
+Credit Score (FICO):  798 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
+Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
 
 Biometric Security Identifier:
 SHA256:c3782a44e413c018bba78315 (Biometric Minutiae Key)

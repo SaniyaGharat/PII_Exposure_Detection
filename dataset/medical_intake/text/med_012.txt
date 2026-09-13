@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Steven Lawrence
-Date of Birth:        January 09, 2002
+Encounter Modality:   Remote Telehealth Video Consultation
+Date of Birth:        January 10, 2002
 Phone Number:         427-988-1658x0392
 Home Address:         99275 Jeffery Oval, North Joseph, IN 06111
-Marital Status:       Divorced
+Marital Status:       Widowed
 Occupation:           Multimedia specialist
-Religious Preference: Islam
-National ID / SSN:    514-12-6321
-Insurance Policy No:  BLU-92963368
+Religious Preference: Unaffiliated
+National ID / SSN:    470-12-6940
+Insurance Policy No:  AET-34194479
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Kelly Moody (Adult Child) - Phone: (477)800-5184x4989
+Kelly Moody (Partner) - Phone: (477)800-5184x4989
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Aspirin (bronchospasm), Codeine (nausea).
+Sulfa antibiotics (severe skin reaction), Latex.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-None reported / Over-the-counter multivitamins only.
+Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
+Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

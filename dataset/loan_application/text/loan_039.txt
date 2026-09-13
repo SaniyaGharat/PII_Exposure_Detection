@@ -2,10 +2,11 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Lori Cruz
-Date of Birth:        March 25, 2000
+Date of Birth:        March 26, 2000
 Marital Status:       Domestic Partnership
 Religious Belief:     Agnostic
 Phone Number:         001-968-493-1350x305
@@ -14,11 +15,11 @@ Residential Address:  5247 Mary Plaza, Sanchezbury, AR 98411
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Retired
+Employment Status:    Contractor / Freelancer
 Employer Name:        Padilla, Bennett and Johnson
-Gross Annual Income:  $192,000.00 USD
-Bank Account Number:  ACCT-6719736115
-Credit Score (FICO):  651 (FICO Score 8)
+Gross Annual Income:  $147,000.00 USD
+Bank Account Number:  ACCT-6092773357
+Credit Score (FICO):  697 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------

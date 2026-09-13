@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Stephanie Ward
-Date of Birth:        May 27, 1986
-Marital Status:       Single
-Religious Belief:     Buddhism
+Date of Birth:        May 28, 1986
+Marital Status:       Widowed
+Religious Belief:     Islam
 Phone Number:         (277)868-9627
 Email Address:        stephanie.ward@yahoo.com
 Residential Address:  9828 Jonathan Mountain, Shawnfurt, OH 79933
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Employed Part-Time
+Employment Status:    Self-Employed
 Employer Name:        Taylor-Harrison
-Gross Annual Income:  $155,000.00 USD
-Bank Account Number:  ACCT-1289012242
-Credit Score (FICO):  747 (FICO Score 8)
+Gross Annual Income:  $84,000.00 USD
+Bank Account Number:  ACCT-6719736115
+Credit Score (FICO):  782 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Hypothyroidism (stable on levothyroxine), Migraines with aura.
+No significant past medical history. Non-smoker, no past surgeries.
 
 Biometric Security Identifier:
 SHA256:8e809ad7d0b3308630eeb373 (Biometric Minutiae Key)

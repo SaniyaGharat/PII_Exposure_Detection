@@ -5,30 +5,31 @@
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Alexander Collins
-Date of Birth:        March 22, 1984
+Date of Birth:        March 23, 1984
 Gender:               Male
-Marital Status:       Single
+Marital Status:       Married
 Religious Belief:     Islam
-National ID / SSN:    162-61-6559
+National ID / SSN:    553-80-2604
 Email Address:        alexander.collins@hotmail.com
 Phone Number:         749-319-0586
 Home Address:         67165 Zimmerman Mews Apt. 849, Marshallshire, KY 42746
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Data Scientist
+Position Applied For: Financial Analyst
+Work Modality:        100% Fully Remote Position
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.S. in Computer Science - UC San Diego (Graduated 2015)
+B.A. in Economics - Columbia University (Graduated 2017)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Data Scientist at Odonnell, Brooks and David (2022 - Present)
+1. Financial Analyst at Odonnell, Brooks and David (2021 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Jones Ltd (2020 - 2021)
+2. Associate Specialist at Jones Ltd (2020 - 2020)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES

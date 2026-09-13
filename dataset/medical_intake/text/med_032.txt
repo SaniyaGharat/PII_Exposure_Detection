@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            John Landry
-Date of Birth:        March 24, 1948
+Encounter Modality:   In-Person Outpatient Clinical Visit
+Date of Birth:        March 25, 1948
 Phone Number:         (345)410-4636x8157
 Home Address:         780 John Pines, Matthewfurt, WA 21079
 Marital Status:       Divorced
 Occupation:           Chartered loss adjuster
-Religious Preference: Unaffiliated
-National ID / SSN:    205-76-3042
-Insurance Policy No:  AET-21257528
+Religious Preference: Atheist
+National ID / SSN:    143-55-8126
+Insurance Policy No:  AET-95828117
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Michael Kelly (Adult Child) - Phone: 838-440-4608x4325
+Michael Kelly (Parent) - Phone: 838-440-4608x4325
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Sulfa antibiotics (severe skin reaction), Latex.
+Penicillin (rash, hives), Shellfish (mild itching).
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
+Lisinopril 10mg PO daily, Atorvastatin 20mg PO at bedtime.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
+No significant past medical history. Non-smoker, no past surgeries.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

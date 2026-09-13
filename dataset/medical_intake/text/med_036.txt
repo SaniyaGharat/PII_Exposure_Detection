@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Michael Acosta
-Date of Birth:        July 07, 1978
+Encounter Modality:   In-Person Outpatient Clinical Visit
+Date of Birth:        July 08, 1978
 Phone Number:         +1-426-286-0259x222
 Home Address:         4742 Rachel Flats Apt. 940, Jimenezfort, ND 01254
 Marital Status:       Single
 Occupation:           Electrical engineer
 Religious Preference: Judaism
-National ID / SSN:    320-29-9991
-Insurance Policy No:  KSR-80836292
+National ID / SSN:    893-43-8311
+Insurance Policy No:  BLU-92124765
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Katherine Robinson (Spouse) - Phone: +1-577-267-1990x38498
+Katherine Robinson (Adult Child) - Phone: +1-577-267-1990x38498
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Aspirin (bronchospasm), Codeine (nausea).
+Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Lisinopril 10mg PO daily, Atorvastatin 20mg PO at bedtime.
+None reported / Over-the-counter multivitamins only.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
+Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

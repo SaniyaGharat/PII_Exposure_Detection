@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Joint / Co-Borrower Credit Application
 Applicant Name:       Jamie Thornton
-Date of Birth:        December 27, 1984
-Marital Status:       Divorced
-Religious Belief:     Atheist
+Date of Birth:        December 28, 1984
+Marital Status:       Single
+Religious Belief:     Buddhism
 Phone Number:         774.358.4384
 Email Address:        jamie.thornton@gmail.com
 Residential Address:  9741 Rhonda Ville Apt. 483, West Jennyberg, AZ 31316
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Retired
+Employment Status:    Employed Full-Time
 Employer Name:        Duran, Benton and Smith
-Gross Annual Income:  $83,000.00 USD
-Bank Account Number:  ACCT-5336127859
-Credit Score (FICO):  637 (FICO Score 8)
+Gross Annual Income:  $178,000.00 USD
+Bank Account Number:  ACCT-7321180787
+Credit Score (FICO):  590 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
+Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
 
 Biometric Security Identifier:
 SHA256:d68f2c105ac36afcf775175f (Biometric Minutiae Key)

@@ -2,37 +2,38 @@
                     PATIENT CLINICAL INTAKE & ADMISSION FORM
 ================================================================================
 
-PATIENT DEMOGRAPHIC INFORMATION
+PATIENT DEMOGRAPHIC & SERVICE INFORMATION
 --------------------------------------------------------------------------------
 Full Name:            Alexandra Baxter
-Date of Birth:        April 25, 1953
+Encounter Modality:   In-Person Outpatient Clinical Visit
+Date of Birth:        April 26, 1953
 Phone Number:         600-599-6881
 Home Address:         68222 Christina Glen Apt. 129, Port Karenside, NH 84999
-Marital Status:       Married
+Marital Status:       Widowed
 Occupation:           Engineer, biomedical
-Religious Preference: Hinduism
-National ID / SSN:    489-78-4770
-Insurance Policy No:  KSR-84990607
+Religious Preference: Judaism
+National ID / SSN:    358-94-3463
+Insurance Policy No:  AET-20939011
 
 EMERGENCY CONTACT
 --------------------------------------------------------------------------------
 Primary Emergency Contact:
-Donna Jones (Adult Child) - Phone: 639-375-5231
+Donna Jones (Spouse) - Phone: 639-375-5231
 
 CLINICAL & ALLERGY INFORMATION
 --------------------------------------------------------------------------------
 Known Drug & Environmental Allergies:
-Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
+No Known Drug Allergies (NKDA), No known environmental allergies.
 
 CURRENT MEDICATIONS & DOSAGES
 --------------------------------------------------------------------------------
 Active Prescriptions & Supplements:
-Lisinopril 10mg PO daily, Atorvastatin 20mg PO at bedtime.
+None reported / Over-the-counter multivitamins only.
 
 PAST MEDICAL & SURGICAL HISTORY
 --------------------------------------------------------------------------------
 Diagnosed Conditions & Previous Surgeries:
-Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
 
 --------------------------------------------------------------------------------
 PATIENT ACKNOWLEDGMENT:

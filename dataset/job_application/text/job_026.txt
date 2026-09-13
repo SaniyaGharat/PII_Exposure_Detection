@@ -4,37 +4,38 @@
 
 APPLICANT IDENTIFICATION & CONTACT INFORMATION
 --------------------------------------------------------------------------------
-Full Name:            Lori Clay
-Date of Birth:        April 02, 1987
-Gender:               Female
-Marital Status:       Married
-Religious Belief:     Judaism
-National ID / SSN:    617-72-5114
-Email Address:        lori.clay@gmail.com
+Full Name:            Mark Clay
+Date of Birth:        April 03, 1987
+Gender:               Prefer not to disclose
+Marital Status:       Divorced
+Religious Belief:     Prefer not to disclose
+National ID / SSN:    665-28-8041
+Email Address:        mark.clay@gmail.com
 Phone Number:         216.711.7240
 Home Address:         5623 Knight Turnpike Apt. 221, Harveybury, NM 76936
 
-TARGET POSITION
+TARGET POSITION & WORK MODALITY
 --------------------------------------------------------------------------------
-Position Applied For: Data Scientist
+Position Applied For: Systems Architect
+Work Modality:        On-Site Office (Physical Facility)
 
 EDUCATION & ACADEMIC CREDENTIALS
 --------------------------------------------------------------------------------
 Highest Degree / Major:
-B.S. in Information Systems - University of Michigan (Graduated 2014)
+MBA - Columbia University (Graduated 2010)
 
 PROFESSIONAL EXPERIENCE & WORK HISTORY
 --------------------------------------------------------------------------------
 Recent Experience:
-1. Data Scientist at Brennan-Johnson (2022 - Present)
+1. Systems Architect at Brennan-Johnson (2021 - Present)
    - Led cross-functional initiatives, improving project throughput by 28%.
-2. Associate Specialist at Young Ltd (2018 - 2021)
+2. Associate Specialist at Young Ltd (2017 - 2020)
    - Managed key deliverables, analyzed system data, and automated workflows.
 
 SKILLS & CORE COMPETENCIES
 --------------------------------------------------------------------------------
 Technical & Professional Skills:
-Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture
+Financial Modeling, Risk Analysis, Bloomberg Terminal, Advanced Excel, CFA Level II
 
 --------------------------------------------------------------------------------
 DECLARATION:

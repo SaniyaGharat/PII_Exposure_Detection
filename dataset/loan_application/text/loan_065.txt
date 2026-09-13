@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Heather Jordan
-Date of Birth:        September 26, 1974
-Marital Status:       Married
-Religious Belief:     Unaffiliated
+Date of Birth:        September 27, 1974
+Marital Status:       Domestic Partnership
+Religious Belief:     Prefer not to disclose
 Phone Number:         001-813-861-4878x2455
 Email Address:        heather.jordan@yahoo.com
 Residential Address:  09859 Ryan Motorway Suite 410, Hoberg, NH 89750
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Contractor / Freelancer
+Employment Status:    Self-Employed
 Employer Name:        Hanson-Beck
-Gross Annual Income:  $135,000.00 USD
-Bank Account Number:  ACCT-6790905673
-Credit Score (FICO):  706 (FICO Score 8)
+Gross Annual Income:  $69,000.00 USD
+Bank Account Number:  ACCT-3965572185
+Credit Score (FICO):  653 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
+No significant past medical history. Non-smoker, no past surgeries.
 
 Biometric Security Identifier:
 SHA256:85c4c84dbd74f29b3b3e1dcd (Biometric Minutiae Key)

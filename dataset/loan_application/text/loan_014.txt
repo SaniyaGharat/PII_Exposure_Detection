@@ -2,12 +2,13 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Anthony Hickman
-Date of Birth:        December 01, 1982
-Marital Status:       Married
-Religious Belief:     Atheist
+Date of Birth:        December 02, 1982
+Marital Status:       Widowed
+Religious Belief:     Islam
 Phone Number:         (343)747-1287x1539
 Email Address:        anthony.hickman@yahoo.com
 Residential Address:  863 Jonathon Highway Apt. 115, Lake Sheri, OK 48701
@@ -16,14 +17,14 @@ FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
 Employment Status:    Employed Full-Time
 Employer Name:        Finley-Ray
-Gross Annual Income:  $105,000.00 USD
-Bank Account Number:  ACCT-7710396573
-Credit Score (FICO):  666 (FICO Score 8)
+Gross Annual Income:  $162,000.00 USD
+Bank Account Number:  ACCT-5679877282
+Credit Score (FICO):  732 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
+Hypothyroidism (stable on levothyroxine), Migraines with aura.
 
 Biometric Security Identifier:
 SHA256:293a3b17c3ef860afa8dbdf4 (Biometric Minutiae Key)

@@ -2,28 +2,29 @@
                     CONSUMER CREDIT & LOAN APPLICATION
 ================================================================================
 
-BORROWER PERSONAL IDENTIFICATION
+APPLICATION TYPE & BORROWER IDENTIFICATION
 --------------------------------------------------------------------------------
+Application Type:     Individual Borrower Credit Application
 Applicant Name:       Christy Glenn
-Date of Birth:        August 01, 1964
-Marital Status:       Widowed
-Religious Belief:     Atheist
+Date of Birth:        August 02, 1964
+Marital Status:       Divorced
+Religious Belief:     Islam
 Phone Number:         686-448-7699
 Email Address:        christy.glenn@yahoo.com
 Residential Address:  320 Marsh Harbor Apt. 384, Ashleyton, RI 36450
 
 FINANCIAL PROFILE & CREDITWORTHINESS
 --------------------------------------------------------------------------------
-Employment Status:    Employed Part-Time
+Employment Status:    Retired
 Employer Name:        King, Delgado and Ingram
-Gross Annual Income:  $173,000.00 USD
-Bank Account Number:  ACCT-9945002229
-Credit Score (FICO):  696 (FICO Score 8)
+Gross Annual Income:  $154,000.00 USD
+Bank Account Number:  ACCT-2601198885
+Credit Score (FICO):  824 (FICO Score 8)
 
 ADDITIONAL DISCLOSURES & BACKGROUND
 --------------------------------------------------------------------------------
 Medical History:
-Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
+Hypothyroidism (stable on levothyroxine), Migraines with aura.
 
 Biometric Security Identifier:
 SHA256:4f3b807680e96582b969ab6b (Biometric Minutiae Key)
