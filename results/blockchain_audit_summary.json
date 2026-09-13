@@ -1,0 +1,158 @@
+{
+  "network": {
+    "name": "localhost",
+    "chainId": 1337,
+    "rpc_url": "http://127.0.0.1:8545"
+  },
+  "contract_address": "0xe982E462b094850F12AF94d21D470e21bE9D0E9C",
+  "deployer_address": "0x90F8bf6A479f320ead074411a4B0e7944Ea8c9C1",
+  "timestamp": 1789283693,
+  "gas_benchmarks": {
+    "contract_deployment": 749828,
+    "registerDocumentShare_average": 216233,
+    "registerDocumentShare_samples": [
+      186285,
+      231207,
+      231207
+    ],
+    "logOverride": 162673
+  },
+  "audit_records": [
+    {
+      "tier": "Tier A: Heavily Flagged (Job Application)",
+      "document_id": "job_001",
+      "document_type": "job_application",
+      "registration": {
+        "status": "ALREADY_REGISTERED",
+        "transaction_hash": "PREVIOUSLY_ANCHORED",
+        "block_number": "N/A",
+        "gas_used": 186285,
+        "sender": "0x90F8bf6A479f320ead074411a4B0e7944Ea8c9C1",
+        "recipient": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8",
+        "purpose": "employment_candidate_screening",
+        "doc_hash": "0xfb4db99e488de296229117785491f9f2b42162cb7884e730c2408acc199aa117",
+        "report_hash": "0xfc1535d750b5e5798ddfc4062f7a7399031397f22fa23d7dde89b2887bb6b3cb",
+        "flagged_count": 5,
+        "total_field_count": 13
+      },
+      "verification": {
+        "is_verified": true,
+        "doc_hash": "0xfb4db99e488de296229117785491f9f2b42162cb7884e730c2408acc199aa117",
+        "sender": "0x90F8bf6A479f320ead074411a4B0e7944Ea8c9C1",
+        "recipient": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8",
+        "purpose": "employment_candidate_screening",
+        "report_hash": "0xfc1535d750b5e5798ddfc4062f7a7399031397f22fa23d7dde89b2887bb6b3cb",
+        "flagged_count": 5,
+        "total_field_count": 13,
+        "overridden": true,
+        "timestamp": 1789283697,
+        "override_count": 1,
+        "overrides": [
+          {
+            "index": 0,
+            "field_type_hash": "0x2ca4d843e2b02d5722eed5bcb63cb70b602d23df7317f6d1503b38575b1e6d2d",
+            "justification_hash": "0xf59f5cb4e15344f9b7cba2eab6abbebd5f591417bb40ab8eacbd964343a74433",
+            "approver": "0x90F8bf6A479f320ead074411a4B0e7944Ea8c9C1",
+            "timestamp": 1789283697
+          }
+        ]
+      },
+      "override": {
+        "status": "ALREADY_LOGGED",
+        "transaction_hash": "PREVIOUSLY_LOGGED",
+        "gas_used": 162673,
+        "field_type": "home_address",
+        "field_type_hash": "0x2ca4d843e2b02d5722eed5bcb63cb70b602d23df7317f6d1503b38575b1e6d2d",
+        "justification_hash": "0xf59f5cb4e15344f9b7cba2eab6abbebd5f591417bb40ab8eacbd964343a74433"
+      },
+      "verification_after_override": {
+        "is_verified": true,
+        "doc_hash": "0xfb4db99e488de296229117785491f9f2b42162cb7884e730c2408acc199aa117",
+        "sender": "0x90F8bf6A479f320ead074411a4B0e7944Ea8c9C1",
+        "recipient": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8",
+        "purpose": "employment_candidate_screening",
+        "report_hash": "0xfc1535d750b5e5798ddfc4062f7a7399031397f22fa23d7dde89b2887bb6b3cb",
+        "flagged_count": 5,
+        "total_field_count": 13,
+        "overridden": true,
+        "timestamp": 1789283697,
+        "override_count": 1,
+        "overrides": [
+          {
+            "index": 0,
+            "field_type_hash": "0x2ca4d843e2b02d5722eed5bcb63cb70b602d23df7317f6d1503b38575b1e6d2d",
+            "justification_hash": "0xf59f5cb4e15344f9b7cba2eab6abbebd5f591417bb40ab8eacbd964343a74433",
+            "approver": "0x90F8bf6A479f320ead074411a4B0e7944Ea8c9C1",
+            "timestamp": 1789283697
+          }
+        ]
+      }
+    },
+    {
+      "tier": "Tier B: Mixed Necessity (Rental Agreement)",
+      "document_id": "rent_001",
+      "document_type": "rental_agreement",
+      "registration": {
+        "status": "ALREADY_REGISTERED",
+        "transaction_hash": "PREVIOUSLY_ANCHORED",
+        "block_number": "N/A",
+        "gas_used": 231207,
+        "sender": "0x90F8bf6A479f320ead074411a4B0e7944Ea8c9C1",
+        "recipient": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+        "purpose": "tenant_lease_execution_and_credit_verification",
+        "doc_hash": "0xb28399af8d293cd1c5cbe11ee82d7d9acd9252b1e78bbb4001bcd8319a6e1954",
+        "report_hash": "0x8b9745d7786392b530330a8edd63208cb1088a1e796844cd8fb154a4fbbb74f6",
+        "flagged_count": 6,
+        "total_field_count": 14
+      },
+      "verification": {
+        "is_verified": true,
+        "doc_hash": "0xb28399af8d293cd1c5cbe11ee82d7d9acd9252b1e78bbb4001bcd8319a6e1954",
+        "sender": "0x90F8bf6A479f320ead074411a4B0e7944Ea8c9C1",
+        "recipient": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+        "purpose": "tenant_lease_execution_and_credit_verification",
+        "report_hash": "0x8b9745d7786392b530330a8edd63208cb1088a1e796844cd8fb154a4fbbb74f6",
+        "flagged_count": 6,
+        "total_field_count": 14,
+        "overridden": false,
+        "timestamp": 1789283698,
+        "override_count": 0,
+        "overrides": []
+      },
+      "override": null
+    },
+    {
+      "tier": "Tier C: Mostly Necessary (Medical Intake)",
+      "document_id": "med_001",
+      "document_type": "medical_intake",
+      "registration": {
+        "status": "ALREADY_REGISTERED",
+        "transaction_hash": "PREVIOUSLY_ANCHORED",
+        "block_number": "N/A",
+        "gas_used": 231207,
+        "sender": "0x90F8bf6A479f320ead074411a4B0e7944Ea8c9C1",
+        "recipient": "0x90F8bf6A479f320ead074411a4B0e7944Ea8c9C1",
+        "purpose": "clinical_intake_and_treatment_coordination",
+        "doc_hash": "0xe0b16d78d7a9ab26012c8ec0ee227165aa9a4a05172e4618e78e761152ee6756",
+        "report_hash": "0x5932da838e27f6251e626ed944447edb1a60033de739cc0294771d56a260e01c",
+        "flagged_count": 6,
+        "total_field_count": 13
+      },
+      "verification": {
+        "is_verified": true,
+        "doc_hash": "0xe0b16d78d7a9ab26012c8ec0ee227165aa9a4a05172e4618e78e761152ee6756",
+        "sender": "0x90F8bf6A479f320ead074411a4B0e7944Ea8c9C1",
+        "recipient": "0x90F8bf6A479f320ead074411a4B0e7944Ea8c9C1",
+        "purpose": "clinical_intake_and_treatment_coordination",
+        "report_hash": "0x5932da838e27f6251e626ed944447edb1a60033de739cc0294771d56a260e01c",
+        "flagged_count": 6,
+        "total_field_count": 13,
+        "overridden": false,
+        "timestamp": 1789283698,
+        "override_count": 0,
+        "overrides": []
+      },
+      "override": null
+    }
+  ]
+}

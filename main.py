@@ -17,13 +17,7 @@ PROJECT_ROOT = Path(__file__).resolve().parent
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
-from src.generator.generate_documents import generate_full_dataset, split_dataset
-from src.utils.dataset_validator import validate_dataset
-from src.detection.detect import run_detection_pipeline
-from src.detection.evaluate import run_evaluation_pipeline
-from src.necessity.run_phase3 import run_phase3_workflow
-from src.necessity.report_generator import generate_necessity_report, render_report_markdown
-from src.necessity.hybrid import HybridNecessityEvaluator
+# Lazy imports inside pipeline functions for fast CLI responsiveness
 
 
 def clean_dataset(dataset_dir: Path, results_dir: Path) -> None:
@@ -46,6 +40,9 @@ def run_phase1_pipeline(
     clean_first: bool = False,
 ) -> bool:
     """Executes Phase 1: synthetic dataset generation, splitting, and validation."""
+    from src.generator.generate_documents import generate_full_dataset, split_dataset
+    from src.utils.dataset_validator import validate_dataset
+
     print("\n" + "=" * 65)
     print("  PHASE 1: SYNTHETIC DATASET PREPARATION & POLICY LABELING")
     print("=" * 65)
@@ -92,6 +89,9 @@ def run_phase2_pipeline(
     score_threshold: float = 0.4,
 ) -> bool:
     """Executes Phase 2: Microsoft Presidio detection and multi-strategy evaluation."""
+    from src.detection.detect import run_detection_pipeline
+    from src.detection.evaluate import run_evaluation_pipeline
+
     print("\n" + "=" * 65)
     print("  PHASE 2: PII DETECTION & MULTI-STRATEGY EVALUATION")
     print("=" * 65)
@@ -124,6 +124,8 @@ def run_phase3_pipeline(
     model_type: str = "random_forest",
 ) -> bool:
     """Executes Phase 3: Rule + ML Hybrid necessity classification and evaluation."""
+    from src.necessity.run_phase3 import run_phase3_workflow
+
     res = run_phase3_workflow(
         dataset_dir=dataset_dir,
         results_dir=results_dir,
@@ -217,11 +219,18 @@ def main() -> None:
         help="Generate a necessity audit report for a single document ID (e.g. 'job_001')",
     )
 
+    # Blockchain Audit Layer arguments (Phase 4)
+    parser.add_argument(
+        "--blockchain",
+        action="store_true",
+        help="Run Phase 4 Blockchain Audit Layer (Solidity + Ganache + Web3.py)",
+    )
+
     # End-to-End full workflow
     parser.add_argument(
         "--run-all",
         action="store_true",
-        help="Run full end-to-end pipeline (Phase 1 + Phase 2 + Phase 3)",
+        help="Run full end-to-end pipeline (Phase 1 + Phase 2 + Phase 3 + Phase 4)",
     )
 
     args = parser.parse_args()
@@ -233,12 +242,15 @@ def main() -> None:
         sys.exit(0)
 
     if args.validate:
+        from src.utils.dataset_validator import validate_dataset
         print(f"\nValidating dataset at: {dataset_dir} ...")
         report = validate_dataset(dataset_dir)
         report.print_summary()
         sys.exit(0 if report.passed else 1)
 
     if args.report:
+        from src.necessity.hybrid import HybridNecessityEvaluator
+        from src.necessity.report_generator import generate_necessity_report, render_report_markdown
         evaluator = HybridNecessityEvaluator(model_type=args.model_type)
         evaluator.fit_ml(dataset_dir, "train")
         evaluator.tune_alpha_on_validation(dataset_dir, "validation")
@@ -257,6 +269,8 @@ def main() -> None:
         sys.exit(0 if success else 1)
 
     if args.detect or args.evaluate:
+        from src.detection.detect import run_detection_pipeline
+        from src.detection.evaluate import run_evaluation_pipeline
         predictions_dir = results_dir / "predictions"
         if args.detect:
             run_detection_pipeline(
@@ -280,6 +294,11 @@ def main() -> None:
             model_type=args.model_type,
         )
         sys.exit(0 if p3_success else 1)
+
+    if args.blockchain:
+        from src.blockchain.run_phase4 import run_phase4_workflow
+        run_phase4_workflow()
+        sys.exit(0)
 
     if args.run_all:
         p1_success = run_phase1_pipeline(
@@ -308,7 +327,14 @@ def main() -> None:
             results_dir=results_dir,
             model_type=args.model_type,
         )
-        sys.exit(0 if p3_success else 1)
+        if not p3_success:
+            print("Phase 3 failed. Aborting.")
+            sys.exit(1)
+
+        print("\n[Phase 4] Executing Blockchain Audit Layer...")
+        from src.blockchain.run_phase4 import run_phase4_workflow
+        run_phase4_workflow()
+        sys.exit(0)
 
     # Default action if run without explicit flags: Run Phase 3
     if dataset_dir.exists():

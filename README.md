@@ -313,3 +313,93 @@ python main.py --run-all
 | `results/necessity_reports/<doc_id>_necessity_report.json` | Per-document machine-readable JSON necessity audit report. |
 | `results/necessity_reports/<doc_id>_necessity_report.md` | Per-document human-readable Markdown privacy audit report displaying $R(f,p)$, $M(f,p)$, $N(f,p)$, flagging status, and research rationale. |
 | `results/necessity_reports/all_sample_necessity_reports.md` | Combined audit report artifact across 8 representative documents (2 per domain). |
+
+---
+
+## ⛓️ Phase 4: Blockchain Audit Layer (Solidity + Ganache + Web3.py)
+
+Phase 4 establishes an immutable, tamper-evident, and privacy-preserving audit trail for document-sharing events and PII necessity minimization decisions.
+
+### 🔒 Zero Raw PII on Ledger (GDPR Article 17 Right to Erasure)
+In strict compliance with **GDPR Article 17 (Right to Erasure / "Right to be Forgotten")** and Section 6.1 of the research paper:
+- **Raw document content, extracted PII values, names, SSNs, and plain text NEVER touch the blockchain** in storage variables, function arguments, or emitted transaction logs.
+- Document files are anchored exclusively as cryptographic Keccak-256 hashes (`bytes32 docHash`).
+- Off-chain necessity audit reports are canonicalized (RFC 8785 style deterministic JSON ordering) and anchored exclusively as cryptographic Keccak-256 hashes (`bytes32 reportHash`).
+- Human/compliance policy overrides are logged exclusively as hashed field types and justifications (`bytes32 fieldTypeHash`, `bytes32 justificationHash`).
+- On-chain state stores only non-sensitive audit metadata (sender address, recipient address, declared purpose identifier string, aggregate field counts, and block timestamps).
+
+### 🛠️ Smart Contract Architecture (`contracts/PIINecessityAudit.sol`)
+The contract is compiled with **Solidity 0.8.24** and provides three core operations:
+1. `registerDocumentShare(bytes32 docHash, address recipient, string calldata purpose, bytes32 reportHash, uint256 flaggedCount, uint256 totalFieldCount)`: Anchors an immutable sharing event and emits `DocumentShared`. Enforces strict duplicate prevention by reverting with `DocumentAlreadyRegistered` if the same `docHash` is registered again.
+2. `logOverride(bytes32 docHash, bytes32 fieldTypeHash, bytes32 justificationHash)`: Records an authorized compliance override when an unnecessary field is shared under legitimate justification. Reverts with `UnauthorizedCaller` if invoked by anyone other than the original document sender.
+3. `verifyShare(bytes32 docHash) view`: Queries the ledger and returns the full audit record for independent third-party verification without gas cost.
+
+---
+
+### ⛽ Measured Gas Consumption & Deployment Economics
+
+All gas figures below represent **actual empirically measured gas units** from unit test execution and real Phase 3 pipeline deployments on the local Ganache EVM testnet:
+
+| Contract Operation | Measured Gas Cost | Execution Context |
+| :--- | :--- | :--- |
+| **Contract Deployment** | **749,828 gas units** | Deploys `PIINecessityAudit` bytecode & initializes storage mappings. |
+| **`registerDocumentShare`** | **186,153 – 231,243 gas units** (avg **216,233**) | Allocates new `ShareRecord` storage struct and emits `DocumentShared` event. |
+| **`logOverride`** | **162,661 – 162,673 gas units** | Appends `OverrideRecord` struct and emits `OverrideLogged` event. |
+| **`verifyShare`** | **0 gas units** (`view` call) | Off-chain read query returning on-chain audit parameters. |
+
+> **Public vs. Permissioned Ledger Deployment Implications:**
+> While Ganache serves as a local development simulator, executing `registerDocumentShare` at ~216k gas on Public Ethereum Mainnet ($5–$30 USD per transaction at typical gas prices) is economically prohibitive for high-throughput enterprise document processing. Consequently, this architecture is designed for **permissioned enterprise ledgers** (e.g., Hyperledger Besu, Quorum) or **Layer-2 optimistic/ZK-rollups** (e.g., Arbitrum, Optimism), where transaction fees are negligible (<$0.01) while preserving absolute tamper-evidence and auditability.
+
+---
+
+### 💻 Running the Blockchain Audit Layer
+
+#### 1. Start Local Ganache RPC Node
+In a separate terminal or background process:
+```powershell
+npx ganache --port 8545 --wallet.deterministic
+```
+*(Default RPC endpoint: `http://127.0.0.1:8545`, Chain ID: `1337`).*
+
+#### 2. Run Hardhat Unit Test Suite (Mocha / Chai)
+Validates registration, event emission, duplicate rejection, access control, and gas benchmarks:
+```powershell
+cd blockchain
+npx hardhat test
+cd ..
+```
+
+#### 3. Deploy Smart Contract to Ganache
+Deploys `PIINecessityAudit.sol` and writes contract address + ABI to `blockchain/deployment.json`:
+```powershell
+cd blockchain
+npx hardhat run scripts/deploy.js --network localhost
+cd ..
+```
+
+#### 4. Run Python End-to-End Integration Flow (Real Phase 3 Outputs)
+Executes document hashing, canonical report hashing, on-chain registration, and parity verification across representative Phase 3 document tiers (`job_001`, `rent_001`, `med_001`):
+```powershell
+python main.py --blockchain
+# OR directly:
+python src/blockchain/run_phase4.py
+```
+
+#### 5. Run Full End-to-End Research Pipeline (Phases 1 to 4)
+```powershell
+python main.py --run-all
+```
+
+---
+
+## 📁 Phase 4 Output Files & Artifacts
+
+| File | Description |
+| :--- | :--- |
+| `blockchain/contracts/PIINecessityAudit.sol` | Solidity 0.8.24 smart contract with zero-PII storage design and custom errors. |
+| `blockchain/test/PIINecessityAudit.test.js` | 9-case Mocha/Chai test suite with measured gas profiling. |
+| `blockchain/deployment.json` | Deployed contract address, deployer account, network metadata, and full contract ABI. |
+| `src/blockchain/audit_client.py` | Web3.py Python client for Keccak-256 hashing, transaction signing, and verification. |
+| `src/blockchain/run_phase4.py` | End-to-end integration script benchmarking real Phase 3 necessity reports. |
+| `results/blockchain_audit_summary.json` | Machine-readable audit summary recording on-chain transaction hashes, block numbers, gas metrics, and verification parity results. |
+

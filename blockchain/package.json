@@ -1,0 +1,17 @@
+{
+  "name": "pii-necessity-blockchain-audit",
+  "version": "1.0.0",
+  "description": "Solidity Smart Contract and Hardhat/Ganache Audit Trail for PII Exposure & Necessity Minimization",
+  "scripts": {
+    "test": "hardhat test",
+    "compile": "hardhat compile",
+    "deploy": "hardhat run scripts/deploy.js --network localhost",
+    "ganache": "ganache --port 8545 --chainId 1337 --deterministic"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "ethers": "^6.13.0",
+    "ganache": "^7.9.2",
+    "hardhat": "^2.22.0"
+  }
+}
