@@ -1,0 +1,309 @@
+{
+  "doc_id": "med_084",
+  "document_type": "medical_intake",
+  "split": "test",
+  "is_ocr": false,
+  "text_length": 1881,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "PATIENT CLINICAL INTAKE & ADMISSION",
+      "predicted_span": [
+        101,
+        136
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "DEMOGRAPHIC",
+      "predicted_span": [
+        232,
+        243
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_DOB",
+      "field_type": "date_of_birth",
+      "predicted_text": "March 08, 1952",
+      "predicted_span": [
+        396,
+        410
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "749.607.5399x893",
+      "predicted_span": [
+        433,
+        449
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "926 Daniel Path Apt. 571, Lake Ronald, MT 11241",
+      "predicted_span": [
+        472,
+        519
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Daniel Path Apt",
+      "predicted_span": [
+        476,
+        491
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Lake Ronald",
+      "predicted_span": [
+        498,
+        509
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Divorced",
+      "predicted_span": [
+        542,
+        550
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Islam",
+      "predicted_span": [
+        626,
+        631
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "454-66-5201",
+      "predicted_span": [
+        654,
+        665
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_INSURANCE_NO",
+      "field_type": "insurance_number",
+      "predicted_text": "Policy No:  UHC-38720823",
+      "predicted_span": [
+        676,
+        700
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_DRIVER_LICENSE",
+      "field_type": "us_driver_license",
+      "predicted_text": "38720823",
+      "predicted_span": [
+        692,
+        700
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_EMERGENCY_CONTACT",
+      "field_type": "emergency_contact",
+      "predicted_text": "\nJeffery Anderson (Spouse) - Phone: 871.658.6988\n\n",
+      "predicted_span": [
+        827,
+        877
+      ],
+      "confidence": 0.92
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Jeffery Anderson",
+      "predicted_span": [
+        828,
+        844
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "871.658.6988",
+      "predicted_span": [
+        863,
+        875
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CLINICAL & ALLERGY",
+      "predicted_span": [
+        877,
+        895
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Known Drug & Environmental Allergies",
+      "predicted_span": [
+        989,
+        1025
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_ALLERGIES",
+      "field_type": "allergies",
+      "predicted_text": "Sulfa antibiotics (severe skin reaction), Latex.",
+      "predicted_span": [
+        1027,
+        1075
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "reaction), Latex.",
+      "predicted_span": [
+        1058,
+        1075
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Latex",
+      "predicted_span": [
+        1069,
+        1074
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Active Prescriptions & Supplements",
+      "predicted_span": [
+        1188,
+        1222
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.",
+      "predicted_span": [
+        1224,
+        1299
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Levothyroxine 75mcg PO",
+      "predicted_span": [
+        1224,
+        1246
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "morning",
+      "predicted_span": [
+        1256,
+        1263
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "NRP",
+      "field_type": "nrp",
+      "predicted_text": "Sumatriptan",
+      "predicted_span": [
+        1265,
+        1276
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "MEDICAL & SURGICAL",
+      "predicted_span": [
+        1306,
+        1324
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Diagnosed Conditions & Previous Surgeries",
+      "predicted_span": [
+        1414,
+        1455
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).",
+      "predicted_span": [
+        1473,
+        1540
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Asthma",
+      "predicted_span": [
+        1473,
+        1479
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2015",
+      "predicted_span": [
+        1534,
+        1538
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

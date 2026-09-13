@@ -1,0 +1,41 @@
+================================================================================
+                    PATIENT CLINICAL INTAKE & ADMISSION FORM
+================================================================================
+
+PATIENT DEMOGRAPHIC INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Edgar Alexander
+Date of Birth:        February 14, 1978
+Phone Number:         712.655.2137x6037
+Home Address:         45653 Karen Pines, Cobbberg, AS 56707
+Marital Status:       Divorced
+Occupation:           Animator
+Religious Preference: Buddhism
+National ID / SSN:    404-46-4396
+Insurance Policy No:  UHC-52552488
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Primary Emergency Contact:
+Jason Ellis (Partner) - Phone: 250.872.0811x55626
+
+CLINICAL & ALLERGY INFORMATION
+--------------------------------------------------------------------------------
+Known Drug & Environmental Allergies:
+Aspirin (bronchospasm), Codeine (nausea).
+
+CURRENT MEDICATIONS & DOSAGES
+--------------------------------------------------------------------------------
+Active Prescriptions & Supplements:
+Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
+
+PAST MEDICAL & SURGICAL HISTORY
+--------------------------------------------------------------------------------
+Diagnosed Conditions & Previous Surgeries:
+Hypothyroidism (stable on levothyroxine), Migraines with aura.
+
+--------------------------------------------------------------------------------
+PATIENT ACKNOWLEDGMENT:
+I acknowledge that the medical information submitted above is accurate for
+the purpose of healthcare evaluation, clinical diagnosis, and safe treatment.
+================================================================================

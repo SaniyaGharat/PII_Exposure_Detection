@@ -1,0 +1,279 @@
+{
+  "doc_id": "med_085",
+  "document_type": "medical_intake",
+  "split": "train",
+  "is_ocr": false,
+  "text_length": 1859,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "PATIENT CLINICAL INTAKE & ADMISSION",
+      "predicted_span": [
+        101,
+        136
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "DEMOGRAPHIC",
+      "predicted_span": [
+        232,
+        243
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Jeremiah Galvan MD",
+      "predicted_span": [
+        363,
+        381
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_DOB",
+      "field_type": "date_of_birth",
+      "predicted_text": "January 25, 1972",
+      "predicted_span": [
+        404,
+        420
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "328)527-7288",
+      "predicted_span": [
+        444,
+        456
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "0285 Carolyn Lodge Apt. 159, Billyberg, DE 49189",
+      "predicted_span": [
+        479,
+        527
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Carolyn Lodge Apt",
+      "predicted_span": [
+        484,
+        501
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Billyberg",
+      "predicted_span": [
+        508,
+        517
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Divorced",
+      "predicted_span": [
+        550,
+        558
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Hinduism",
+      "predicted_span": [
+        625,
+        633
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "211-88-4920",
+      "predicted_span": [
+        656,
+        667
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_INSURANCE_NO",
+      "field_type": "insurance_number",
+      "predicted_text": "Policy No:  BLU-16813620",
+      "predicted_span": [
+        678,
+        702
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "16813620",
+      "predicted_span": [
+        694,
+        702
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "US_DRIVER_LICENSE",
+      "field_type": "us_driver_license",
+      "predicted_text": "16813620",
+      "predicted_span": [
+        694,
+        702
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_EMERGENCY_CONTACT",
+      "field_type": "emergency_contact",
+      "predicted_text": "\nJames Carter (Partner) - Phone: 4229960443\n\n",
+      "predicted_span": [
+        829,
+        874
+      ],
+      "confidence": 0.92
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "James Carter",
+      "predicted_span": [
+        830,
+        842
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "4229960443",
+      "predicted_span": [
+        862,
+        872
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Known Drug & Environmental Allergies",
+      "predicted_span": [
+        986,
+        1022
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_ALLERGIES",
+      "field_type": "allergies",
+      "predicted_text": "No Known Drug Allergies (NKDA), No known environmental allergies.",
+      "predicted_span": [
+        1024,
+        1089
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "No Known Drug Allergies",
+      "predicted_span": [
+        1024,
+        1047
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "NKDA",
+      "predicted_span": [
+        1049,
+        1053
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Active Prescriptions & Supplements",
+      "predicted_span": [
+        1202,
+        1236
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "Metformin 500mg PO BID with meals, Glipizide 5mg daily.",
+      "predicted_span": [
+        1238,
+        1293
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "daily",
+      "predicted_span": [
+        1287,
+        1292
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "MEDICAL & SURGICAL",
+      "predicted_span": [
+        1300,
+        1318
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Diagnosed Conditions & Previous Surgeries",
+      "predicted_span": [
+        1408,
+        1449
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "No significant past medical history. Non-smoker, no past surgeries.",
+      "predicted_span": [
+        1451,
+        1518
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

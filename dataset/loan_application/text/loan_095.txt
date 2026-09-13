@@ -1,0 +1,35 @@
+================================================================================
+                    CONSUMER CREDIT & LOAN APPLICATION
+================================================================================
+
+BORROWER PERSONAL IDENTIFICATION
+--------------------------------------------------------------------------------
+Applicant Name:       Matthew Hernandez
+Date of Birth:        July 28, 1982
+Marital Status:       Single
+Religious Belief:     Atheist
+Phone Number:         001-599-760-4387x875
+Email Address:        matthew.hernandez@yahoo.com
+Residential Address:  811 Lyons Lane Apt. 028, East Jamesville, AZ 56099
+
+FINANCIAL PROFILE & CREDITWORTHINESS
+--------------------------------------------------------------------------------
+Employment Status:    Employed Full-Time
+Employer Name:        Pratt, Freeman and Curry
+Gross Annual Income:  $60,000.00 USD
+Bank Account Number:  ACCT-4683585586
+Credit Score (FICO):  601 (FICO Score 8)
+
+ADDITIONAL DISCLOSURES & BACKGROUND
+--------------------------------------------------------------------------------
+Medical History:
+Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
+
+Biometric Security Identifier:
+SHA256:1fe4e5f239cc897ed39c923f (Biometric Minutiae Key)
+
+--------------------------------------------------------------------------------
+APPLICANT AUTHORIZATION:
+I authorize the financial institution to investigate my credit standing and
+employment history to evaluate credit risk and loan eligibility.
+================================================================================

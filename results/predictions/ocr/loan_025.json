@@ -1,0 +1,240 @@
+{
+  "doc_id": "loan_025",
+  "document_type": "loan_application",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORROWER PERSONAL IDENIIFICATION\nApplicant Name Emily Macias Date of Birth: April 28 , 1996 Marital Scatus: Divorced Religious Belief: Judaism Phone Number: 921.852.8506 Email Address: emily.macias@gmail. com Residential Address: 53814 Webb Greens Apt. 096 , West Sarah, SD 68072\nFINANCIAL PROFILE 6CREDITWORTHINESS\nEmployment Status Employer Name Gross Annual Income Bank Account Number Credit Score (FICO)\nContractor Freelancer Walls PLC S188, 000 00 USD ACCT-7402059279 757 (FICO Score 8 )\nADDITIONAL DISCLOSURES &   BACKGROUND\nMedical History Type Diabetes Mellitus (managed via diet/medication) Hyperlipidemia\nBiometric Security Identifier: SHA256: 30b607afffa3f21976ae7e62 (Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: auchorize the financial institution to investigate my credit standing and employment history co evaluate credit risk and loan eligibility",
+  "text_length": 899,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORROWER PERSONAL",
+      "predicted_span": [
+        0,
+        50
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Applicant Name Emily Macias Date",
+      "predicted_span": [
+        66,
+        98
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "April 28 , 1996",
+      "predicted_span": [
+        109,
+        124
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Divorced",
+      "predicted_span": [
+        141,
+        149
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Judaism",
+      "predicted_span": [
+        168,
+        175
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "921.852.8506",
+      "predicted_span": [
+        190,
+        202
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "emily.ma",
+      "predicted_span": [
+        218,
+        226
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Residential Address",
+      "predicted_span": [
+        242,
+        261
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "53814 Webb Greens Apt. 096 , West Sarah, SD 68072",
+      "predicted_span": [
+        263,
+        312
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "West Sarah",
+      "predicted_span": [
+        292,
+        302
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO",
+      "predicted_span": [
+        435,
+        439
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Contractor",
+      "predicted_span": [
+        441,
+        451
+      ],
+      "confidence": 0.88
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Freelancer",
+      "predicted_span": [
+        452,
+        462
+      ],
+      "confidence": 0.88
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Freelancer Walls",
+      "predicted_span": [
+        452,
+        468
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "S188",
+      "predicted_span": [
+        473,
+        477
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-7402059279",
+      "predicted_span": [
+        490,
+        505
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "7402059279",
+      "predicted_span": [
+        495,
+        505
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "7402059279",
+      "predicted_span": [
+        495,
+        505
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO Score",
+      "predicted_span": [
+        511,
+        521
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Diabetes Mellitus (managed via diet/medication) Hyperlipidemia",
+      "predicted_span": [
+        585,
+        647
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Mellitus",
+      "predicted_span": [
+        594,
+        602
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Security Identifier: SHA256: ",
+      "predicted_span": [
+        648,
+        687
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: auchorize ",
+      "predicted_span": [
+        713,
+        772
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

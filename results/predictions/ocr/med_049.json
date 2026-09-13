@@ -1,0 +1,290 @@
+{
+  "doc_id": "med_049",
+  "document_type": "medical_intake",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "PATIENT CLINICAL INTAKE\nADMISSION FORM\nPATIENT  DEMOGRAPHIC INFORMATION\nFull Name : Susan Baldwin Date of Birch: September 22 , 1950 Phone  Number: 2112947072 Home  Address: 2569 Zachary Trail Suite 766 , New Jeremiahfurt, UT 63686 Marical Stacus: Widowed Occupation Engineer , aeronautical Religious Preference Sikhism National ID SSN: 625-96-3621 Insurance Policy No MED-29163535\nEMERGENCY  CONTACT\nPrimary Emergency Contact : Joseph Frey (Spouse) Phone 246-801-5851*74328\nCLINICAL\nALLERGY INFORMATION\nKnown  Drug Environmental Allergies: No Known Drug Allergies (NKDA ) No known environmental allergies CURRENT MEDICATIONS 6  DOSAGES\nActive Prescriptions Supplements: None reported Over-the-counter multivitamins only. PAST MEDICAL SURGICAL HISTORY\nDiagnosed Conditions Previous Surgeries: Gastroesophageal Reflux Disease (GERD) History of Right Wrist Fracture (2020)\nPATIENT  ACKNOWLEDGMENT acknowledge that che medical information submitted above is accurate for the purpose of healthcare evaluation, clinical diagnosis, and safe creatment .",
+  "text_length": 1046,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "PATIENT CLINICAL INTAKE",
+      "predicted_span": [
+        0,
+        23
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "DEMOGRAPHIC",
+      "predicted_span": [
+        48,
+        59
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Susan Baldwin",
+      "predicted_span": [
+        84,
+        97
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "September 22 , 1950",
+      "predicted_span": [
+        113,
+        132
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2112947072",
+      "predicted_span": [
+        148,
+        158
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Home  Address",
+      "predicted_span": [
+        159,
+        172
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "2569 Zachary Trail Suite 766 , New Jeremiahfurt, UT 63686",
+      "predicted_span": [
+        174,
+        231
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2569",
+      "predicted_span": [
+        174,
+        178
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "New Jeremiahfurt",
+      "predicted_span": [
+        205,
+        221
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "63686",
+      "predicted_span": [
+        226,
+        231
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Widowed",
+      "predicted_span": [
+        248,
+        255
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Sikhism",
+      "predicted_span": [
+        312,
+        319
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "625-96-3621",
+      "predicted_span": [
+        337,
+        348
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_INSURANCE_NO",
+      "field_type": "insurance_number",
+      "predicted_text": "Policy No MED-29163535",
+      "predicted_span": [
+        359,
+        381
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_DRIVER_LICENSE",
+      "field_type": "us_driver_license",
+      "predicted_text": "29163535",
+      "predicted_span": [
+        373,
+        381
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Joseph Frey",
+      "predicted_span": [
+        429,
+        440
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "UK_NHS",
+      "field_type": "uk_nhs",
+      "predicted_text": "246-801-5851",
+      "predicted_span": [
+        456,
+        468
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Known  Drug Environmental Allergies",
+      "predicted_span": [
+        504,
+        539
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_ALLERGIES",
+      "field_type": "allergies",
+      "predicted_text": "No Known Drug Allergies (NKDA ) No known environmental allergies CURRENT MEDICATIONS 6  DOSAGES",
+      "predicted_span": [
+        541,
+        636
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "No Known Drug Allergies",
+      "predicted_span": [
+        541,
+        564
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "NKDA",
+      "predicted_span": [
+        566,
+        570
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "None reported Over-the-counter multivitamins only. PAST MEDICAL SURGICAL HISTORY",
+      "predicted_span": [
+        671,
+        751
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Reflux Disease (GERD) History of Right Wrist Fracture (2020)",
+      "predicted_span": [
+        810,
+        870
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Right Wrist Fracture",
+      "predicted_span": [
+        843,
+        863
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2020",
+      "predicted_span": [
+        865,
+        869
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "PATIENT",
+      "predicted_span": [
+        871,
+        878
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "ACKNOWLEDGMENT",
+      "predicted_span": [
+        880,
+        894
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "che medical",
+      "predicted_span": [
+        912,
+        923
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

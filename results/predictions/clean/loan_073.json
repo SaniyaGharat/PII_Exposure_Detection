@@ -1,0 +1,299 @@
+{
+  "doc_id": "loan_073",
+  "document_type": "loan_application",
+  "split": "train",
+  "is_ocr": false,
+  "text_length": 1567,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CONSUMER CREDIT & LOAN APPLICATION",
+      "predicted_span": [
+        101,
+        135
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Charles Hines",
+      "predicted_span": [
+        354,
+        367
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_DOB",
+      "field_type": "date_of_birth",
+      "predicted_text": "December 21, 2001",
+      "predicted_span": [
+        390,
+        407
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Single",
+      "predicted_span": [
+        430,
+        436
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Sikhism",
+      "predicted_span": [
+        459,
+        466
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "NRP",
+      "field_type": "nrp",
+      "predicted_text": "+1-902",
+      "predicted_span": [
+        489,
+        495
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "+1-902-951-7629x8334",
+      "predicted_span": [
+        489,
+        509
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "charles.hines@hotmail.com",
+      "predicted_span": [
+        532,
+        557
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "hotmail.com",
+      "predicted_span": [
+        546,
+        557
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "32683 Brandi Roads Apt. 302, West Kimshire, ND 09933",
+      "predicted_span": [
+        580,
+        632
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "32683",
+      "predicted_span": [
+        580,
+        585
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "West Kimshire",
+      "predicted_span": [
+        609,
+        622
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "ND 09933",
+      "predicted_span": [
+        624,
+        632
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Self-Employed",
+      "predicted_span": [
+        774,
+        787
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Bartlett",
+      "predicted_span": [
+        817,
+        825
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_ANNUAL_INCOME",
+      "field_type": "annual_income",
+      "predicted_text": "Income:  $148,000.00",
+      "predicted_span": [
+        847,
+        867
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_ANNUAL_INCOME",
+      "field_type": "annual_income",
+      "predicted_text": "$148,000.00 USD",
+      "predicted_span": [
+        856,
+        871
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number:  ACCT-8926438617",
+      "predicted_span": [
+        877,
+        909
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-8926438617",
+      "predicted_span": [
+        894,
+        909
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "ACCT-8926438617\nCredit Score",
+      "predicted_span": [
+        894,
+        922
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "8926438617",
+      "predicted_span": [
+        899,
+        909
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "8926438617",
+      "predicted_span": [
+        899,
+        909
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_CREDIT_SCORE",
+      "field_type": "credit_score",
+      "predicted_text": "Credit Score (FICO):  740",
+      "predicted_span": [
+        910,
+        935
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO",
+      "predicted_span": [
+        924,
+        928
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO Score",
+      "predicted_span": [
+        937,
+        947
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Hypothyroidism (stable on levothyroxine), Migraines with aura.",
+      "predicted_span": [
+        1086,
+        1148
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "levothyroxine), Migraines with aura.",
+      "predicted_span": [
+        1112,
+        1148
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Security Identifier:\nSHA256:",
+      "predicted_span": [
+        1150,
+        1188
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "SHA256:5f59ca4ecef1544b36e3a3b7 (Biometric Minutiae Key)",
+      "predicted_span": [
+        1181,
+        1237
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

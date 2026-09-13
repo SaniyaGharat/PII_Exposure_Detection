@@ -1,0 +1,41 @@
+================================================================================
+                    PATIENT CLINICAL INTAKE & ADMISSION FORM
+================================================================================
+
+PATIENT DEMOGRAPHIC INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Alexandra Baxter
+Date of Birth:        April 25, 1953
+Phone Number:         600-599-6881
+Home Address:         68222 Christina Glen Apt. 129, Port Karenside, NH 84999
+Marital Status:       Married
+Occupation:           Engineer, biomedical
+Religious Preference: Hinduism
+National ID / SSN:    489-78-4770
+Insurance Policy No:  KSR-84990607
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Primary Emergency Contact:
+Donna Jones (Adult Child) - Phone: 639-375-5231
+
+CLINICAL & ALLERGY INFORMATION
+--------------------------------------------------------------------------------
+Known Drug & Environmental Allergies:
+Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
+
+CURRENT MEDICATIONS & DOSAGES
+--------------------------------------------------------------------------------
+Active Prescriptions & Supplements:
+Lisinopril 10mg PO daily, Atorvastatin 20mg PO at bedtime.
+
+PAST MEDICAL & SURGICAL HISTORY
+--------------------------------------------------------------------------------
+Diagnosed Conditions & Previous Surgeries:
+Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
+
+--------------------------------------------------------------------------------
+PATIENT ACKNOWLEDGMENT:
+I acknowledge that the medical information submitted above is accurate for
+the purpose of healthcare evaluation, clinical diagnosis, and safe treatment.
+================================================================================

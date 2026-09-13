@@ -1,0 +1,289 @@
+{
+  "doc_id": "med_065",
+  "document_type": "medical_intake",
+  "split": "train",
+  "is_ocr": false,
+  "text_length": 1891,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "PATIENT CLINICAL INTAKE & ADMISSION",
+      "predicted_span": [
+        101,
+        136
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "DEMOGRAPHIC",
+      "predicted_span": [
+        232,
+        243
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Wanda Martinez",
+      "predicted_span": [
+        359,
+        373
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_DOB",
+      "field_type": "date_of_birth",
+      "predicted_text": "September 23, 2000",
+      "predicted_span": [
+        396,
+        414
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "(474)999-4657x96784",
+      "predicted_span": [
+        437,
+        456
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "47732",
+      "predicted_span": [
+        479,
+        484
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "South Erikaburgh",
+      "predicted_span": [
+        498,
+        514
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Widowed",
+      "predicted_span": [
+        547,
+        554
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Atheist",
+      "predicted_span": [
+        641,
+        648
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "308-53-3353",
+      "predicted_span": [
+        671,
+        682
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_INSURANCE_NO",
+      "field_type": "insurance_number",
+      "predicted_text": "Policy No:  AET-52857920",
+      "predicted_span": [
+        693,
+        717
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_DRIVER_LICENSE",
+      "field_type": "us_driver_license",
+      "predicted_text": "52857920",
+      "predicted_span": [
+        709,
+        717
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_EMERGENCY_CONTACT",
+      "field_type": "emergency_contact",
+      "predicted_text": "\nBrittany Howell (Adult Child) - Phone: 618-777-3477\n\n",
+      "predicted_span": [
+        844,
+        898
+      ],
+      "confidence": 0.92
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Brittany Howell",
+      "predicted_span": [
+        845,
+        860
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Adult Child",
+      "predicted_span": [
+        862,
+        873
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "618-777-3477",
+      "predicted_span": [
+        884,
+        896
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Known Drug & Environmental Allergies",
+      "predicted_span": [
+        1010,
+        1046
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_ALLERGIES",
+      "field_type": "allergies",
+      "predicted_text": "Peanuts (anaphylaxis - carries EpiPen), Tree nuts.",
+      "predicted_span": [
+        1048,
+        1098
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "EpiPen",
+      "predicted_span": [
+        1079,
+        1085
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Active Prescriptions & Supplements",
+      "predicted_span": [
+        1211,
+        1245
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "Omeprazole 20mg PO daily before breakfast, Calcium + Vitamin D supplement.",
+      "predicted_span": [
+        1247,
+        1321
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "daily",
+      "predicted_span": [
+        1266,
+        1271
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Calcium + Vitamin",
+      "predicted_span": [
+        1290,
+        1307
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "MEDICAL & SURGICAL",
+      "predicted_span": [
+        1328,
+        1346
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Diagnosed Conditions & Previous Surgeries",
+      "predicted_span": [
+        1436,
+        1477
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.",
+      "predicted_span": [
+        1486,
+        1550
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Mellitus",
+      "predicted_span": [
+        1495,
+        1503
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Hyperlipidemia",
+      "predicted_span": [
+        1535,
+        1549
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

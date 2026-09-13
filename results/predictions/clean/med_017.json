@@ -1,0 +1,289 @@
+{
+  "doc_id": "med_017",
+  "document_type": "medical_intake",
+  "split": "train",
+  "is_ocr": false,
+  "text_length": 1855,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "PATIENT CLINICAL INTAKE & ADMISSION",
+      "predicted_span": [
+        101,
+        136
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "DEMOGRAPHIC",
+      "predicted_span": [
+        232,
+        243
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_DOB",
+      "field_type": "date_of_birth",
+      "predicted_text": "July 23, 1985",
+      "predicted_span": [
+        392,
+        405
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "(705)830-2146",
+      "predicted_span": [
+        428,
+        441
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "705)830-2146",
+      "predicted_span": [
+        429,
+        441
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "380 Samantha Plaza Suite 895, Sylviaview, IN 79978",
+      "predicted_span": [
+        464,
+        514
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "79978",
+      "predicted_span": [
+        509,
+        514
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Widowed",
+      "predicted_span": [
+        537,
+        544
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Prefer not to disclose",
+      "predicted_span": [
+        615,
+        637
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_GENDER",
+      "field_type": "gender",
+      "predicted_text": "Prefer not to disclose",
+      "predicted_span": [
+        615,
+        637
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "National ID / SSN",
+      "predicted_span": [
+        638,
+        655
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "758-91-6295",
+      "predicted_span": [
+        660,
+        671
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_INSURANCE_NO",
+      "field_type": "insurance_number",
+      "predicted_text": "Policy No:  AET-30261159",
+      "predicted_span": [
+        682,
+        706
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_DRIVER_LICENSE",
+      "field_type": "us_driver_license",
+      "predicted_text": "30261159",
+      "predicted_span": [
+        698,
+        706
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_EMERGENCY_CONTACT",
+      "field_type": "emergency_contact",
+      "predicted_text": "\nJordan Powell (Partner) - Phone: 6427681818\n\n",
+      "predicted_span": [
+        833,
+        879
+      ],
+      "confidence": 0.92
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Jordan Powell",
+      "predicted_span": [
+        834,
+        847
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "UK_NHS",
+      "field_type": "uk_nhs",
+      "predicted_text": "6427681818",
+      "predicted_span": [
+        867,
+        877
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "6427681818",
+      "predicted_span": [
+        867,
+        877
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Known Drug & Environmental Allergies",
+      "predicted_span": [
+        991,
+        1027
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_ALLERGIES",
+      "field_type": "allergies",
+      "predicted_text": "Aspirin (bronchospasm), Codeine (nausea).",
+      "predicted_span": [
+        1029,
+        1070
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Aspirin",
+      "predicted_span": [
+        1029,
+        1036
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Codeine",
+      "predicted_span": [
+        1053,
+        1060
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Active Prescriptions & Supplements",
+      "predicted_span": [
+        1183,
+        1217
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "Lisinopril 10mg PO daily, Atorvastatin 20mg PO at bedtime.",
+      "predicted_span": [
+        1219,
+        1277
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "MEDICAL & SURGICAL",
+      "predicted_span": [
+        1284,
+        1302
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Diagnosed Conditions & Previous Surgeries",
+      "predicted_span": [
+        1392,
+        1433
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Reflux Disease (GERD), History of Right Wrist Fracture (2020).",
+      "predicted_span": [
+        1452,
+        1514
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2020",
+      "predicted_span": [
+        1508,
+        1512
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

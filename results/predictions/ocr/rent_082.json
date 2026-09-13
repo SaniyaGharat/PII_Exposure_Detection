@@ -1,0 +1,330 @@
+{
+  "doc_id": "rent_082",
+  "document_type": "rental_agreement",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "RESIDENTIAL LEASE APPLICATION & AGREEMENT\nPROSPECTIVE TENANT IDENTIFICATION\nTenant Full Name Phone Number: Email Address National ID SSN: Marital Status: Religious Belief: Current Residence\nTracy Porter 001-436-777-4620x258 tracy.porter@yahoo.com 439-57-5269 Domestic Partnership Judaism 83281 James Circles, East Catherine, FM  85061\nEMPLOYMENT\nFINANCIAL BACKGROUND\nEmployment Status Contractor Freelancer Employer Name Mcmahon , Nguyen and Montgomery Monthly Annual Inc 58, 531.00 month Bank Account Number: ACCT-4655935832\nPREVIOUS TENANCY\nEMERGENCY  CONTACT\nRental History Previous Address 018 Robert Overpass Apt . 387 , Andrewburgh 2021 2024 Landlord Eric Davis Rent : s2261/mo Tenancy relocation Full security deposit returned: Yes Reason for Leaving: Job\nEmergency Contacc Jenni fer Mccarthy (Sibling)\nTel +1-872-425-7754*58472\nSUPPLEMENTAL TENANT DECLARATION\nMedical History: (GERD) History of Right Wrist Fracture (2020) Gastroesophageal Reflux Disease\nTENANT   ACKNOWLEDGMENT : the information stated in this rental application 18 crue declare that grant permission to verify rental history and employment and complete.",
+  "text_length": 1130,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "RESIDENTIAL LEASE APPLICATION & AGREEMENT\nPROSPECTIVE",
+      "predicted_span": [
+        0,
+        53
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tenant Full Name Phone",
+      "predicted_span": [
+        76,
+        98
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "tracy.porter@yahoo.com",
+      "predicted_span": [
+        224,
+        246
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "yahoo.com",
+      "predicted_span": [
+        237,
+        246
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "439-57-5269",
+      "predicted_span": [
+        247,
+        258
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "current_address",
+      "predicted_text": "5269 Domestic Partnership Judaism 83281 James Circles, East Catherine, FM  85061",
+      "predicted_span": [
+        254,
+        334
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Domestic Partnership",
+      "predicted_span": [
+        259,
+        279
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Judaism 83281",
+      "predicted_span": [
+        280,
+        293
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Judaism",
+      "predicted_span": [
+        280,
+        287
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "James Circles",
+      "predicted_span": [
+        294,
+        307
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "East Catherine",
+      "predicted_span": [
+        309,
+        323
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Contractor",
+      "predicted_span": [
+        385,
+        395
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Freelancer",
+      "predicted_span": [
+        396,
+        406
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Freelancer Employer Name Mcmahon",
+      "predicted_span": [
+        396,
+        428
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Nguyen",
+      "predicted_span": [
+        431,
+        437
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Montgomery Monthly Annual Inc 58",
+      "predicted_span": [
+        442,
+        474
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number: ACCT-4655935832",
+      "predicted_span": [
+        494,
+        525
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-4655935832",
+      "predicted_span": [
+        510,
+        525
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "4655935832",
+      "predicted_span": [
+        515,
+        525
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "4655935832",
+      "predicted_span": [
+        515,
+        525
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TENANCY",
+      "predicted_span": [
+        535,
+        542
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Robert Overpass Apt",
+      "predicted_span": [
+        598,
+        617
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Andrewburgh",
+      "predicted_span": [
+        626,
+        637
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        638,
+        642
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2024",
+      "predicted_span": [
+        643,
+        647
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Landlord Eric Davis",
+      "predicted_span": [
+        648,
+        667
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Sibling",
+      "predicted_span": [
+        801,
+        808
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tel +1-872-425-7754",
+      "predicted_span": [
+        810,
+        829
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "+1-872-425-7754",
+      "predicted_span": [
+        814,
+        829
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "GERD) History of Right Wrist Fracture (2020) Gastroesophageal Reflux Disease",
+      "predicted_span": [
+        886,
+        962
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Right Wrist Fracture",
+      "predicted_span": [
+        903,
+        923
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2020",
+      "predicted_span": [
+        925,
+        929
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

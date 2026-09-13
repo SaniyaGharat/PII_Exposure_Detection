@@ -1,0 +1,279 @@
+{
+  "doc_id": "med_041",
+  "document_type": "medical_intake",
+  "split": "test",
+  "is_ocr": false,
+  "text_length": 1866,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "PATIENT CLINICAL INTAKE & ADMISSION",
+      "predicted_span": [
+        101,
+        136
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "DEMOGRAPHIC",
+      "predicted_span": [
+        232,
+        243
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_DOB",
+      "field_type": "date_of_birth",
+      "predicted_text": "October 02, 1957",
+      "predicted_span": [
+        395,
+        411
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "NRP",
+      "field_type": "nrp",
+      "predicted_text": "+1-458",
+      "predicted_span": [
+        434,
+        440
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "+1-458-354-2493",
+      "predicted_span": [
+        434,
+        449
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Home Address",
+      "predicted_span": [
+        450,
+        462
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "587 David Mountains Apt. 160, South Philipshire, SC 90957",
+      "predicted_span": [
+        472,
+        529
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "South Philipshire",
+      "predicted_span": [
+        502,
+        519
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Divorced",
+      "predicted_span": [
+        552,
+        560
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Islam",
+      "predicted_span": [
+        632,
+        637
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "453-40-2698",
+      "predicted_span": [
+        660,
+        671
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_INSURANCE_NO",
+      "field_type": "insurance_number",
+      "predicted_text": "Policy No:  KSR-54629892",
+      "predicted_span": [
+        682,
+        706
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_DRIVER_LICENSE",
+      "field_type": "us_driver_license",
+      "predicted_text": "54629892",
+      "predicted_span": [
+        698,
+        706
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_EMERGENCY_CONTACT",
+      "field_type": "emergency_contact",
+      "predicted_text": "\nLisa Edwards (Spouse) - Phone: 981.679.2171\n\n",
+      "predicted_span": [
+        833,
+        879
+      ],
+      "confidence": 0.92
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Lisa Edwards",
+      "predicted_span": [
+        834,
+        846
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "981.679.2171",
+      "predicted_span": [
+        865,
+        877
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Known Drug & Environmental Allergies",
+      "predicted_span": [
+        991,
+        1027
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_ALLERGIES",
+      "field_type": "allergies",
+      "predicted_text": "Sulfa antibiotics (severe skin reaction), Latex.",
+      "predicted_span": [
+        1029,
+        1077
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "reaction), Latex.",
+      "predicted_span": [
+        1060,
+        1077
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Latex",
+      "predicted_span": [
+        1071,
+        1076
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Active Prescriptions & Supplements",
+      "predicted_span": [
+        1190,
+        1224
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "Lisinopril 10mg PO daily, Atorvastatin 20mg PO at bedtime.",
+      "predicted_span": [
+        1226,
+        1284
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "MEDICAL & SURGICAL",
+      "predicted_span": [
+        1291,
+        1309
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Diagnosed Conditions & Previous Surgeries",
+      "predicted_span": [
+        1399,
+        1440
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).",
+      "predicted_span": [
+        1458,
+        1525
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Asthma",
+      "predicted_span": [
+        1458,
+        1464
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2015",
+      "predicted_span": [
+        1519,
+        1523
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

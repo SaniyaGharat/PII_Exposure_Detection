@@ -1,0 +1,319 @@
+{
+  "doc_id": "job_063",
+  "document_type": "job_application",
+  "split": "train",
+  "is_ocr": false,
+  "text_length": 1955,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "STANDARD EMPLOYMENT APPLICATION",
+      "predicted_span": [
+        101,
+        132
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Kathy Brooks\nDate",
+      "predicted_span": [
+        370,
+        387
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_DOB",
+      "field_type": "date_of_birth",
+      "predicted_text": "July 02, 1968",
+      "predicted_span": [
+        405,
+        418
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_GENDER",
+      "field_type": "gender",
+      "predicted_text": "Female",
+      "predicted_span": [
+        441,
+        447
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Divorced",
+      "predicted_span": [
+        470,
+        478
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Judaism",
+      "predicted_span": [
+        501,
+        508
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "819-68-2166",
+      "predicted_span": [
+        531,
+        542
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "819-68-2166",
+      "predicted_span": [
+        531,
+        542
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "kathy.brooks@hotmail.com",
+      "predicted_span": [
+        565,
+        589
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "kathy.br",
+      "predicted_span": [
+        565,
+        573
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "hotmail.com",
+      "predicted_span": [
+        578,
+        589
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "3843840862",
+      "predicted_span": [
+        612,
+        622
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "3843840862",
+      "predicted_span": [
+        612,
+        622
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "39845",
+      "predicted_span": [
+        645,
+        650
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Susanmouth",
+      "predicted_span": [
+        666,
+        676
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "32378",
+      "predicted_span": [
+        681,
+        686
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Position Applied For: Product Manager\n\nEDUCATION & ACADEMIC CREDENTIALS\n--------------------------------------------------------------------------------\nHighest Degree / Major",
+      "predicted_span": [
+        785,
+        960
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "MBA - Cornell University",
+      "predicted_span": [
+        962,
+        986
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2017",
+      "predicted_span": [
+        998,
+        1002
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "PROFESSIONAL EXPERIENCE &",
+      "predicted_span": [
+        1005,
+        1030
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Product Manager",
+      "predicted_span": [
+        1147,
+        1162
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Durham",
+      "predicted_span": [
+        1183,
+        1189
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Freeman",
+      "predicted_span": [
+        1310,
+        1317
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Smith",
+      "predicted_span": [
+        1319,
+        1324
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Arnold",
+      "predicted_span": [
+        1329,
+        1335
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2017 - 2020",
+      "predicted_span": [
+        1337,
+        1348
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "SKILLS & CORE COMPETENCIES",
+      "predicted_span": [
+        1429,
+        1455
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Technical & Professional Skills",
+      "predicted_span": [
+        1537,
+        1568
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "Statistical Analysis, R, Tableau, Data Pipelines, Predictive Modeling",
+      "predicted_span": [
+        1570,
+        1639
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Tableau",
+      "predicted_span": [
+        1595,
+        1602
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Data Pipelines",
+      "predicted_span": [
+        1604,
+        1618
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

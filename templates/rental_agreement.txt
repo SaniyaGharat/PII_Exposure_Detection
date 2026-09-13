@@ -1,0 +1,39 @@
+================================================================================
+                    RESIDENTIAL LEASE APPLICATION & AGREEMENT
+================================================================================
+
+PROSPECTIVE TENANT IDENTIFICATION
+--------------------------------------------------------------------------------
+Tenant Full Name:     {{full_name}}
+Phone Number:         {{phone}}
+Email Address:        {{email}}
+National ID / SSN:    {{national_id}}
+Marital Status:       {{marital_status}}
+Religious Belief:     {{religion}}
+Current Residence:    {{current_address}}
+
+EMPLOYMENT & FINANCIAL BACKGROUND
+--------------------------------------------------------------------------------
+Employment Status:    {{employment_status}}
+Employer Name:        {{employer_name}}
+Monthly / Annual Inc: {{income}}
+Bank Account Number:  {{bank_account_number}}
+
+PREVIOUS TENANCY & EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Rental History:
+{{rental_history}}
+
+Emergency Contact:
+{{emergency_contact}}
+
+SUPPLEMENTAL TENANT DECLARATION
+--------------------------------------------------------------------------------
+Medical History:
+{{medical_history}}
+
+--------------------------------------------------------------------------------
+TENANT ACKNOWLEDGMENT:
+I declare that the information stated in this rental application is true
+and complete. I grant permission to verify rental history and employment.
+================================================================================

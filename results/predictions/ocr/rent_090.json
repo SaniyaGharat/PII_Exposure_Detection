@@ -1,0 +1,220 @@
+{
+  "doc_id": "rent_090",
+  "document_type": "rental_agreement",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "RESIDENTIAL LEASE APPLICATION 6   AGREEMENT\nPROSPECTIVE TENANT  IDENTIFICATION\nTenant Full Name Phone   Number: Email Address : National ID SSN: Marital Status: Religious Belief: Current Residence\nHeather Andrews 931-852-0499*80949 heather.andrewsChotmail.com 601-55-4087 Married Agnostic 313 Garza Spur Apt . 669, Curtisfurt, CT 19957\nEMPLOYMENT\nFINANCIAL BACKGROUND\nEmployment Status Employed Full-Time Employer Name Brown-Moore Monthly Annual Inc: S5, 692 .00 month Bank Account Number: ACCT-1981049082\nPREVIOUS  TENANCY\nEMERGENCY   CONTACT\nRental History Previous Address: 433 Kathleen Mews Apt . 389 , Brandiville Tenancy 2021 2024 Landlord: Dustin Williams Renc : s2101/mo Reason for Leaving: Job relocation Full security deposit returned: Yes Emergency Contact: Jill Smith DDS (Sibling) Tel: 326-320-3708x782\nSUPPLEMENTAL TENANT  DECLARATION\nMedical History: No significant past medical history. Non-smoker , no past surgeries\nTENANT   ACKNONLEDGMENT : declare chat the information stated in this rental application 1s and complece crue grant permission to verify rental history and employment .",
+  "text_length": 1102,
+  "predictions": [
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "931-852-0499",
+      "predicted_span": [
+        213,
+        225
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "heather.andrewsChotmail.com",
+      "predicted_span": [
+        232,
+        259
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "601-55-4087",
+      "predicted_span": [
+        260,
+        271
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "current_address",
+      "predicted_text": "4087 Married Agnostic 313 Garza Spur Apt . 669, Curtisfurt, CT 19957",
+      "predicted_span": [
+        267,
+        335
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Married",
+      "predicted_span": [
+        272,
+        279
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Agnostic",
+      "predicted_span": [
+        280,
+        288
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Employed Full-Time",
+      "predicted_span": [
+        386,
+        404
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number: ACCT-1981049082",
+      "predicted_span": [
+        474,
+        505
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-1981049082",
+      "predicted_span": [
+        490,
+        505
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "1981049082",
+      "predicted_span": [
+        495,
+        505
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TENANCY",
+      "predicted_span": [
+        516,
+        523
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Kathleen Mews Apt",
+      "predicted_span": [
+        581,
+        598
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Brandiville Tenancy",
+      "predicted_span": [
+        607,
+        626
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        627,
+        631
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2024",
+      "predicted_span": [
+        632,
+        636
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Landlord",
+      "predicted_span": [
+        637,
+        645
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Dustin Williams Renc",
+      "predicted_span": [
+        647,
+        667
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Jill Smith",
+      "predicted_span": [
+        769,
+        779
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Sibling",
+      "predicted_span": [
+        785,
+        792
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "326-320-3708x782",
+      "predicted_span": [
+        799,
+        815
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "No significant past medical history. Non-smoker , no past surgeries",
+      "predicted_span": [
+        866,
+        933
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

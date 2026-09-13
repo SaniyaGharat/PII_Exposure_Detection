@@ -1,0 +1,339 @@
+{
+  "doc_id": "job_023",
+  "document_type": "job_application",
+  "split": "train",
+  "is_ocr": false,
+  "text_length": 1981,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "STANDARD EMPLOYMENT APPLICATION",
+      "predicted_span": [
+        101,
+        132
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_DOB",
+      "field_type": "date_of_birth",
+      "predicted_text": "September 18, 2002",
+      "predicted_span": [
+        410,
+        428
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_GENDER",
+      "field_type": "gender",
+      "predicted_text": "Female",
+      "predicted_span": [
+        451,
+        457
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Divorced",
+      "predicted_span": [
+        480,
+        488
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Buddhism",
+      "predicted_span": [
+        511,
+        519
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "371-60-3144",
+      "predicted_span": [
+        542,
+        553
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "theresa.cervantes@gmail.com",
+      "predicted_span": [
+        576,
+        603
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "gmail.com",
+      "predicted_span": [
+        594,
+        603
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "9879603859",
+      "predicted_span": [
+        626,
+        636
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "9879603859",
+      "predicted_span": [
+        626,
+        636
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Home Address",
+      "predicted_span": [
+        637,
+        649
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "8247 Martinez Roads, Lake Eric, OH 02293",
+      "predicted_span": [
+        659,
+        699
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "8247",
+      "predicted_span": [
+        659,
+        663
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Martinez Roads",
+      "predicted_span": [
+        664,
+        678
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Lake Eric",
+      "predicted_span": [
+        680,
+        689
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TARGET",
+      "predicted_span": [
+        701,
+        707
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Position Applied For: Product Manager\n\nEDUCATION & ACADEMIC CREDENTIALS\n--------------------------------------------------------------------------------\nHighest Degree / Major",
+      "predicted_span": [
+        798,
+        973
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_EDUCATION",
+      "field_type": "education",
+      "predicted_text": "B.S. in Information Systems - Cornell University (Graduated 2018)",
+      "predicted_span": [
+        975,
+        1040
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "B.S.",
+      "predicted_span": [
+        975,
+        979
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Information Systems - Cornell University",
+      "predicted_span": [
+        983,
+        1023
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2018",
+      "predicted_span": [
+        1035,
+        1039
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "PROFESSIONAL EXPERIENCE &",
+      "predicted_span": [
+        1042,
+        1067
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Product Manager",
+      "predicted_span": [
+        1184,
+        1199
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Johnson",
+      "predicted_span": [
+        1203,
+        1210
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Miller",
+      "predicted_span": [
+        1212,
+        1218
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "King",
+      "predicted_span": [
+        1223,
+        1227
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Cordova Group",
+      "predicted_span": [
+        1348,
+        1361
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2019 - 2020",
+      "predicted_span": [
+        1363,
+        1374
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "SKILLS & CORE COMPETENCIES",
+      "predicted_span": [
+        1455,
+        1481
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Technical & Professional Skills",
+      "predicted_span": [
+        1563,
+        1594
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "Statistical Analysis, R, Tableau, Data Pipelines, Predictive Modeling",
+      "predicted_span": [
+        1596,
+        1665
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Tableau",
+      "predicted_span": [
+        1621,
+        1628
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Data Pipelines",
+      "predicted_span": [
+        1630,
+        1644
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

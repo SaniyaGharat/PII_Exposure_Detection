@@ -1,0 +1,299 @@
+{
+  "doc_id": "loan_053",
+  "document_type": "loan_application",
+  "split": "train",
+  "is_ocr": false,
+  "text_length": 1563,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CONSUMER CREDIT & LOAN APPLICATION",
+      "predicted_span": [
+        101,
+        135
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Andrew Mercer\nDate",
+      "predicted_span": [
+        354,
+        372
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_DOB",
+      "field_type": "date_of_birth",
+      "predicted_text": "September 26, 1967",
+      "predicted_span": [
+        390,
+        408
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Widowed",
+      "predicted_span": [
+        431,
+        438
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Prefer not to disclose",
+      "predicted_span": [
+        461,
+        483
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_GENDER",
+      "field_type": "gender",
+      "predicted_text": "Prefer not to disclose",
+      "predicted_span": [
+        461,
+        483
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "andrew.mercer@yahoo.com",
+      "predicted_span": [
+        541,
+        564
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "andrew.me",
+      "predicted_span": [
+        541,
+        550
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "yahoo.com",
+      "predicted_span": [
+        555,
+        564
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "61706 Tommy Road Apt. 366, Cynthiamouth, AS 21617",
+      "predicted_span": [
+        587,
+        636
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "61706",
+      "predicted_span": [
+        587,
+        592
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Cynthiamouth",
+      "predicted_span": [
+        614,
+        626
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Employed Part-Time",
+      "predicted_span": [
+        778,
+        796
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_ANNUAL_INCOME",
+      "field_type": "annual_income",
+      "predicted_text": "Income:  $160,000.00",
+      "predicted_span": [
+        843,
+        863
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_ANNUAL_INCOME",
+      "field_type": "annual_income",
+      "predicted_text": "$160,000.00 USD",
+      "predicted_span": [
+        852,
+        867
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number:  ACCT-6585327015",
+      "predicted_span": [
+        873,
+        905
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-6585327015",
+      "predicted_span": [
+        890,
+        905
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "6585327015",
+      "predicted_span": [
+        895,
+        905
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "6585327015",
+      "predicted_span": [
+        895,
+        905
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_CREDIT_SCORE",
+      "field_type": "credit_score",
+      "predicted_text": "Credit Score (FICO):  675",
+      "predicted_span": [
+        906,
+        931
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Credit Score",
+      "predicted_span": [
+        906,
+        918
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO",
+      "predicted_span": [
+        920,
+        924
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO Score",
+      "predicted_span": [
+        933,
+        943
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Hypothyroidism (stable on levothyroxine), Migraines with aura.",
+      "predicted_span": [
+        1082,
+        1144
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "levothyroxine), Migraines with aura.",
+      "predicted_span": [
+        1108,
+        1144
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Security Identifier:\nSHA256:",
+      "predicted_span": [
+        1146,
+        1184
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "SHA256:ffd072f0c8e83bd16de1364d (Biometric Minutiae Key)",
+      "predicted_span": [
+        1177,
+        1233
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "ffd072f0c8e83bd16de1364d",
+      "predicted_span": [
+        1184,
+        1208
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Biometric Minutiae Key",
+      "predicted_span": [
+        1210,
+        1232
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

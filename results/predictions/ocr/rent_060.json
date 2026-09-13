@@ -1,0 +1,340 @@
+{
+  "doc_id": "rent_060",
+  "document_type": "rental_agreement",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "RESIDENTIAL LEASE APPLICATION\nAGREEMENT\nPROSPECTIVE TENANT IDENTIFICATION\nTenant Full Name Phone Number: Email Address: National ID SSN : Marital Status: Religious Belief: Current Residence:\nPatty Wright 622-591-0732*28360 patty.wright@yahoo.com 648-97-8779 Domestic Partnership Buddhism 63963 Cooper Lodge, Bartlettport, KY 33141\nEMPLOYMENT\nFINANCIAL BACKGROUND\nEmployment Status Contractor Freelancer Employer Name Rodriguez-Clark Monthly Annual Inc S12,061.00 month Bank Account Number: ACCT-2283560032\nPREVIOUS  TENANCY\nEMERGENCY CONTACT\nRental History: Previous Address 970 Richard Field Suice 292 , Lake Johnton Tenancy: 2021 2024 Landlord: Stacy Mann Rent 52257 /mo Reason for Leaving Job relocation Full security deposit recurned: Yes\nEmergency Contact David Willians (Sibling)\nTel : 362-234-1903\nSUPPLEMENTAL TENANT   DECLARATION\nMedical History: Gastroesophageal Reflux Disease (GERD) History of Right Wrist Fracture (2020)\nTENANT ACKNOWLEDGMENT declare chat the information stated in this rental application 18 true and complete. grant permission to verify rental history and employment",
+  "text_length": 1097,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tenant Full Name Phone",
+      "predicted_span": [
+        74,
+        96
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Patty Wright",
+      "predicted_span": [
+        191,
+        203
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "622-591-0732",
+      "predicted_span": [
+        204,
+        216
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "28360",
+      "predicted_span": [
+        217,
+        222
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "patty.wright@yahoo.com",
+      "predicted_span": [
+        223,
+        245
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "yahoo.com",
+      "predicted_span": [
+        236,
+        245
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "648-97-8779",
+      "predicted_span": [
+        246,
+        257
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "current_address",
+      "predicted_text": "8779 Domestic Partnership Buddhism 63963 Cooper Lodge, Bartlettport, KY 33141",
+      "predicted_span": [
+        253,
+        330
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Domestic Partnership",
+      "predicted_span": [
+        258,
+        278
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Buddhism",
+      "predicted_span": [
+        279,
+        287
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "63963",
+      "predicted_span": [
+        288,
+        293
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Bartlettport",
+      "predicted_span": [
+        308,
+        320
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Contractor",
+      "predicted_span": [
+        381,
+        391
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Freelancer",
+      "predicted_span": [
+        392,
+        402
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Freelancer Employer Name Rodriguez-Clark",
+      "predicted_span": [
+        392,
+        432
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "Monthly Annual Inc S12,061.00 month",
+      "predicted_span": [
+        433,
+        468
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Bank Account",
+      "predicted_span": [
+        469,
+        481
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number: ACCT-2283560032",
+      "predicted_span": [
+        474,
+        505
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-2283560032",
+      "predicted_span": [
+        490,
+        505
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "2283560032",
+      "predicted_span": [
+        495,
+        505
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "2283560032",
+      "predicted_span": [
+        495,
+        505
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TENANCY",
+      "predicted_span": [
+        516,
+        523
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Lake Johnton Tenancy",
+      "predicted_span": [
+        605,
+        625
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        627,
+        631
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2024",
+      "predicted_span": [
+        632,
+        636
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Landlord",
+      "predicted_span": [
+        637,
+        645
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Stacy Mann Rent",
+      "predicted_span": [
+        647,
+        662
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "David Willians",
+      "predicted_span": [
+        761,
+        775
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Sibling",
+      "predicted_span": [
+        777,
+        784
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "362-234-1903",
+      "predicted_span": [
+        792,
+        804
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Reflux Disease (GERD) History of Right Wrist Fracture (2020)",
+      "predicted_span": [
+        873,
+        933
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Right Wrist Fracture",
+      "predicted_span": [
+        906,
+        926
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2020",
+      "predicted_span": [
+        928,
+        932
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "doc_id": "job_030",
+  "document_type": "job_application",
+  "split": "validation",
+  "is_ocr": true,
+  "ocr_text": "STANDARD EMPLOYMENT APPLICATION FORM\nAPPLICANT IDENTIFICATION\nCONTACT INFORMATION\nFull Name : Date of Birth: Gender Marital Status: Religious Belief: National ID SSN: Email Address: Phone Number: Home Address\nChad Chavez June 08 , 1974 Non-Binary Single Atheist 327-35-8541 chad. chavez@yahoo . com 796.240.5377*3515 17139 Brent Isle Apt. 293 , Port Kathyborough, OR 28806\nTARGET POSITION\nPosition Applied For: Product Manager\nEDUCATION\nACADEMIC CREDENTIALS\nHighest Degree Major: B. A . in Economics University of Texas ac Austin (Graduated 2012) PROEESSIONAL EXPERIENCE WORK HISTORY\nRecent Experience: Product Manager at Avery, Horton and Fernandez (2023 Present) Led cross- functional initiatives_ improving project throughput 2 . Associate by 288 _ Specialist at Newton, Moore and Perry (2017 2021 ) Managed key deliverables, analyzed system data, and aucomated workflows SKILLS CORE COMPETENCIES\nTechnical Professional Skills: Clinical Trial Management, GCP Compliance , Electronic Health Records (EHR) HIPAA\nDECLARATION : I hereby certify that the information provided in this employment application is accurate, crue, and complete co the best of my knowledge_",
+  "text_length": 1165,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "STANDARD EMPLOYMENT APPLICATION",
+      "predicted_span": [
+        0,
+        31
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "June 08 , 1974",
+      "predicted_span": [
+        221,
+        235
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Non-Binary Single",
+      "predicted_span": [
+        236,
+        253
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_GENDER",
+      "field_type": "gender",
+      "predicted_text": "Non-Binary",
+      "predicted_span": [
+        236,
+        246
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Single",
+      "predicted_span": [
+        247,
+        253
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Atheist",
+      "predicted_span": [
+        254,
+        261
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "327-35-8541",
+      "predicted_span": [
+        262,
+        273
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "796.240.5377",
+      "predicted_span": [
+        299,
+        311
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "3515 17139 Brent Isle Apt. 293 , Port Kathyborough, OR 28806",
+      "predicted_span": [
+        312,
+        372
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "17139",
+      "predicted_span": [
+        317,
+        322
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Port Kathyborough",
+      "predicted_span": [
+        345,
+        362
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Position Applied For: Product Manager\nEDUCATION\nACADEMIC CREDENTIALS\nHighest Degree Major",
+      "predicted_span": [
+        389,
+        478
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Economics University of Texas",
+      "predicted_span": [
+        490,
+        519
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Austin",
+      "predicted_span": [
+        523,
+        529
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2012",
+      "predicted_span": [
+        541,
+        545
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Product Manager",
+      "predicted_span": [
+        603,
+        618
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Avery",
+      "predicted_span": [
+        622,
+        627
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Horton",
+      "predicted_span": [
+        629,
+        635
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Fernandez",
+      "predicted_span": [
+        640,
+        649
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2023",
+      "predicted_span": [
+        651,
+        655
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Moore",
+      "predicted_span": [
+        774,
+        779
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Perry",
+      "predicted_span": [
+        784,
+        789
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2017 2021",
+      "predicted_span": [
+        791,
+        800
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "Clinical Trial Management, GCP Compliance , Electronic Health Records (EHR) HIPAA",
+      "predicted_span": [
+        931,
+        1012
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "GCP Compliance , Electronic Health Records",
+      "predicted_span": [
+        958,
+        1000
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Jamie Cantu
+Date of Birth:        May 07, 1989
+Gender:               Female
+Marital Status:       Domestic Partnership
+Religious Belief:     Judaism
+National ID / SSN:    779-23-3200
+Email Address:        jamie.cantu@gmail.com
+Phone Number:         001-376-962-7028x9517
+Home Address:         2174 Hanson Locks, Port Markside, MS 42006
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: Financial Analyst
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+M.S. in Data Analytics - University of Texas at Austin (Graduated 2012)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. Financial Analyst at Pollard and Sons (2022 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Reyes, Chase and Jenkins (2019 - 2020)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

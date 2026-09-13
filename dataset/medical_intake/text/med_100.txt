@@ -1,0 +1,41 @@
+================================================================================
+                    PATIENT CLINICAL INTAKE & ADMISSION FORM
+================================================================================
+
+PATIENT DEMOGRAPHIC INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Charles Brown
+Date of Birth:        November 12, 1970
+Phone Number:         +1-938-759-7779x014
+Home Address:         9263 Rachel Street Suite 762, South Hollyton, IA 21201
+Marital Status:       Widowed
+Occupation:           Production designer, theatre/television/film
+Religious Preference: Prefer not to disclose
+National ID / SSN:    159-81-8575
+Insurance Policy No:  AET-12921981
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Primary Emergency Contact:
+Mark Carter (Adult Child) - Phone: 737-868-1511
+
+CLINICAL & ALLERGY INFORMATION
+--------------------------------------------------------------------------------
+Known Drug & Environmental Allergies:
+Aspirin (bronchospasm), Codeine (nausea).
+
+CURRENT MEDICATIONS & DOSAGES
+--------------------------------------------------------------------------------
+Active Prescriptions & Supplements:
+Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
+
+PAST MEDICAL & SURGICAL HISTORY
+--------------------------------------------------------------------------------
+Diagnosed Conditions & Previous Surgeries:
+Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
+
+--------------------------------------------------------------------------------
+PATIENT ACKNOWLEDGMENT:
+I acknowledge that the medical information submitted above is accurate for
+the purpose of healthcare evaluation, clinical diagnosis, and safe treatment.
+================================================================================

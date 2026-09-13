@@ -1,0 +1,339 @@
+{
+  "doc_id": "job_044",
+  "document_type": "job_application",
+  "split": "train",
+  "is_ocr": false,
+  "text_length": 1970,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "STANDARD EMPLOYMENT APPLICATION",
+      "predicted_span": [
+        101,
+        132
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Elaine Williams\nDate",
+      "predicted_span": [
+        370,
+        390
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_DOB",
+      "field_type": "date_of_birth",
+      "predicted_text": "August 25, 2004",
+      "predicted_span": [
+        408,
+        423
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_GENDER",
+      "field_type": "gender",
+      "predicted_text": "Female",
+      "predicted_span": [
+        446,
+        452
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Married",
+      "predicted_span": [
+        475,
+        482
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Judaism",
+      "predicted_span": [
+        505,
+        512
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "546-72-1475",
+      "predicted_span": [
+        535,
+        546
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "546-72-1475",
+      "predicted_span": [
+        535,
+        546
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "elaine.williams@yahoo.com",
+      "predicted_span": [
+        569,
+        594
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "yahoo.com",
+      "predicted_span": [
+        585,
+        594
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "940.834.5054x1566",
+      "predicted_span": [
+        617,
+        634
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Jessica Common",
+      "predicted_span": [
+        662,
+        676
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Morrisonburgh",
+      "predicted_span": [
+        678,
+        691
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "ND 39005",
+      "predicted_span": [
+        693,
+        701
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TARGET",
+      "predicted_span": [
+        703,
+        709
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Position Applied For: Marketing Specialist\n\nEDUCATION & ACADEMIC CREDENTIALS\n--------------------------------------------------------------------------------\nHighest Degree / Major",
+      "predicted_span": [
+        800,
+        980
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_EDUCATION",
+      "field_type": "education",
+      "predicted_text": "M.S. in Data Analytics - UC San Diego (Graduated 2023)",
+      "predicted_span": [
+        982,
+        1036
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "M.S.",
+      "predicted_span": [
+        982,
+        986
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Data Analytics - UC",
+      "predicted_span": [
+        990,
+        1009
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2023",
+      "predicted_span": [
+        1031,
+        1035
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "PROFESSIONAL EXPERIENCE &",
+      "predicted_span": [
+        1038,
+        1063
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Marketing Specialist",
+      "predicted_span": [
+        1180,
+        1200
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Blackwell LLC",
+      "predicted_span": [
+        1204,
+        1217
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Robertson-Hays",
+      "predicted_span": [
+        1338,
+        1352
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2018 - 2021",
+      "predicted_span": [
+        1354,
+        1365
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "SKILLS & CORE COMPETENCIES",
+      "predicted_span": [
+        1446,
+        1472
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Technical & Professional Skills",
+      "predicted_span": [
+        1554,
+        1585
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices",
+      "predicted_span": [
+        1587,
+        1654
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "React",
+      "predicted_span": [
+        1587,
+        1592
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TypeScript",
+      "predicted_span": [
+        1594,
+        1604
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Node.js",
+      "predicted_span": [
+        1606,
+        1613
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "GraphQL",
+      "predicted_span": [
+        1615,
+        1622
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CI",
+      "predicted_span": [
+        1624,
+        1626
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

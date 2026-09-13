@@ -1,0 +1,320 @@
+{
+  "doc_id": "rent_035",
+  "document_type": "rental_agreement",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "RESIDENTIAL LEASE APPLICATION\nAGREEMENT\nPROSPECTIVE TENANT IDENTIFICATION\nTenant Full Name Phone Number Email Address: National ID SSN: Marital Scacus Religious Belief: Current Residence\nKevin Moses +1-443-937-9766 kevin moses@hotmail.com 521-80-8848 Single Islam 1157 Thomas Path, Larachester, NM 02200\nEMPLOYMENT\nFINANCIAL BACKGROUND\nEmployment Status: Self-Employed Employer Name : Sheppard Ltd Monthly Annual Inc: s8,335.00 month Bank Account Number: ACCT-2645038111\nPREVIOUS  TENANCY\nEMERGENCY CONTACT\nRental History: Previous Address: 969 Carol Pines Suite 552, Annettefort Tenancy 2021 2024 Landlord: Lynn Morgan Rent: s2421/mo for Leaving: Job relocation Full security deposit returned: Yes Reason\nEmergency Contact: Jeremy Butler (Sibling)\nTel: 753.557.4859\nSUPPLEMENTAL TENANT   DECLARATION\nMedical History: Gastroesophageal Reflux Disease (GERD) History of Right Wrist Fracture (2020)\nTENANT ACKNOWLEDGMENT declare chat che information stated in this rental application is crue and complete. I grant permission to verify rental history and employment",
+  "text_length": 1061,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tenant Full Name Phone Number Email Address",
+      "predicted_span": [
+        74,
+        117
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Marital Scacus",
+      "predicted_span": [
+        136,
+        150
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "+1-443-937-9766",
+      "predicted_span": [
+        199,
+        214
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "kevin",
+      "predicted_span": [
+        215,
+        220
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "moses@hotmail.com",
+      "predicted_span": [
+        221,
+        238
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "hotmail.com",
+      "predicted_span": [
+        227,
+        238
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "521-80-8848",
+      "predicted_span": [
+        239,
+        250
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Single",
+      "predicted_span": [
+        251,
+        257
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Islam",
+      "predicted_span": [
+        258,
+        263
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Thomas Path",
+      "predicted_span": [
+        269,
+        280
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Larachester",
+      "predicted_span": [
+        282,
+        293
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "NM 02200\nEMPLOYMENT\nFINANCIAL BACKGROUND\nEmployment Status",
+      "predicted_span": [
+        295,
+        353
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Self-Employed",
+      "predicted_span": [
+        355,
+        368
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Sheppard Ltd",
+      "predicted_span": [
+        385,
+        397
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "Monthly",
+      "predicted_span": [
+        398,
+        405
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number: ACCT-2645038111",
+      "predicted_span": [
+        439,
+        470
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-2645038111",
+      "predicted_span": [
+        455,
+        470
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "2645038111",
+      "predicted_span": [
+        460,
+        470
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TENANCY",
+      "predicted_span": [
+        481,
+        488
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Annettefort Tenancy",
+      "predicted_span": [
+        568,
+        587
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        588,
+        592
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2024",
+      "predicted_span": [
+        593,
+        597
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Landlord",
+      "predicted_span": [
+        598,
+        606
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Lynn Morgan",
+      "predicted_span": [
+        608,
+        619
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Jeremy Butler",
+      "predicted_span": [
+        725,
+        738
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Sibling",
+      "predicted_span": [
+        740,
+        747
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "753.557.4859",
+      "predicted_span": [
+        754,
+        766
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Reflux Disease (GERD) History of Right Wrist Fracture (2020)",
+      "predicted_span": [
+        835,
+        895
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Right Wrist Fracture",
+      "predicted_span": [
+        868,
+        888
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2020",
+      "predicted_span": [
+        890,
+        894
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "che",
+      "predicted_span": [
+        931,
+        934
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

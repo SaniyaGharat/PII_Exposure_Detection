@@ -1,0 +1,309 @@
+{
+  "doc_id": "loan_043",
+  "document_type": "loan_application",
+  "split": "validation",
+  "is_ocr": false,
+  "text_length": 1585,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CONSUMER CREDIT & LOAN APPLICATION",
+      "predicted_span": [
+        101,
+        135
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Justin Sanders\nDate of Birth:        ",
+      "predicted_span": [
+        354,
+        391
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_DOB",
+      "field_type": "date_of_birth",
+      "predicted_text": "December 16, 1973",
+      "predicted_span": [
+        391,
+        408
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Domestic Partnership",
+      "predicted_span": [
+        431,
+        451
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Agnostic",
+      "predicted_span": [
+        474,
+        482
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "965-221-5681x82096",
+      "predicted_span": [
+        505,
+        523
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "justin.sanders@yahoo.com",
+      "predicted_span": [
+        546,
+        570
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "justin.sa",
+      "predicted_span": [
+        546,
+        555
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "yahoo.com",
+      "predicted_span": [
+        561,
+        570
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "71133 Kayla Estates, Sethberg, MA 38622",
+      "predicted_span": [
+        593,
+        632
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "71133",
+      "predicted_span": [
+        593,
+        598
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Sethberg",
+      "predicted_span": [
+        614,
+        622
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "MA 38622",
+      "predicted_span": [
+        624,
+        632
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Employed Full-Time",
+      "predicted_span": [
+        774,
+        792
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Williams-Marquez\nGross",
+      "predicted_span": [
+        815,
+        837
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_ANNUAL_INCOME",
+      "field_type": "annual_income",
+      "predicted_text": "Income:  $95,000.00",
+      "predicted_span": [
+        845,
+        864
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_ANNUAL_INCOME",
+      "field_type": "annual_income",
+      "predicted_text": "$95,000.00 USD",
+      "predicted_span": [
+        854,
+        868
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number:  ACCT-1315708805",
+      "predicted_span": [
+        874,
+        906
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-1315708805",
+      "predicted_span": [
+        891,
+        906
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "1315708805",
+      "predicted_span": [
+        896,
+        906
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "1315708805",
+      "predicted_span": [
+        896,
+        906
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_CREDIT_SCORE",
+      "field_type": "credit_score",
+      "predicted_text": "Credit Score (FICO):  764",
+      "predicted_span": [
+        907,
+        932
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Credit Score",
+      "predicted_span": [
+        907,
+        919
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO",
+      "predicted_span": [
+        921,
+        925
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO Score",
+      "predicted_span": [
+        934,
+        944
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).",
+      "predicted_span": [
+        1099,
+        1166
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Asthma",
+      "predicted_span": [
+        1099,
+        1105
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2015",
+      "predicted_span": [
+        1160,
+        1164
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Security Identifier:\nSHA256:",
+      "predicted_span": [
+        1168,
+        1206
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "SHA256:ae7d5b77977cee9e1a68a42c (Biometric Minutiae Key)",
+      "predicted_span": [
+        1199,
+        1255
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

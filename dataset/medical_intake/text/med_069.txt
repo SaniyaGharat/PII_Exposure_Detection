@@ -1,0 +1,41 @@
+================================================================================
+                    PATIENT CLINICAL INTAKE & ADMISSION FORM
+================================================================================
+
+PATIENT DEMOGRAPHIC INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Jennifer Dalton
+Date of Birth:        September 12, 2005
+Phone Number:         836-544-2493
+Home Address:         30347 Castro Mews, Lucaston, ID 21388
+Marital Status:       Domestic Partnership
+Occupation:           Chemical engineer
+Religious Preference: Atheist
+National ID / SSN:    346-37-6781
+Insurance Policy No:  MED-16783418
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Primary Emergency Contact:
+Allen Clarke (Adult Child) - Phone: 882-707-0015x941
+
+CLINICAL & ALLERGY INFORMATION
+--------------------------------------------------------------------------------
+Known Drug & Environmental Allergies:
+Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
+
+CURRENT MEDICATIONS & DOSAGES
+--------------------------------------------------------------------------------
+Active Prescriptions & Supplements:
+Omeprazole 20mg PO daily before breakfast, Calcium + Vitamin D supplement.
+
+PAST MEDICAL & SURGICAL HISTORY
+--------------------------------------------------------------------------------
+Diagnosed Conditions & Previous Surgeries:
+Hypothyroidism (stable on levothyroxine), Migraines with aura.
+
+--------------------------------------------------------------------------------
+PATIENT ACKNOWLEDGMENT:
+I acknowledge that the medical information submitted above is accurate for
+the purpose of healthcare evaluation, clinical diagnosis, and safe treatment.
+================================================================================

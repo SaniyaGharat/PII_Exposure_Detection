@@ -1,0 +1,280 @@
+{
+  "doc_id": "job_004",
+  "document_type": "job_application",
+  "split": "test",
+  "is_ocr": true,
+  "ocr_text": "STANDARD EMPLOYMENT APPLICATION FORM\nAPPLICANT  IDENTIFICATION\nCONTACT INFORMATION\nFull Name Date of Birth: Gender: Marital Status Religious Belief: National ID SSN : Email Address Phone  Number Home   Address\nRandy Peterson November 08_ 1979 Prefer not co disclose Domestic Partnership Buddhism 821-18-1750 randy.peterson@gmail. com 914.289.3252*88095 3039 Christopher Oval Apt . 822 , Arroyoburgh, KS 69664\nTARGET POSITION\nPosition Applied For: Systems Architect\nEDUCATION\nACADEMIC CREDENTIALS\nHighest Degree Major: B . S in Computer Science\nUC San Diego (Graduated 2011)\nPROFESSIONAL EXPERIENCE\nWORK  HISTORY\nRecent Experience Systems Architect at Graham-Chavez (2023 Present) Led cross-functional initiatives, improving project throughput by 288 _ 2 . Associate Specialist at Liu, Baker and Mason (2019 2021) Managed key deliverables, analyzed system data, and automated workflows\nSKILLS\nCORE COMPETENCIES\nTechnical Professional Skills: Scatistical Analysis , R, Tableau, Data Pipelines , Predictive Modeling\nDECLARATION: I hereby certify that che information provided in this employment application is accurate, crue, and complete to che best of my knowledge .",
+  "text_length": 1165,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "STANDARD EMPLOYMENT APPLICATION",
+      "predicted_span": [
+        0,
+        31
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Randy Peterson",
+      "predicted_span": [
+        210,
+        224
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "November 08_ 1979",
+      "predicted_span": [
+        225,
+        242
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Domestic Partnership",
+      "predicted_span": [
+        266,
+        286
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Buddhism",
+      "predicted_span": [
+        287,
+        295
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "821-18-1750",
+      "predicted_span": [
+        296,
+        307
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "randy.pet",
+      "predicted_span": [
+        308,
+        317
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "914.289.3252",
+      "predicted_span": [
+        334,
+        346
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "88095 3039 Christopher Oval Apt . 822 , Arroyoburgh, KS 69664",
+      "predicted_span": [
+        347,
+        408
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "88095",
+      "predicted_span": [
+        347,
+        352
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "3039",
+      "predicted_span": [
+        353,
+        357
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Christopher Oval Apt",
+      "predicted_span": [
+        358,
+        378
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Arroyoburgh",
+      "predicted_span": [
+        387,
+        398
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "KS 69664",
+      "predicted_span": [
+        400,
+        408
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TARGET",
+      "predicted_span": [
+        409,
+        415
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Position Applied For: Systems Architect\nEDUCATION\nACADEMIC CREDENTIALS\nHighest Degree Major",
+      "predicted_span": [
+        425,
+        516
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2011",
+      "predicted_span": [
+        568,
+        572
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Systems Architect",
+      "predicted_span": [
+        630,
+        647
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2023",
+      "predicted_span": [
+        666,
+        670
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "at Liu",
+      "predicted_span": [
+        777,
+        783
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Baker",
+      "predicted_span": [
+        785,
+        790
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Mason",
+      "predicted_span": [
+        795,
+        800
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2019 2021",
+      "predicted_span": [
+        802,
+        811
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Tableau",
+      "predicted_span": [
+        967,
+        974
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Data Pipelines",
+      "predicted_span": [
+        976,
+        990
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "che",
+      "predicted_span": [
+        1048,
+        1051
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "che",
+      "predicted_span": [
+        1139,
+        1142
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

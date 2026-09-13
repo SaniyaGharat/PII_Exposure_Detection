@@ -1,0 +1,289 @@
+{
+  "doc_id": "loan_089",
+  "document_type": "loan_application",
+  "split": "validation",
+  "is_ocr": false,
+  "text_length": 1572,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CONSUMER CREDIT & LOAN APPLICATION",
+      "predicted_span": [
+        101,
+        135
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Courtney Sanchez",
+      "predicted_span": [
+        354,
+        370
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_DOB",
+      "field_type": "date_of_birth",
+      "predicted_text": "August 06, 2000",
+      "predicted_span": [
+        393,
+        408
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Married",
+      "predicted_span": [
+        431,
+        438
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Hinduism",
+      "predicted_span": [
+        461,
+        469
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "(533)247-2727x4231",
+      "predicted_span": [
+        492,
+        510
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "courtney.sanchez@yahoo.com",
+      "predicted_span": [
+        533,
+        559
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "courtney.sa",
+      "predicted_span": [
+        533,
+        544
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "yahoo.com",
+      "predicted_span": [
+        550,
+        559
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Robert Greens",
+      "predicted_span": [
+        587,
+        600
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Welchbury",
+      "predicted_span": [
+        602,
+        611
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "SC 46206\n\nFINANCIAL PROFILE & CREDITWORTHINESS\n--------------------------------------------------------------------------------\nEmployment Status",
+      "predicted_span": [
+        613,
+        758
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Employed Part-Time",
+      "predicted_span": [
+        763,
+        781
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Humphrey",
+      "predicted_span": [
+        810,
+        818
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_ANNUAL_INCOME",
+      "field_type": "annual_income",
+      "predicted_text": "Income:  $63,000.00",
+      "predicted_span": [
+        844,
+        863
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_ANNUAL_INCOME",
+      "field_type": "annual_income",
+      "predicted_text": "$63,000.00 USD",
+      "predicted_span": [
+        853,
+        867
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number:  ACCT-6981604165",
+      "predicted_span": [
+        873,
+        905
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-6981604165",
+      "predicted_span": [
+        890,
+        905
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "6981604165",
+      "predicted_span": [
+        895,
+        905
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "6981604165",
+      "predicted_span": [
+        895,
+        905
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_CREDIT_SCORE",
+      "field_type": "credit_score",
+      "predicted_text": "Credit Score (FICO):  660",
+      "predicted_span": [
+        906,
+        931
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO",
+      "predicted_span": [
+        920,
+        924
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO Score",
+      "predicted_span": [
+        933,
+        943
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.",
+      "predicted_span": [
+        1089,
+        1153
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Mellitus",
+      "predicted_span": [
+        1098,
+        1106
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Hyperlipidemia",
+      "predicted_span": [
+        1138,
+        1152
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Security Identifier:\nSHA256:",
+      "predicted_span": [
+        1155,
+        1193
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "SHA256:2cb815214786b928bdeb148f (Biometric Minutiae Key)",
+      "predicted_span": [
+        1186,
+        1242
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

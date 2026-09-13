@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Beverly Hamilton
+Date of Birth:        January 31, 1993
+Gender:               Female
+Marital Status:       Widowed
+Religious Belief:     Islam
+National ID / SSN:    193-20-2527
+Email Address:        beverly.hamilton@gmail.com
+Phone Number:         6584300335
+Home Address:         942 Madison Hills Suite 789, Ryanberg, MA 64749
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: Marketing Specialist
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+MBA - Purdue University (Graduated 2020)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. Marketing Specialist at Powell-Sanford (2022 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Smith-Ferguson (2019 - 2020)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

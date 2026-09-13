@@ -1,0 +1,41 @@
+================================================================================
+                    PATIENT CLINICAL INTAKE & ADMISSION FORM
+================================================================================
+
+PATIENT DEMOGRAPHIC INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Andrew Harris
+Date of Birth:        December 30, 1949
+Phone Number:         480.378.2357x845
+Home Address:         07681 Larry Cape, West Steventon, CT 68734
+Marital Status:       Domestic Partnership
+Occupation:           Colour technologist
+Religious Preference: Unaffiliated
+National ID / SSN:    120-59-8702
+Insurance Policy No:  MED-95318289
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Primary Emergency Contact:
+Nichole Johnson (Partner) - Phone: 001-443-653-3448x57142
+
+CLINICAL & ALLERGY INFORMATION
+--------------------------------------------------------------------------------
+Known Drug & Environmental Allergies:
+Aspirin (bronchospasm), Codeine (nausea).
+
+CURRENT MEDICATIONS & DOSAGES
+--------------------------------------------------------------------------------
+Active Prescriptions & Supplements:
+Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
+
+PAST MEDICAL & SURGICAL HISTORY
+--------------------------------------------------------------------------------
+Diagnosed Conditions & Previous Surgeries:
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
+
+--------------------------------------------------------------------------------
+PATIENT ACKNOWLEDGMENT:
+I acknowledge that the medical information submitted above is accurate for
+the purpose of healthcare evaluation, clinical diagnosis, and safe treatment.
+================================================================================

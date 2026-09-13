@@ -1,0 +1,369 @@
+{
+  "doc_id": "job_056",
+  "document_type": "job_application",
+  "split": "train",
+  "is_ocr": false,
+  "text_length": 1989,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "STANDARD EMPLOYMENT APPLICATION",
+      "predicted_span": [
+        101,
+        132
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Ronald Robertson\n",
+      "predicted_span": [
+        370,
+        387
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_DOB",
+      "field_type": "date_of_birth",
+      "predicted_text": "September 19, 1989",
+      "predicted_span": [
+        409,
+        427
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_GENDER",
+      "field_type": "gender",
+      "predicted_text": "Non-Binary",
+      "predicted_span": [
+        450,
+        460
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Non-Binary",
+      "predicted_span": [
+        450,
+        460
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Widowed",
+      "predicted_span": [
+        483,
+        490
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Judaism",
+      "predicted_span": [
+        513,
+        520
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "413-42-4777",
+      "predicted_span": [
+        543,
+        554
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "ronald.robertson@hotmail.com",
+      "predicted_span": [
+        577,
+        605
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "ronald.ro",
+      "predicted_span": [
+        577,
+        586
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "hotmail.com",
+      "predicted_span": [
+        594,
+        605
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "204.663.7454",
+      "predicted_span": [
+        628,
+        640
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Home Address",
+      "predicted_span": [
+        641,
+        653
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "301 Parker Lodge Suite 145, East Susan, NJ 20579",
+      "predicted_span": [
+        663,
+        711
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Parker Lodge Suite",
+      "predicted_span": [
+        667,
+        685
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "East Susan",
+      "predicted_span": [
+        691,
+        701
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "20579",
+      "predicted_span": [
+        706,
+        711
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TARGET",
+      "predicted_span": [
+        713,
+        719
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Position Applied For: Database Administrator\n\nEDUCATION & ACADEMIC CREDENTIALS\n--------------------------------------------------------------------------------\nHighest Degree / Major",
+      "predicted_span": [
+        810,
+        992
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_EDUCATION",
+      "field_type": "education",
+      "predicted_text": "B.S. in Information Systems - Columbia University (Graduated 2015)",
+      "predicted_span": [
+        994,
+        1060
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "B.S.",
+      "predicted_span": [
+        994,
+        998
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Information Systems - Columbia University",
+      "predicted_span": [
+        1002,
+        1043
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2015",
+      "predicted_span": [
+        1055,
+        1059
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "PROFESSIONAL EXPERIENCE &",
+      "predicted_span": [
+        1062,
+        1087
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Database Administrator",
+      "predicted_span": [
+        1204,
+        1226
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2022 - Present",
+      "predicted_span": [
+        1243,
+        1257
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Holden Group",
+      "predicted_span": [
+        1362,
+        1374
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2019 - 2021",
+      "predicted_span": [
+        1376,
+        1387
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "SKILLS & CORE COMPETENCIES",
+      "predicted_span": [
+        1468,
+        1494
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Technical & Professional Skills",
+      "predicted_span": [
+        1576,
+        1607
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture",
+      "predicted_span": [
+        1609,
+        1673
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "SQL",
+      "predicted_span": [
+        1617,
+        1620
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "PyTorch",
+      "predicted_span": [
+        1622,
+        1629
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Docker",
+      "predicted_span": [
+        1631,
+        1637
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Kubernetes",
+      "predicted_span": [
+        1639,
+        1649
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Cloud Architecture",
+      "predicted_span": [
+        1655,
+        1673
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

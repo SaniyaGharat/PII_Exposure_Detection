@@ -1,0 +1,310 @@
+{
+  "doc_id": "loan_046",
+  "document_type": "loan_application",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORROWER PERSONAL IDENTIFICATION\nApplicant Name Rachel Marshall Date of Birth: July 16 , 1966 Marital Status Widowed Religious Belief: Unaffiliated Phone Number (716) 963-6515 Email Address rachel marshall@gmail com Residential Address: 47082 Thomas Forest Suite 909, Brownstad, WY 56876 FINANCIAL PROFILE CREDITWORTHINESS\nEmp loyment Status Retired Emp- loyer Name Brown Inc Gross Annual Income s95, 000 .00 USD Bank Account Number: ACCT-7495883972 Credit Score (FICO) 700 (FICO Score 8 )\nADDITIONAL DISCLOSURES\nBACKGROUND\nMedical History: Hypertension (diagnosed 2018) Mild Osteoarthritis in right knee Biometric Security Identifier: SHA256:a6b4259806d0ae208af1881b (Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: authorize the financial institution to investigate my credit standing and employment history o evaluate credit risk and loan eligibility_",
+  "text_length": 888,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORROWER PERSONAL",
+      "predicted_span": [
+        0,
+        50
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Applicant Name Rachel Marshall Date of Birth",
+      "predicted_span": [
+        66,
+        110
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "July 16 , 1966",
+      "predicted_span": [
+        112,
+        126
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Widowed",
+      "predicted_span": [
+        142,
+        149
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Unaffiliated",
+      "predicted_span": [
+        168,
+        180
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "(716) 963-6515",
+      "predicted_span": [
+        194,
+        208
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Residential Address",
+      "predicted_span": [
+        249,
+        268
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "47082 Thomas Forest Suite 909, Brownstad, WY 56876",
+      "predicted_span": [
+        270,
+        320
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Thomas Forest Suite",
+      "predicted_span": [
+        276,
+        295
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Brownstad",
+      "predicted_span": [
+        301,
+        310
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "WY",
+      "predicted_span": [
+        312,
+        314
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Status Retired",
+      "predicted_span": [
+        368,
+        382
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Retired",
+      "predicted_span": [
+        375,
+        382
+      ],
+      "confidence": 0.88
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Name Brown Inc Gross",
+      "predicted_span": [
+        394,
+        414
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": ".00 USD Bank Account",
+      "predicted_span": [
+        438,
+        458
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number: ACCT-7495883972",
+      "predicted_span": [
+        451,
+        482
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-7495883972",
+      "predicted_span": [
+        467,
+        482
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "7495883972",
+      "predicted_span": [
+        472,
+        482
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "7495883972",
+      "predicted_span": [
+        472,
+        482
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_CREDIT_SCORE",
+      "field_type": "credit_score",
+      "predicted_text": "Credit Score (FICO) 700",
+      "predicted_span": [
+        483,
+        506
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Credit Score",
+      "predicted_span": [
+        483,
+        495
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO",
+      "predicted_span": [
+        497,
+        501
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO Score",
+      "predicted_span": [
+        508,
+        518
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Hypertension (diagnosed 2018) Mild Osteoarthritis in right knee Biometric Security Identifier: SHA256:a6b4259806d0ae208af1881b (Biometric Minutiae Key)",
+      "predicted_span": [
+        574,
+        725
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2018",
+      "predicted_span": [
+        598,
+        602
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Mild Osteoarthritis",
+      "predicted_span": [
+        604,
+        623
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Security Identifier: SHA256:",
+      "predicted_span": [
+        638,
+        676
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Biometric",
+      "predicted_span": [
+        638,
+        647
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "SHA256:a6b4259806d0ae208af1881b (Biometric Minutiae Key)",
+      "predicted_span": [
+        669,
+        725
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: authorize ",
+      "predicted_span": [
+        702,
+        761
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

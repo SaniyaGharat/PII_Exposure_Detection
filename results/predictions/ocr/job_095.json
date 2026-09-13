@@ -1,0 +1,280 @@
+{
+  "doc_id": "job_095",
+  "document_type": "job_application",
+  "split": "test",
+  "is_ocr": true,
+  "ocr_text": "STANDARD EMPLOYMENT APPLICATION FORM\nAPPLICANT IDENTIFICATION\nCONTACT INFORMATION\nFull Name Date of Birth: Gender Marital Status: Religious Belief: National ID SSN: Email Address Phone  Number Home Address\nBrandy York February 19 , 1971 Female Domestic Partnership Buddhism 729-15-9543 brandy. york@yahoo.com (934) 457-8610*357 2414 Paul Estates Apt . 333 , Denisehaven , AK 89918\nTARGET POSITION\nPosition Applied For: Account Execucive\nEDUCATION\nACADEMIC CREDENTIALS\nHighest Degree Major: B . S in Computer Science\nCarnegie Mellon University (Graduated 2017)\nPROFESSIONAL EXPERIENCE\nWORK HISTORY\nRecent Experience Account Executive at Johnson , Lee and Whitaker (2022 Present) Led cross-functional initiatives improving project chroughput by 288 Associate Specialist at Wright Group (2017 2021) Managed key deliverables analyzed system data, and automated workflows\nSKILLS\nCORE COMPETENCIES\nTechnical Professional Skills: Clinical Trial Management , GCP Compliance, Electronic Health Records (EHR) HIPAA\nDECLARATION: I hereby certify that the information provided in this employment application 1s accurate, crue, and  complete to che best of my knowledge _",
+  "text_length": 1158,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "STANDARD EMPLOYMENT APPLICATION",
+      "predicted_span": [
+        0,
+        31
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "February 19 , 1971",
+      "predicted_span": [
+        218,
+        236
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Female Domestic Partnership Buddhism",
+      "predicted_span": [
+        237,
+        273
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_GENDER",
+      "field_type": "gender",
+      "predicted_text": "Female",
+      "predicted_span": [
+        237,
+        243
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Domestic Partnership",
+      "predicted_span": [
+        244,
+        264
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Buddhism",
+      "predicted_span": [
+        265,
+        273
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "729-15-9543",
+      "predicted_span": [
+        274,
+        285
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "york@yahoo.com",
+      "predicted_span": [
+        294,
+        308
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "yahoo.com",
+      "predicted_span": [
+        299,
+        308
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "(934) 457-8610",
+      "predicted_span": [
+        309,
+        323
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "357 2414 Paul Estates Apt . 333 , Denisehaven , AK 89918",
+      "predicted_span": [
+        324,
+        380
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Paul Estates Apt",
+      "predicted_span": [
+        333,
+        349
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "AK 89918",
+      "predicted_span": [
+        372,
+        380
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Position Applied For: Account Execucive\nEDUCATION\nACADEMIC CREDENTIALS\nHighest Degree Major",
+      "predicted_span": [
+        397,
+        488
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Execucive",
+      "predicted_span": [
+        419,
+        436
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Carnegie Mellon University",
+      "predicted_span": [
+        516,
+        542
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2017",
+      "predicted_span": [
+        554,
+        558
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Account Executive",
+      "predicted_span": [
+        615,
+        632
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Executive",
+      "predicted_span": [
+        615,
+        632
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Johnson",
+      "predicted_span": [
+        636,
+        643
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Lee",
+      "predicted_span": [
+        646,
+        649
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Whitaker",
+      "predicted_span": [
+        654,
+        662
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Wright Group",
+      "predicted_span": [
+        771,
+        783
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2017 2021",
+      "predicted_span": [
+        785,
+        794
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "Clinical Trial Management , GCP Compliance, Electronic Health Records (EHR) HIPAA",
+      "predicted_span": [
+        923,
+        1004
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "GCP Compliance, Electronic Health Records",
+      "predicted_span": [
+        951,
+        992
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "che",
+      "predicted_span": [
+        1132,
+        1135
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

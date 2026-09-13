@@ -1,0 +1,329 @@
+{
+  "doc_id": "rent_030",
+  "document_type": "rental_agreement",
+  "split": "train",
+  "is_ocr": false,
+  "text_length": 1847,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "RESIDENTIAL LEASE APPLICATION & AGREEMENT",
+      "predicted_span": [
+        101,
+        142
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Robert Quinn",
+      "predicted_span": [
+        362,
+        374
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "567.555.5628x333",
+      "predicted_span": [
+        397,
+        413
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "robert.quinn@hotmail.com",
+      "predicted_span": [
+        436,
+        460
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "hotmail.com",
+      "predicted_span": [
+        449,
+        460
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "National ID / SSN",
+      "predicted_span": [
+        461,
+        478
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "573-23-3290",
+      "predicted_span": [
+        483,
+        494
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Single",
+      "predicted_span": [
+        517,
+        523
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Christianity",
+      "predicted_span": [
+        546,
+        558
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "current_address",
+      "predicted_text": "8654 Philip Mountains Apt. 874, Williamsborough, MA 72812",
+      "predicted_span": [
+        581,
+        638
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Philip Mountains Apt",
+      "predicted_span": [
+        586,
+        606
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Williamsborough",
+      "predicted_span": [
+        613,
+        628
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "MA 72812\n\nEMPLOYMENT & FINANCIAL BACKGROUND\n--------------------------------------------------------------------------------\n",
+      "predicted_span": [
+        630,
+        755
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Employed Full-Time",
+      "predicted_span": [
+        777,
+        795
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_ANNUAL_INCOME",
+      "field_type": "income",
+      "predicted_text": "$7,593.00 / month",
+      "predicted_span": [
+        857,
+        874
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "/ month",
+      "predicted_span": [
+        867,
+        874
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Bank Account",
+      "predicted_span": [
+        875,
+        887
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number:  ACCT-5220094152",
+      "predicted_span": [
+        880,
+        912
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-5220094152",
+      "predicted_span": [
+        897,
+        912
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "5220094152",
+      "predicted_span": [
+        902,
+        912
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Rental History",
+      "predicted_span": [
+        1032,
+        1046
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RENTAL_HISTORY",
+      "field_type": "rental_history",
+      "predicted_text": "Previous Address: 70369 Joshua Summit Apt. 693, South Leslie\nTenancy: 2021 - 2024 | Landlord: Mary Giles | Rent: $1593/mo\nReason for Leaving: Job relocation | Full security deposit returned: Yes",
+      "predicted_span": [
+        1048,
+        1242
+      ],
+      "confidence": 0.92
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Previous Address",
+      "predicted_span": [
+        1048,
+        1064
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "NRP",
+      "field_type": "nrp",
+      "predicted_text": "South Leslie",
+      "predicted_span": [
+        1096,
+        1108
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021 - 2024",
+      "predicted_span": [
+        1118,
+        1129
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Landlord",
+      "predicted_span": [
+        1132,
+        1140
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Mary Giles",
+      "predicted_span": [
+        1142,
+        1152
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMERGENCY_CONTACT",
+      "field_type": "emergency_contact",
+      "predicted_text": "\nOscar Farmer (Sibling) - Tel: 359.798.0111",
+      "predicted_span": [
+        1262,
+        1305
+      ],
+      "confidence": 0.92
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Oscar Farmer",
+      "predicted_span": [
+        1263,
+        1275
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.",
+      "predicted_span": [
+        1449,
+        1513
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Mellitus",
+      "predicted_span": [
+        1458,
+        1466
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Hyperlipidemia",
+      "predicted_span": [
+        1498,
+        1512
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

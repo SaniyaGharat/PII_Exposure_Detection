@@ -1,0 +1,270 @@
+{
+  "doc_id": "job_089",
+  "document_type": "job_application",
+  "split": "validation",
+  "is_ocr": true,
+  "ocr_text": "STANDARD EMPLOYMENT APPLICATION FORM\nAPPLICANT IDENTIFICATION\nCONTACT INFORMATION\nFull Name Date of Birch Gender Marical Scatus Religious Belief: National ID SSN: Email Address Phone Number Home Address\nMeagan Daniel February 28 , 1985 Female Widowed Atheist 479-95-9850 meagan .danielChotmail _ com 800-767-6267 79327 Lauren Bypass Suice 054 , Norch Matthewfurt, GA 96443\nTARGET  POSITION\nPosition Applied For: Senior Software Engineer\nEDUCATION &  ACADEMIC CREDENTIALS\nHighest Degree Major: M.S in Daca Analytics Carnegie Mellon University (Graduated 2011)\nPROFESSIONAL EXPERIENCE\nWORK HISTORY\nRecenc Experience 1 . Senior Software Engineer at Griffin-Baker (2021 Present) Led cross-functional initiatives, improving project throughput by 288 . 2 . Associate Specialist at Steele LLC (2018 2020) Managed key deliverables, analyzed system data, and automated workflows .\nSKILLS\nCORE COMPETENCIES\nTechnical Professional Skills: React , TypeScript , Node. js, GraphQL, CI/CD Pipelines, Microservices\nDECLARATION : I hereby certify that the information provided in this employment application is accurate, true, and complete co the best of my knowledge",
+  "text_length": 1150,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "STANDARD EMPLOYMENT APPLICATION",
+      "predicted_span": [
+        0,
+        31
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Birch Gender Marical Scatus Religious Belief: National ID SSN",
+      "predicted_span": [
+        100,
+        161
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "February 28 , 1985",
+      "predicted_span": [
+        217,
+        235
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_GENDER",
+      "field_type": "gender",
+      "predicted_text": "Female",
+      "predicted_span": [
+        236,
+        242
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Widowed",
+      "predicted_span": [
+        243,
+        250
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Atheist",
+      "predicted_span": [
+        251,
+        258
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "479-95-9850",
+      "predicted_span": [
+        259,
+        270
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "800-767-6267",
+      "predicted_span": [
+        300,
+        312
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Lauren Bypass Suice 054",
+      "predicted_span": [
+        319,
+        342
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Norch Matthewfurt",
+      "predicted_span": [
+        345,
+        362
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TARGET",
+      "predicted_span": [
+        373,
+        379
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Position Applied For: Senior Software Engineer\nEDUCATION &  ACADEMIC CREDENTIALS\nHighest Degree Major",
+      "predicted_span": [
+        390,
+        491
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Daca Analytics Carnegie Mellon University",
+      "predicted_span": [
+        500,
+        541
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2011",
+      "predicted_span": [
+        553,
+        557
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Recenc",
+      "predicted_span": [
+        596,
+        602
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Senior Software Engineer",
+      "predicted_span": [
+        618,
+        642
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Griffin-Baker",
+      "predicted_span": [
+        646,
+        659
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        661,
+        665
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "LLC",
+      "predicted_span": [
+        782,
+        785
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2018 2020",
+      "predicted_span": [
+        787,
+        796
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "React , TypeScript , Node. js, GraphQL, CI/CD Pipelines, Microservices",
+      "predicted_span": [
+        928,
+        998
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TypeScript",
+      "predicted_span": [
+        936,
+        946
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Node",
+      "predicted_span": [
+        949,
+        953
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "js",
+      "predicted_span": [
+        955,
+        957
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "GraphQL",
+      "predicted_span": [
+        959,
+        966
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CI",
+      "predicted_span": [
+        968,
+        970
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

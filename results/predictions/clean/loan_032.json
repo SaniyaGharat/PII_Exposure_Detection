@@ -1,0 +1,319 @@
+{
+  "doc_id": "loan_032",
+  "document_type": "loan_application",
+  "split": "test",
+  "is_ocr": false,
+  "text_length": 1571,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CONSUMER CREDIT & LOAN APPLICATION",
+      "predicted_span": [
+        101,
+        135
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tammy Roberts\nDate",
+      "predicted_span": [
+        354,
+        372
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_DOB",
+      "field_type": "date_of_birth",
+      "predicted_text": "March 24, 1999",
+      "predicted_span": [
+        390,
+        404
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Marital Status",
+      "predicted_span": [
+        405,
+        419
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Divorced",
+      "predicted_span": [
+        427,
+        435
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Judaism",
+      "predicted_span": [
+        458,
+        465
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "8368788127",
+      "predicted_span": [
+        488,
+        498
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "tammy.roberts@yahoo.com",
+      "predicted_span": [
+        521,
+        544
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "tammy.ro",
+      "predicted_span": [
+        521,
+        529
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "yahoo.com",
+      "predicted_span": [
+        535,
+        544
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "20293 Natasha Turnpike Suite 884, Melissaport, VT 35695",
+      "predicted_span": [
+        567,
+        622
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "20293",
+      "predicted_span": [
+        567,
+        572
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Natasha",
+      "predicted_span": [
+        573,
+        580
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Melissaport",
+      "predicted_span": [
+        601,
+        612
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "VT 35695\n\nFINANCIAL PROFILE & CREDITWORTHINESS\n--------------------------------------------------------------------------------\nEmployment Status",
+      "predicted_span": [
+        614,
+        759
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Contractor / Freelancer",
+      "predicted_span": [
+        764,
+        787
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "Annual",
+      "predicted_span": [
+        827,
+        833
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_ANNUAL_INCOME",
+      "field_type": "annual_income",
+      "predicted_text": "Income:  $182,000.00",
+      "predicted_span": [
+        834,
+        854
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_ANNUAL_INCOME",
+      "field_type": "annual_income",
+      "predicted_text": "$182,000.00 USD",
+      "predicted_span": [
+        843,
+        858
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number:  ACCT-5634352383",
+      "predicted_span": [
+        864,
+        896
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-5634352383",
+      "predicted_span": [
+        881,
+        896
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "5634352383",
+      "predicted_span": [
+        886,
+        896
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "5634352383",
+      "predicted_span": [
+        886,
+        896
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_CREDIT_SCORE",
+      "field_type": "credit_score",
+      "predicted_text": "Credit Score (FICO):  654",
+      "predicted_span": [
+        897,
+        922
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Credit Score",
+      "predicted_span": [
+        897,
+        909
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO",
+      "predicted_span": [
+        911,
+        915
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO Score",
+      "predicted_span": [
+        924,
+        934
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Reflux Disease (GERD), History of Right Wrist Fracture (2020).",
+      "predicted_span": [
+        1090,
+        1152
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2020",
+      "predicted_span": [
+        1146,
+        1150
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Security Identifier:\nSHA256:",
+      "predicted_span": [
+        1154,
+        1192
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "SHA256:fbde225a50f5c1778cb08725 (Biometric Minutiae Key)",
+      "predicted_span": [
+        1185,
+        1241
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+    "document_id": "job_006",
+    "document_type": "job_application",
+    "document_purpose": "To evaluate a candidate's qualifications, skills, education, and professional experience for potential employment.",
+    "fields": [
+        {
+            "field_type": "full_name",
+            "field_name": "Full Name",
+            "field_value": "Kenneth Sanchez",
+            "necessity_label": "necessary",
+            "reason": "Required to unambiguously identify the candidate, manage application tracking, and conduct hiring correspondence.",
+            "span": {
+                "start": 370,
+                "end": 385
+            }
+        },
+        {
+            "field_type": "date_of_birth",
+            "field_name": "Date of Birth",
+            "field_value": "July 09, 1996",
+            "necessity_label": "unnecessary",
+            "reason": "Date of birth is generally not required for evaluating qualifications during initial employment screening and may create discrimination concerns.",
+            "span": {
+                "start": 408,
+                "end": 421
+            }
+        },
+        {
+            "field_type": "gender",
+            "field_name": "Gender",
+            "field_value": "Non-Binary",
+            "necessity_label": "contextual",
+            "reason": "Gender is not required for qualification evaluation, though occasionally collected under optional equal employment opportunity (EEO) demographic monitoring.",
+            "span": {
+                "start": 444,
+                "end": 454
+            }
+        },
+        {
+            "field_type": "marital_status",
+            "field_name": "Marital Status",
+            "field_value": "Widowed",
+            "necessity_label": "unnecessary",
+            "reason": "Marital status is irrelevant to assessing job competence and creates potential exposure to marital status or gender discrimination.",
+            "span": {
+                "start": 477,
+                "end": 484
+            }
+        },
+        {
+            "field_type": "religion",
+            "field_name": "Religion",
+            "field_value": "Agnostic",
+            "necessity_label": "unnecessary",
+            "reason": "Religious beliefs are completely irrelevant to job performance and introduce unlawful bias risks under employment regulations.",
+            "span": {
+                "start": 507,
+                "end": 515
+            }
+        },
+        {
+            "field_type": "national_id",
+            "field_name": "National ID / SSN",
+            "field_value": "376-91-4598",
+            "necessity_label": "unnecessary",
+            "reason": "Government national identification numbers are unnecessary at initial screening and introduce high identity theft exposure.",
+            "span": {
+                "start": 538,
+                "end": 549
+            }
+        },
+        {
+            "field_type": "email",
+            "field_name": "Email Address",
+            "field_value": "kenneth.sanchez@yahoo.com",
+            "necessity_label": "necessary",
+            "reason": "Required as a primary electronic communication channel for interview scheduling and official employment notifications.",
+            "span": {
+                "start": 572,
+                "end": 597
+            }
+        },
+        {
+            "field_type": "phone",
+            "field_name": "Phone Number",
+            "field_value": "(870)410-6513x33872",
+            "necessity_label": "necessary",
+            "reason": "Required for direct contact, telephone screening sessions, and urgent recruitment updates.",
+            "span": {
+                "start": 620,
+                "end": 639
+            }
+        },
+        {
+            "field_type": "home_address",
+            "field_name": "Home Address",
+            "field_value": "17810 Tanya Terrace Apt. 267, Lewisfurt, MH 08186",
+            "necessity_label": "contextual",
+            "reason": "Full street address is unnecessary for initial screening (city/region suffices), but may be required for local payroll tax jurisdictions or commute assessment.",
+            "span": {
+                "start": 662,
+                "end": 711
+            }
+        },
+        {
+            "field_type": "job_title",
+            "field_name": "Position Applied For",
+            "field_value": "Account Executive",
+            "necessity_label": "necessary",
+            "reason": "Specifies the target role against which candidate qualifications and criteria are evaluated.",
+            "span": {
+                "start": 832,
+                "end": 849
+            }
+        },
+        {
+            "field_type": "education",
+            "field_name": "Education",
+            "field_value": "B.S. in Computer Science - Cornell University (Graduated 2020)",
+            "necessity_label": "necessary",
+            "reason": "Essential for verifying required academic degrees, institutional background, and formal qualifications.",
+            "span": {
+                "start": 989,
+                "end": 1051
+            }
+        },
+        {
+            "field_type": "work_history",
+            "field_name": "Work History",
+            "field_value": "1. Account Executive at Aguirre-Lee (2021 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Hopkins LLC (2018 - 2020)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
+            "necessity_label": "necessary",
+            "reason": "Essential for evaluating candidate's prior professional experience, relevant responsibilities, and career trajectory.",
+            "span": {
+                "start": 1192,
+                "end": 1451
+            }
+        },
+        {
+            "field_type": "skills",
+            "field_name": "Skills & Competencies",
+            "field_value": "Statistical Analysis, R, Tableau, Data Pipelines, Predictive Modeling",
+            "necessity_label": "necessary",
+            "reason": "Directly reflects technical, operational, and domain competencies required for job performance.",
+            "span": {
+                "start": 1594,
+                "end": 1663
+            }
+        }
+    ]
+}

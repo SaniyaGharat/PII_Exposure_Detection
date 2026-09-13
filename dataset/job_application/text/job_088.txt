@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            George Morris
+Date of Birth:        December 23, 1991
+Gender:               Male
+Marital Status:       Widowed
+Religious Belief:     Judaism
+National ID / SSN:    764-62-2911
+Email Address:        george.morris@gmail.com
+Phone Number:         892.264.4220
+Home Address:         391 Taylor Summit Apt. 355, Lake Nicole, CO 93426
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: Database Administrator
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+B.S. in Computer Science - Cornell University (Graduated 2018)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. Database Administrator at Oconnor Group (2022 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Yu, Banks and Thompson (2018 - 2020)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+Financial Modeling, Risk Analysis, Bloomberg Terminal, Advanced Excel, CFA Level II
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

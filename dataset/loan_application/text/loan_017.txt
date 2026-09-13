@@ -1,0 +1,35 @@
+================================================================================
+                    CONSUMER CREDIT & LOAN APPLICATION
+================================================================================
+
+BORROWER PERSONAL IDENTIFICATION
+--------------------------------------------------------------------------------
+Applicant Name:       Betty Trujillo
+Date of Birth:        May 22, 1981
+Marital Status:       Domestic Partnership
+Religious Belief:     Prefer not to disclose
+Phone Number:         729.327.7423x330
+Email Address:        betty.trujillo@hotmail.com
+Residential Address:  6201 Mccann Fall, North Tinamouth, OR 57362
+
+FINANCIAL PROFILE & CREDITWORTHINESS
+--------------------------------------------------------------------------------
+Employment Status:    Employed Full-Time
+Employer Name:        Sharp, Sanchez and Wilson
+Gross Annual Income:  $116,000.00 USD
+Bank Account Number:  ACCT-4752171298
+Credit Score (FICO):  686 (FICO Score 8)
+
+ADDITIONAL DISCLOSURES & BACKGROUND
+--------------------------------------------------------------------------------
+Medical History:
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
+
+Biometric Security Identifier:
+SHA256:d39cf1302b33c340b3e92e4d (Biometric Minutiae Key)
+
+--------------------------------------------------------------------------------
+APPLICANT AUTHORIZATION:
+I authorize the financial institution to investigate my credit standing and
+employment history to evaluate credit risk and loan eligibility.
+================================================================================

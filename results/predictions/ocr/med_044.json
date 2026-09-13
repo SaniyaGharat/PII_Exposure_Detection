@@ -1,0 +1,220 @@
+{
+  "doc_id": "med_044",
+  "document_type": "medical_intake",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "PATIENT CLINICAL INTAKE 6 ADMISSION  FORM\nPATIENT DEMOGRAPHIC INFORMATION\nFull Name Sharon Young Date of Birch: June 25 , 1991 Phone Number 001-465-966-6683 Home Address 86562 Bright Skyway, East Alexander , SD 02559 Marital Scatus Widowed Occupation Sub Religious Preference Judaism Nacional ID SSN: 137-92-4131 Insurance Policy No AET-57912262\nEMERGENCY CONTACT\nPrimary Emergency Contact Stephen Barrett (Partner)\nPhone\n(912) 867-9692\nCLINICAL & ALLERGY INFORMATION\nKnown Drug Environmental Allergies Penicillin (rash, hives) Shellfish (mild itching)\nCURRENT MEDICATIONS\nDOSAGES\nActive Prescriptions Supplements: None reported Over-che-counter multivitamins only.\nPAST MEDICAL\nSURGICAL HISTORY\nDiagnosed Conditions Previous Surgeries: Mild persistent Asthma , seasonal allergic rhinitis, History of Appendectomy (2015)\nPATIENT   ACKNOWLEDGMENT : acknowledge that che medical information submitted above is accurate for che purpose of healthcare evaluation, clinical diagnosis, and safe treatment.",
+  "text_length": 998,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "PATIENT CLINICAL",
+      "predicted_span": [
+        0,
+        16
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "June 25 , 1991",
+      "predicted_span": [
+        112,
+        126
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "6683 Home Address 86562 Bright Skyway, East Alexander , SD 02559",
+      "predicted_span": [
+        152,
+        216
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "East Alexander",
+      "predicted_span": [
+        191,
+        205
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "02559",
+      "predicted_span": [
+        211,
+        216
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Widowed",
+      "predicted_span": [
+        232,
+        239
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Judaism",
+      "predicted_span": [
+        276,
+        283
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "137-92-4131",
+      "predicted_span": [
+        301,
+        312
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_INSURANCE_NO",
+      "field_type": "insurance_number",
+      "predicted_text": "Policy No AET-57912262",
+      "predicted_span": [
+        323,
+        345
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_DRIVER_LICENSE",
+      "field_type": "us_driver_license",
+      "predicted_text": "57912262",
+      "predicted_span": [
+        337,
+        345
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Stephen Barrett",
+      "predicted_span": [
+        390,
+        405
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "(912) 867-9692",
+      "predicted_span": [
+        422,
+        436
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CLINICAL & ALLERGY",
+      "predicted_span": [
+        437,
+        455
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_ALLERGIES",
+      "field_type": "allergies",
+      "predicted_text": "Penicillin (rash, hives) Shellfish (mild itching)",
+      "predicted_span": [
+        503,
+        552
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "None reported Over-che-counter multivitamins only.",
+      "predicted_span": [
+        615,
+        665
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Asthma , seasonal allergic rhinitis, History of Appendectomy (2015)",
+      "predicted_span": [
+        753,
+        820
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Asthma",
+      "predicted_span": [
+        753,
+        759
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2015",
+      "predicted_span": [
+        815,
+        819
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "PATIENT",
+      "predicted_span": [
+        821,
+        828
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "che medical",
+      "predicted_span": [
+        865,
+        876
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "che",
+      "predicted_span": [
+        921,
+        924
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

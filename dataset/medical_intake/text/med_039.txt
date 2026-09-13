@@ -1,0 +1,41 @@
+================================================================================
+                    PATIENT CLINICAL INTAKE & ADMISSION FORM
+================================================================================
+
+PATIENT DEMOGRAPHIC INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Tammy Mendoza
+Date of Birth:        December 26, 1975
+Phone Number:         2276278576
+Home Address:         803 Marsh Underpass Suite 124, West Tonyaside, MP 22254
+Marital Status:       Married
+Occupation:           Clinical research associate
+Religious Preference: Prefer not to disclose
+National ID / SSN:    526-33-2402
+Insurance Policy No:  KSR-58399417
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Primary Emergency Contact:
+Jean Larson (Sibling) - Phone: 001-645-404-6173x57438
+
+CLINICAL & ALLERGY INFORMATION
+--------------------------------------------------------------------------------
+Known Drug & Environmental Allergies:
+Penicillin (rash, hives), Shellfish (mild itching).
+
+CURRENT MEDICATIONS & DOSAGES
+--------------------------------------------------------------------------------
+Active Prescriptions & Supplements:
+Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.
+
+PAST MEDICAL & SURGICAL HISTORY
+--------------------------------------------------------------------------------
+Diagnosed Conditions & Previous Surgeries:
+Hypothyroidism (stable on levothyroxine), Migraines with aura.
+
+--------------------------------------------------------------------------------
+PATIENT ACKNOWLEDGMENT:
+I acknowledge that the medical information submitted above is accurate for
+the purpose of healthcare evaluation, clinical diagnosis, and safe treatment.
+================================================================================

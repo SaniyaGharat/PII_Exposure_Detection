@@ -1,0 +1,359 @@
+{
+  "doc_id": "job_098",
+  "document_type": "job_application",
+  "split": "validation",
+  "is_ocr": false,
+  "text_length": 1991,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "STANDARD EMPLOYMENT APPLICATION",
+      "predicted_span": [
+        101,
+        132
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Jacob Richards",
+      "predicted_span": [
+        370,
+        384
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_DOB",
+      "field_type": "date_of_birth",
+      "predicted_text": "December 07, 1980",
+      "predicted_span": [
+        407,
+        424
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_GENDER",
+      "field_type": "gender",
+      "predicted_text": "Prefer not to disclose",
+      "predicted_span": [
+        447,
+        469
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Prefer not to disclose",
+      "predicted_span": [
+        447,
+        469
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Married",
+      "predicted_span": [
+        492,
+        499
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Agnostic",
+      "predicted_span": [
+        522,
+        530
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "447-68-7532",
+      "predicted_span": [
+        553,
+        564
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "jacob.richards@hotmail.com",
+      "predicted_span": [
+        587,
+        613
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "hotmail.com",
+      "predicted_span": [
+        602,
+        613
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "416.784.6022x35697",
+      "predicted_span": [
+        636,
+        654
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "75250 Shannon Fords, New Kathy, NM 12040",
+      "predicted_span": [
+        677,
+        717
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Shannon Fords",
+      "predicted_span": [
+        683,
+        696
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "New Kathy",
+      "predicted_span": [
+        698,
+        707
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "NM 12040",
+      "predicted_span": [
+        709,
+        717
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TARGET",
+      "predicted_span": [
+        719,
+        725
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Position Applied For: Data Scientist\n\nEDUCATION & ACADEMIC CREDENTIALS\n--------------------------------------------------------------------------------\nHighest Degree / Major",
+      "predicted_span": [
+        816,
+        990
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_EDUCATION",
+      "field_type": "education",
+      "predicted_text": "B.S. in Computer Science - Columbia University (Graduated 2021)",
+      "predicted_span": [
+        992,
+        1055
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "B.S.",
+      "predicted_span": [
+        992,
+        996
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Computer Science - Columbia University",
+      "predicted_span": [
+        1000,
+        1038
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        1050,
+        1054
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "PROFESSIONAL EXPERIENCE &",
+      "predicted_span": [
+        1057,
+        1082
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Data Scientist",
+      "predicted_span": [
+        1199,
+        1213
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Data Scientist",
+      "predicted_span": [
+        1199,
+        1213
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Blackburn",
+      "predicted_span": [
+        1354,
+        1363
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Jones",
+      "predicted_span": [
+        1368,
+        1373
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2020 - 2021",
+      "predicted_span": [
+        1375,
+        1386
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "SKILLS & CORE COMPETENCIES",
+      "predicted_span": [
+        1467,
+        1493
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Technical & Professional Skills",
+      "predicted_span": [
+        1575,
+        1606
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices",
+      "predicted_span": [
+        1608,
+        1675
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "React",
+      "predicted_span": [
+        1608,
+        1613
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TypeScript",
+      "predicted_span": [
+        1615,
+        1625
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Node.js",
+      "predicted_span": [
+        1627,
+        1634
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "GraphQL",
+      "predicted_span": [
+        1636,
+        1643
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CI",
+      "predicted_span": [
+        1645,
+        1647
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

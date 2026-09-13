@@ -1,0 +1,379 @@
+{
+  "doc_id": "rent_040",
+  "document_type": "rental_agreement",
+  "split": "train",
+  "is_ocr": false,
+  "text_length": 1828,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "RESIDENTIAL LEASE APPLICATION & AGREEMENT",
+      "predicted_span": [
+        101,
+        142
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Kevin Baker",
+      "predicted_span": [
+        362,
+        373
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "910.672.0113",
+      "predicted_span": [
+        396,
+        408
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "kevin.baker@yahoo.com",
+      "predicted_span": [
+        431,
+        452
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "kevin.ba",
+      "predicted_span": [
+        431,
+        439
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "yahoo.com",
+      "predicted_span": [
+        443,
+        452
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "National ID / SSN",
+      "predicted_span": [
+        453,
+        470
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "855-99-6878",
+      "predicted_span": [
+        475,
+        486
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Domestic Partnership",
+      "predicted_span": [
+        509,
+        529
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Christianity",
+      "predicted_span": [
+        552,
+        564
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Jason Locks",
+      "predicted_span": [
+        591,
+        602
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Johnsonfort",
+      "predicted_span": [
+        604,
+        615
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "NE 61541\n\nEMPLOYMENT & FINANCIAL BACKGROUND\n--------------------------------------------------------------------------------\nEmployment Status",
+      "predicted_span": [
+        617,
+        759
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Self-Employed",
+      "predicted_span": [
+        764,
+        777
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Hopkins",
+      "predicted_span": [
+        808,
+        815
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Watson",
+      "predicted_span": [
+        820,
+        826
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_ANNUAL_INCOME",
+      "field_type": "income",
+      "predicted_text": "$8,710.00 / month",
+      "predicted_span": [
+        849,
+        866
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "/ month",
+      "predicted_span": [
+        859,
+        866
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Bank Account",
+      "predicted_span": [
+        867,
+        879
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number:  ACCT-3420671425",
+      "predicted_span": [
+        872,
+        904
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-3420671425",
+      "predicted_span": [
+        889,
+        904
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "3420671425",
+      "predicted_span": [
+        894,
+        904
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "3420671425",
+      "predicted_span": [
+        894,
+        904
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Rental History",
+      "predicted_span": [
+        1024,
+        1038
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RENTAL_HISTORY",
+      "field_type": "rental_history",
+      "predicted_text": "Previous Address: 144 Harris Grove, Lake Josephborough\nTenancy: 2021 - 2024 | Landlord: William Ray | Rent: $3051/mo\nReason for Leaving: Job relocation | Full security deposit returned: Yes",
+      "predicted_span": [
+        1040,
+        1229
+      ],
+      "confidence": 0.92
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Previous Address",
+      "predicted_span": [
+        1040,
+        1056
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Lake Josephborough",
+      "predicted_span": [
+        1076,
+        1094
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021 - 2024",
+      "predicted_span": [
+        1104,
+        1115
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Landlord",
+      "predicted_span": [
+        1118,
+        1126
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "William Ray",
+      "predicted_span": [
+        1128,
+        1139
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMERGENCY_CONTACT",
+      "field_type": "emergency_contact",
+      "predicted_text": "\nJerome Smith (Sibling) - Tel: +1-909-968-7304",
+      "predicted_span": [
+        1249,
+        1295
+      ],
+      "confidence": 0.92
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Jerome Smith",
+      "predicted_span": [
+        1250,
+        1262
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Sibling",
+      "predicted_span": [
+        1264,
+        1271
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "NRP",
+      "field_type": "nrp",
+      "predicted_text": "+1-909",
+      "predicted_span": [
+        1280,
+        1286
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "+1-909-968-7304x5195",
+      "predicted_span": [
+        1280,
+        1300
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Hypothyroidism (stable on levothyroxine), Migraines with aura.",
+      "predicted_span": [
+        1432,
+        1494
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "levothyroxine), Migraines with aura.",
+      "predicted_span": [
+        1458,
+        1494
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

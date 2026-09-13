@@ -1,0 +1,260 @@
+{
+  "doc_id": "rent_030",
+  "document_type": "rental_agreement",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "RESIDENTIAL LEASE APPLICATION AGREEMENT\nPROSPECTIVE TENANT IDENTIFICATION Tenant Full Name Robert Quinn Phone Number 567.555.5628*333 Email Address robert.quinnGhotmail _ com National ID SSN: 573-23-3290 Marital Scatus: Single Religious Belief: Christianity 874, Williamsborough, MA 72812 Residence 8654 Philip Mountains Apt . Current\nEMPLOYMENT 6   FINANCIAL BACKGROUND\nEmployment Status Employed Full-Time Employer Name Harris-Hernandez Monthly Annual Inc: 87,593.00 month Bank Account Number: ACCT-5220094152\nPREVIOUS TENANCY\nEMERGENCY CONTACT\nRental History: 70369 Joshua Summit Apt . 693 , South Leslie Previous Address 2024 Landlord: Mary Giles Rent : 81593 /mo Tenancy 2021 Job relocation Full security deposit returned: Yes Reason for Leaving:\nEmergency Contact: Oscar Farmer (Sibling)\nTel: 359.798.0111*0005\nSUPPLEMENTAL TENANI  DECLARATION\nMedical History: Mellitus (managed via diet /medication) Hyperlipidemia. Type Diabetes\nTENANT ACKNOWLEDGMENT : stated in this rental application 13 crue declare that che information grant permission to verify rental history and employment and complete.",
+  "text_length": 1102,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Full Name",
+      "predicted_span": [
+        81,
+        90
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Robert Quinn Phone",
+      "predicted_span": [
+        91,
+        109
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "567.555.5628",
+      "predicted_span": [
+        117,
+        129
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "National ID SSN",
+      "predicted_span": [
+        175,
+        190
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "573-23-3290",
+      "predicted_span": [
+        192,
+        203
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Single",
+      "predicted_span": [
+        220,
+        226
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Christianity",
+      "predicted_span": [
+        245,
+        257
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Williamsborough",
+      "predicted_span": [
+        263,
+        278
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "MA 72812 Residence 8654",
+      "predicted_span": [
+        280,
+        303
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Employed Full-Time",
+      "predicted_span": [
+        389,
+        407
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number: ACCT-5220094152",
+      "predicted_span": [
+        480,
+        511
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-5220094152",
+      "predicted_span": [
+        496,
+        511
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "5220094152",
+      "predicted_span": [
+        501,
+        511
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TENANCY",
+      "predicted_span": [
+        521,
+        528
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "NRP",
+      "field_type": "nrp",
+      "predicted_text": "South Leslie",
+      "predicted_span": [
+        595,
+        607
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2024",
+      "predicted_span": [
+        625,
+        629
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Landlord",
+      "predicted_span": [
+        630,
+        638
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Mary Giles Rent",
+      "predicted_span": [
+        640,
+        655
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "81593",
+      "predicted_span": [
+        658,
+        663
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        676,
+        680
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Oscar Farmer",
+      "predicted_span": [
+        771,
+        783
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tel",
+      "predicted_span": [
+        794,
+        797
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Mellitus",
+      "predicted_span": [
+        867,
+        875
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Hyperlipidemia. Type Diabetes",
+      "predicted_span": [
+        907,
+        936
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "che",
+      "predicted_span": [
+        1016,
+        1019
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

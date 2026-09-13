@@ -1,0 +1,41 @@
+================================================================================
+                    PATIENT CLINICAL INTAKE & ADMISSION FORM
+================================================================================
+
+PATIENT DEMOGRAPHIC INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Heather Watts
+Date of Birth:        February 17, 1976
+Phone Number:         (489)475-2677
+Home Address:         06046 Julia Flats, North Gregory, NV 81380
+Marital Status:       Divorced
+Occupation:           Programmer, multimedia
+Religious Preference: Buddhism
+National ID / SSN:    495-20-7142
+Insurance Policy No:  BLU-13783268
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Primary Emergency Contact:
+Frederick Ellis II (Partner) - Phone: (309)965-6999x8808
+
+CLINICAL & ALLERGY INFORMATION
+--------------------------------------------------------------------------------
+Known Drug & Environmental Allergies:
+Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
+
+CURRENT MEDICATIONS & DOSAGES
+--------------------------------------------------------------------------------
+Active Prescriptions & Supplements:
+Lisinopril 10mg PO daily, Atorvastatin 20mg PO at bedtime.
+
+PAST MEDICAL & SURGICAL HISTORY
+--------------------------------------------------------------------------------
+Diagnosed Conditions & Previous Surgeries:
+No significant past medical history. Non-smoker, no past surgeries.
+
+--------------------------------------------------------------------------------
+PATIENT ACKNOWLEDGMENT:
+I acknowledge that the medical information submitted above is accurate for
+the purpose of healthcare evaluation, clinical diagnosis, and safe treatment.
+================================================================================

@@ -1,0 +1,270 @@
+{
+  "doc_id": "loan_096",
+  "document_type": "loan_application",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "CONSUMER CREDIT LOAN APPLICATION\nBORROWER   PERSONAL IDENTIFICATION\nApplicant Name Amy Ross Date of Birth: November 21, 1980 Marital Status: Widowed Religious Belief: Buddhism Phone Number 464-448-5959 Email Address amy ross@yahoo. com Residential Address: 589 Kennedy Fords, Saraberg, GA  69232 FINANCIAL PROFILE CREDITWORTHINESS\nEmployment Status Employed Part-Time Emp loyer Name Smith-Butler Gross Annual Income S164,000.00 USD Bank Account Number: ACCT-2296502486 Credit Score (FICO) 590 (FICO Score 8 )\nADDITIONAL DISCLOSURES\nBACKGROUND\nMedical History: Mild persistent Asthma, seasonal allergic rhinitis, History 0f Appendectomy (2015) Biometric Security Identifier: SHA256: f3b36cal0c24799de526ed45 (Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: authorize the financial institution co investigate my credit standing and employment history to evaluate credit risk and loan eligibility_",
+  "text_length": 895,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CONSUMER CREDIT LOAN APPLICATION\nBORROWER",
+      "predicted_span": [
+        0,
+        41
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Applicant Name Amy Ross Date of Birth",
+      "predicted_span": [
+        68,
+        105
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_DOB",
+      "field_type": "date_of_birth",
+      "predicted_text": "November 21, 1980",
+      "predicted_span": [
+        107,
+        124
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Widowed",
+      "predicted_span": [
+        141,
+        148
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Buddhism",
+      "predicted_span": [
+        167,
+        175
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "464-448-5959",
+      "predicted_span": [
+        189,
+        201
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Residential Address",
+      "predicted_span": [
+        236,
+        255
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "589 Kennedy Fords, Saraberg, GA  69232",
+      "predicted_span": [
+        257,
+        295
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Kennedy Fords",
+      "predicted_span": [
+        261,
+        274
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Saraberg",
+      "predicted_span": [
+        276,
+        284
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "GA",
+      "predicted_span": [
+        286,
+        288
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Employed Part-Time",
+      "predicted_span": [
+        349,
+        367
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Name Smith-Butler Gross",
+      "predicted_span": [
+        378,
+        401
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "Annual",
+      "predicted_span": [
+        402,
+        408
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number: ACCT-2296502486",
+      "predicted_span": [
+        437,
+        468
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-2296502486",
+      "predicted_span": [
+        453,
+        468
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "2296502486",
+      "predicted_span": [
+        458,
+        468
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "2296502486",
+      "predicted_span": [
+        458,
+        468
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_CREDIT_SCORE",
+      "field_type": "credit_score",
+      "predicted_text": "Credit Score (FICO) 590",
+      "predicted_span": [
+        469,
+        492
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO",
+      "predicted_span": [
+        483,
+        487
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO Score",
+      "predicted_span": [
+        494,
+        504
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Asthma, seasonal allergic rhinitis, History 0f Appendectomy (2015) Biometric Security Identifier: SHA256: f3b36cal0c24799de526ed45 (Biometric Minutiae Key)",
+      "predicted_span": [
+        576,
+        731
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Asthma",
+      "predicted_span": [
+        576,
+        582
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2015",
+      "predicted_span": [
+        637,
+        641
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Security Identifier: SHA256: ",
+      "predicted_span": [
+        643,
+        682
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: authorize ",
+      "predicted_span": [
+        708,
+        767
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "doc_id": "rent_088",
+  "document_type": "rental_agreement",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "RESIDENTIAL LEASE APPLICATION AGREEMENT\nPROSPECTIVE TENANT IDENTIFICATION\nTenant Full Name Phone Number: Email Address National ID SSN: Marital Scatus: Religious Belief: Current Residence\nCalvin Ramos +1-255-346-2347x12476 calvin.ramos@gmail.com 851-41-4707 Divorced Judaism 81030 Spencer Courts Rossland, NM 21718\nEMPLOYMENT\nFINANCIAL BACKGROUND\nEmployment Status Employed Part-Time Employer Name Evans_Owen Monthly Annual Inc: 53, 567 00 monch Bank Account Number: ACCT-5736095750\nPREVIOUS TENANCY\nEMERGENCY CONTACT\nRental History: Previous Address: 571 Brittany Ways, West Janetmouth 2021 2024 Landlord: Andrew Smith Rent S2683 /mo Tenancy for Leaving: Job relocation Full security deposit returned: Yes Reason\nEmergency Contact: Jordan Ortiz (Sibling)\nTel 730-673-5104\nSUPPLEMENTAL TENANT DECLARATION\nMedical History: Hypothyroidism (stable on levothyroxine) Migraines with aura\nTENANT ACKNOWLEDGMENT : that the information stated in this rental application 18 declare crue and complete grant permission to verify rental history and employment .",
+  "text_length": 1049,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tenant Full Name Phone",
+      "predicted_span": [
+        74,
+        96
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "calvin.ramos@gmail.com",
+      "predicted_span": [
+        223,
+        245
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "gmail.com",
+      "predicted_span": [
+        236,
+        245
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "851-41-4707",
+      "predicted_span": [
+        246,
+        257
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Divorced",
+      "predicted_span": [
+        258,
+        266
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Judaism",
+      "predicted_span": [
+        267,
+        274
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "81030",
+      "predicted_span": [
+        275,
+        280
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Spencer Courts Rossland",
+      "predicted_span": [
+        281,
+        304
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Employed Part-Time",
+      "predicted_span": [
+        365,
+        383
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "Monthly",
+      "predicted_span": [
+        409,
+        416
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "567 00",
+      "predicted_span": [
+        433,
+        439
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Bank Account Number",
+      "predicted_span": [
+        446,
+        465
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number: ACCT-5736095750",
+      "predicted_span": [
+        451,
+        482
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-5736095750",
+      "predicted_span": [
+        467,
+        482
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "UK_NHS",
+      "field_type": "uk_nhs",
+      "predicted_text": "5736095750",
+      "predicted_span": [
+        472,
+        482
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "5736095750",
+      "predicted_span": [
+        472,
+        482
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "5736095750",
+      "predicted_span": [
+        472,
+        482
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TENANCY",
+      "predicted_span": [
+        492,
+        499
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        587,
+        591
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2024",
+      "predicted_span": [
+        592,
+        596
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Landlord",
+      "predicted_span": [
+        597,
+        605
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Andrew Smith Rent",
+      "predicted_span": [
+        607,
+        624
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Jordan Ortiz",
+      "predicted_span": [
+        733,
+        745
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tel 730-673-5104",
+      "predicted_span": [
+        756,
+        772
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "730-673-5104",
+      "predicted_span": [
+        760,
+        772
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Hypothyroidism (stable on levothyroxine) Migraines with aura",
+      "predicted_span": [
+        822,
+        882
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "levothyroxine) Migraines with aura",
+      "predicted_span": [
+        848,
+        882
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

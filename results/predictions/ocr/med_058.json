@@ -1,0 +1,260 @@
+{
+  "doc_id": "med_058",
+  "document_type": "medical_intake",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "PATIENT CLINICAL INTAKE\nADMISSION  FORM\nPATIENT DEMOGRAPHIC INFORMATION\nFull Name Daniel Mann Date of Birch: December 26 , 1988 Phone  Number: 952-757-8284*10672 Home  Address: 88547 Montes Throughway, Port Annette, Pw 58448 Marical Scatus: Widowed Occupation Chief Executive Officer Religious Preference Atheist National ID SSN: 796-76-6644 Insurance Policy No BLU-83994695\nEMERGENCY CONTACT\nPrimary Emergency Contact: Brian Mendoza (Spouse) Phone 9287140693\nCLINICAL\nALLERGY INFORMATION\nKnown Drug Environmental Allergies: No Known Drug Allergies (NKDA ) No known environmental allergies CURRENT MEDICATIONS 6  DOSAGES\nActive Prescriptions Supplements: Metformin 50 Omg Po BID with meals Glipizide Smg daily.\nPAST MEDICAL\nSURGICAL HISTORY\nDiagnosed Conditions Previous Surgeries: Type Diabetes Mellitus (managed via diet /medication) Hyperlipidemia_\nPATIENT ACKNOWLEDGMENT acknowledge that che medical information submitted above is accurate for the purpose of healthcare evaluation, clinical diagnosis, and safe creacment",
+  "text_length": 1024,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "PATIENT CLINICAL INTAKE",
+      "predicted_span": [
+        0,
+        23
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Daniel Mann Date",
+      "predicted_span": [
+        82,
+        98
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "December 26 , 1988",
+      "predicted_span": [
+        109,
+        127
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "952-757-8284",
+      "predicted_span": [
+        143,
+        155
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "10672",
+      "predicted_span": [
+        156,
+        161
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "88547 Montes Throughway, Port Annette, Pw 58448",
+      "predicted_span": [
+        177,
+        224
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Montes Throughway",
+      "predicted_span": [
+        183,
+        200
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Port Annette",
+      "predicted_span": [
+        202,
+        214
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Widowed",
+      "predicted_span": [
+        241,
+        248
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Atheist",
+      "predicted_span": [
+        305,
+        312
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "796-76-6644",
+      "predicted_span": [
+        330,
+        341
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_INSURANCE_NO",
+      "field_type": "insurance_number",
+      "predicted_text": "Policy No BLU-83994695",
+      "predicted_span": [
+        352,
+        374
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_DRIVER_LICENSE",
+      "field_type": "us_driver_license",
+      "predicted_text": "83994695",
+      "predicted_span": [
+        366,
+        374
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Brian Mendoza",
+      "predicted_span": [
+        420,
+        433
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "UK_NHS",
+      "field_type": "uk_nhs",
+      "predicted_text": "9287140693",
+      "predicted_span": [
+        449,
+        459
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "9287140693",
+      "predicted_span": [
+        449,
+        459
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "CUSTOM_ALLERGIES",
+      "field_type": "allergies",
+      "predicted_text": "No Known Drug Allergies (NKDA ) No known environmental allergies CURRENT MEDICATIONS 6  DOSAGES",
+      "predicted_span": [
+        525,
+        620
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "No Known Drug Allergies",
+      "predicted_span": [
+        525,
+        548
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "NKDA",
+      "predicted_span": [
+        550,
+        554
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "Metformin 50 Omg Po BID with meals Glipizide Smg daily.",
+      "predicted_span": [
+        655,
+        710
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Glipizide Smg",
+      "predicted_span": [
+        690,
+        703
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "daily",
+      "predicted_span": [
+        704,
+        709
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Diabetes Mellitus (managed via diet /medication) Hyperlipidemia_",
+      "predicted_span": [
+        787,
+        851
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Mellitus",
+      "predicted_span": [
+        796,
+        804
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "che medical",
+      "predicted_span": [
+        892,
+        903
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

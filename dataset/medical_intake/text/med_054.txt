@@ -1,0 +1,41 @@
+================================================================================
+                    PATIENT CLINICAL INTAKE & ADMISSION FORM
+================================================================================
+
+PATIENT DEMOGRAPHIC INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Amy Taylor
+Date of Birth:        August 25, 2001
+Phone Number:         576.325.3492x929
+Home Address:         739 Hood Harbors Apt. 633, Ryanbury, MH 78065
+Marital Status:       Married
+Occupation:           Optometrist
+Religious Preference: Atheist
+National ID / SSN:    189-97-6236
+Insurance Policy No:  AET-18715975
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Primary Emergency Contact:
+Susan Villanueva (Adult Child) - Phone: (300)278-0686x71773
+
+CLINICAL & ALLERGY INFORMATION
+--------------------------------------------------------------------------------
+Known Drug & Environmental Allergies:
+No Known Drug Allergies (NKDA), No known environmental allergies.
+
+CURRENT MEDICATIONS & DOSAGES
+--------------------------------------------------------------------------------
+Active Prescriptions & Supplements:
+Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.
+
+PAST MEDICAL & SURGICAL HISTORY
+--------------------------------------------------------------------------------
+Diagnosed Conditions & Previous Surgeries:
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
+
+--------------------------------------------------------------------------------
+PATIENT ACKNOWLEDGMENT:
+I acknowledge that the medical information submitted above is accurate for
+the purpose of healthcare evaluation, clinical diagnosis, and safe treatment.
+================================================================================

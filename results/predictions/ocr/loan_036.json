@@ -1,0 +1,240 @@
+{
+  "doc_id": "loan_036",
+  "document_type": "loan_application",
+  "split": "validation",
+  "is_ocr": true,
+  "ocr_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORROWER PERSONAL IDENTIFICATION\nApplicant Name : Date of Birch: Marical Scacus Religious Belief: Phone Number Email Address Residential Address\nMelissa Miller March 04, 1970 Single Unaffiliated 397.224.5723*0848 melissa.miller@gmail.com 418 Thomas Fork, East Ronaldberg, MI 86400\nFINANCIAL PROFILE\nCREDITWORTHINESS\nEmployment Scacus Employer Name Gross Annual Income Bank Account Number Credit Score (FICO)\nEmployed Full-Time Cruz Henson and Carson 5132,000.00 USD ACCT-1986839603 734 (FICO Score 8 )\nADDITIONAL DISCLOSURES\nBACKGROUND\nMedical History: No significant past medical history. Non-smoker, no past surgeries\nBiometric Security Identifier: SHA256: 25eedce6c790deOa9e5c1f35 (Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: authorize che financial institution co investigate my credit standing and employment history Eo evaluate credit risk and loan eligibility.",
+  "text_length": 905,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORROWER PERSONAL",
+      "predicted_span": [
+        0,
+        50
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Melissa Miller",
+      "predicted_span": [
+        178,
+        192
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_DOB",
+      "field_type": "date_of_birth",
+      "predicted_text": "March 04, 1970",
+      "predicted_span": [
+        193,
+        207
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Single",
+      "predicted_span": [
+        208,
+        214
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Single Unaffiliated",
+      "predicted_span": [
+        208,
+        227
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Unaffiliated",
+      "predicted_span": [
+        215,
+        227
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "melissa.miller@gmail.com",
+      "predicted_span": [
+        246,
+        270
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "melissa.mil",
+      "predicted_span": [
+        246,
+        257
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "gmail.com",
+      "predicted_span": [
+        261,
+        270
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Thomas Fork",
+      "predicted_span": [
+        275,
+        286
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "East Ronaldberg",
+      "predicted_span": [
+        288,
+        303
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO",
+      "predicted_span": [
+        435,
+        439
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Employed Full-Time",
+      "predicted_span": [
+        441,
+        459
+      ],
+      "confidence": 0.88
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Employed Full-Time Cruz Henson",
+      "predicted_span": [
+        441,
+        471
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Carson 5132,000.00 USD",
+      "predicted_span": [
+        476,
+        498
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-1986839603",
+      "predicted_span": [
+        499,
+        514
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "CREDIT_CARD",
+      "field_type": "credit_card",
+      "predicted_text": "1986839603 734",
+      "predicted_span": [
+        504,
+        518
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "1986839603",
+      "predicted_span": [
+        504,
+        514
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO Score",
+      "predicted_span": [
+        520,
+        530
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "No significant past medical history. Non-smoker, no past surgeries",
+      "predicted_span": [
+        586,
+        652
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Security Identifier: SHA256: ",
+      "predicted_span": [
+        653,
+        692
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: authorize ",
+      "predicted_span": [
+        718,
+        777
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Biometric Minutiae Key",
+      "predicted_span": [
+        718,
+        740
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

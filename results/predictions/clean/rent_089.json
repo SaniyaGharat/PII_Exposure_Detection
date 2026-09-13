@@ -1,0 +1,359 @@
+{
+  "doc_id": "rent_089",
+  "document_type": "rental_agreement",
+  "split": "validation",
+  "is_ocr": false,
+  "text_length": 1841,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "RESIDENTIAL LEASE APPLICATION & AGREEMENT",
+      "predicted_span": [
+        101,
+        142
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "9098625885",
+      "predicted_span": [
+        400,
+        410
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "9098625885",
+      "predicted_span": [
+        400,
+        410
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "gregory.padilla@hotmail.com",
+      "predicted_span": [
+        433,
+        460
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "gregory.pa",
+      "predicted_span": [
+        433,
+        443
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "hotmail.com",
+      "predicted_span": [
+        449,
+        460
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "National ID / SSN",
+      "predicted_span": [
+        461,
+        478
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "166-15-5885",
+      "predicted_span": [
+        483,
+        494
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Divorced",
+      "predicted_span": [
+        517,
+        525
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Atheist",
+      "predicted_span": [
+        548,
+        555
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Atheist\nCurrent Residence",
+      "predicted_span": [
+        548,
+        573
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "current_address",
+      "predicted_text": "470 David Avenue Suite 339, Mooremouth, KS 57841",
+      "predicted_span": [
+        578,
+        626
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "David Avenue Suite",
+      "predicted_span": [
+        582,
+        600
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Mooremouth",
+      "predicted_span": [
+        606,
+        616
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "KS 57841\n\nEMPLOYMENT & FINANCIAL BACKGROUND\n--------------------------------------------------------------------------------\n",
+      "predicted_span": [
+        618,
+        743
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Retired",
+      "predicted_span": [
+        765,
+        772
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Graves",
+      "predicted_span": [
+        801,
+        807
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_ANNUAL_INCOME",
+      "field_type": "income",
+      "predicted_text": "$8,515.00 / month",
+      "predicted_span": [
+        844,
+        861
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "/ month",
+      "predicted_span": [
+        854,
+        861
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Bank Account",
+      "predicted_span": [
+        862,
+        874
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number:  ACCT-6745958212",
+      "predicted_span": [
+        867,
+        899
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-6745958212",
+      "predicted_span": [
+        884,
+        899
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "6745958212",
+      "predicted_span": [
+        889,
+        899
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "6745958212",
+      "predicted_span": [
+        889,
+        899
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Rental History",
+      "predicted_span": [
+        1019,
+        1033
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RENTAL_HISTORY",
+      "field_type": "rental_history",
+      "predicted_text": "Previous Address: 183 Holly Mountains Apt. 004, Perryville\nTenancy: 2021 - 2024 | Landlord: Jessica Hernandez | Rent: $1742/mo\nReason for Leaving: Job relocation | Full security deposit returned: Yes",
+      "predicted_span": [
+        1035,
+        1234
+      ],
+      "confidence": 0.92
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Previous Address",
+      "predicted_span": [
+        1035,
+        1051
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Perryville\nTenancy",
+      "predicted_span": [
+        1083,
+        1101
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021 - 2024",
+      "predicted_span": [
+        1103,
+        1114
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Landlord",
+      "predicted_span": [
+        1117,
+        1125
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Jessica Hernandez",
+      "predicted_span": [
+        1127,
+        1144
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMERGENCY_CONTACT",
+      "field_type": "emergency_contact",
+      "predicted_text": "\nGary Lawrence (Sibling) - Tel: 001-511-307-9771",
+      "predicted_span": [
+        1254,
+        1302
+      ],
+      "confidence": 0.92
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Gary Lawrence",
+      "predicted_span": [
+        1255,
+        1268
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Sibling",
+      "predicted_span": [
+        1270,
+        1277
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "No significant past medical history. Non-smoker, no past surgeries.",
+      "predicted_span": [
+        1440,
+        1507
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

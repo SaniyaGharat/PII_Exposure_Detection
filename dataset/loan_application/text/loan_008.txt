@@ -1,0 +1,35 @@
+================================================================================
+                    CONSUMER CREDIT & LOAN APPLICATION
+================================================================================
+
+BORROWER PERSONAL IDENTIFICATION
+--------------------------------------------------------------------------------
+Applicant Name:       Eric Lopez
+Date of Birth:        July 27, 1961
+Marital Status:       Domestic Partnership
+Religious Belief:     Christianity
+Phone Number:         357.866.6567x49160
+Email Address:        eric.lopez@hotmail.com
+Residential Address:  64587 Horton Run, Housebury, IA 63117
+
+FINANCIAL PROFILE & CREDITWORTHINESS
+--------------------------------------------------------------------------------
+Employment Status:    Employed Part-Time
+Employer Name:        Mccoy-Rhodes
+Gross Annual Income:  $56,000.00 USD
+Bank Account Number:  ACCT-4180599722
+Credit Score (FICO):  704 (FICO Score 8)
+
+ADDITIONAL DISCLOSURES & BACKGROUND
+--------------------------------------------------------------------------------
+Medical History:
+Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
+
+Biometric Security Identifier:
+SHA256:526bfe71795fa3374bedb0a2 (Biometric Minutiae Key)
+
+--------------------------------------------------------------------------------
+APPLICANT AUTHORIZATION:
+I authorize the financial institution to investigate my credit standing and
+employment history to evaluate credit risk and loan eligibility.
+================================================================================

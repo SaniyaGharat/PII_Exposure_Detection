@@ -1,0 +1,260 @@
+{
+  "doc_id": "job_078",
+  "document_type": "job_application",
+  "split": "validation",
+  "is_ocr": true,
+  "ocr_text": "STANDARD EMPLOYMENT APPLICATION FORM\nAPPLICANT IDENTIFICATION\nCONTACT INFORMATION\nFull Name Date of Birth: Gender Marital Status Religious Belief: National ID SSN: Email Address Phone Number Home Address\nKyle Lawson July 13 , 1980 Prefer not to disclose Single Agnostic 200-91-2646 kyle.lawson@yahoo com 001-264-703-7613*7918 9658 Kathryn Trail. North Brendatown, KS 28778\nTARGET POSITION\nPosition Applied For: Systems Architect\nEDUCATION &  ACADEMIC CREDENTIALS\nHighest Degree Major: B.S in Computer Science\nCornell University (Graduated 2011)\nPROFESSIONAL EXPERIENCE\nWORK HISTORY\nRecent Experience: 1 . Systems Archicect ac Johnson , Boone and Liu (2021 Present) Led cross- functional initiatives, improving project throughput by 288 Associate Specialist at Holmes PLC (2019 2020) Managed key deliverables_ analyzed system data, and automated workflows\nSKILLS\nCORE COMPETENCIES\nTechnical Professional Skills: React , TypeScript , Node. js, GraphQL, CI/CD Pipelines, Microservices\nDECLARATION : I hereby certify chat the information provided in chis employment application is accurate, true, and complete Eo the best of my knowledge",
+  "text_length": 1133,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "STANDARD EMPLOYMENT APPLICATION",
+      "predicted_span": [
+        0,
+        31
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "July 13 , 1980",
+      "predicted_span": [
+        216,
+        230
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Prefer not to disclose",
+      "predicted_span": [
+        231,
+        253
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_GENDER",
+      "field_type": "gender",
+      "predicted_text": "Prefer not to disclose",
+      "predicted_span": [
+        231,
+        253
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Single",
+      "predicted_span": [
+        254,
+        260
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Single Agnostic",
+      "predicted_span": [
+        254,
+        269
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Agnostic",
+      "predicted_span": [
+        261,
+        269
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "200-91-2646",
+      "predicted_span": [
+        270,
+        281
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "kyle.law",
+      "predicted_span": [
+        282,
+        290
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "7918",
+      "predicted_span": [
+        321,
+        325
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "North Brendatown",
+      "predicted_span": [
+        346,
+        362
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Position Applied For: Systems Architect\nEDUCATION &  ACADEMIC CREDENTIALS\nHighest Degree Major",
+      "predicted_span": [
+        389,
+        483
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2011",
+      "predicted_span": [
+        539,
+        543
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Johnson",
+      "predicted_span": [
+        626,
+        633
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Boone",
+      "predicted_span": [
+        636,
+        641
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Liu",
+      "predicted_span": [
+        646,
+        649
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        651,
+        655
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Holmes PLC",
+      "predicted_span": [
+        760,
+        770
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2019 2020",
+      "predicted_span": [
+        772,
+        781
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "React , TypeScript , Node. js, GraphQL, CI/CD Pipelines, Microservices",
+      "predicted_span": [
+        911,
+        981
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TypeScript",
+      "predicted_span": [
+        919,
+        929
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Node",
+      "predicted_span": [
+        932,
+        936
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "js",
+      "predicted_span": [
+        938,
+        940
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "GraphQL",
+      "predicted_span": [
+        942,
+        949
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CI",
+      "predicted_span": [
+        951,
+        953
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

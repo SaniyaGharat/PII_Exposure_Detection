@@ -1,0 +1,419 @@
+{
+  "doc_id": "rent_061",
+  "document_type": "rental_agreement",
+  "split": "train",
+  "is_ocr": false,
+  "text_length": 1830,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "RESIDENTIAL LEASE APPLICATION & AGREEMENT",
+      "predicted_span": [
+        101,
+        142
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Drew Ramsey\nPhone",
+      "predicted_span": [
+        362,
+        379
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "455-566-8473",
+      "predicted_span": [
+        396,
+        408
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "drew.ramsey@yahoo.com",
+      "predicted_span": [
+        431,
+        452
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "yahoo.com",
+      "predicted_span": [
+        443,
+        452
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "National ID / SSN",
+      "predicted_span": [
+        453,
+        470
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "684-76-3415",
+      "predicted_span": [
+        475,
+        486
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Single",
+      "predicted_span": [
+        509,
+        515
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Atheist",
+      "predicted_span": [
+        538,
+        545
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Atheist\nCurrent Residence:    ",
+      "predicted_span": [
+        538,
+        568
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "current_address",
+      "predicted_text": "37746 Johnny Meadows Suite 200, Warrenborough, MT 14973",
+      "predicted_span": [
+        568,
+        623
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Johnny Meadows Suite",
+      "predicted_span": [
+        574,
+        594
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Warrenborough",
+      "predicted_span": [
+        600,
+        613
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "MT",
+      "predicted_span": [
+        615,
+        617
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "14973",
+      "predicted_span": [
+        618,
+        623
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "EMPLOYMENT & FINANCIAL BACKGROUND",
+      "predicted_span": [
+        625,
+        658
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Employed Part-Time",
+      "predicted_span": [
+        762,
+        780
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Garcia",
+      "predicted_span": [
+        803,
+        809
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Atkins",
+      "predicted_span": [
+        811,
+        817
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_ANNUAL_INCOME",
+      "field_type": "income",
+      "predicted_text": "$4,068.00 / month",
+      "predicted_span": [
+        850,
+        867
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "/ month",
+      "predicted_span": [
+        860,
+        867
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Bank Account",
+      "predicted_span": [
+        868,
+        880
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number:  ACCT-1827752234",
+      "predicted_span": [
+        873,
+        905
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-1827752234",
+      "predicted_span": [
+        890,
+        905
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "ACCT-1827752234",
+      "predicted_span": [
+        890,
+        905
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "1827752234",
+      "predicted_span": [
+        895,
+        905
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "1827752234",
+      "predicted_span": [
+        895,
+        905
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Rental History",
+      "predicted_span": [
+        1025,
+        1039
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RENTAL_HISTORY",
+      "field_type": "rental_history",
+      "predicted_text": "Previous Address: 78197 Turner Fork Suite 347, Nelsonfort\nTenancy: 2021 - 2024 | Landlord: Brenda Ramirez | Rent: $2428/mo\nReason for Leaving: Job relocation | Full security deposit returned: Yes",
+      "predicted_span": [
+        1041,
+        1236
+      ],
+      "confidence": 0.92
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Previous Address",
+      "predicted_span": [
+        1041,
+        1057
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Nelsonfort\nTenancy",
+      "predicted_span": [
+        1088,
+        1106
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021 - 2024",
+      "predicted_span": [
+        1108,
+        1119
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Landlord",
+      "predicted_span": [
+        1122,
+        1130
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Brenda Ramirez",
+      "predicted_span": [
+        1132,
+        1146
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMERGENCY_CONTACT",
+      "field_type": "emergency_contact",
+      "predicted_text": "\nTaylor Smith (Sibling) - Tel: 776.638.8214\n\n",
+      "predicted_span": [
+        1256,
+        1301
+      ],
+      "confidence": 0.92
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Taylor Smith",
+      "predicted_span": [
+        1257,
+        1269
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Sibling",
+      "predicted_span": [
+        1271,
+        1278
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "776.638.8214",
+      "predicted_span": [
+        1287,
+        1299
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.",
+      "predicted_span": [
+        1431,
+        1496
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2018",
+      "predicted_span": [
+        1455,
+        1459
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Mild Osteoarthritis",
+      "predicted_span": [
+        1462,
+        1481
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Guy Bradley
+Date of Birth:        April 12, 1970
+Gender:               Non-Binary
+Marital Status:       Divorced
+Religious Belief:     Judaism
+National ID / SSN:    698-58-7086
+Email Address:        guy.bradley@gmail.com
+Phone Number:         703-593-0870
+Home Address:         250 Dylan Squares Apt. 185, West Janetfurt, OR 13743
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: Data Scientist
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+MBA - University of Washington (Graduated 2014)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. Data Scientist at Hart and Sons (2023 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Weaver-Thompson (2017 - 2021)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

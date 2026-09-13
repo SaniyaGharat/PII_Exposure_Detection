@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Christopher Smith
+Date of Birth:        October 24, 2000
+Gender:               Non-Binary
+Marital Status:       Single
+Religious Belief:     Buddhism
+National ID / SSN:    680-50-4483
+Email Address:        christopher.smith@hotmail.com
+Phone Number:         (234)230-9805
+Home Address:         820 Melissa Cliff Apt. 361, New Brooke, RI 11246
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: Senior Software Engineer
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+B.A. in Economics - University of Washington (Graduated 2022)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. Senior Software Engineer at Baker-Bowers (2022 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Mitchell-Horton (2020 - 2021)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+Statistical Analysis, R, Tableau, Data Pipelines, Predictive Modeling
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

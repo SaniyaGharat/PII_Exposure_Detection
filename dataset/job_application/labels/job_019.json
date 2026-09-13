@@ -1,0 +1,150 @@
+{
+    "document_id": "job_019",
+    "document_type": "job_application",
+    "document_purpose": "To evaluate a candidate's qualifications, skills, education, and professional experience for potential employment.",
+    "fields": [
+        {
+            "field_type": "full_name",
+            "field_name": "Full Name",
+            "field_value": "Connie Holt",
+            "necessity_label": "necessary",
+            "reason": "Required to unambiguously identify the candidate, manage application tracking, and conduct hiring correspondence.",
+            "span": {
+                "start": 370,
+                "end": 381
+            }
+        },
+        {
+            "field_type": "date_of_birth",
+            "field_name": "Date of Birth",
+            "field_value": "March 16, 1990",
+            "necessity_label": "unnecessary",
+            "reason": "Date of birth is generally not required for evaluating qualifications during initial employment screening and may create discrimination concerns.",
+            "span": {
+                "start": 404,
+                "end": 418
+            }
+        },
+        {
+            "field_type": "gender",
+            "field_name": "Gender",
+            "field_value": "Female",
+            "necessity_label": "contextual",
+            "reason": "Gender is not required for qualification evaluation, though occasionally collected under optional equal employment opportunity (EEO) demographic monitoring.",
+            "span": {
+                "start": 441,
+                "end": 447
+            }
+        },
+        {
+            "field_type": "marital_status",
+            "field_name": "Marital Status",
+            "field_value": "Widowed",
+            "necessity_label": "unnecessary",
+            "reason": "Marital status is irrelevant to assessing job competence and creates potential exposure to marital status or gender discrimination.",
+            "span": {
+                "start": 470,
+                "end": 477
+            }
+        },
+        {
+            "field_type": "religion",
+            "field_name": "Religion",
+            "field_value": "Atheist",
+            "necessity_label": "unnecessary",
+            "reason": "Religious beliefs are completely irrelevant to job performance and introduce unlawful bias risks under employment regulations.",
+            "span": {
+                "start": 500,
+                "end": 507
+            }
+        },
+        {
+            "field_type": "national_id",
+            "field_name": "National ID / SSN",
+            "field_value": "318-61-1960",
+            "necessity_label": "unnecessary",
+            "reason": "Government national identification numbers are unnecessary at initial screening and introduce high identity theft exposure.",
+            "span": {
+                "start": 530,
+                "end": 541
+            }
+        },
+        {
+            "field_type": "email",
+            "field_name": "Email Address",
+            "field_value": "connie.holt@hotmail.com",
+            "necessity_label": "necessary",
+            "reason": "Required as a primary electronic communication channel for interview scheduling and official employment notifications.",
+            "span": {
+                "start": 564,
+                "end": 587
+            }
+        },
+        {
+            "field_type": "phone",
+            "field_name": "Phone Number",
+            "field_value": "(574)544-3135x182",
+            "necessity_label": "necessary",
+            "reason": "Required for direct contact, telephone screening sessions, and urgent recruitment updates.",
+            "span": {
+                "start": 610,
+                "end": 627
+            }
+        },
+        {
+            "field_type": "home_address",
+            "field_name": "Home Address",
+            "field_value": "9894 Marissa Hill Apt. 524, Lake Amandaview, AZ 07647",
+            "necessity_label": "contextual",
+            "reason": "Full street address is unnecessary for initial screening (city/region suffices), but may be required for local payroll tax jurisdictions or commute assessment.",
+            "span": {
+                "start": 650,
+                "end": 703
+            }
+        },
+        {
+            "field_type": "job_title",
+            "field_name": "Position Applied For",
+            "field_value": "Senior Software Engineer",
+            "necessity_label": "necessary",
+            "reason": "Specifies the target role against which candidate qualifications and criteria are evaluated.",
+            "span": {
+                "start": 824,
+                "end": 848
+            }
+        },
+        {
+            "field_type": "education",
+            "field_name": "Education",
+            "field_value": "B.S. in Information Systems - University of Washington (Graduated 2011)",
+            "necessity_label": "necessary",
+            "reason": "Essential for verifying required academic degrees, institutional background, and formal qualifications.",
+            "span": {
+                "start": 988,
+                "end": 1059
+            }
+        },
+        {
+            "field_type": "work_history",
+            "field_name": "Work History",
+            "field_value": "1. Senior Software Engineer at Beck-Wood (2021 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Schmidt, Coleman and Reese (2018 - 2021)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
+            "necessity_label": "necessary",
+            "reason": "Essential for evaluating candidate's prior professional experience, relevant responsibilities, and career trajectory.",
+            "span": {
+                "start": 1200,
+                "end": 1479
+            }
+        },
+        {
+            "field_type": "skills",
+            "field_name": "Skills & Competencies",
+            "field_value": "Financial Modeling, Risk Analysis, Bloomberg Terminal, Advanced Excel, CFA Level II",
+            "necessity_label": "necessary",
+            "reason": "Directly reflects technical, operational, and domain competencies required for job performance.",
+            "span": {
+                "start": 1622,
+                "end": 1705
+            }
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "document_id": "med_051",
+    "document_type": "medical_intake",
+    "document_purpose": "To collect relevant patient information required for medical assessment, diagnosis, treatment, and healthcare administration.",
+    "fields": [
+        {
+            "field_type": "full_name",
+            "field_name": "Patient Full Name",
+            "field_value": "Anne Carr",
+            "necessity_label": "necessary",
+            "reason": "Essential for patient identification, medical record linkage, and preventing catastrophic misidentification in clinical care.",
+            "span": {
+                "start": 359,
+                "end": 368
+            }
+        },
+        {
+            "field_type": "date_of_birth",
+            "field_name": "Date of Birth",
+            "field_value": "July 16, 2000",
+            "necessity_label": "necessary",
+            "reason": "Crucial for clinical safety, age-dependent pharmaceutical dosage calculations, developmental assessment, and primary patient record matching.",
+            "span": {
+                "start": 391,
+                "end": 404
+            }
+        },
+        {
+            "field_type": "phone",
+            "field_name": "Phone Number",
+            "field_value": "001-511-817-9931",
+            "necessity_label": "necessary",
+            "reason": "Required for appointment reminders, urgent clinical test result notifications, and post-procedure follow-ups.",
+            "span": {
+                "start": 427,
+                "end": 443
+            }
+        },
+        {
+            "field_type": "home_address",
+            "field_name": "Home Address",
+            "field_value": "651 Marc Underpass Apt. 092, Bryanview, FL 99794",
+            "necessity_label": "contextual",
+            "reason": "Used for patient billing, demographic analysis, and local public health reporting, though secondary to immediate clinical diagnosis.",
+            "span": {
+                "start": 466,
+                "end": 514
+            }
+        },
+        {
+            "field_type": "marital_status",
+            "field_name": "Marital Status",
+            "field_value": "Widowed",
+            "necessity_label": "contextual",
+            "reason": "May provide helpful context regarding home support network and surrogate decision-makers, but not universally necessary for diagnostics.",
+            "span": {
+                "start": 537,
+                "end": 544
+            }
+        },
+        {
+            "field_type": "occupation",
+            "field_name": "Occupation",
+            "field_value": "Editorial assistant",
+            "necessity_label": "contextual",
+            "reason": "Provides relevant context for evaluating occupational exposures, repetitive stress injuries, or physical disability accommodations.",
+            "span": {
+                "start": 567,
+                "end": 586
+            }
+        },
+        {
+            "field_type": "religion",
+            "field_name": "Religious Affiliation",
+            "field_value": "Sikhism",
+            "necessity_label": "contextual",
+            "reason": "Contextual in clinical settings to respect medical restrictions (e.g., blood transfusions, dietary rules, end-of-life pastoral care), but optional.",
+            "span": {
+                "start": 609,
+                "end": 616
+            }
+        },
+        {
+            "field_type": "national_id",
+            "field_name": "National ID / SSN",
+            "field_value": "480-66-2259",
+            "necessity_label": "unnecessary",
+            "reason": "Standard government national IDs are unnecessary when unique Medical Record Numbers (MRN) or insurance IDs exist, creating avoidable exposure.",
+            "span": {
+                "start": 639,
+                "end": 650
+            }
+        },
+        {
+            "field_type": "insurance_number",
+            "field_name": "Health Insurance Policy Number",
+            "field_value": "KSR-28481124",
+            "necessity_label": "contextual",
+            "reason": "Necessary for healthcare claims billing and insurance verification, but not strictly required for emergency or direct self-pay clinical triage.",
+            "span": {
+                "start": 673,
+                "end": 685
+            }
+        },
+        {
+            "field_type": "emergency_contact",
+            "field_name": "Emergency Contact",
+            "field_value": "Michael Tran (Parent) - Phone: 239.202.1962x071",
+            "necessity_label": "necessary",
+            "reason": "Vital in acute medical situations, patient incapacitation, or urgent medical decisions where patient proxy consent is needed.",
+            "span": {
+                "start": 813,
+                "end": 860
+            }
+        },
+        {
+            "field_type": "allergies",
+            "field_name": "Allergies & Sensitivities",
+            "field_value": "No Known Drug Allergies (NKDA), No known environmental allergies.",
+            "necessity_label": "necessary",
+            "reason": "High-priority safety data required to prevent life-threatening anaphylaxis, drug allergies, and cross-reactive interventions.",
+            "span": {
+                "start": 1012,
+                "end": 1077
+            }
+        },
+        {
+            "field_type": "current_medications",
+            "field_name": "Current Medications",
+            "field_value": "Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.",
+            "necessity_label": "necessary",
+            "reason": "Critical for preventing adverse drug-drug interactions, polypharmacy complications, and dosage conflicts.",
+            "span": {
+                "start": 1226,
+                "end": 1297
+            }
+        },
+        {
+            "field_type": "medical_history",
+            "field_name": "Past Medical History",
+            "field_value": "Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).",
+            "necessity_label": "necessary",
+            "reason": "Essential clinical context for differential diagnosis, identifying chronic comorbidities, and planning safe therapeutic interventions.",
+            "span": {
+                "start": 1455,
+                "end": 1534
+            }
+        }
+    ]
+}

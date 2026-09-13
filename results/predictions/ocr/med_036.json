@@ -1,0 +1,240 @@
+{
+  "doc_id": "med_036",
+  "document_type": "medical_intake",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "PATIENT CLINICAL INTAKE & ADMISSION FORM\nPATIENT DEMOGRAPHIC INFORMATION\nFull Name Michael Acosta Date of Birth: July 07 , 1978 Phone  Number: +1-426-286-0259*222 Home  Address: 4742 Rachel Flats Apt . 940, Jimenezfort, ND 01254 Marital Status Single Occupation  Electrical engineer Religious Preference: Judaism National ID SSN: 320-29-9991 Insurance Policy No KSR-80836292\nEMERGENCY  CONTACT\nPrimary Emergency Contact Katherine Robinson (Spouse)\nPhone: +1-577-267-1990*38498\nCLINICAL\nALLERGY INFORMATION\nKnown Drug Environmental Allergies: Aspirin  (bronchospasm) Codeine (nausea)\nCURRENT MEDICATIONS\nDOSAGES\nActive Prescriptions Supplements: Lisinopril Omg PO daily, Atorvastatin 2Omg Po at bedtime PAST MEDICAL SURGICAL HISTORY\nDiagnosed Conditions Previous Surgeries: Mild persistent Asthma_ seasonal allergic rhinitis, History of Appendectomy (2015)\nPATIENT ACKNOWLEDGMENT acknowledge chat the medical information submitted above 1s accurate for the purpose of healthcare evaluation, clinical diagnosis, and safe treatment .",
+  "text_length": 1030,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "PATIENT CLINICAL INTAKE & ADMISSION FORM\nPATIENT DEMOGRAPHIC",
+      "predicted_span": [
+        0,
+        60
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Full Name Michael Acosta Date of Birth",
+      "predicted_span": [
+        73,
+        111
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "July 07 , 1978",
+      "predicted_span": [
+        113,
+        127
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "NRP",
+      "field_type": "nrp",
+      "predicted_text": "+1-426",
+      "predicted_span": [
+        143,
+        149
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "4742 Rachel Flats Apt . 940, Jimenezfort, ND 01254",
+      "predicted_span": [
+        178,
+        228
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Jimenezfort",
+      "predicted_span": [
+        207,
+        218
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "ND 01254",
+      "predicted_span": [
+        220,
+        228
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Marital Status Single Occupation  Electrical",
+      "predicted_span": [
+        229,
+        273
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Single",
+      "predicted_span": [
+        244,
+        250
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Judaism National ID SSN",
+      "predicted_span": [
+        305,
+        328
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Judaism",
+      "predicted_span": [
+        305,
+        312
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "320-29-9991",
+      "predicted_span": [
+        330,
+        341
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_INSURANCE_NO",
+      "field_type": "insurance_number",
+      "predicted_text": "Policy No KSR-80836292",
+      "predicted_span": [
+        352,
+        374
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_DRIVER_LICENSE",
+      "field_type": "us_driver_license",
+      "predicted_text": "80836292",
+      "predicted_span": [
+        366,
+        374
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Katherine Robinson",
+      "predicted_span": [
+        420,
+        438
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "NRP",
+      "field_type": "nrp",
+      "predicted_text": "+1-577",
+      "predicted_span": [
+        455,
+        461
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "+1-577-267-1990",
+      "predicted_span": [
+        455,
+        470
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "CUSTOM_ALLERGIES",
+      "field_type": "allergies",
+      "predicted_text": "Aspirin  (bronchospasm) Codeine (nausea)",
+      "predicted_span": [
+        542,
+        582
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "Lisinopril Omg PO daily, Atorvastatin 2Omg Po at bedtime PAST MEDICAL SURGICAL HISTORY",
+      "predicted_span": [
+        645,
+        731
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Lisinopril Omg PO",
+      "predicted_span": [
+        645,
+        662
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Asthma_ seasonal allergic rhinitis, History of Appendectomy (2015)",
+      "predicted_span": [
+        789,
+        855
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Asthma",
+      "predicted_span": [
+        789,
+        795
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2015",
+      "predicted_span": [
+        850,
+        854
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

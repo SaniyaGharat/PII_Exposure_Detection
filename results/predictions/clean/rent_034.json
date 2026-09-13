@@ -1,0 +1,309 @@
+{
+  "doc_id": "rent_034",
+  "document_type": "rental_agreement",
+  "split": "validation",
+  "is_ocr": false,
+  "text_length": 1837,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "RESIDENTIAL LEASE APPLICATION & AGREEMENT",
+      "predicted_span": [
+        101,
+        142
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "670-715-9591",
+      "predicted_span": [
+        399,
+        411
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "christine.roth@yahoo.com",
+      "predicted_span": [
+        434,
+        458
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "christine.ro",
+      "predicted_span": [
+        434,
+        446
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "yahoo.com",
+      "predicted_span": [
+        449,
+        458
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "National ID / SSN",
+      "predicted_span": [
+        459,
+        476
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "386-67-3435",
+      "predicted_span": [
+        481,
+        492
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Single",
+      "predicted_span": [
+        515,
+        521
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Prefer not to disclose",
+      "predicted_span": [
+        544,
+        566
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_GENDER",
+      "field_type": "gender",
+      "predicted_text": "Prefer not to disclose",
+      "predicted_span": [
+        544,
+        566
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "current_address",
+      "predicted_text": "757 Hines Island Apt. 392, Lake Michaelmouth, FM 61009",
+      "predicted_span": [
+        589,
+        643
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Lake Michaelmouth",
+      "predicted_span": [
+        616,
+        633
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "61009",
+      "predicted_span": [
+        638,
+        643
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "EMPLOYMENT & FINANCIAL BACKGROUND",
+      "predicted_span": [
+        645,
+        678
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Retired",
+      "predicted_span": [
+        782,
+        789
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_ANNUAL_INCOME",
+      "field_type": "income",
+      "predicted_text": "$6,566.00 / month",
+      "predicted_span": [
+        852,
+        869
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Bank Account",
+      "predicted_span": [
+        870,
+        882
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number:  ACCT-3649896750",
+      "predicted_span": [
+        875,
+        907
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-3649896750",
+      "predicted_span": [
+        892,
+        907
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "3649896750",
+      "predicted_span": [
+        897,
+        907
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "3649896750",
+      "predicted_span": [
+        897,
+        907
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Rental History",
+      "predicted_span": [
+        1027,
+        1041
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RENTAL_HISTORY",
+      "field_type": "rental_history",
+      "predicted_text": "Previous Address: 7722 Barnes Burg Apt. 562, Diazchester\nTenancy: 2021 - 2024 | Landlord: Robert Landry | Rent: $1963/mo\nReason for Leaving: Job relocation | Full security deposit returned: Yes",
+      "predicted_span": [
+        1043,
+        1236
+      ],
+      "confidence": 0.92
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Previous Address",
+      "predicted_span": [
+        1043,
+        1059
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021 - 2024",
+      "predicted_span": [
+        1109,
+        1120
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Landlord",
+      "predicted_span": [
+        1123,
+        1131
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Robert Landry",
+      "predicted_span": [
+        1133,
+        1146
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMERGENCY_CONTACT",
+      "field_type": "emergency_contact",
+      "predicted_text": "\nMary Thompson (Sibling) - Tel: 001-723-510-6724\n\n",
+      "predicted_span": [
+        1256,
+        1306
+      ],
+      "confidence": 0.92
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Mary Thompson",
+      "predicted_span": [
+        1257,
+        1270
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "No significant past medical history. Non-smoker, no past surgeries.",
+      "predicted_span": [
+        1436,
+        1503
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

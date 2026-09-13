@@ -1,0 +1,35 @@
+================================================================================
+                    CONSUMER CREDIT & LOAN APPLICATION
+================================================================================
+
+BORROWER PERSONAL IDENTIFICATION
+--------------------------------------------------------------------------------
+Applicant Name:       {{full_name}}
+Date of Birth:        {{date_of_birth}}
+Marital Status:       {{marital_status}}
+Religious Belief:     {{religion}}
+Phone Number:         {{phone}}
+Email Address:        {{email}}
+Residential Address:  {{home_address}}
+
+FINANCIAL PROFILE & CREDITWORTHINESS
+--------------------------------------------------------------------------------
+Employment Status:    {{employment_status}}
+Employer Name:        {{employer_name}}
+Gross Annual Income:  {{annual_income}}
+Bank Account Number:  {{bank_account_number}}
+Credit Score (FICO):  {{credit_score}}
+
+ADDITIONAL DISCLOSURES & BACKGROUND
+--------------------------------------------------------------------------------
+Medical History:
+{{medical_history}}
+
+Biometric Security Identifier:
+{{biometric_information}}
+
+--------------------------------------------------------------------------------
+APPLICANT AUTHORIZATION:
+I authorize the financial institution to investigate my credit standing and
+employment history to evaluate credit risk and loan eligibility.
+================================================================================

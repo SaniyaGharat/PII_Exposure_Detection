@@ -1,0 +1,230 @@
+{
+  "doc_id": "job_018",
+  "document_type": "job_application",
+  "split": "test",
+  "is_ocr": true,
+  "ocr_text": "STANDARD EMPLOYMENT APPLICATION FORM\nAPPLICANT IDENTIFICATION\nCONTACT INFORMATION\nFull Name Date of Birch: Gender: Marital Status: Religious Belief: National ID SSN: Email Address Phone Number Home Address\nSamuel Rivas June 26 , 1993 Male Divorced Atheist 355-19-8260 samuel.rivas@gmail.com 207-552-7354*54948 678 Hannah Rue, Westtown, Co 39067\nTARGET POSITION\nPosition Applied For: Financial Analyst\nEDUCATION\nACADEMIC CREDENTIALS\nHighest Degree Major: B.A in Economics Columbia University (Graduated 2017)\nPROFESSIONAL EXPERIENCE\nWORK HISTORY\nRecent Experience Financial Analyst at Ramirez Group (2021 Present) Led cross-functional initiatives, improving project throughput by 288 Associate Specialist at Christensen PLC (2020 2020) Managed key deliverables analyzed system data, and automated workflows .\nSKILLS\nCORE COMPETENCIES\nTechnical Professional Skills: Network Security, Penetration Testing, SIEM, Incident Response, ISO 27001\nDECLARATION: I hereby certify that the information provided in this employment application is accurate, crue. and complete to the best of my knowledge",
+  "text_length": 1088,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "STANDARD EMPLOYMENT APPLICATION",
+      "predicted_span": [
+        0,
+        31
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Samuel Rivas",
+      "predicted_span": [
+        206,
+        218
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "June 26 , 1993",
+      "predicted_span": [
+        219,
+        233
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_GENDER",
+      "field_type": "gender",
+      "predicted_text": "Male",
+      "predicted_span": [
+        234,
+        238
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Divorced",
+      "predicted_span": [
+        239,
+        247
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Atheist",
+      "predicted_span": [
+        248,
+        255
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "355-19-8260",
+      "predicted_span": [
+        256,
+        267
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "samuel.rivas@gmail.com",
+      "predicted_span": [
+        268,
+        290
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "gmail.com",
+      "predicted_span": [
+        281,
+        290
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "207-552-7354",
+      "predicted_span": [
+        291,
+        303
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "54948",
+      "predicted_span": [
+        304,
+        309
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Hannah Rue",
+      "predicted_span": [
+        314,
+        324
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Position Applied For: Financial Analyst\nEDUCATION\nACADEMIC CREDENTIALS\nHighest Degree Major",
+      "predicted_span": [
+        361,
+        452
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Economics Columbia University",
+      "predicted_span": [
+        461,
+        490
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2017",
+      "predicted_span": [
+        502,
+        506
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Financial Analyst",
+      "predicted_span": [
+        563,
+        580
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Ramirez Group",
+      "predicted_span": [
+        584,
+        597
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        599,
+        603
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Christensen PLC",
+      "predicted_span": [
+        707,
+        722
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2020 2020",
+      "predicted_span": [
+        724,
+        733
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "Network Security, Penetration Testing, SIEM, Incident Response, ISO 27001",
+      "predicted_span": [
+        864,
+        937
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Incident Response",
+      "predicted_span": [
+        909,
+        926
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

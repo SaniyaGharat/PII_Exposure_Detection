@@ -1,0 +1,260 @@
+{
+  "doc_id": "job_028",
+  "document_type": "job_application",
+  "split": "validation",
+  "is_ocr": true,
+  "ocr_text": "STANDARD EMPLOYMENT APPLICATION FORM\nAPPLICANT IDENTIFICATION\nCONTACT INFORMATION\nFull Name Date of Birth: Gender: Marital Status: Religious Belief: National ID SSN: Email Address Phone Number Home Address\nPaula Beltran August 07 1982 Female Widowed Hinduism 142-49-6974 paula.beltranCyahoo.com +1-339-642-104720952 Rivas Glens Suite 451, Mccartyberg, WV 30072 32858\nTARGET POSITION\nPosition Applied For: Data Scientist\nEDUCATION\nACADEMIC CREDENTIALS\nHighest Degree Major: B.$ in Computer Science\nUniversity of Michigan (Graduated 2018)\nPROFESSIONAL EXPERIENCE\nWORK HISTORY\nRecent Experience: Scientist at Mcgee , Wall and Leach (2021 Presenc) 1 . Data Led functional initiatives, improving project throughput by 288 cross- Associate Specialist at Lawson LLC (2019 2020) 2 . analyzed system data, and automated workflows Managed key deliverables,\nSKILLS\nCORE COMPETENCIES\nTechnical Professional Skills: SQL, PyTorch, Docker, Kubernetes, AMS Cloud Architecture Python,\nDECLARATION che information provided in this employment application hereby certify that 1s accurate_ crue, and complete co the best of my knowledge _",
+  "text_length": 1117,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "STANDARD EMPLOYMENT APPLICATION",
+      "predicted_span": [
+        0,
+        31
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Paula Beltran",
+      "predicted_span": [
+        206,
+        219
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "August 07 1982",
+      "predicted_span": [
+        220,
+        234
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_GENDER",
+      "field_type": "gender",
+      "predicted_text": "Female",
+      "predicted_span": [
+        235,
+        241
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Widowed",
+      "predicted_span": [
+        242,
+        249
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Hinduism",
+      "predicted_span": [
+        250,
+        258
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "142-49-6974",
+      "predicted_span": [
+        259,
+        270
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "paula.beltranCyahoo.com",
+      "predicted_span": [
+        271,
+        294
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "paula.beltranCyahoo.com",
+      "predicted_span": [
+        271,
+        294
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "104720952",
+      "predicted_span": [
+        306,
+        315
+      ],
+      "confidence": 0.6
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Glens Suite",
+      "predicted_span": [
+        322,
+        333
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Mccartyberg",
+      "predicted_span": [
+        339,
+        350
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "30072 32858",
+      "predicted_span": [
+        355,
+        366
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Position Applied For: Data Scientist\nEDUCATION\nACADEMIC CREDENTIALS\nHighest Degree Major",
+      "predicted_span": [
+        383,
+        471
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Computer Science\nUniversity of Michigan",
+      "predicted_span": [
+        480,
+        519
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2018",
+      "predicted_span": [
+        531,
+        535
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Mcgee",
+      "predicted_span": [
+        606,
+        611
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        630,
+        634
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Data Led",
+      "predicted_span": [
+        648,
+        656
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Lawson LLC",
+      "predicted_span": [
+        748,
+        758
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2019 2020",
+      "predicted_span": [
+        760,
+        769
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "SQL, PyTorch, Docker, Kubernetes, AMS Cloud Architecture Python,",
+      "predicted_span": [
+        903,
+        967
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "PyTorch",
+      "predicted_span": [
+        908,
+        915
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Docker",
+      "predicted_span": [
+        917,
+        923
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Kubernetes",
+      "predicted_span": [
+        925,
+        935
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

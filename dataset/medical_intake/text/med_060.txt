@@ -1,0 +1,41 @@
+================================================================================
+                    PATIENT CLINICAL INTAKE & ADMISSION FORM
+================================================================================
+
+PATIENT DEMOGRAPHIC INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Ann Ortiz
+Date of Birth:        December 02, 2005
+Phone Number:         962-287-9232x648
+Home Address:         478 Walker Turnpike Apt. 244, Martinezport, MT 24011
+Marital Status:       Divorced
+Occupation:           Futures trader
+Religious Preference: Unaffiliated
+National ID / SSN:    390-20-5105
+Insurance Policy No:  BLU-95235919
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Primary Emergency Contact:
+Michael Sanchez Jr. (Parent) - Phone: 771-295-9796x471
+
+CLINICAL & ALLERGY INFORMATION
+--------------------------------------------------------------------------------
+Known Drug & Environmental Allergies:
+No Known Drug Allergies (NKDA), No known environmental allergies.
+
+CURRENT MEDICATIONS & DOSAGES
+--------------------------------------------------------------------------------
+Active Prescriptions & Supplements:
+Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
+
+PAST MEDICAL & SURGICAL HISTORY
+--------------------------------------------------------------------------------
+Diagnosed Conditions & Previous Surgeries:
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
+
+--------------------------------------------------------------------------------
+PATIENT ACKNOWLEDGMENT:
+I acknowledge that the medical information submitted above is accurate for
+the purpose of healthcare evaluation, clinical diagnosis, and safe treatment.
+================================================================================

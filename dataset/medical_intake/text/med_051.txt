@@ -1,0 +1,41 @@
+================================================================================
+                    PATIENT CLINICAL INTAKE & ADMISSION FORM
+================================================================================
+
+PATIENT DEMOGRAPHIC INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Anne Carr
+Date of Birth:        July 16, 2000
+Phone Number:         001-511-817-9931
+Home Address:         651 Marc Underpass Apt. 092, Bryanview, FL 99794
+Marital Status:       Widowed
+Occupation:           Editorial assistant
+Religious Preference: Sikhism
+National ID / SSN:    480-66-2259
+Insurance Policy No:  KSR-28481124
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Primary Emergency Contact:
+Michael Tran (Parent) - Phone: 239.202.1962x071
+
+CLINICAL & ALLERGY INFORMATION
+--------------------------------------------------------------------------------
+Known Drug & Environmental Allergies:
+No Known Drug Allergies (NKDA), No known environmental allergies.
+
+CURRENT MEDICATIONS & DOSAGES
+--------------------------------------------------------------------------------
+Active Prescriptions & Supplements:
+Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
+
+PAST MEDICAL & SURGICAL HISTORY
+--------------------------------------------------------------------------------
+Diagnosed Conditions & Previous Surgeries:
+Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
+
+--------------------------------------------------------------------------------
+PATIENT ACKNOWLEDGMENT:
+I acknowledge that the medical information submitted above is accurate for
+the purpose of healthcare evaluation, clinical diagnosis, and safe treatment.
+================================================================================

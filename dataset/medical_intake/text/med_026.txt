@@ -1,0 +1,41 @@
+================================================================================
+                    PATIENT CLINICAL INTAKE & ADMISSION FORM
+================================================================================
+
+PATIENT DEMOGRAPHIC INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Beth Hall
+Date of Birth:        September 09, 1981
+Phone Number:         +1-657-930-6524x0778
+Home Address:         285 Oconnor Harbor, North Amanda, NV 39255
+Marital Status:       Domestic Partnership
+Occupation:           Video editor
+Religious Preference: Sikhism
+National ID / SSN:    118-56-6060
+Insurance Policy No:  BLU-38748452
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Primary Emergency Contact:
+Kimberly Gibson (Adult Child) - Phone: 001-986-420-9593x51863
+
+CLINICAL & ALLERGY INFORMATION
+--------------------------------------------------------------------------------
+Known Drug & Environmental Allergies:
+Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
+
+CURRENT MEDICATIONS & DOSAGES
+--------------------------------------------------------------------------------
+Active Prescriptions & Supplements:
+Omeprazole 20mg PO daily before breakfast, Calcium + Vitamin D supplement.
+
+PAST MEDICAL & SURGICAL HISTORY
+--------------------------------------------------------------------------------
+Diagnosed Conditions & Previous Surgeries:
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
+
+--------------------------------------------------------------------------------
+PATIENT ACKNOWLEDGMENT:
+I acknowledge that the medical information submitted above is accurate for
+the purpose of healthcare evaluation, clinical diagnosis, and safe treatment.
+================================================================================

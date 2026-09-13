@@ -1,0 +1,260 @@
+{
+  "doc_id": "job_087",
+  "document_type": "job_application",
+  "split": "test",
+  "is_ocr": true,
+  "ocr_text": "STANDARD EMPLOYMENT APPLICATION  FORM\nAPPLICANT IDENTIFICATION\nCONTACT INFORMATION\nFull Name : Date of Birth: Gender: Marital Status: Religious Belief: Nacional ID SSN: Email Address: Phone Number: Home Address\nGuy Bradley April 12, 1970 Non-Binary Divorced Judaism 698-58-7086 guy.bradleylgmail.com 703-593-0870 250 Dylan Squares Apt . 185 , West Janetfurt, OR 13743\nTARGET POSITION\nPosition Applied For: Data Scientist\nEDUCATION\nACADEMIC CREDENTIALS\nHighest Degree Major: MBA University of Washington (Graduated 2014)\nPROFESSIONAL EXPERIENCE\nWORK HISTORY\nRecent Experience: Data Scientist at Hart and Sons (2023 Present) Led cross-functional iniciatives improving project throughput by 288 2 . Associate Specialist at Weaver-Thompson (2017 2021) Managed key deliverables analyzed system data and automated workflows\nSKILLS\nCORE COMPETENCIES\nTechnical Professional Skills: Python, SQL, PyTorch, Docker, Kubernetes AWS Cloud Architecture\nDECLARATION: I hereby certify that che information provided in chis employment application is accurate, crue, and complete co che best of my knowledge .",
+  "text_length": 1090,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "STANDARD EMPLOYMENT APPLICATION  FORM\nAPPLICANT",
+      "predicted_span": [
+        0,
+        47
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_DOB",
+      "field_type": "date_of_birth",
+      "predicted_text": "April 12, 1970",
+      "predicted_span": [
+        223,
+        237
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_GENDER",
+      "field_type": "gender",
+      "predicted_text": "Non-Binary",
+      "predicted_span": [
+        238,
+        248
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Non-Binary",
+      "predicted_span": [
+        238,
+        248
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Divorced",
+      "predicted_span": [
+        249,
+        257
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Judaism",
+      "predicted_span": [
+        258,
+        265
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "698-58-7086",
+      "predicted_span": [
+        266,
+        277
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "guy.bradleylgmail.com",
+      "predicted_span": [
+        278,
+        299
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "703-593-0870",
+      "predicted_span": [
+        300,
+        312
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "0870 250 Dylan Squares Apt . 185 , West Janetfurt, OR 13743",
+      "predicted_span": [
+        308,
+        367
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Dylan Squares Apt",
+      "predicted_span": [
+        317,
+        334
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "West Janetfurt",
+      "predicted_span": [
+        343,
+        357
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "13743",
+      "predicted_span": [
+        362,
+        367
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Position Applied For: Data Scientist\nEDUCATION\nACADEMIC CREDENTIALS\nHighest Degree Major",
+      "predicted_span": [
+        384,
+        472
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "MBA University of Washington",
+      "predicted_span": [
+        474,
+        502
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2014",
+      "predicted_span": [
+        514,
+        518
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Data Scientist",
+      "predicted_span": [
+        576,
+        590
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2023",
+      "predicted_span": [
+        609,
+        613
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Weaver-Thompson",
+      "predicted_span": [
+        720,
+        735
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2017 2021",
+      "predicted_span": [
+        737,
+        746
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "Python, SQL, PyTorch, Docker, Kubernetes AWS Cloud Architecture",
+      "predicted_span": [
+        874,
+        937
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "SQL",
+      "predicted_span": [
+        882,
+        885
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "PyTorch",
+      "predicted_span": [
+        887,
+        894
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Docker",
+      "predicted_span": [
+        896,
+        902
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "che",
+      "predicted_span": [
+        973,
+        976
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

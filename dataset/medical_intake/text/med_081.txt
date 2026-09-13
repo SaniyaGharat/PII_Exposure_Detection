@@ -1,0 +1,41 @@
+================================================================================
+                    PATIENT CLINICAL INTAKE & ADMISSION FORM
+================================================================================
+
+PATIENT DEMOGRAPHIC INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Katherine Young
+Date of Birth:        August 03, 1981
+Phone Number:         3057452280
+Home Address:         93183 Scott Junctions Suite 084, Port Hannah, NY 79706
+Marital Status:       Domestic Partnership
+Occupation:           Medical illustrator
+Religious Preference: Sikhism
+National ID / SSN:    659-55-5331
+Insurance Policy No:  KSR-74985553
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Primary Emergency Contact:
+Michelle House (Adult Child) - Phone: 371.519.9180x812
+
+CLINICAL & ALLERGY INFORMATION
+--------------------------------------------------------------------------------
+Known Drug & Environmental Allergies:
+Sulfa antibiotics (severe skin reaction), Latex.
+
+CURRENT MEDICATIONS & DOSAGES
+--------------------------------------------------------------------------------
+Active Prescriptions & Supplements:
+Metformin 500mg PO BID with meals, Glipizide 5mg daily.
+
+PAST MEDICAL & SURGICAL HISTORY
+--------------------------------------------------------------------------------
+Diagnosed Conditions & Previous Surgeries:
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
+
+--------------------------------------------------------------------------------
+PATIENT ACKNOWLEDGMENT:
+I acknowledge that the medical information submitted above is accurate for
+the purpose of healthcare evaluation, clinical diagnosis, and safe treatment.
+================================================================================

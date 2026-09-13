@@ -1,0 +1,41 @@
+================================================================================
+                    PATIENT CLINICAL INTAKE & ADMISSION FORM
+================================================================================
+
+PATIENT DEMOGRAPHIC INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Brandy Miller
+Date of Birth:        December 11, 1973
+Phone Number:         753.990.7895x67766
+Home Address:         6027 Joseph Club Suite 148, Port Joshuabury, CT 16044
+Marital Status:       Married
+Occupation:           Hydrographic surveyor
+Religious Preference: Prefer not to disclose
+National ID / SSN:    183-77-8319
+Insurance Policy No:  KSR-58557943
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Primary Emergency Contact:
+Andrew Gonzalez (Parent) - Phone: 654.244.3928
+
+CLINICAL & ALLERGY INFORMATION
+--------------------------------------------------------------------------------
+Known Drug & Environmental Allergies:
+Penicillin (rash, hives), Shellfish (mild itching).
+
+CURRENT MEDICATIONS & DOSAGES
+--------------------------------------------------------------------------------
+Active Prescriptions & Supplements:
+Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.
+
+PAST MEDICAL & SURGICAL HISTORY
+--------------------------------------------------------------------------------
+Diagnosed Conditions & Previous Surgeries:
+Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
+
+--------------------------------------------------------------------------------
+PATIENT ACKNOWLEDGMENT:
+I acknowledge that the medical information submitted above is accurate for
+the purpose of healthcare evaluation, clinical diagnosis, and safe treatment.
+================================================================================

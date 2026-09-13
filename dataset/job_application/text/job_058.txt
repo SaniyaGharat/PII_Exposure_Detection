@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Michael Parker
+Date of Birth:        January 13, 1972
+Gender:               Non-Binary
+Marital Status:       Single
+Religious Belief:     Unaffiliated
+National ID / SSN:    229-45-1745
+Email Address:        michael.parker@yahoo.com
+Phone Number:         +1-801-770-4622
+Home Address:         6182 Wilson Plain Suite 823, Port Andrewport, NH 88777
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: Data Scientist
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+B.A. in Economics - University of Texas at Austin (Graduated 2013)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. Data Scientist at Foster Inc (2022 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Robinson, Jones and Henderson (2018 - 2021)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

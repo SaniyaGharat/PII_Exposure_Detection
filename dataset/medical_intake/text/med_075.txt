@@ -1,0 +1,41 @@
+================================================================================
+                    PATIENT CLINICAL INTAKE & ADMISSION FORM
+================================================================================
+
+PATIENT DEMOGRAPHIC INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Mary Yates
+Date of Birth:        April 26, 1947
+Phone Number:         920.832.0742
+Home Address:         0758 Ellis Creek, North Michael, IL 37740
+Marital Status:       Married
+Occupation:           Land/geomatics surveyor
+Religious Preference: Agnostic
+National ID / SSN:    731-48-6511
+Insurance Policy No:  KSR-78412668
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Primary Emergency Contact:
+Christopher Hicks (Sibling) - Phone: 999-339-0892x613
+
+CLINICAL & ALLERGY INFORMATION
+--------------------------------------------------------------------------------
+Known Drug & Environmental Allergies:
+No Known Drug Allergies (NKDA), No known environmental allergies.
+
+CURRENT MEDICATIONS & DOSAGES
+--------------------------------------------------------------------------------
+Active Prescriptions & Supplements:
+Omeprazole 20mg PO daily before breakfast, Calcium + Vitamin D supplement.
+
+PAST MEDICAL & SURGICAL HISTORY
+--------------------------------------------------------------------------------
+Diagnosed Conditions & Previous Surgeries:
+No significant past medical history. Non-smoker, no past surgeries.
+
+--------------------------------------------------------------------------------
+PATIENT ACKNOWLEDGMENT:
+I acknowledge that the medical information submitted above is accurate for
+the purpose of healthcare evaluation, clinical diagnosis, and safe treatment.
+================================================================================

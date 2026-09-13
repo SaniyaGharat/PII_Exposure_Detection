@@ -1,0 +1,41 @@
+================================================================================
+                    PATIENT CLINICAL INTAKE & ADMISSION FORM
+================================================================================
+
+PATIENT DEMOGRAPHIC INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Jennifer Costa
+Date of Birth:        February 01, 1987
+Phone Number:         5418379772
+Home Address:         298 Jackson Spur, Sandrashire, CA 30623
+Marital Status:       Married
+Occupation:           Conservator, furniture
+Religious Preference: Sikhism
+National ID / SSN:    897-31-2251
+Insurance Policy No:  KSR-94989976
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Primary Emergency Contact:
+Carlos Smith (Sibling) - Phone: 386.929.1279x90881
+
+CLINICAL & ALLERGY INFORMATION
+--------------------------------------------------------------------------------
+Known Drug & Environmental Allergies:
+Penicillin (rash, hives), Shellfish (mild itching).
+
+CURRENT MEDICATIONS & DOSAGES
+--------------------------------------------------------------------------------
+Active Prescriptions & Supplements:
+Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.
+
+PAST MEDICAL & SURGICAL HISTORY
+--------------------------------------------------------------------------------
+Diagnosed Conditions & Previous Surgeries:
+Hypothyroidism (stable on levothyroxine), Migraines with aura.
+
+--------------------------------------------------------------------------------
+PATIENT ACKNOWLEDGMENT:
+I acknowledge that the medical information submitted above is accurate for
+the purpose of healthcare evaluation, clinical diagnosis, and safe treatment.
+================================================================================

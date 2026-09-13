@@ -1,0 +1,150 @@
+{
+    "document_id": "med_089",
+    "document_type": "medical_intake",
+    "document_purpose": "To collect relevant patient information required for medical assessment, diagnosis, treatment, and healthcare administration.",
+    "fields": [
+        {
+            "field_type": "full_name",
+            "field_name": "Patient Full Name",
+            "field_value": "Tonya Oliver",
+            "necessity_label": "necessary",
+            "reason": "Essential for patient identification, medical record linkage, and preventing catastrophic misidentification in clinical care.",
+            "span": {
+                "start": 359,
+                "end": 371
+            }
+        },
+        {
+            "field_type": "date_of_birth",
+            "field_name": "Date of Birth",
+            "field_value": "February 19, 1988",
+            "necessity_label": "necessary",
+            "reason": "Crucial for clinical safety, age-dependent pharmaceutical dosage calculations, developmental assessment, and primary patient record matching.",
+            "span": {
+                "start": 394,
+                "end": 411
+            }
+        },
+        {
+            "field_type": "phone",
+            "field_name": "Phone Number",
+            "field_value": "(500)674-9465",
+            "necessity_label": "necessary",
+            "reason": "Required for appointment reminders, urgent clinical test result notifications, and post-procedure follow-ups.",
+            "span": {
+                "start": 434,
+                "end": 447
+            }
+        },
+        {
+            "field_type": "home_address",
+            "field_name": "Home Address",
+            "field_value": "89141 Hale Village, Lake Angela, KY 57119",
+            "necessity_label": "contextual",
+            "reason": "Used for patient billing, demographic analysis, and local public health reporting, though secondary to immediate clinical diagnosis.",
+            "span": {
+                "start": 470,
+                "end": 511
+            }
+        },
+        {
+            "field_type": "marital_status",
+            "field_name": "Marital Status",
+            "field_value": "Divorced",
+            "necessity_label": "contextual",
+            "reason": "May provide helpful context regarding home support network and surrogate decision-makers, but not universally necessary for diagnostics.",
+            "span": {
+                "start": 534,
+                "end": 542
+            }
+        },
+        {
+            "field_type": "occupation",
+            "field_name": "Occupation",
+            "field_value": "Accountant, chartered management",
+            "necessity_label": "contextual",
+            "reason": "Provides relevant context for evaluating occupational exposures, repetitive stress injuries, or physical disability accommodations.",
+            "span": {
+                "start": 565,
+                "end": 597
+            }
+        },
+        {
+            "field_type": "religion",
+            "field_name": "Religious Affiliation",
+            "field_value": "Christianity",
+            "necessity_label": "contextual",
+            "reason": "Contextual in clinical settings to respect medical restrictions (e.g., blood transfusions, dietary rules, end-of-life pastoral care), but optional.",
+            "span": {
+                "start": 620,
+                "end": 632
+            }
+        },
+        {
+            "field_type": "national_id",
+            "field_name": "National ID / SSN",
+            "field_value": "109-48-2758",
+            "necessity_label": "unnecessary",
+            "reason": "Standard government national IDs are unnecessary when unique Medical Record Numbers (MRN) or insurance IDs exist, creating avoidable exposure.",
+            "span": {
+                "start": 655,
+                "end": 666
+            }
+        },
+        {
+            "field_type": "insurance_number",
+            "field_name": "Health Insurance Policy Number",
+            "field_value": "AET-48193218",
+            "necessity_label": "contextual",
+            "reason": "Necessary for healthcare claims billing and insurance verification, but not strictly required for emergency or direct self-pay clinical triage.",
+            "span": {
+                "start": 689,
+                "end": 701
+            }
+        },
+        {
+            "field_type": "emergency_contact",
+            "field_name": "Emergency Contact",
+            "field_value": "Jonathan Pham (Parent) - Phone: +1-254-974-3553x79502",
+            "necessity_label": "necessary",
+            "reason": "Vital in acute medical situations, patient incapacitation, or urgent medical decisions where patient proxy consent is needed.",
+            "span": {
+                "start": 829,
+                "end": 882
+            }
+        },
+        {
+            "field_type": "allergies",
+            "field_name": "Allergies & Sensitivities",
+            "field_value": "Aspirin (bronchospasm), Codeine (nausea).",
+            "necessity_label": "necessary",
+            "reason": "High-priority safety data required to prevent life-threatening anaphylaxis, drug allergies, and cross-reactive interventions.",
+            "span": {
+                "start": 1034,
+                "end": 1075
+            }
+        },
+        {
+            "field_type": "current_medications",
+            "field_name": "Current Medications",
+            "field_value": "None reported / Over-the-counter multivitamins only.",
+            "necessity_label": "necessary",
+            "reason": "Critical for preventing adverse drug-drug interactions, polypharmacy complications, and dosage conflicts.",
+            "span": {
+                "start": 1224,
+                "end": 1276
+            }
+        },
+        {
+            "field_type": "medical_history",
+            "field_name": "Past Medical History",
+            "field_value": "Hypothyroidism (stable on levothyroxine), Migraines with aura.",
+            "necessity_label": "necessary",
+            "reason": "Essential clinical context for differential diagnosis, identifying chronic comorbidities, and planning safe therapeutic interventions.",
+            "span": {
+                "start": 1434,
+                "end": 1496
+            }
+        }
+    ]
+}

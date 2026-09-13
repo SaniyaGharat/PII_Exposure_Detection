@@ -1,0 +1,41 @@
+================================================================================
+                    PATIENT CLINICAL INTAKE & ADMISSION FORM
+================================================================================
+
+PATIENT DEMOGRAPHIC INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Gregory Shea
+Date of Birth:        January 22, 2008
+Phone Number:         (990)978-2633x3738
+Home Address:         53663 Cole Point Apt. 529, West Sherry, AL 66010
+Marital Status:       Domestic Partnership
+Occupation:           Engineer, energy
+Religious Preference: Unaffiliated
+National ID / SSN:    307-83-9792
+Insurance Policy No:  BLU-32083803
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Primary Emergency Contact:
+Sandra Morgan (Spouse) - Phone: (866)884-5909x02259
+
+CLINICAL & ALLERGY INFORMATION
+--------------------------------------------------------------------------------
+Known Drug & Environmental Allergies:
+Peanuts (anaphylaxis - carries EpiPen), Tree nuts.
+
+CURRENT MEDICATIONS & DOSAGES
+--------------------------------------------------------------------------------
+Active Prescriptions & Supplements:
+Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.
+
+PAST MEDICAL & SURGICAL HISTORY
+--------------------------------------------------------------------------------
+Diagnosed Conditions & Previous Surgeries:
+Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
+
+--------------------------------------------------------------------------------
+PATIENT ACKNOWLEDGMENT:
+I acknowledge that the medical information submitted above is accurate for
+the purpose of healthcare evaluation, clinical diagnosis, and safe treatment.
+================================================================================

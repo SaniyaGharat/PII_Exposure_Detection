@@ -1,0 +1,270 @@
+{
+  "doc_id": "job_029",
+  "document_type": "job_application",
+  "split": "test",
+  "is_ocr": true,
+  "ocr_text": "STANDARD EMPLOYMENT APPLICATION FORM\nAPPLICANT IDENTIFICATION\nCONTACT INFORMATION\nFull Name Date of Birch: Gender: Marital Status: Religious Belief: National ID SSM: Email Address Phone   Number: Home Address\nScott Ramsey September 10 , 1985 Non-Binary Married Hinduism 281-62-1406 scott.ramsey@gmail com +1-517-954-9651 317 Banks Crescent Apt . 004, Wilsonbury, FM 70958\nTARGET POSITION\nPosition Applied For: Financial Analyst\nEDUCATION &  ACADEMIC CREDENTIALS\nHighest Degree Major: B.A. in Economics Georgia Insticute of Technology (Graduated 2015)\nPROFESSIONAL EXPERIENCE\nWORK HISTORY\nRecent Experience: 1 . Financial Analyst at Coffey-Ballard (2023 Present) Led cross-functional initiatives, improving project throughput by 288 Associate Specialist at Davis-Foster (2020 2020) Managed key deliverables, analyzed system data, and automated workflows\nSKILLS\nCORE COMPETENCIES\nTechnical Professional Skills: Financial Modeling, Risk Analysis , Bloomberg Terminal, Advanced Excel, CFA Level II\nDECLARATION: hereby certify chat the information provided in this employment application is accurate, true, and complete co the best of my knowledge",
+  "text_length": 1142,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "STANDARD EMPLOYMENT APPLICATION",
+      "predicted_span": [
+        0,
+        31
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Scott Ramsey",
+      "predicted_span": [
+        209,
+        221
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "September 10 , 1985",
+      "predicted_span": [
+        222,
+        241
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Non-Binary Married",
+      "predicted_span": [
+        242,
+        260
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_GENDER",
+      "field_type": "gender",
+      "predicted_text": "Non-Binary",
+      "predicted_span": [
+        242,
+        252
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Married",
+      "predicted_span": [
+        253,
+        260
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Hinduism",
+      "predicted_span": [
+        261,
+        269
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "281-62-1406",
+      "predicted_span": [
+        270,
+        281
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "NRP",
+      "field_type": "nrp",
+      "predicted_text": "+1-517",
+      "predicted_span": [
+        305,
+        311
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "+1-517-954-9651",
+      "predicted_span": [
+        305,
+        320
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "9651 317 Banks Crescent Apt . 004, Wilsonbury, FM 70958",
+      "predicted_span": [
+        316,
+        371
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Wilsonbury",
+      "predicted_span": [
+        351,
+        361
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Position Applied For: Financial Analyst\nEDUCATION &  ACADEMIC CREDENTIALS\nHighest Degree Major",
+      "predicted_span": [
+        388,
+        482
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "EDUCATION &  ACADEMIC CREDENTIALS\nHighest Degree",
+      "predicted_span": [
+        428,
+        476
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "B.A.",
+      "predicted_span": [
+        484,
+        488
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Economics Georgia Insticute of Technology",
+      "predicted_span": [
+        492,
+        533
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2015",
+      "predicted_span": [
+        545,
+        549
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Financial Analyst",
+      "predicted_span": [
+        611,
+        628
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Coffey-Ballard",
+      "predicted_span": [
+        632,
+        646
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2023",
+      "predicted_span": [
+        648,
+        652
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Davis-Foster",
+      "predicted_span": [
+        756,
+        768
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2020 2020",
+      "predicted_span": [
+        770,
+        779
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "Financial Modeling, Risk Analysis , Bloomberg Terminal, Advanced Excel, CFA Level II",
+      "predicted_span": [
+        909,
+        993
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Bloomberg Terminal",
+      "predicted_span": [
+        945,
+        963
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Advanced Excel",
+      "predicted_span": [
+        965,
+        979
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CFA Level II",
+      "predicted_span": [
+        981,
+        993
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "doc_id": "job_076",
+  "document_type": "job_application",
+  "split": "test",
+  "is_ocr": true,
+  "ocr_text": "STANDARD EMPLOYMENT APPLICATION FORM\nAPPLICANT IDENTIFICATION\nCONTACT  INFORMATION\nFull Name Date of Birch: Gender: Marital Scatus: Religious Belief: National ID SSN: Email Address: Phone Number: Home Address\nEric Baxter December 17 , 1978 Male Widowed Islam 638-68-1251 eric.baxter@gmail.com 9643361103 700 Montoya Wall, Bensonfort, CA  30509\nTARGET   POSITION\nPosition Applied For: Database Administrator\nEDUCATION\nACADEMIC CREDENTIALS\nHighest Degree Sajence University of Michigan  (Graduated 2018) B . S in Computer PROFESSIONAL EXPERIENCE WORK HISTORY\nRecent Experience Dacabase Administrator at Davis-Ward (2023 Present) cross-functional initiatives, improving project chroughput by 288 Led Associate Specialist at Watson Ltd (2019 2020) 2 . deliverables, analyzed system data, and automated workflows Managed key\nSKILLS\nCORE COMPETENCIES\nTechnical Professional Skills: Tableau, Data Pipelines, Predictive Modeling Statistical Analysis, R,\nDECLARATION hereby certify that the information provided in this employment application accurate, true, and complete co the best of my knowledge _ is",
+  "text_length": 1095,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "STANDARD EMPLOYMENT APPLICATION",
+      "predicted_span": [
+        0,
+        31
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Eric Baxter",
+      "predicted_span": [
+        209,
+        220
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "December 17 , 1978",
+      "predicted_span": [
+        221,
+        239
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_GENDER",
+      "field_type": "gender",
+      "predicted_text": "Male",
+      "predicted_span": [
+        240,
+        244
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Widowed",
+      "predicted_span": [
+        245,
+        252
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Islam",
+      "predicted_span": [
+        253,
+        258
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "638-68-1251",
+      "predicted_span": [
+        259,
+        270
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "eric.baxter@gmail.com",
+      "predicted_span": [
+        271,
+        292
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "eric.ba",
+      "predicted_span": [
+        271,
+        278
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "gmail.com",
+      "predicted_span": [
+        283,
+        292
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "9643361103",
+      "predicted_span": [
+        293,
+        303
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "9643361103",
+      "predicted_span": [
+        293,
+        303
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Montoya Wall",
+      "predicted_span": [
+        308,
+        320
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Bensonfort",
+      "predicted_span": [
+        322,
+        332
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TARGET",
+      "predicted_span": [
+        344,
+        350
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Position Applied For: Database Administrator\nEDUCATION\nACADEMIC CREDENTIALS\nHighest Degree Sajence University of Michigan  ",
+      "predicted_span": [
+        362,
+        485
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Highest Degree Sajence University",
+      "predicted_span": [
+        438,
+        471
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2018",
+      "predicted_span": [
+        496,
+        500
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Davis-Ward",
+      "predicted_span": [
+        601,
+        611
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2023",
+      "predicted_span": [
+        613,
+        617
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Led Associate Specialist",
+      "predicted_span": [
+        693,
+        717
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Watson Ltd",
+      "predicted_span": [
+        721,
+        731
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2019 2020",
+      "predicted_span": [
+        733,
+        742
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "deliverables",
+      "predicted_span": [
+        748,
+        760
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Data Pipelines",
+      "predicted_span": [
+        885,
+        899
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "Statistical Analysis, R,",
+      "predicted_span": [
+        921,
+        945
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "doc_id": "job_098",
+  "document_type": "job_application",
+  "split": "validation",
+  "is_ocr": true,
+  "ocr_text": "STANDARD EMPLOYMENT APPLICATION FORM\nAPPLICANT IDENTIFICATION\nCONTACT INFORMATION\nFull Name Date of Birch: Gender: Marital Status: Religious Belief: Nacional ID SSN: Email Address Phone  Number Home  Address\nJacob Richards December 07 , 1980 Prefer not Eo disclose Married Agnostic 447-68-7532 jacob.richards@hotmail com 416.784 6022x35697 75250 Shannon Fords , New Kachy, NM 12040\nTARGET POSITION\nPosition Applied For: Data Scientist\nEDUCATION\nACADEMIC CREDENTIALS\nHighest Degree Major: B.S in Computer Science\nColumbia University (Graduated 2021)\nPROFESSIONAL EXPERIENCE WORK  HISTORY\nRecent Experience: Data Scientist at York-Ruiz (2021 Present) Led cross-functional initiatives, improving project throughput 2 . by 288 _ Associate Specialist at Silva, Blackburn and Jones (2020 2021) Managed key deliverables, analyzed system data, and aucomated workflows SKILLS CORE COMPETENCIES\nTechnical Professional Skills: React , TypeScript , Node js, GraphQL, CI/CD Pipelines, Microservices\nDECLARATION : hereby certify that the information provided in this employment application 13 accurate, crue, and complete co the best of my knowledge",
+  "text_length": 1135,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "STANDARD EMPLOYMENT APPLICATION",
+      "predicted_span": [
+        0,
+        31
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Jacob Richards",
+      "predicted_span": [
+        208,
+        222
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "December 07 , 1980",
+      "predicted_span": [
+        223,
+        241
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Married",
+      "predicted_span": [
+        265,
+        272
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Agnostic",
+      "predicted_span": [
+        273,
+        281
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "447-68-7532",
+      "predicted_span": [
+        282,
+        293
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "784 6022x35697 75250 Shannon Fords , New Kachy, NM 12040",
+      "predicted_span": [
+        325,
+        381
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Shannon Fords",
+      "predicted_span": [
+        346,
+        359
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "New Kachy",
+      "predicted_span": [
+        362,
+        371
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "NM 12040",
+      "predicted_span": [
+        373,
+        381
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Position Applied For: Data Scientist\nEDUCATION\nACADEMIC CREDENTIALS\nHighest Degree Major",
+      "predicted_span": [
+        398,
+        486
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        543,
+        547
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Data Scientist",
+      "predicted_span": [
+        606,
+        620
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        635,
+        639
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Blackburn",
+      "predicted_span": [
+        756,
+        765
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Jones",
+      "predicted_span": [
+        770,
+        775
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2020 2021",
+      "predicted_span": [
+        777,
+        786
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "React , TypeScript , Node js, GraphQL, CI/CD Pipelines, Microservices",
+      "predicted_span": [
+        916,
+        985
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TypeScript",
+      "predicted_span": [
+        924,
+        934
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Node",
+      "predicted_span": [
+        937,
+        941
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "GraphQL",
+      "predicted_span": [
+        946,
+        953
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CI",
+      "predicted_span": [
+        955,
+        957
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

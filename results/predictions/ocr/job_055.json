@@ -1,0 +1,320 @@
+{
+  "doc_id": "job_055",
+  "document_type": "job_application",
+  "split": "test",
+  "is_ocr": true,
+  "ocr_text": "STANDARD EMPLOYMENT APPLICATION FORM\nAPPLICANT IDENTIFICATION\nCONTACT INFORMATION\nFull Name : Date of Birch: Gender: Marital Status: Religious Belief: National ID SSN: Email Address Phone Number Home Address\nMatthew Hall March 03 , 1970 Male Married Agnostic 808-41-6016 matthew.hallChotmail_ com (972) 440-0499*1547 3152 Wong Stravenue Apt . 054, East Cheryl, SC 53649\nTARGET POSITION\nPosition Applied For: Account Executive\nEDUCATION 6 ACADEMIC CREDENTIALS\nHighest Degree Major: MBA Carnegie Mellon University (Graduated 2017)\nPROFESSIONAL EXPERIENCE\nWORK HISTORY\nRecent Experience: 1 . Account Executive at Sharp, Zuniga and Gentry (2021 Present) Led cross-functional initiatives, improving project throughput by 288 _ Associate Specialist at Butler and Sons (201 2021) Managed key deliverables, analyzed system data, and automated workflows SKILLS CORE COMPETENCIES\nTechnical Professional Skills: Statistical Analysis, R, Tableau, Data Pipelines , Predictive Modeling\nDECLARATION: hereby certify chat the information provided in this employment application is accurate, true, and complete Eo che best of my knowledge",
+  "text_length": 1120,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "STANDARD EMPLOYMENT APPLICATION",
+      "predicted_span": [
+        0,
+        31
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Matthew Hall",
+      "predicted_span": [
+        208,
+        220
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "March 03 , 1970",
+      "predicted_span": [
+        221,
+        236
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Male Married Agnostic",
+      "predicted_span": [
+        237,
+        258
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_GENDER",
+      "field_type": "gender",
+      "predicted_text": "Male",
+      "predicted_span": [
+        237,
+        241
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Married",
+      "predicted_span": [
+        242,
+        249
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Agnostic",
+      "predicted_span": [
+        250,
+        258
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "808-41-6016",
+      "predicted_span": [
+        259,
+        270
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "(972) 440-0499",
+      "predicted_span": [
+        297,
+        311
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "440-0499",
+      "predicted_span": [
+        303,
+        311
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "1547 3152 Wong Stravenue Apt . 054, East Cheryl, SC 53649",
+      "predicted_span": [
+        312,
+        369
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "1547",
+      "predicted_span": [
+        312,
+        316
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "3152",
+      "predicted_span": [
+        317,
+        321
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "East Cheryl",
+      "predicted_span": [
+        348,
+        359
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "SC",
+      "predicted_span": [
+        361,
+        363
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Position Applied For: Account Executive\nEDUCATION 6 ACADEMIC CREDENTIALS\nHighest Degree Major",
+      "predicted_span": [
+        386,
+        479
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Executive",
+      "predicted_span": [
+        408,
+        425
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "MBA Carnegie Mellon University",
+      "predicted_span": [
+        481,
+        511
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2017",
+      "predicted_span": [
+        523,
+        527
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Account Executive",
+      "predicted_span": [
+        589,
+        606
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Executive",
+      "predicted_span": [
+        589,
+        606
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Account Executive",
+      "predicted_span": [
+        589,
+        606
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Sharp",
+      "predicted_span": [
+        610,
+        615
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Zuniga and Gentry",
+      "predicted_span": [
+        617,
+        634
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        636,
+        640
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Butler",
+      "predicted_span": [
+        746,
+        752
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Sons",
+      "predicted_span": [
+        757,
+        761
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        767,
+        771
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "Statistical Analysis, R, Tableau, Data Pipelines , Predictive Modeling",
+      "predicted_span": [
+        901,
+        971
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Tableau",
+      "predicted_span": [
+        926,
+        933
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Data Pipelines",
+      "predicted_span": [
+        935,
+        949
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

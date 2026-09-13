@@ -1,0 +1,310 @@
+{
+  "doc_id": "loan_006",
+  "document_type": "loan_application",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORROWER   PERSONAL IDENTIFICATION\nApplicant Name Adrienne White Date of Birth: July 22, 2003 Marital Status Divorced Religious Belief Hinduism Phone Number 3174130232 Email Address: adrienne whitelhotmail. com Residential Address: 81674 Jennifer Gardens , Thompsonbury, ME 37902 FINANCIAL PROFILE CREDITWORTHINESS\nEmployment Status Self-Employed Employer Name Harris, Huffman and Olson Gross Annual Income s111,000 00 USD Bank Account Number : ACCT-4287754238 Credit Score (FICO) 707 (FICO Score 8 )\nADDITIONAL DISCLOSURES\nBACKGROUND\nMedical History: Hypertension (diagnosed 2018) Mild Osteoarthritis in right knee Biometric Security Identifier: SHA256:c3307aca3662a46fb836fad6 (Bionetric Minutiae Key)\nAPPLICANT AUTHORIZATION: authorize the financial institution to investigate my credit standing and employment history to evaluate credit risk and loan eligibility_",
+  "text_length": 900,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORROWER   PERSONAL",
+      "predicted_span": [
+        0,
+        52
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_DOB",
+      "field_type": "date_of_birth",
+      "predicted_text": "July 22, 2003",
+      "predicted_span": [
+        113,
+        126
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Marital Status Divorced Religious Belief Hinduism Phone",
+      "predicted_span": [
+        127,
+        182
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Divorced",
+      "predicted_span": [
+        142,
+        150
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Hinduism",
+      "predicted_span": [
+        168,
+        176
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "3174130232",
+      "predicted_span": [
+        190,
+        200
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Residential Address",
+      "predicted_span": [
+        244,
+        263
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "81674 Jennifer Gardens , Thompsonbury, ME 37902",
+      "predicted_span": [
+        265,
+        312
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Jennifer Gardens",
+      "predicted_span": [
+        271,
+        287
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Thompsonbury",
+      "predicted_span": [
+        290,
+        302
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Self-Employed",
+      "predicted_span": [
+        366,
+        379
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Huffman",
+      "predicted_span": [
+        402,
+        409
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Olson Gross",
+      "predicted_span": [
+        414,
+        425
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "Annual",
+      "predicted_span": [
+        426,
+        432
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "USD Bank",
+      "predicted_span": [
+        452,
+        460
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number : ACCT-4287754238",
+      "predicted_span": [
+        461,
+        493
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-4287754238",
+      "predicted_span": [
+        478,
+        493
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "4287754238",
+      "predicted_span": [
+        483,
+        493
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "4287754238",
+      "predicted_span": [
+        483,
+        493
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_CREDIT_SCORE",
+      "field_type": "credit_score",
+      "predicted_text": "Credit Score (FICO) 707",
+      "predicted_span": [
+        494,
+        517
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Credit Score",
+      "predicted_span": [
+        494,
+        506
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO",
+      "predicted_span": [
+        508,
+        512
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO Score",
+      "predicted_span": [
+        519,
+        529
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Hypertension (diagnosed 2018) Mild Osteoarthritis in right knee Biometric Security Identifier: SHA256:c3307aca3662a46fb836fad6 (Bionetric Minutiae Key)",
+      "predicted_span": [
+        585,
+        736
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2018",
+      "predicted_span": [
+        609,
+        613
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Mild Osteoarthritis",
+      "predicted_span": [
+        615,
+        634
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Security Identifier: SHA256:",
+      "predicted_span": [
+        649,
+        687
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Biometric",
+      "predicted_span": [
+        649,
+        658
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "c3307aca3662a46fb836fad6",
+      "predicted_span": [
+        687,
+        711
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Minutiae Key)\nAPPLICANT AUTHORIZATION: authorize the ",
+      "predicted_span": [
+        723,
+        776
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+    "document_id": "job_024",
+    "document_type": "job_application",
+    "document_purpose": "To evaluate a candidate's qualifications, skills, education, and professional experience for potential employment.",
+    "fields": [
+        {
+            "field_type": "full_name",
+            "field_name": "Full Name",
+            "field_value": "Juan Davis",
+            "necessity_label": "necessary",
+            "reason": "Required to unambiguously identify the candidate, manage application tracking, and conduct hiring correspondence.",
+            "span": {
+                "start": 370,
+                "end": 380
+            }
+        },
+        {
+            "field_type": "date_of_birth",
+            "field_name": "Date of Birth",
+            "field_value": "April 29, 2002",
+            "necessity_label": "unnecessary",
+            "reason": "Date of birth is generally not required for evaluating qualifications during initial employment screening and may create discrimination concerns.",
+            "span": {
+                "start": 403,
+                "end": 417
+            }
+        },
+        {
+            "field_type": "gender",
+            "field_name": "Gender",
+            "field_value": "Non-Binary",
+            "necessity_label": "contextual",
+            "reason": "Gender is not required for qualification evaluation, though occasionally collected under optional equal employment opportunity (EEO) demographic monitoring.",
+            "span": {
+                "start": 440,
+                "end": 450
+            }
+        },
+        {
+            "field_type": "marital_status",
+            "field_name": "Marital Status",
+            "field_value": "Domestic Partnership",
+            "necessity_label": "unnecessary",
+            "reason": "Marital status is irrelevant to assessing job competence and creates potential exposure to marital status or gender discrimination.",
+            "span": {
+                "start": 473,
+                "end": 493
+            }
+        },
+        {
+            "field_type": "religion",
+            "field_name": "Religion",
+            "field_value": "Buddhism",
+            "necessity_label": "unnecessary",
+            "reason": "Religious beliefs are completely irrelevant to job performance and introduce unlawful bias risks under employment regulations.",
+            "span": {
+                "start": 516,
+                "end": 524
+            }
+        },
+        {
+            "field_type": "national_id",
+            "field_name": "National ID / SSN",
+            "field_value": "618-43-3170",
+            "necessity_label": "unnecessary",
+            "reason": "Government national identification numbers are unnecessary at initial screening and introduce high identity theft exposure.",
+            "span": {
+                "start": 547,
+                "end": 558
+            }
+        },
+        {
+            "field_type": "email",
+            "field_name": "Email Address",
+            "field_value": "juan.davis@yahoo.com",
+            "necessity_label": "necessary",
+            "reason": "Required as a primary electronic communication channel for interview scheduling and official employment notifications.",
+            "span": {
+                "start": 581,
+                "end": 601
+            }
+        },
+        {
+            "field_type": "phone",
+            "field_name": "Phone Number",
+            "field_value": "001-446-377-3782x639",
+            "necessity_label": "necessary",
+            "reason": "Required for direct contact, telephone screening sessions, and urgent recruitment updates.",
+            "span": {
+                "start": 624,
+                "end": 644
+            }
+        },
+        {
+            "field_type": "home_address",
+            "field_name": "Home Address",
+            "field_value": "8404 Monroe Prairie Suite 278, Reedside, WV 71729",
+            "necessity_label": "contextual",
+            "reason": "Full street address is unnecessary for initial screening (city/region suffices), but may be required for local payroll tax jurisdictions or commute assessment.",
+            "span": {
+                "start": 667,
+                "end": 716
+            }
+        },
+        {
+            "field_type": "job_title",
+            "field_name": "Position Applied For",
+            "field_value": "Database Administrator",
+            "necessity_label": "necessary",
+            "reason": "Specifies the target role against which candidate qualifications and criteria are evaluated.",
+            "span": {
+                "start": 837,
+                "end": 859
+            }
+        },
+        {
+            "field_type": "education",
+            "field_name": "Education",
+            "field_value": "M.S. in Data Analytics - Georgia Institute of Technology (Graduated 2010)",
+            "necessity_label": "necessary",
+            "reason": "Essential for verifying required academic degrees, institutional background, and formal qualifications.",
+            "span": {
+                "start": 999,
+                "end": 1072
+            }
+        },
+        {
+            "field_type": "work_history",
+            "field_name": "Work History",
+            "field_value": "1. Database Administrator at Murray Inc (2022 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Collier, Jimenez and Moran (2017 - 2020)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
+            "necessity_label": "necessary",
+            "reason": "Essential for evaluating candidate's prior professional experience, relevant responsibilities, and career trajectory.",
+            "span": {
+                "start": 1213,
+                "end": 1491
+            }
+        },
+        {
+            "field_type": "skills",
+            "field_name": "Skills & Competencies",
+            "field_value": "Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA",
+            "necessity_label": "necessary",
+            "reason": "Directly reflects technical, operational, and domain competencies required for job performance.",
+            "span": {
+                "start": 1634,
+                "end": 1715
+            }
+        }
+    ]
+}

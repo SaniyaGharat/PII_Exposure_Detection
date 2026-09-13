@@ -1,0 +1,150 @@
+{
+    "document_id": "job_038",
+    "document_type": "job_application",
+    "document_purpose": "To evaluate a candidate's qualifications, skills, education, and professional experience for potential employment.",
+    "fields": [
+        {
+            "field_type": "full_name",
+            "field_name": "Full Name",
+            "field_value": "Amanda Wood",
+            "necessity_label": "necessary",
+            "reason": "Required to unambiguously identify the candidate, manage application tracking, and conduct hiring correspondence.",
+            "span": {
+                "start": 370,
+                "end": 381
+            }
+        },
+        {
+            "field_type": "date_of_birth",
+            "field_name": "Date of Birth",
+            "field_value": "November 10, 1993",
+            "necessity_label": "unnecessary",
+            "reason": "Date of birth is generally not required for evaluating qualifications during initial employment screening and may create discrimination concerns.",
+            "span": {
+                "start": 404,
+                "end": 421
+            }
+        },
+        {
+            "field_type": "gender",
+            "field_name": "Gender",
+            "field_value": "Female",
+            "necessity_label": "contextual",
+            "reason": "Gender is not required for qualification evaluation, though occasionally collected under optional equal employment opportunity (EEO) demographic monitoring.",
+            "span": {
+                "start": 444,
+                "end": 450
+            }
+        },
+        {
+            "field_type": "marital_status",
+            "field_name": "Marital Status",
+            "field_value": "Domestic Partnership",
+            "necessity_label": "unnecessary",
+            "reason": "Marital status is irrelevant to assessing job competence and creates potential exposure to marital status or gender discrimination.",
+            "span": {
+                "start": 473,
+                "end": 493
+            }
+        },
+        {
+            "field_type": "religion",
+            "field_name": "Religion",
+            "field_value": "Buddhism",
+            "necessity_label": "unnecessary",
+            "reason": "Religious beliefs are completely irrelevant to job performance and introduce unlawful bias risks under employment regulations.",
+            "span": {
+                "start": 516,
+                "end": 524
+            }
+        },
+        {
+            "field_type": "national_id",
+            "field_name": "National ID / SSN",
+            "field_value": "835-99-7291",
+            "necessity_label": "unnecessary",
+            "reason": "Government national identification numbers are unnecessary at initial screening and introduce high identity theft exposure.",
+            "span": {
+                "start": 547,
+                "end": 558
+            }
+        },
+        {
+            "field_type": "email",
+            "field_name": "Email Address",
+            "field_value": "amanda.wood@gmail.com",
+            "necessity_label": "necessary",
+            "reason": "Required as a primary electronic communication channel for interview scheduling and official employment notifications.",
+            "span": {
+                "start": 581,
+                "end": 602
+            }
+        },
+        {
+            "field_type": "phone",
+            "field_name": "Phone Number",
+            "field_value": "298.907.9359x782",
+            "necessity_label": "necessary",
+            "reason": "Required for direct contact, telephone screening sessions, and urgent recruitment updates.",
+            "span": {
+                "start": 625,
+                "end": 641
+            }
+        },
+        {
+            "field_type": "home_address",
+            "field_name": "Home Address",
+            "field_value": "182 John Mill Suite 889, West Nathan, LA 51280",
+            "necessity_label": "contextual",
+            "reason": "Full street address is unnecessary for initial screening (city/region suffices), but may be required for local payroll tax jurisdictions or commute assessment.",
+            "span": {
+                "start": 664,
+                "end": 710
+            }
+        },
+        {
+            "field_type": "job_title",
+            "field_name": "Position Applied For",
+            "field_value": "Financial Analyst",
+            "necessity_label": "necessary",
+            "reason": "Specifies the target role against which candidate qualifications and criteria are evaluated.",
+            "span": {
+                "start": 831,
+                "end": 848
+            }
+        },
+        {
+            "field_type": "education",
+            "field_name": "Education",
+            "field_value": "MBA - Cornell University (Graduated 2023)",
+            "necessity_label": "necessary",
+            "reason": "Essential for verifying required academic degrees, institutional background, and formal qualifications.",
+            "span": {
+                "start": 988,
+                "end": 1029
+            }
+        },
+        {
+            "field_type": "work_history",
+            "field_name": "Work History",
+            "field_value": "1. Financial Analyst at Jones-Lin (2021 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Gilbert PLC (2020 - 2021)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
+            "necessity_label": "necessary",
+            "reason": "Essential for evaluating candidate's prior professional experience, relevant responsibilities, and career trajectory.",
+            "span": {
+                "start": 1170,
+                "end": 1427
+            }
+        },
+        {
+            "field_type": "skills",
+            "field_name": "Skills & Competencies",
+            "field_value": "React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices",
+            "necessity_label": "necessary",
+            "reason": "Directly reflects technical, operational, and domain competencies required for job performance.",
+            "span": {
+                "start": 1570,
+                "end": 1637
+            }
+        }
+    ]
+}

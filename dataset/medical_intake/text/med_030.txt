@@ -1,0 +1,41 @@
+================================================================================
+                    PATIENT CLINICAL INTAKE & ADMISSION FORM
+================================================================================
+
+PATIENT DEMOGRAPHIC INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Andrew Fernandez
+Date of Birth:        November 15, 1953
+Phone Number:         883-420-6799x81364
+Home Address:         1790 Baker Locks, Ayalaberg, WV 18178
+Marital Status:       Domestic Partnership
+Occupation:           Patent attorney
+Religious Preference: Buddhism
+National ID / SSN:    416-70-4178
+Insurance Policy No:  AET-86560394
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Primary Emergency Contact:
+Mr. James Duncan (Parent) - Phone: +1-398-333-1465
+
+CLINICAL & ALLERGY INFORMATION
+--------------------------------------------------------------------------------
+Known Drug & Environmental Allergies:
+Aspirin (bronchospasm), Codeine (nausea).
+
+CURRENT MEDICATIONS & DOSAGES
+--------------------------------------------------------------------------------
+Active Prescriptions & Supplements:
+Omeprazole 20mg PO daily before breakfast, Calcium + Vitamin D supplement.
+
+PAST MEDICAL & SURGICAL HISTORY
+--------------------------------------------------------------------------------
+Diagnosed Conditions & Previous Surgeries:
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
+
+--------------------------------------------------------------------------------
+PATIENT ACKNOWLEDGMENT:
+I acknowledge that the medical information submitted above is accurate for
+the purpose of healthcare evaluation, clinical diagnosis, and safe treatment.
+================================================================================

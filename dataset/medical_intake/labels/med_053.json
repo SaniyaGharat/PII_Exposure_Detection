@@ -1,0 +1,150 @@
+{
+    "document_id": "med_053",
+    "document_type": "medical_intake",
+    "document_purpose": "To collect relevant patient information required for medical assessment, diagnosis, treatment, and healthcare administration.",
+    "fields": [
+        {
+            "field_type": "full_name",
+            "field_name": "Patient Full Name",
+            "field_value": "Dominique Hamilton",
+            "necessity_label": "necessary",
+            "reason": "Essential for patient identification, medical record linkage, and preventing catastrophic misidentification in clinical care.",
+            "span": {
+                "start": 359,
+                "end": 377
+            }
+        },
+        {
+            "field_type": "date_of_birth",
+            "field_name": "Date of Birth",
+            "field_value": "June 11, 1966",
+            "necessity_label": "necessary",
+            "reason": "Crucial for clinical safety, age-dependent pharmaceutical dosage calculations, developmental assessment, and primary patient record matching.",
+            "span": {
+                "start": 400,
+                "end": 413
+            }
+        },
+        {
+            "field_type": "phone",
+            "field_name": "Phone Number",
+            "field_value": "+1-370-510-8220x781",
+            "necessity_label": "necessary",
+            "reason": "Required for appointment reminders, urgent clinical test result notifications, and post-procedure follow-ups.",
+            "span": {
+                "start": 436,
+                "end": 455
+            }
+        },
+        {
+            "field_type": "home_address",
+            "field_name": "Home Address",
+            "field_value": "956 Julie Islands Apt. 153, East Joanborough, MS 29423",
+            "necessity_label": "contextual",
+            "reason": "Used for patient billing, demographic analysis, and local public health reporting, though secondary to immediate clinical diagnosis.",
+            "span": {
+                "start": 478,
+                "end": 532
+            }
+        },
+        {
+            "field_type": "marital_status",
+            "field_name": "Marital Status",
+            "field_value": "Divorced",
+            "necessity_label": "contextual",
+            "reason": "May provide helpful context regarding home support network and surrogate decision-makers, but not universally necessary for diagnostics.",
+            "span": {
+                "start": 555,
+                "end": 563
+            }
+        },
+        {
+            "field_type": "occupation",
+            "field_name": "Occupation",
+            "field_value": "Ambulance person",
+            "necessity_label": "contextual",
+            "reason": "Provides relevant context for evaluating occupational exposures, repetitive stress injuries, or physical disability accommodations.",
+            "span": {
+                "start": 586,
+                "end": 602
+            }
+        },
+        {
+            "field_type": "religion",
+            "field_name": "Religious Affiliation",
+            "field_value": "Atheist",
+            "necessity_label": "contextual",
+            "reason": "Contextual in clinical settings to respect medical restrictions (e.g., blood transfusions, dietary rules, end-of-life pastoral care), but optional.",
+            "span": {
+                "start": 625,
+                "end": 632
+            }
+        },
+        {
+            "field_type": "national_id",
+            "field_name": "National ID / SSN",
+            "field_value": "319-88-5678",
+            "necessity_label": "unnecessary",
+            "reason": "Standard government national IDs are unnecessary when unique Medical Record Numbers (MRN) or insurance IDs exist, creating avoidable exposure.",
+            "span": {
+                "start": 655,
+                "end": 666
+            }
+        },
+        {
+            "field_type": "insurance_number",
+            "field_name": "Health Insurance Policy Number",
+            "field_value": "UHC-36867482",
+            "necessity_label": "contextual",
+            "reason": "Necessary for healthcare claims billing and insurance verification, but not strictly required for emergency or direct self-pay clinical triage.",
+            "span": {
+                "start": 689,
+                "end": 701
+            }
+        },
+        {
+            "field_type": "emergency_contact",
+            "field_name": "Emergency Contact",
+            "field_value": "Kevin Brown (Sibling) - Phone: (723)497-2652x73543",
+            "necessity_label": "necessary",
+            "reason": "Vital in acute medical situations, patient incapacitation, or urgent medical decisions where patient proxy consent is needed.",
+            "span": {
+                "start": 829,
+                "end": 879
+            }
+        },
+        {
+            "field_type": "allergies",
+            "field_name": "Allergies & Sensitivities",
+            "field_value": "Penicillin (rash, hives), Shellfish (mild itching).",
+            "necessity_label": "necessary",
+            "reason": "High-priority safety data required to prevent life-threatening anaphylaxis, drug allergies, and cross-reactive interventions.",
+            "span": {
+                "start": 1031,
+                "end": 1082
+            }
+        },
+        {
+            "field_type": "current_medications",
+            "field_name": "Current Medications",
+            "field_value": "Metformin 500mg PO BID with meals, Glipizide 5mg daily.",
+            "necessity_label": "necessary",
+            "reason": "Critical for preventing adverse drug-drug interactions, polypharmacy complications, and dosage conflicts.",
+            "span": {
+                "start": 1231,
+                "end": 1286
+            }
+        },
+        {
+            "field_type": "medical_history",
+            "field_name": "Past Medical History",
+            "field_value": "Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.",
+            "necessity_label": "necessary",
+            "reason": "Essential clinical context for differential diagnosis, identifying chronic comorbidities, and planning safe therapeutic interventions.",
+            "span": {
+                "start": 1444,
+                "end": 1509
+            }
+        }
+    ]
+}

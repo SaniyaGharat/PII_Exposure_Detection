@@ -1,0 +1,300 @@
+{
+  "doc_id": "loan_047",
+  "document_type": "loan_application",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "CONSUMER   CREDIT\nLOAN APPLICATION\nBORROWER PERSONAL IDENTIFICATION\nApplicant Name Date of Birch: Marital Status: Religious Belief: Phone Number: Email Address Residential Address\nStephanie Sucton January 23 , 1979 Divorced Unaffiliated 521-621-4614*768 stephanie sutton@gmail _ com 65423 Mcmahon Orchard, Ni cholsburgh, UT 57751\nFINANCIAL PROFILE\nCREDITWORTHINESS\nEmployment Scatus Emp loyed Full-Time Emp loyer Name Hudson , Morrow and Hoffman Gross Annual Income 854,000. 00 USD Bank Account Number: ACCT-8664105957 Credic Score (FICO) 612 (FICO Score 8 )\nADDITIONAL DISCLOSURES\nBACKGROUND\nMedical History: Gastroesophageal Reflux Disease (GERD) History of Right Wrist Fracture (2020) Biometric Security Identifier: SHA256:14730252736d566d5fd81dcl (Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: authorize che financial institution co investigate my credit standing and employment history to evaluate credit risk and loan eligibility",
+  "text_length": 938,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CONSUMER",
+      "predicted_span": [
+        0,
+        8
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Applicant Name Date of Birch",
+      "predicted_span": [
+        68,
+        96
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Stephanie Sucton",
+      "predicted_span": [
+        180,
+        196
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "January 23 , 1979",
+      "predicted_span": [
+        197,
+        214
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Divorced Unaffiliated",
+      "predicted_span": [
+        215,
+        236
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Divorced",
+      "predicted_span": [
+        215,
+        223
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Unaffiliated",
+      "predicted_span": [
+        224,
+        236
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "521-621-4614",
+      "predicted_span": [
+        237,
+        249
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "65423 Mcmahon Orchard, Ni cholsburgh, UT 57751",
+      "predicted_span": [
+        283,
+        329
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Mcmahon Orchard",
+      "predicted_span": [
+        289,
+        304
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Ni cholsburgh",
+      "predicted_span": [
+        306,
+        319
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Name Hudson",
+      "predicted_span": [
+        413,
+        424
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Morrow",
+      "predicted_span": [
+        427,
+        433
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Hoffman Gross",
+      "predicted_span": [
+        438,
+        451
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "Annual",
+      "predicted_span": [
+        452,
+        458
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "USD Bank",
+      "predicted_span": [
+        478,
+        486
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number: ACCT-8664105957",
+      "predicted_span": [
+        487,
+        518
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-8664105957",
+      "predicted_span": [
+        503,
+        518
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "8664105957",
+      "predicted_span": [
+        508,
+        518
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "8664105957",
+      "predicted_span": [
+        508,
+        518
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Credic Score",
+      "predicted_span": [
+        519,
+        531
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO",
+      "predicted_span": [
+        533,
+        537
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO Score",
+      "predicted_span": [
+        544,
+        554
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Reflux Disease (GERD) History of Right Wrist Fracture (2020) Biometric Security Identifier: SHA256:14730252736d566d5fd81dcl (Biometric Minutiae Key)",
+      "predicted_span": [
+        627,
+        775
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Right Wrist Fracture",
+      "predicted_span": [
+        660,
+        680
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2020",
+      "predicted_span": [
+        682,
+        686
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Security Identifier: SHA256:",
+      "predicted_span": [
+        688,
+        726
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: authorize ",
+      "predicted_span": [
+        752,
+        811
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Biometric Minutiae Key",
+      "predicted_span": [
+        752,
+        774
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

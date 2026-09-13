@@ -1,0 +1,320 @@
+{
+  "doc_id": "rent_041",
+  "document_type": "rental_agreement",
+  "split": "test",
+  "is_ocr": true,
+  "ocr_text": "RESIDENTIAL LEASE APPLICATION\nAGREEMENT\nPROSPECTIVE TENANT IDENTIFICATION\nTenant Full Name : Phone  Number: Email Address National ID SSN: Marital Status: Religious Belief: Current Residence\nAndrea Thomas 001-856-729-657524278 andrea. thomas@yahoo . com 604-79-6063 Married Atheist 425 Brewer Mission, North Matthew, PW   82429\nEMPLOYMENT\nFINANCIAL BACKGROUND\nEmployment Status Emp loyed Full-Time Employer Name Walton, Rodriguez and Bowman Monchly Annual Inc: 86, 584 00 monch Bank Account Number: ACCT-1387652480\nPREVIOUS TENANCY\nEMERGENCY CONTACT\nRental History Previous Address: 236 Madeline Creek, New Daletown Tenancy: 2021 2024 Landlord: Glenn Chen Rent : s3113/mo Reason for Leaving Job relocation Full security deposit returned: Yes\nEmergency Contact : Joshua Dunlap (Sibling)\nTel 001-735-871-5586x8639\nSUPPLEMENTAL TENANT   DECLARATION\nMedi cal History: Type Diabetes Mellitus (managed via diet/medication) Hyperlipidemia\nTENANT  ACKNONLEDGMENT : declare that the information stated in chis rental application is crue and complete. I grant permission to Verify rental history and employment _",
+  "text_length": 1102,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tenant Full Name",
+      "predicted_span": [
+        74,
+        90
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Andrea Thomas",
+      "predicted_span": [
+        191,
+        204
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "657524278",
+      "predicted_span": [
+        217,
+        226
+      ],
+      "confidence": 0.6
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "andrea",
+      "predicted_span": [
+        227,
+        233
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "604-79-6063",
+      "predicted_span": [
+        254,
+        265
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "current_address",
+      "predicted_text": "6063 Married Atheist 425 Brewer Mission, North Matthew, PW   82429",
+      "predicted_span": [
+        261,
+        327
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Married",
+      "predicted_span": [
+        266,
+        273
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Atheist",
+      "predicted_span": [
+        274,
+        281
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "North Matthew",
+      "predicted_span": [
+        302,
+        315
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "PW",
+      "predicted_span": [
+        317,
+        319
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Full-Time Employer Name Walton",
+      "predicted_span": [
+        388,
+        418
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Rodriguez",
+      "predicted_span": [
+        420,
+        429
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Bowman Monchly",
+      "predicted_span": [
+        434,
+        448
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "584 00",
+      "predicted_span": [
+        465,
+        471
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Bank Account Number",
+      "predicted_span": [
+        478,
+        497
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number: ACCT-1387652480",
+      "predicted_span": [
+        483,
+        514
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-1387652480",
+      "predicted_span": [
+        499,
+        514
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "1387652480",
+      "predicted_span": [
+        504,
+        514
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "1387652480",
+      "predicted_span": [
+        504,
+        514
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TENANCY",
+      "predicted_span": [
+        524,
+        531
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Madeline Creek",
+      "predicted_span": [
+        587,
+        601
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        625,
+        629
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2024",
+      "predicted_span": [
+        630,
+        634
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Landlord",
+      "predicted_span": [
+        635,
+        643
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Glenn Chen",
+      "predicted_span": [
+        645,
+        655
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Joshua Dunlap",
+      "predicted_span": [
+        762,
+        775
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Sibling",
+      "predicted_span": [
+        777,
+        784
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tel 001-735-871-5586x8639\nSUPPLEMENTAL TENANT",
+      "predicted_span": [
+        786,
+        831
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Medi cal",
+      "predicted_span": [
+        846,
+        854
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Diabetes Mellitus (managed via diet/medication) Hyperlipidemia",
+      "predicted_span": [
+        869,
+        931
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Mellitus",
+      "predicted_span": [
+        878,
+        886
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

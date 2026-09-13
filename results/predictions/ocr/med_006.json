@@ -1,0 +1,240 @@
+{
+  "doc_id": "med_006",
+  "document_type": "medical_intake",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "PATIENT CLINICAL INTAKE & ADMISSION FORM\nPATIENT DEMOGRAPHIC INFORMATION\nFull Name Mallory Page Date of Birth: June 20 , 1995 Phone Number: (287) 899-6846*081 Home Address: 03424 Thomas Circle, Jamesside , AZ 47514 Marital Status: Domestic Partnership Occupation: Food echnologist Religious Preference: Islam National ID SSN: 153-29-3579 Insurance Policy No KSR-16679008\nEMERGENCY CONTACT\nPrimary Emergency Contact Ashley Parrish (Partner) Phone: 001-283-286-3840*6665\nCLINICAL\nALLERGY INFORMATION\nKnown Drug Environmental Allergies Penicillin rash, hives) Shellfish (mild itching)\nCURRENT MEDICATIONS\nDOSAGES\nActive Prescriptions Supplements: Albuterol AFA Inhaler 9Omcg puffs PRN , Fluticasone nasal spray daily_\nPAST MEDICAL\nSURGICAL HISTORY\nDiagnosed Conditions Previous Surgeries: Gastroesophageal Reflux Disease (GERD) History of Right Wrist Fracture (2020)\nPATIENT  ACKNOWLEDGMENT : acknowledge chat the medical information submitted above is accurate for the purpose of healthcare evaluation, clinical diagnosis, and safe creatment",
+  "text_length": 1039,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "PATIENT CLINICAL INTAKE & ADMISSION FORM\nPATIENT DEMOGRAPHIC",
+      "predicted_span": [
+        0,
+        60
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "June 20 , 1995",
+      "predicted_span": [
+        111,
+        125
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "(287) 899-6846",
+      "predicted_span": [
+        140,
+        154
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "081 Home Address",
+      "predicted_span": [
+        155,
+        171
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "03424",
+      "predicted_span": [
+        173,
+        178
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Thomas Circle",
+      "predicted_span": [
+        179,
+        192
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Jamesside",
+      "predicted_span": [
+        194,
+        203
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Domestic Partnership",
+      "predicted_span": [
+        231,
+        251
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Islam National ID SSN",
+      "predicted_span": [
+        303,
+        324
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Islam",
+      "predicted_span": [
+        303,
+        308
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "153-29-3579",
+      "predicted_span": [
+        326,
+        337
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_INSURANCE_NO",
+      "field_type": "insurance_number",
+      "predicted_text": "Policy No KSR-16679008",
+      "predicted_span": [
+        348,
+        370
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_DRIVER_LICENSE",
+      "field_type": "us_driver_license",
+      "predicted_text": "16679008",
+      "predicted_span": [
+        362,
+        370
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Ashley Parrish",
+      "predicted_span": [
+        415,
+        429
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "001-283-286-3840",
+      "predicted_span": [
+        447,
+        463
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "CUSTOM_ALLERGIES",
+      "field_type": "allergies",
+      "predicted_text": "Penicillin rash, hives) Shellfish (mild itching)",
+      "predicted_span": [
+        533,
+        581
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "Albuterol AFA Inhaler 9Omcg puffs PRN , Fluticasone nasal spray daily_",
+      "predicted_span": [
+        644,
+        714
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Fluticasone",
+      "predicted_span": [
+        684,
+        695
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "daily",
+      "predicted_span": [
+        708,
+        713
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Reflux Disease (GERD) History of Right Wrist Fracture (2020)",
+      "predicted_span": [
+        803,
+        863
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Right Wrist Fracture",
+      "predicted_span": [
+        836,
+        856
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2020",
+      "predicted_span": [
+        858,
+        862
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "PATIENT",
+      "predicted_span": [
+        864,
+        871
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

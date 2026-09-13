@@ -1,0 +1,41 @@
+================================================================================
+                    PATIENT CLINICAL INTAKE & ADMISSION FORM
+================================================================================
+
+PATIENT DEMOGRAPHIC INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Amanda Forbes
+Date of Birth:        December 29, 1978
+Phone Number:         +1-960-886-8034
+Home Address:         7264 Hannah Divide Suite 718, East Kimberlyside, DC 52021
+Marital Status:       Married
+Occupation:           Medical laboratory scientific officer
+Religious Preference: Hinduism
+National ID / SSN:    139-46-8740
+Insurance Policy No:  BLU-72962895
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Primary Emergency Contact:
+Jerry White (Sibling) - Phone: 001-337-914-5211
+
+CLINICAL & ALLERGY INFORMATION
+--------------------------------------------------------------------------------
+Known Drug & Environmental Allergies:
+Aspirin (bronchospasm), Codeine (nausea).
+
+CURRENT MEDICATIONS & DOSAGES
+--------------------------------------------------------------------------------
+Active Prescriptions & Supplements:
+Levothyroxine 75mcg PO daily in morning, Sumatriptan 50mg PRN for migraine.
+
+PAST MEDICAL & SURGICAL HISTORY
+--------------------------------------------------------------------------------
+Diagnosed Conditions & Previous Surgeries:
+Hypertension (diagnosed 2018), Mild Osteoarthritis in right knee.
+
+--------------------------------------------------------------------------------
+PATIENT ACKNOWLEDGMENT:
+I acknowledge that the medical information submitted above is accurate for
+the purpose of healthcare evaluation, clinical diagnosis, and safe treatment.
+================================================================================

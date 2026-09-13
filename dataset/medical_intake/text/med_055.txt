@@ -1,0 +1,41 @@
+================================================================================
+                    PATIENT CLINICAL INTAKE & ADMISSION FORM
+================================================================================
+
+PATIENT DEMOGRAPHIC INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Brandi Phillips
+Date of Birth:        October 08, 1987
+Phone Number:         907-942-7990
+Home Address:         625 Padilla Alley, South Patriciamouth, NC 04788
+Marital Status:       Married
+Occupation:           Psychologist, occupational
+Religious Preference: Hinduism
+National ID / SSN:    470-75-4673
+Insurance Policy No:  MED-36975128
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Primary Emergency Contact:
+Paul Wolfe (Sibling) - Phone: +1-889-731-9508x501
+
+CLINICAL & ALLERGY INFORMATION
+--------------------------------------------------------------------------------
+Known Drug & Environmental Allergies:
+Sulfa antibiotics (severe skin reaction), Latex.
+
+CURRENT MEDICATIONS & DOSAGES
+--------------------------------------------------------------------------------
+Active Prescriptions & Supplements:
+Metformin 500mg PO BID with meals, Glipizide 5mg daily.
+
+PAST MEDICAL & SURGICAL HISTORY
+--------------------------------------------------------------------------------
+Diagnosed Conditions & Previous Surgeries:
+Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
+
+--------------------------------------------------------------------------------
+PATIENT ACKNOWLEDGMENT:
+I acknowledge that the medical information submitted above is accurate for
+the purpose of healthcare evaluation, clinical diagnosis, and safe treatment.
+================================================================================

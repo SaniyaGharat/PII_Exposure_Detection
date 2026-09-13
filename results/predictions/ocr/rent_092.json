@@ -1,0 +1,290 @@
+{
+  "doc_id": "rent_092",
+  "document_type": "rental_agreement",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "RESIDENTIAL LEASE APPLICATION\nAGREEMENT\nPROSPECTIVE TENANT IDENTIFICATION\nTenant Full Name Phone Number Email Address: National ID SSN : Marital Scatus: Religious Belief: Current Residence\nAnita Wagner 369 . 870.40952314 anita.wagner@gmail . com 647-89-1796 Domestic Partnership Christianity 0783 Tony Spring Apt . 565 , Port Sarahshire, AS 86829\nEMPLOYMENT\nFINANCIAL BACKGROUND\nEmployment Scatus Employed Full-Time Employer Name Wolf, Petersen and Russell Monthly Annual Inc: S7, 690.00 month Bank Account Number: ACCT-1084790270\nPREVIOUS TENANCY\nEMERGENCY   CONTACT\nRental History: Previous Address: 649 Reyes Gateway, Selenachester Tenancy 2021 2024 Landlord: Jennifer Carter Rent : s2979 /mo Reason for Leaving Job relocation Full security deposit recurned: Yes\nEmergency Contact Jesse Edwards (Sibling)\nTel: 470-728-5162\nSUPPLEMENTAL TENANT   DECLARATION\nMedical History: No significant past medical history- Non-smoker no past surgeries_\nTENANT ACKNORLEDGMENT declare chat the information stated in chis rental application 1s true and complete. grant permission to verify rental history and employment",
+  "text_length": 1107,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tenant Full Name Phone Number Email Address",
+      "predicted_span": [
+        74,
+        117
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "647-89-1796",
+      "predicted_span": [
+        246,
+        257
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "current_address",
+      "predicted_text": "1796 Domestic Partnership Christianity 0783 Tony Spring Apt . 565 , Port Sarahshire, AS 86829",
+      "predicted_span": [
+        253,
+        346
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "1796",
+      "predicted_span": [
+        253,
+        257
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Domestic Partnership Christianity",
+      "predicted_span": [
+        258,
+        291
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Domestic Partnership",
+      "predicted_span": [
+        258,
+        278
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Christianity",
+      "predicted_span": [
+        279,
+        291
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "Spring Apt",
+      "predicted_span": [
+        302,
+        312
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Port Sarahshire",
+      "predicted_span": [
+        321,
+        336
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Employed Full-Time",
+      "predicted_span": [
+        397,
+        415
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Petersen",
+      "predicted_span": [
+        436,
+        444
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Russell Monthly",
+      "predicted_span": [
+        449,
+        464
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number: ACCT-1084790270",
+      "predicted_span": [
+        499,
+        530
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-1084790270",
+      "predicted_span": [
+        515,
+        530
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "UK_NHS",
+      "field_type": "uk_nhs",
+      "predicted_text": "1084790270",
+      "predicted_span": [
+        520,
+        530
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "1084790270",
+      "predicted_span": [
+        520,
+        530
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TENANCY",
+      "predicted_span": [
+        540,
+        547
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Selenachester Tenancy",
+      "predicted_span": [
+        621,
+        642
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        643,
+        647
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2024",
+      "predicted_span": [
+        648,
+        652
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Landlord",
+      "predicted_span": [
+        653,
+        661
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Jennifer Carter",
+      "predicted_span": [
+        663,
+        678
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Reason",
+      "predicted_span": [
+        696,
+        702
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Jesse Edwards",
+      "predicted_span": [
+        784,
+        797
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Sibling",
+      "predicted_span": [
+        799,
+        806
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tel",
+      "predicted_span": [
+        808,
+        811
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "470-728-5162",
+      "predicted_span": [
+        813,
+        825
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "No significant past medical history- Non-smoker no past surgeries_",
+      "predicted_span": [
+        877,
+        943
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

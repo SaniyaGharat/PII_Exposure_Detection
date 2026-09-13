@@ -1,0 +1,260 @@
+{
+  "doc_id": "med_078",
+  "document_type": "medical_intake",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "PATIENT CLINICAL INTAKE &  ADMISSION FORM\nPATIENT DEMOGRAPHIC INFORMATION\nFull Name Nathan Hess Date 0f Birth: November 19 , 1967 Phone Number: 891-680-1722*601 Home Address 779 Peterson Well Apt . 321, Monicaville, NE 70542 Marital Stacus Widowed Occupat ion: Administrator, education Religious Preference: Hinduism National ID SSN: 797-41-1517 Insurance Policy No KSR-24749927\nEMERGENCY CONTACT\nPrimary Emergency Contact James Smith (Partner) Phone: +1-477-469-7499*5641\nCLINICAL\nALLERGY  INFORMATION\nKnown Drug Environmental Allergies: Sulfa antibiocics (severe skin reaction) Latex.\nCURRENT MEDICATIONS\nDOSAGES\nActive Prescriptions 6 Supplements: Lisinopril Omg PO daily, Atorvastatin 2Omg PO at bedtime\nPAST MEDICAL\nSURGICAL HISTORY\nDiagnosed Conditions Previous Surgeries: Gastroesophageal Reflux Disease (GERD) History of Right Wrist Fracture (2020)\nPATIENT ACKNORLEDGMENT ac knowledge chac the medical information submitted above 15 accurace for the purpose of healthcare evaluation, clinical diagnosis, and safe creatment",
+  "text_length": 1030,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "PATIENT CLINICAL INTAKE &  ADMISSION",
+      "predicted_span": [
+        0,
+        36
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "November 19 , 1967",
+      "predicted_span": [
+        111,
+        129
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "891-680-1722",
+      "predicted_span": [
+        144,
+        156
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "601 Home Address 779 Peterson Well Apt . 321, Monicaville, NE 70542",
+      "predicted_span": [
+        157,
+        224
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Monicaville",
+      "predicted_span": [
+        203,
+        214
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "NE 70542 Marital",
+      "predicted_span": [
+        216,
+        232
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Widowed",
+      "predicted_span": [
+        240,
+        247
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Occupat",
+      "predicted_span": [
+        248,
+        255
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Hinduism",
+      "predicted_span": [
+        308,
+        316
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "797-41-1517",
+      "predicted_span": [
+        334,
+        345
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_INSURANCE_NO",
+      "field_type": "insurance_number",
+      "predicted_text": "Policy No KSR-24749927",
+      "predicted_span": [
+        356,
+        378
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_DRIVER_LICENSE",
+      "field_type": "us_driver_license",
+      "predicted_text": "24749927",
+      "predicted_span": [
+        370,
+        378
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "James Smith",
+      "predicted_span": [
+        423,
+        434
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "NRP",
+      "field_type": "nrp",
+      "predicted_text": "+1-477",
+      "predicted_span": [
+        452,
+        458
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "5641",
+      "predicted_span": [
+        468,
+        472
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "reaction) Latex.",
+      "predicted_span": [
+        570,
+        586
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_ALLERGIES",
+      "field_type": "allergies",
+      "predicted_text": "Latex.",
+      "predicted_span": [
+        580,
+        586
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Latex",
+      "predicted_span": [
+        580,
+        585
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "Lisinopril Omg PO daily, Atorvastatin 2Omg PO at bedtime",
+      "predicted_span": [
+        651,
+        707
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Lisinopril Omg PO",
+      "predicted_span": [
+        651,
+        668
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Atorvastatin 2Omg PO",
+      "predicted_span": [
+        676,
+        696
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Reflux Disease (GERD) History of Right Wrist Fracture (2020)",
+      "predicted_span": [
+        796,
+        856
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Right Wrist Fracture",
+      "predicted_span": [
+        829,
+        849
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2020",
+      "predicted_span": [
+        851,
+        855
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "PATIENT ACKNORLEDGMENT",
+      "predicted_span": [
+        857,
+        879
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

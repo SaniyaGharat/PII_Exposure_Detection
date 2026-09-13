@@ -1,0 +1,280 @@
+{
+  "doc_id": "loan_085",
+  "document_type": "loan_application",
+  "split": "validation",
+  "is_ocr": true,
+  "ocr_text": "CONSUMER CREDIT &  LOAN APPLICATION\nBORROWER PERSONAL IDENTIFICATION\nApplicant Name Tonya Johnston Date of Birch: October 01 , 2003 Marital Stacus Married Religious Belief: Buddhism Phone  Number: 001-832-270-2164*87120 Email Address: tonya. johnstonChotmail. com Residential Address: 28866 Anderson Square, Lake Kelly, MA 44625\nFINANCIAL PROFILE\nCREDITWORTHINESS\nEmp loyment Scacus: Retired Employer Name Rodriguez, Bowen and Jones Gross Annual Income: s78, 000.00 USD Bank Account Number: ACCT-8254773516 Credic Score (FICO) 788 (FICO Score 8 )\nADDITIONAL DISCLOSURES\nBACKGROUND\nMedical History No significant past medical history. Non-smoker , no past surgeries Biometric Security Identifier: SHA256:da66d2065f4b0f14a320991d (Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: authorize che financial institution to investigate my credit standing and employment history co evaluate credit risk and loan eligibility_",
+  "text_length": 916,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CONSUMER CREDIT &  LOAN APPLICATION\nBORROWER PERSONAL",
+      "predicted_span": [
+        0,
+        53
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Applicant Name Tonya Johnston Date of Birch",
+      "predicted_span": [
+        69,
+        112
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "October 01 , 2003",
+      "predicted_span": [
+        114,
+        131
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Married",
+      "predicted_span": [
+        147,
+        154
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Buddhism",
+      "predicted_span": [
+        173,
+        181
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "001-832-270-2164",
+      "predicted_span": [
+        197,
+        213
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Residential Address",
+      "predicted_span": [
+        264,
+        283
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "28866",
+      "predicted_span": [
+        285,
+        290
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Anderson Square",
+      "predicted_span": [
+        291,
+        306
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "MA 44625",
+      "predicted_span": [
+        320,
+        328
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Scacus: Retired Employer Name Rodriguez",
+      "predicted_span": [
+        376,
+        415
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Retired",
+      "predicted_span": [
+        384,
+        391
+      ],
+      "confidence": 0.88
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Bowen",
+      "predicted_span": [
+        417,
+        422
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Jones Gross",
+      "predicted_span": [
+        427,
+        438
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "USD Bank",
+      "predicted_span": [
+        466,
+        474
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number: ACCT-8254773516",
+      "predicted_span": [
+        475,
+        506
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-8254773516",
+      "predicted_span": [
+        491,
+        506
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "8254773516",
+      "predicted_span": [
+        496,
+        506
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "8254773516",
+      "predicted_span": [
+        496,
+        506
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO",
+      "predicted_span": [
+        521,
+        525
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO Score",
+      "predicted_span": [
+        532,
+        542
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "No significant past medical history. Non-smoker , no past surgeries Biometric Security Identifier: SHA256:da66d2065f4b0f14a320991d (Biometric Minutiae Key)",
+      "predicted_span": [
+        597,
+        752
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Security Identifier: SHA256:",
+      "predicted_span": [
+        665,
+        703
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Biometric Security",
+      "predicted_span": [
+        665,
+        683
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "SHA256:da66d2065f4b0f14a320991d (Biometric Minutiae Key)",
+      "predicted_span": [
+        696,
+        752
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: authorize ",
+      "predicted_span": [
+        729,
+        788
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Biometric Minutiae Key",
+      "predicted_span": [
+        729,
+        751
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

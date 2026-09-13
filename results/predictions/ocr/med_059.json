@@ -1,0 +1,290 @@
+{
+  "doc_id": "med_059",
+  "document_type": "medical_intake",
+  "split": "test",
+  "is_ocr": true,
+  "ocr_text": "PATIENT CLINICAL INTAKE\nADMISSION FORM\nPATIENT DEMOGRAPHIC INFORMATION\nFull Name Lee Lee Date of Birch: July 09 _ 1979 Phone Number: 843.501.8718 9980 Sanders Stravenue Suite 565 , West Michaelport, NV 74036 Home  Address Marital Scacus Domestic Partnership Occupation: Therapeutic radiographer Religious Preference Christianity National ID SSN: 227-76-3507 Insurance Policy No : AET-32099899\nEMERGENCY   CONTACT\nPrimary Emergency Contacc Nicholas Wallace (Adult Child)\nPhone : (774) 326-6299x12347\nCLINICAL\nALLERGY INFORMATION\nKnown Drug Environmental Allergies: Sulfa antibiotics (severe skin reaction) Latex.\nCURRENT MEDICATIONS\nDOSAGES\nActive Prescriptions Supplements: Albuterol HFA Inhaler 9Omcg puffs PRI , Fluticasone nasal spray daily.\nPAST MEDICAL\nSURGICAL HISTORY\nDiagnosed Conditions Previous Surgeries: No Significant past medical history. Non-smoker, no past surgeries_\nPATIENT ACKNOWLEDGMENT acknowledge that the medical information submitted above i8 accurate for che of healchcare evaluation, clinical diagnosis, and safe creatment purpose",
+  "text_length": 1056,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "PATIENT CLINICAL INTAKE",
+      "predicted_span": [
+        0,
+        23
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Lee Lee Date",
+      "predicted_span": [
+        81,
+        93
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "July 09 _ 1979",
+      "predicted_span": [
+        104,
+        118
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "843.501.8718",
+      "predicted_span": [
+        133,
+        145
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "8718 9980 Sanders Stravenue Suite 565 , West Michaelport, NV 74036",
+      "predicted_span": [
+        141,
+        207
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "9980",
+      "predicted_span": [
+        146,
+        150
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "West Michaelport",
+      "predicted_span": [
+        181,
+        197
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "NV 74036 Home  Address Marital Scacus Domestic Partnership Occupation: Therapeutic",
+      "predicted_span": [
+        199,
+        281
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Domestic Partnership",
+      "predicted_span": [
+        237,
+        257
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Preference Christianity National ID SSN",
+      "predicted_span": [
+        305,
+        344
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Christianity",
+      "predicted_span": [
+        316,
+        328
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "227-76-3507",
+      "predicted_span": [
+        346,
+        357
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_INSURANCE_NO",
+      "field_type": "insurance_number",
+      "predicted_text": "Policy No : AET-32099899",
+      "predicted_span": [
+        368,
+        392
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_DRIVER_LICENSE",
+      "field_type": "us_driver_license",
+      "predicted_text": "32099899",
+      "predicted_span": [
+        384,
+        392
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Nicholas Wallace",
+      "predicted_span": [
+        439,
+        455
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Adult Child",
+      "predicted_span": [
+        457,
+        468
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "(774) 326-6299x12347",
+      "predicted_span": [
+        478,
+        498
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "CUSTOM_ALLERGIES",
+      "field_type": "allergies",
+      "predicted_text": "Sulfa antibiotics (severe skin reaction) Latex.",
+      "predicted_span": [
+        564,
+        611
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "reaction) Latex.",
+      "predicted_span": [
+        595,
+        611
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Latex",
+      "predicted_span": [
+        605,
+        610
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "Albuterol HFA Inhaler 9Omcg puffs PRI , Fluticasone nasal spray daily.",
+      "predicted_span": [
+        674,
+        744
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Inhaler",
+      "predicted_span": [
+        688,
+        695
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "PRI",
+      "predicted_span": [
+        708,
+        711
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Fluticasone",
+      "predicted_span": [
+        714,
+        725
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "daily",
+      "predicted_span": [
+        738,
+        743
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "No Significant past medical history. Non-smoker, no past surgeries_",
+      "predicted_span": [
+        816,
+        883
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "i8",
+      "predicted_span": [
+        964,
+        966
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "che",
+      "predicted_span": [
+        980,
+        983
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

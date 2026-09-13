@@ -1,0 +1,310 @@
+{
+  "doc_id": "loan_099",
+  "document_type": "loan_application",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORRONER   PERSONAL IDENTIFICATION\nApplicant Name Date of Birch: Marital Stacus Religious Belief: Phone Number Email Address: Residential Address\nVincent Wilson October 25 , 1998 Single Hinduism (666) 475-4858x1932 vincent.wilson@yahoo.com 4186 Thompson Way Suice 756 , New Anita, PW  25533\nFINANCIAL PROFILE &   CREDITWORTHINESS\nEmployment Status: Recired Employer Name Fitzpatrick Inc Gross Annual Income 8102,000 00 USD Bank Account Number: ACCT-8215470878 Credit Score (FICO) 712 (FICO Score 8 )\nADDITIONAL DISCLOSURES & BACKGROUND\nMedical History: Hypertension (diagnosed 2018) Mild Osteoarthritis in right knee\nBiometric Security Identifier: SHA256:47labdOc745528a0e60c5al3 (Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: authorize che financial institution to investigate my credit standing and employment history co evaluate credit risk and loan eligibility.",
+  "text_length": 901,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CONSUMER CREDIT\nLOAN APPLICATION",
+      "predicted_span": [
+        0,
+        32
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Applicant Name Date of Birch",
+      "predicted_span": [
+        68,
+        96
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Vincent Wilson",
+      "predicted_span": [
+        179,
+        193
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "October 25 , 1998",
+      "predicted_span": [
+        194,
+        211
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Single",
+      "predicted_span": [
+        212,
+        218
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Single Hinduism",
+      "predicted_span": [
+        212,
+        227
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Hinduism",
+      "predicted_span": [
+        219,
+        227
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "(666) 475-4858x1932",
+      "predicted_span": [
+        228,
+        247
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "vincent.wilson@yahoo.com",
+      "predicted_span": [
+        248,
+        272
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "yahoo.com",
+      "predicted_span": [
+        263,
+        272
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "4186 Thompson Way Suice 756 , New Anita, PW  25533",
+      "predicted_span": [
+        273,
+        323
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Thompson Way Suice",
+      "predicted_span": [
+        278,
+        296
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "PW",
+      "predicted_span": [
+        314,
+        316
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "25533",
+      "predicted_span": [
+        318,
+        323
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FINANCIAL PROFILE &   CREDITWORTHINESS\nEmployment Status",
+      "predicted_span": [
+        324,
+        380
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "Annual",
+      "predicted_span": [
+        426,
+        432
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "USD Bank",
+      "predicted_span": [
+        452,
+        460
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number: ACCT-8215470878",
+      "predicted_span": [
+        461,
+        492
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-8215470878",
+      "predicted_span": [
+        477,
+        492
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "8215470878",
+      "predicted_span": [
+        482,
+        492
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "8215470878",
+      "predicted_span": [
+        482,
+        492
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_CREDIT_SCORE",
+      "field_type": "credit_score",
+      "predicted_text": "Credit Score (FICO) 712",
+      "predicted_span": [
+        493,
+        516
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Credit Score",
+      "predicted_span": [
+        493,
+        505
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO",
+      "predicted_span": [
+        507,
+        511
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO Score",
+      "predicted_span": [
+        518,
+        528
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Hypertension (diagnosed 2018) Mild Osteoarthritis in right knee",
+      "predicted_span": [
+        586,
+        649
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2018",
+      "predicted_span": [
+        610,
+        614
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Mild Osteoarthritis",
+      "predicted_span": [
+        616,
+        635
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Security Identifier: SHA256:",
+      "predicted_span": [
+        650,
+        688
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: authorize ",
+      "predicted_span": [
+        714,
+        773
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

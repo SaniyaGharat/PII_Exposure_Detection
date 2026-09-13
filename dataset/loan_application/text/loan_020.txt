@@ -1,0 +1,35 @@
+================================================================================
+                    CONSUMER CREDIT & LOAN APPLICATION
+================================================================================
+
+BORROWER PERSONAL IDENTIFICATION
+--------------------------------------------------------------------------------
+Applicant Name:       William Cox
+Date of Birth:        September 29, 1997
+Marital Status:       Divorced
+Religious Belief:     Judaism
+Phone Number:         (960)434-0848
+Email Address:        william.cox@hotmail.com
+Residential Address:  585 Hailey Shore Apt. 303, West Melissa, IL 18091
+
+FINANCIAL PROFILE & CREDITWORTHINESS
+--------------------------------------------------------------------------------
+Employment Status:    Contractor / Freelancer
+Employer Name:        Vargas LLC
+Gross Annual Income:  $109,000.00 USD
+Bank Account Number:  ACCT-8081204252
+Credit Score (FICO):  731 (FICO Score 8)
+
+ADDITIONAL DISCLOSURES & BACKGROUND
+--------------------------------------------------------------------------------
+Medical History:
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
+
+Biometric Security Identifier:
+SHA256:8a9664e020de661b61d87d34 (Biometric Minutiae Key)
+
+--------------------------------------------------------------------------------
+APPLICANT AUTHORIZATION:
+I authorize the financial institution to investigate my credit standing and
+employment history to evaluate credit risk and loan eligibility.
+================================================================================

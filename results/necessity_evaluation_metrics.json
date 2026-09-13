@@ -1,0 +1,233 @@
+{
+  "alpha_grid_search": [
+    {
+      "alpha": 0.0,
+      "mae": 0.0024,
+      "rmse": 0.0259
+    },
+    {
+      "alpha": 0.1,
+      "mae": 0.0022,
+      "rmse": 0.0233
+    },
+    {
+      "alpha": 0.2,
+      "mae": 0.0019,
+      "rmse": 0.0207
+    },
+    {
+      "alpha": 0.3,
+      "mae": 0.0017,
+      "rmse": 0.0182
+    },
+    {
+      "alpha": 0.4,
+      "mae": 0.0015,
+      "rmse": 0.0156
+    },
+    {
+      "alpha": 0.5,
+      "mae": 0.0012,
+      "rmse": 0.013
+    },
+    {
+      "alpha": 0.6,
+      "mae": 0.001,
+      "rmse": 0.0104
+    },
+    {
+      "alpha": 0.7,
+      "mae": 0.0007,
+      "rmse": 0.0078
+    },
+    {
+      "alpha": 0.8,
+      "mae": 0.0005,
+      "rmse": 0.0052
+    },
+    {
+      "alpha": 0.9,
+      "mae": 0.0002,
+      "rmse": 0.0026
+    },
+    {
+      "alpha": 1.0,
+      "mae": 0.0,
+      "rmse": 0.0
+    }
+  ],
+  "optimal_alpha": 1.0,
+  "test_evaluation": {
+    "alpha": 1.0,
+    "unnecessary_threshold": 0.5,
+    "total_test_instances": 810,
+    "approaches": {
+      "rule_only": {
+        "mae": 0.0,
+        "rmse": 0.0,
+        "binary_unnecessary_precision": 1.0,
+        "binary_unnecessary_recall": 1.0,
+        "binary_unnecessary_f1": 1.0,
+        "binary_unnecessary_accuracy": 1.0
+      },
+      "ml_only": {
+        "mae": 0.0019,
+        "rmse": 0.023,
+        "binary_unnecessary_precision": 0.9326,
+        "binary_unnecessary_recall": 1.0,
+        "binary_unnecessary_f1": 0.9651,
+        "binary_unnecessary_accuracy": 0.984
+      },
+      "hybrid": {
+        "mae": 0.0,
+        "rmse": 0.0,
+        "binary_unnecessary_precision": 1.0,
+        "binary_unnecessary_recall": 1.0,
+        "binary_unnecessary_f1": 1.0,
+        "binary_unnecessary_accuracy": 1.0
+      }
+    },
+    "per_domain": {
+      "job_application": {
+        "rule_only": {
+          "count": 195,
+          "mae": 0.0,
+          "rmse": 0.0,
+          "binary_f1": 1.0
+        },
+        "ml_only": {
+          "count": 195,
+          "mae": 0.0059,
+          "rmse": 0.0459,
+          "binary_f1": 0.9836
+        },
+        "hybrid": {
+          "count": 195,
+          "mae": 0.0,
+          "rmse": 0.0,
+          "binary_f1": 1.0
+        }
+      },
+      "loan_application": {
+        "rule_only": {
+          "count": 210,
+          "mae": 0.0,
+          "rmse": 0.0,
+          "binary_f1": 1.0
+        },
+        "ml_only": {
+          "count": 210,
+          "mae": 0.0006,
+          "rmse": 0.0033,
+          "binary_f1": 1.0
+        },
+        "hybrid": {
+          "count": 210,
+          "mae": 0.0,
+          "rmse": 0.0,
+          "binary_f1": 1.0
+        }
+      },
+      "medical_intake": {
+        "rule_only": {
+          "count": 195,
+          "mae": 0.0,
+          "rmse": 0.0,
+          "binary_f1": 1.0
+        },
+        "ml_only": {
+          "count": 195,
+          "mae": 0.0004,
+          "rmse": 0.0049,
+          "binary_f1": 0.9091
+        },
+        "hybrid": {
+          "count": 195,
+          "mae": 0.0,
+          "rmse": 0.0,
+          "binary_f1": 1.0
+        }
+      },
+      "rental_agreement": {
+        "rule_only": {
+          "count": 210,
+          "mae": 0.0,
+          "rmse": 0.0,
+          "binary_f1": 1.0
+        },
+        "ml_only": {
+          "count": 210,
+          "mae": 0.0008,
+          "rmse": 0.0074,
+          "binary_f1": 0.9375
+        },
+        "hybrid": {
+          "count": 210,
+          "mae": 0.0,
+          "rmse": 0.0,
+          "binary_f1": 1.0
+        }
+      }
+    },
+    "threshold_sensitivity": {
+      "threshold_0.25": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "threshold_0.5": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "threshold_0.75": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    },
+    "disagreement_analysis": {
+      "total_disagreements": 13,
+      "disagreement_rate": 0.016,
+      "confusion_matrix_r_vs_m": [
+        [
+          617,
+          13
+        ],
+        [
+          0,
+          180
+        ]
+      ],
+      "rule_accuracy_on_disagreements": 1.0,
+      "ml_accuracy_on_disagreements": 0.0,
+      "hybrid_accuracy_on_disagreements": 1.0
+    }
+  },
+  "end_to_end_compounding_error": {
+    "clean": {
+      "total_documents": 400,
+      "total_evaluated_instances": 5400,
+      "total_gt_unnecessary": 1200,
+      "correctly_flagged_unnecessary": 1200,
+      "missed_unnecessary": 0,
+      "spurious_flagged_unnecessary": 0,
+      "end_to_end_precision": 1.0,
+      "end_to_end_recall": 1.0,
+      "end_to_end_f1": 1.0,
+      "end_to_end_accuracy": 1.0
+    },
+    "ocr": {
+      "total_documents": 100,
+      "total_evaluated_instances": 1350,
+      "total_gt_unnecessary": 300,
+      "correctly_flagged_unnecessary": 296,
+      "missed_unnecessary": 4,
+      "spurious_flagged_unnecessary": 0,
+      "end_to_end_precision": 1.0,
+      "end_to_end_recall": 0.9867,
+      "end_to_end_f1": 0.9933,
+      "end_to_end_accuracy": 0.997
+    }
+  }
+}

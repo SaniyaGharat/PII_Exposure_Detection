@@ -1,0 +1,41 @@
+================================================================================
+                    PATIENT CLINICAL INTAKE & ADMISSION FORM
+================================================================================
+
+PATIENT DEMOGRAPHIC INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Ray Boyd
+Date of Birth:        November 17, 1957
+Phone Number:         764.252.0881x4743
+Home Address:         36502 Richards Locks, North Tanya, OR 91039
+Marital Status:       Divorced
+Occupation:           Software engineer
+Religious Preference: Unaffiliated
+National ID / SSN:    485-92-6381
+Insurance Policy No:  BLU-99941500
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Primary Emergency Contact:
+Kyle Watson (Spouse) - Phone: 732-471-9500
+
+CLINICAL & ALLERGY INFORMATION
+--------------------------------------------------------------------------------
+Known Drug & Environmental Allergies:
+No Known Drug Allergies (NKDA), No known environmental allergies.
+
+CURRENT MEDICATIONS & DOSAGES
+--------------------------------------------------------------------------------
+Active Prescriptions & Supplements:
+Lisinopril 10mg PO daily, Atorvastatin 20mg PO at bedtime.
+
+PAST MEDICAL & SURGICAL HISTORY
+--------------------------------------------------------------------------------
+Diagnosed Conditions & Previous Surgeries:
+No significant past medical history. Non-smoker, no past surgeries.
+
+--------------------------------------------------------------------------------
+PATIENT ACKNOWLEDGMENT:
+I acknowledge that the medical information submitted above is accurate for
+the purpose of healthcare evaluation, clinical diagnosis, and safe treatment.
+================================================================================

@@ -1,0 +1,40 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            {{full_name}}
+Date of Birth:        {{date_of_birth}}
+Gender:               {{gender}}
+Marital Status:       {{marital_status}}
+Religious Belief:     {{religion}}
+National ID / SSN:    {{national_id}}
+Email Address:        {{email}}
+Phone Number:         {{phone}}
+Home Address:         {{home_address}}
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: {{job_title}}
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+{{education}}
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+{{work_history}}
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+{{skills}}
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

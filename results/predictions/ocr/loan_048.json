@@ -1,0 +1,260 @@
+{
+  "doc_id": "loan_048",
+  "document_type": "loan_application",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORRONER   PERSONAL IDENTIFICATION\nApplicant Name Patricia Gonzalez Date of Birth: January 24 2000 Marital Status: Widowed Religious Belief: Agnostic Phone Number +1-625-250-2727*516 Email Address patricia.gonzalez@yahoo.com Residential Address: 791 Jeffery Field, Hortonburgh, PA 49988 FINANCIAL PROFILE CREDITWORTHINESS\nEmp loyment Status Employer Name Gross Annual Income Bank Account Number Credit Score (FICO)\nEmployed Full-Time Farley Ltd 551, 000 00 USD ACCT-3238126936 664 (FICO Score 8 )\nADDITIONAL DISCLOSURES\nBACKGROUND\nMedical History: No significant past medical history _ Non-smoker , no past surgeries Biometric Security Identifier: SHA256:b4bb536183d62c0926c26250 (Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: authorize the financial institution to investigate my credit standing and employment history to evaluate credit risk and loan eligibility_",
+  "text_length": 901,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CONSUMER CREDIT\nLOAN APPLICATION",
+      "predicted_span": [
+        0,
+        32
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Applicant Name",
+      "predicted_span": [
+        68,
+        82
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Patricia Gonzalez Date",
+      "predicted_span": [
+        83,
+        105
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "January 24 2000",
+      "predicted_span": [
+        116,
+        131
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Widowed",
+      "predicted_span": [
+        148,
+        155
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Agnostic",
+      "predicted_span": [
+        174,
+        182
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "patricia.gonzalez@yahoo.com",
+      "predicted_span": [
+        230,
+        257
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "yahoo.com",
+      "predicted_span": [
+        248,
+        257
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Jeffery Field",
+      "predicted_span": [
+        283,
+        296
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Hortonburgh",
+      "predicted_span": [
+        298,
+        309
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Status Employer Name",
+      "predicted_span": [
+        367,
+        387
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO",
+      "predicted_span": [
+        442,
+        446
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Employed Full-Time",
+      "predicted_span": [
+        448,
+        466
+      ],
+      "confidence": 0.88
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Employed Full-Time Farley Ltd 551",
+      "predicted_span": [
+        448,
+        481
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-3238126936",
+      "predicted_span": [
+        494,
+        509
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "3238126936",
+      "predicted_span": [
+        499,
+        509
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "3238126936",
+      "predicted_span": [
+        499,
+        509
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO Score",
+      "predicted_span": [
+        515,
+        525
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "No significant past medical history _ Non-smoker , no past surgeries Biometric Security Identifier: SHA256:b4bb536183d62c0926c26250 (Biometric Minutiae Key)",
+      "predicted_span": [
+        581,
+        737
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Security Identifier: SHA256:",
+      "predicted_span": [
+        650,
+        688
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Biometric Security",
+      "predicted_span": [
+        650,
+        668
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "SHA256:b4bb536183d62c0926c26250 (Biometric Minutiae Key)",
+      "predicted_span": [
+        681,
+        737
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "b4bb536183d62c0926c26250",
+      "predicted_span": [
+        688,
+        712
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: authorize ",
+      "predicted_span": [
+        714,
+        773
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Biometric Minutiae Key",
+      "predicted_span": [
+        714,
+        736
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

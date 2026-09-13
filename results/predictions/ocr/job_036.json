@@ -1,0 +1,290 @@
+{
+  "doc_id": "job_036",
+  "document_type": "job_application",
+  "split": "test",
+  "is_ocr": true,
+  "ocr_text": "STANDARD EMPLOYMENT APPLICATION FORM\nAPPLICANT IDENTIFICATION\nCONTACT INFORMATION\nFull Name Date of Birth: Gender: Marital Scatus: Religious Belief: National ID SSN: Email Address: Phone Number : Home Address\nJamie Padilla December 20 _ 1968 Female Widowed Atheist 791-37-9375 jamie.padillaChotmail- com 715.496.96642160 516 John Radial Suice 816 , Juliebury, MA 22538\nTARGET POSITION\nPosition Applied For: Clinical Research Coordinator\nEDUCATION\nACADEMIC CREDENTIALS\nHighest Degree Major: M.$ in Data Analytics University of Illinois Urbana-Champaign (Graduated 2016)\nPROFESSIONAL EXPERIENCE\nWORK HISTORY\nRecent Experience: Clinical Research Coordinator at Hansen, Barnett and Gomez (2023 Present) Led cross-functional initiatives improving project throughput by 288 2 . Associate Specialist at Hensley-Williams (2019 2021) Managed key deliverables, analyzed system data, and automated workflows\nSKILLS & CORE COMPETENCIES\nTechnical Professional Skills: React, TypeScript , Node . js, GraphQL , CI/CD Pipelines, Microservices\nDECLARATION: hereby certify that the information provided in this employment application 1s accurate, crue, and complete co the best of my knowledge ===2",
+  "text_length": 1180,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "STANDARD EMPLOYMENT APPLICATION",
+      "predicted_span": [
+        0,
+        31
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Jamie Padilla",
+      "predicted_span": [
+        209,
+        222
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "December 20 _ 1968",
+      "predicted_span": [
+        223,
+        241
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Female Widowed Atheist",
+      "predicted_span": [
+        242,
+        264
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_GENDER",
+      "field_type": "gender",
+      "predicted_text": "Female",
+      "predicted_span": [
+        242,
+        248
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Widowed",
+      "predicted_span": [
+        249,
+        256
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Atheist",
+      "predicted_span": [
+        257,
+        264
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "791-37-9375",
+      "predicted_span": [
+        265,
+        276
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "jamie.pa",
+      "predicted_span": [
+        277,
+        285
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "John Radial Suice",
+      "predicted_span": [
+        325,
+        342
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Juliebury",
+      "predicted_span": [
+        349,
+        358
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "MA 22538",
+      "predicted_span": [
+        360,
+        368
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Position Applied For: Clinical Research Coordinator\nEDUCATION\nACADEMIC CREDENTIALS\nHighest Degree Major",
+      "predicted_span": [
+        385,
+        488
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Data Analytics University of Illinois Urbana-Champaign",
+      "predicted_span": [
+        497,
+        551
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2016",
+      "predicted_span": [
+        563,
+        567
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Clinical Research Coordinator",
+      "predicted_span": [
+        625,
+        654
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Barnett",
+      "predicted_span": [
+        666,
+        673
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Gomez",
+      "predicted_span": [
+        678,
+        683
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2023",
+      "predicted_span": [
+        685,
+        689
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Hensley-Williams",
+      "predicted_span": [
+        796,
+        812
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2019 2021",
+      "predicted_span": [
+        814,
+        823
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "SKILLS & CORE COMPETENCIES\nTechnical Professional Skills: React",
+      "predicted_span": [
+        897,
+        960
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "React, TypeScript , Node . js, GraphQL , CI/CD Pipelines, Microservices",
+      "predicted_span": [
+        955,
+        1026
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TypeScript",
+      "predicted_span": [
+        962,
+        972
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Node",
+      "predicted_span": [
+        975,
+        979
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "js",
+      "predicted_span": [
+        982,
+        984
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "GraphQL",
+      "predicted_span": [
+        986,
+        993
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CI",
+      "predicted_span": [
+        996,
+        998
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

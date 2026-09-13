@@ -1,0 +1,300 @@
+{
+  "doc_id": "job_012",
+  "document_type": "job_application",
+  "split": "test",
+  "is_ocr": true,
+  "ocr_text": "STANDARD EMPLOYMENT APPLICATION FORM\nAPPLICANT IDENTIFICATION\nCONTACT INFORMATION\nFull Name Dace of Birth: Gender: Marital Status: Religious Belief: Nacional ID SSN: Email Address: Phone  Number: Home   Address:\nKatie Escrada June 30 , 1993 Female Married Christianity 346-82-2290 katie estradalyahoo.com +1-729-994-6804*43699 387 Donna Haven Suite 134, Port James , AK 06558\nTARGET POSITION\nPosition Applied For Cybersecurity Analyst\nEDUCATION\nACADEMIC CREDENTIALS\nHighest Degree Major: M.S in Data Analytics Carnegie Mellon University (Graduated 2010)\nPROFESSIONAL EXPERIENCE\nWORK HISTORY\nRecent Experience 1 . Cybersecurity Analyst at Powell-Phillips (2021 Present) Led cross-functional initiatives improving project throughput by 288 2 . Associate Specialist at Lee Led (2019 2021) Managed key deliverables, analyzed system data, and automated workflows\nSKILLS 6 CORE COMPETENCIES\nTechnical Professional Skills: Pychon , SQL , PyTorch, Docker , Kubernetes, AWS Cloud Architecture\nDECLARATION: hereby certify that che information provided in this employment application 1s accurace, crue, and complete co che best of my knowledge",
+  "text_length": 1132,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "STANDARD EMPLOYMENT APPLICATION",
+      "predicted_span": [
+        0,
+        31
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Full Name Dace",
+      "predicted_span": [
+        82,
+        96
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Katie Escrada",
+      "predicted_span": [
+        212,
+        225
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "June 30 , 1993",
+      "predicted_span": [
+        226,
+        240
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Female Married Christianity",
+      "predicted_span": [
+        241,
+        268
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_GENDER",
+      "field_type": "gender",
+      "predicted_text": "Female",
+      "predicted_span": [
+        241,
+        247
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Married",
+      "predicted_span": [
+        248,
+        255
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Christianity",
+      "predicted_span": [
+        256,
+        268
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "346-82-2290",
+      "predicted_span": [
+        269,
+        280
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "estradalyahoo.com",
+      "predicted_span": [
+        287,
+        304
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "43699 387 Donna Haven Suite 134, Port James , AK 06558",
+      "predicted_span": [
+        321,
+        375
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "43699",
+      "predicted_span": [
+        321,
+        326
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Donna Haven Suite",
+      "predicted_span": [
+        331,
+        348
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Port James",
+      "predicted_span": [
+        354,
+        364
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Cybersecurity Analyst",
+      "predicted_span": [
+        413,
+        434
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Data Analytics Carnegie Mellon University",
+      "predicted_span": [
+        495,
+        536
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2010",
+      "predicted_span": [
+        548,
+        552
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Cybersecurity Analyst",
+      "predicted_span": [
+        613,
+        634
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Powell-Phillips",
+      "predicted_span": [
+        638,
+        653
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        655,
+        659
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Lee Led",
+      "predicted_span": [
+        766,
+        773
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2019 2021",
+      "predicted_span": [
+        775,
+        784
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "SQL , PyTorch, Docker , Kubernetes, AWS Cloud Architecture",
+      "predicted_span": [
+        925,
+        983
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "SQL",
+      "predicted_span": [
+        925,
+        928
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "PyTorch",
+      "predicted_span": [
+        931,
+        938
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Docker",
+      "predicted_span": [
+        940,
+        946
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Kubernetes",
+      "predicted_span": [
+        949,
+        959
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Cloud Architecture",
+      "predicted_span": [
+        965,
+        983
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "che",
+      "predicted_span": [
+        1017,
+        1020
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

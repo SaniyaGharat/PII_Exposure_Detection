@@ -1,0 +1,35 @@
+================================================================================
+                    CONSUMER CREDIT & LOAN APPLICATION
+================================================================================
+
+BORROWER PERSONAL IDENTIFICATION
+--------------------------------------------------------------------------------
+Applicant Name:       Lori Gonzalez
+Date of Birth:        September 17, 1967
+Marital Status:       Domestic Partnership
+Religious Belief:     Atheist
+Phone Number:         001-689-523-9231x260
+Email Address:        lori.gonzalez@gmail.com
+Residential Address:  93106 Warren Squares Apt. 356, Brownchester, SD 07271
+
+FINANCIAL PROFILE & CREDITWORTHINESS
+--------------------------------------------------------------------------------
+Employment Status:    Contractor / Freelancer
+Employer Name:        Cox-Hahn
+Gross Annual Income:  $63,000.00 USD
+Bank Account Number:  ACCT-1067567428
+Credit Score (FICO):  748 (FICO Score 8)
+
+ADDITIONAL DISCLOSURES & BACKGROUND
+--------------------------------------------------------------------------------
+Medical History:
+Hypothyroidism (stable on levothyroxine), Migraines with aura.
+
+Biometric Security Identifier:
+SHA256:826e1db7db1c2386b5f2ddfb (Biometric Minutiae Key)
+
+--------------------------------------------------------------------------------
+APPLICANT AUTHORIZATION:
+I authorize the financial institution to investigate my credit standing and
+employment history to evaluate credit risk and loan eligibility.
+================================================================================

@@ -1,0 +1,330 @@
+{
+  "doc_id": "rent_027",
+  "document_type": "rental_agreement",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "RESIDENTIAL LEASE APPLICATION\nAGREEMENT\nPROSPECTIVE TENANT IDENTIFICATION\nTenant Full Name Phone Number: Email Address National ID SSN: Marital Status Religious Belief: Current Residence:\nGregory Wood 001-203-217-2351*373 gregory wood@yahoo com 648-55-4401 Widowed Judaism 140 Donna Village, Traceyfurt, GU 30434\nEMPLOYMENT\nFINANCIAL BACKGROUND\nEmp loyment Scacus Contractor Freelancer Emp loyer Name Barrera Group Monthly Annual Inc: S10,160 .00 month Bank Account Number: ACCT-1515024824\nPREVIOUS TENANCY\nEMERGENCY   CONTACT\nRental History Previous Address 394 Becker Station, Jamieview Tenancy: 2021 2024 Landlord: Ryan Williams Rent : 51647 /mo Reason for Leaving= Job relocation Full security deposit recurned: Yes\nEmergency Contact: Adam Colon (Sibling)\nTel: (343) 374-9060*7231\nSUPPLEMENTAL TENANT DECLARATION\nMedical History Type 2 Diabetes Mellitus (managed via diet /medication) Hyperlipidemia\nTENANT   ACKNOWLEDGMENT declare that che information stated in this rental application 18 true and complete grant permission to verify rental history and employment",
+  "text_length": 1068,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tenant Full Name Phone",
+      "predicted_span": [
+        74,
+        96
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "001-203-217-2351",
+      "predicted_span": [
+        201,
+        217
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "648-55-4401",
+      "predicted_span": [
+        245,
+        256
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Widowed",
+      "predicted_span": [
+        257,
+        264
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Judaism",
+      "predicted_span": [
+        265,
+        272
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Donna Village",
+      "predicted_span": [
+        277,
+        290
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Traceyfurt",
+      "predicted_span": [
+        292,
+        302
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "GU",
+      "predicted_span": [
+        304,
+        306
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "30434",
+      "predicted_span": [
+        307,
+        312
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Scacus Contractor",
+      "predicted_span": [
+        357,
+        374
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Contractor",
+      "predicted_span": [
+        364,
+        374
+      ],
+      "confidence": 0.88
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Freelancer",
+      "predicted_span": [
+        375,
+        385
+      ],
+      "confidence": 0.88
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Freelancer Emp",
+      "predicted_span": [
+        375,
+        389
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Name Barrera Group",
+      "predicted_span": [
+        396,
+        414
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "Monthly",
+      "predicted_span": [
+        415,
+        422
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number: ACCT-1515024824",
+      "predicted_span": [
+        458,
+        489
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-1515024824",
+      "predicted_span": [
+        474,
+        489
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "1515024824",
+      "predicted_span": [
+        479,
+        489
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "1515024824",
+      "predicted_span": [
+        479,
+        489
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TENANCY",
+      "predicted_span": [
+        499,
+        506
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Jamieview Tenancy",
+      "predicted_span": [
+        579,
+        596
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        598,
+        602
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2024",
+      "predicted_span": [
+        603,
+        607
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Landlord",
+      "predicted_span": [
+        608,
+        616
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Ryan Williams",
+      "predicted_span": [
+        618,
+        631
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "51647",
+      "predicted_span": [
+        639,
+        644
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Leaving= Job relocation Full",
+      "predicted_span": [
+        660,
+        688
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tel",
+      "predicted_span": [
+        760,
+        763
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "(343) 374-9060",
+      "predicted_span": [
+        765,
+        779
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Diabetes Mellitus (managed via diet /medication) Hyperlipidemia",
+      "predicted_span": [
+        840,
+        903
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Mellitus",
+      "predicted_span": [
+        849,
+        857
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "che",
+      "predicted_span": [
+        941,
+        944
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

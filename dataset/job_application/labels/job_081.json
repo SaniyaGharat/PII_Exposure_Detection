@@ -1,0 +1,150 @@
+{
+    "document_id": "job_081",
+    "document_type": "job_application",
+    "document_purpose": "To evaluate a candidate's qualifications, skills, education, and professional experience for potential employment.",
+    "fields": [
+        {
+            "field_type": "full_name",
+            "field_name": "Full Name",
+            "field_value": "John Reyes",
+            "necessity_label": "necessary",
+            "reason": "Required to unambiguously identify the candidate, manage application tracking, and conduct hiring correspondence.",
+            "span": {
+                "start": 370,
+                "end": 380
+            }
+        },
+        {
+            "field_type": "date_of_birth",
+            "field_name": "Date of Birth",
+            "field_value": "December 22, 1982",
+            "necessity_label": "unnecessary",
+            "reason": "Date of birth is generally not required for evaluating qualifications during initial employment screening and may create discrimination concerns.",
+            "span": {
+                "start": 403,
+                "end": 420
+            }
+        },
+        {
+            "field_type": "gender",
+            "field_name": "Gender",
+            "field_value": "Non-Binary",
+            "necessity_label": "contextual",
+            "reason": "Gender is not required for qualification evaluation, though occasionally collected under optional equal employment opportunity (EEO) demographic monitoring.",
+            "span": {
+                "start": 443,
+                "end": 453
+            }
+        },
+        {
+            "field_type": "marital_status",
+            "field_name": "Marital Status",
+            "field_value": "Single",
+            "necessity_label": "unnecessary",
+            "reason": "Marital status is irrelevant to assessing job competence and creates potential exposure to marital status or gender discrimination.",
+            "span": {
+                "start": 476,
+                "end": 482
+            }
+        },
+        {
+            "field_type": "religion",
+            "field_name": "Religion",
+            "field_value": "Atheist",
+            "necessity_label": "unnecessary",
+            "reason": "Religious beliefs are completely irrelevant to job performance and introduce unlawful bias risks under employment regulations.",
+            "span": {
+                "start": 505,
+                "end": 512
+            }
+        },
+        {
+            "field_type": "national_id",
+            "field_name": "National ID / SSN",
+            "field_value": "453-85-5901",
+            "necessity_label": "unnecessary",
+            "reason": "Government national identification numbers are unnecessary at initial screening and introduce high identity theft exposure.",
+            "span": {
+                "start": 535,
+                "end": 546
+            }
+        },
+        {
+            "field_type": "email",
+            "field_name": "Email Address",
+            "field_value": "john.reyes@gmail.com",
+            "necessity_label": "necessary",
+            "reason": "Required as a primary electronic communication channel for interview scheduling and official employment notifications.",
+            "span": {
+                "start": 569,
+                "end": 589
+            }
+        },
+        {
+            "field_type": "phone",
+            "field_name": "Phone Number",
+            "field_value": "236-854-1951x80238",
+            "necessity_label": "necessary",
+            "reason": "Required for direct contact, telephone screening sessions, and urgent recruitment updates.",
+            "span": {
+                "start": 612,
+                "end": 630
+            }
+        },
+        {
+            "field_type": "home_address",
+            "field_name": "Home Address",
+            "field_value": "4518 Smith Flats Suite 949, South Micheal, NM 26115",
+            "necessity_label": "contextual",
+            "reason": "Full street address is unnecessary for initial screening (city/region suffices), but may be required for local payroll tax jurisdictions or commute assessment.",
+            "span": {
+                "start": 653,
+                "end": 704
+            }
+        },
+        {
+            "field_type": "job_title",
+            "field_name": "Position Applied For",
+            "field_value": "Database Administrator",
+            "necessity_label": "necessary",
+            "reason": "Specifies the target role against which candidate qualifications and criteria are evaluated.",
+            "span": {
+                "start": 825,
+                "end": 847
+            }
+        },
+        {
+            "field_type": "education",
+            "field_name": "Education",
+            "field_value": "M.S. in Data Analytics - University of Washington (Graduated 2022)",
+            "necessity_label": "necessary",
+            "reason": "Essential for verifying required academic degrees, institutional background, and formal qualifications.",
+            "span": {
+                "start": 987,
+                "end": 1053
+            }
+        },
+        {
+            "field_type": "work_history",
+            "field_name": "Work History",
+            "field_value": "1. Database Administrator at White Inc (2022 - Present)\n   - Led cross-functional initiatives, improving project throughput by 28%.\n2. Associate Specialist at Pratt, Klein and Rios (2019 - 2020)\n   - Managed key deliverables, analyzed system data, and automated workflows.",
+            "necessity_label": "necessary",
+            "reason": "Essential for evaluating candidate's prior professional experience, relevant responsibilities, and career trajectory.",
+            "span": {
+                "start": 1194,
+                "end": 1466
+            }
+        },
+        {
+            "field_type": "skills",
+            "field_name": "Skills & Competencies",
+            "field_value": "Statistical Analysis, R, Tableau, Data Pipelines, Predictive Modeling",
+            "necessity_label": "necessary",
+            "reason": "Directly reflects technical, operational, and domain competencies required for job performance.",
+            "span": {
+                "start": 1609,
+                "end": 1678
+            }
+        }
+    ]
+}

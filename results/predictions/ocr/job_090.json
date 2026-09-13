@@ -1,0 +1,260 @@
+{
+  "doc_id": "job_090",
+  "document_type": "job_application",
+  "split": "validation",
+  "is_ocr": true,
+  "ocr_text": "STANDARD EMPLOYMENT APPLICATION FORM\nAPPLICANT IDENTIFICATION\nCONTACT  INFORMATION\nFull Name Date of Birch: Gender: Marital Scacus: Religious Belief: National ID SSN: Email Address: Phone Number: Home Address\nBenjamin Mcmahon December 04, 1978 Male Divorced Buddhism 554-66-4868 benjamin.mcmahon@gmail.com +1-662-601-5336*884 69872 Michael Meadow , West Madisonfort, ID 13213\nTARGET   POSITION\nPosition Applied For: Product Manager\nEDUCATION\nACADEMIC CREDENTIALS\nHighest Degree Major: B . S in Computer Science\nCarnegie Mellon University (Graduated 2019)\nPROFESSIONAL EXPERIENCE\nWORK HISTORY\nRecent Experience Product Manager at Morgan PLC (2022 Presenc) Led cross-functional iniciacives improving project throughput by 288 Associate Specialist at Bush-Reynolds (2019 2020) 2 . analyzed system data, and automated workflows Managed key deliverables,\nSKILLS\nCORE COMPETENCIES\nTechnical Professional Skills: GCP Compliance , Electronic Health Records (EHR) HIPAA Clinical Trial Management ,\nDECLARATION I hereby certify that the information provided in this employment application 18 accurate, true, and complete co the best of my knowledge _",
+  "text_length": 1140,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "STANDARD EMPLOYMENT APPLICATION",
+      "predicted_span": [
+        0,
+        31
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Benjamin Mcmahon",
+      "predicted_span": [
+        209,
+        225
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_DOB",
+      "field_type": "date_of_birth",
+      "predicted_text": "December 04, 1978",
+      "predicted_span": [
+        226,
+        243
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_GENDER",
+      "field_type": "gender",
+      "predicted_text": "Male",
+      "predicted_span": [
+        244,
+        248
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Divorced",
+      "predicted_span": [
+        249,
+        257
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Buddhism",
+      "predicted_span": [
+        258,
+        266
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "554-66-4868",
+      "predicted_span": [
+        267,
+        278
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "benjamin.mcmahon@gmail.com",
+      "predicted_span": [
+        279,
+        305
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "benjamin.mc",
+      "predicted_span": [
+        279,
+        290
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "gmail.com",
+      "predicted_span": [
+        296,
+        305
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "NRP",
+      "field_type": "nrp",
+      "predicted_text": "+1-662",
+      "predicted_span": [
+        306,
+        312
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "+1-662-601-5336",
+      "predicted_span": [
+        306,
+        321
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Michael Meadow",
+      "predicted_span": [
+        332,
+        346
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "West Madisonfort",
+      "predicted_span": [
+        349,
+        365
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "13213",
+      "predicted_span": [
+        370,
+        375
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TARGET",
+      "predicted_span": [
+        376,
+        382
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Position Applied For: Product Manager\nEDUCATION\nACADEMIC CREDENTIALS\nHighest Degree Major",
+      "predicted_span": [
+        394,
+        483
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Carnegie Mellon University",
+      "predicted_span": [
+        511,
+        537
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2019",
+      "predicted_span": [
+        549,
+        553
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Product Manager",
+      "predicted_span": [
+        610,
+        625
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Morgan PLC",
+      "predicted_span": [
+        629,
+        639
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Bush-Reynolds",
+      "predicted_span": [
+        748,
+        761
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2019 2020",
+      "predicted_span": [
+        763,
+        772
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "HIPAA Clinical Trial Management",
+      "predicted_span": [
+        955,
+        986
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "Clinical Trial Management ,",
+      "predicted_span": [
+        961,
+        988
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

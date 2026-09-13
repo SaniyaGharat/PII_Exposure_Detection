@@ -1,0 +1,41 @@
+================================================================================
+                    PATIENT CLINICAL INTAKE & ADMISSION FORM
+================================================================================
+
+PATIENT DEMOGRAPHIC INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Mark Durham
+Date of Birth:        March 09, 1968
+Phone Number:         7035342342
+Home Address:         02410 Nicholas Turnpike, West Sharonport, NH 31977
+Marital Status:       Widowed
+Occupation:           Armed forces training and education officer
+Religious Preference: Unaffiliated
+National ID / SSN:    820-49-2923
+Insurance Policy No:  AET-59330907
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Primary Emergency Contact:
+Jaime Jackson (Parent) - Phone: 896.511.2233x86559
+
+CLINICAL & ALLERGY INFORMATION
+--------------------------------------------------------------------------------
+Known Drug & Environmental Allergies:
+No Known Drug Allergies (NKDA), No known environmental allergies.
+
+CURRENT MEDICATIONS & DOSAGES
+--------------------------------------------------------------------------------
+Active Prescriptions & Supplements:
+Metformin 500mg PO BID with meals, Glipizide 5mg daily.
+
+PAST MEDICAL & SURGICAL HISTORY
+--------------------------------------------------------------------------------
+Diagnosed Conditions & Previous Surgeries:
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
+
+--------------------------------------------------------------------------------
+PATIENT ACKNOWLEDGMENT:
+I acknowledge that the medical information submitted above is accurate for
+the purpose of healthcare evaluation, clinical diagnosis, and safe treatment.
+================================================================================

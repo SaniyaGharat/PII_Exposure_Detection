@@ -1,0 +1,240 @@
+{
+  "doc_id": "loan_021",
+  "document_type": "loan_application",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORROWER   PERSONAL IDENTIFICATION\nApplicant Name : Date of Birch: Marical Scacus Religious Belief: Phone Number: Email Address Residential Address\nDavid Dean October 04, 1965 Domestic Partnership Atheist +1-844-462-6714 david.deandhotmail.com 43598 Robert Drives, Victoriachester, MS 03897\nFINANCIAL PROFILE\nCREDITMORTHINESS\nEmployment Scacus Employer Name Gross Annual Income Bank Account Number Credit Score (FICO)\nConcractor Freelancer Jones Inc S114,000.00 USD ACCT-8901585274 682 (FICO Score 8 )\nADDITIONAL DISCLOSURES\nBACKGROUND\nMedical History: Type Diabetes Mellitus (managed via diet/medication) Hyperlipidemia\nBiometric Security Identifier: SHA256:5376576d8bc3eb478fe197ee (Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: authorize che financial institution to investigate my credit standing and employment history to evaluate credit risk and loan eligibility.",
+  "text_length": 905,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORROWER   PERSONAL",
+      "predicted_span": [
+        0,
+        52
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "David Dean",
+      "predicted_span": [
+        181,
+        191
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_DOB",
+      "field_type": "date_of_birth",
+      "predicted_text": "October 04, 1965",
+      "predicted_span": [
+        192,
+        208
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Domestic Partnership",
+      "predicted_span": [
+        209,
+        229
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Atheist",
+      "predicted_span": [
+        230,
+        237
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "+1-844-462-6714",
+      "predicted_span": [
+        238,
+        253
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "6714 david.deandhotmail.com 43598 Robert Drives, Victoriachester, MS 03897",
+      "predicted_span": [
+        249,
+        323
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "david.deandhotmail.com",
+      "predicted_span": [
+        254,
+        276
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Robert Drives",
+      "predicted_span": [
+        283,
+        296
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Victoriachester",
+      "predicted_span": [
+        298,
+        313
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "03897",
+      "predicted_span": [
+        318,
+        323
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO",
+      "predicted_span": [
+        445,
+        449
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Freelancer",
+      "predicted_span": [
+        462,
+        472
+      ],
+      "confidence": 0.88
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-8901585274",
+      "predicted_span": [
+        499,
+        514
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "8901585274",
+      "predicted_span": [
+        504,
+        514
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "8901585274",
+      "predicted_span": [
+        504,
+        514
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO Score",
+      "predicted_span": [
+        520,
+        530
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Diabetes Mellitus (managed via diet/medication) Hyperlipidemia",
+      "predicted_span": [
+        591,
+        653
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Mellitus",
+      "predicted_span": [
+        600,
+        608
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Security Identifier: SHA256:",
+      "predicted_span": [
+        654,
+        692
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "SHA256:5376576d8bc3eb478fe197ee (Biometric Minutiae Key)",
+      "predicted_span": [
+        685,
+        741
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: authorize ",
+      "predicted_span": [
+        718,
+        777
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Biometric Minutiae Key",
+      "predicted_span": [
+        718,
+        740
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

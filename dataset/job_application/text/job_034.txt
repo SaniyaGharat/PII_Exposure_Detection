@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Kenneth Aguirre
+Date of Birth:        November 23, 1985
+Gender:               Male
+Marital Status:       Divorced
+Religious Belief:     Unaffiliated
+National ID / SSN:    416-95-7691
+Email Address:        kenneth.aguirre@gmail.com
+Phone Number:         8243455022
+Home Address:         83667 Moore Inlet, Kimberlyshire, PA 11636
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: Marketing Specialist
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+MBA - Georgia Institute of Technology (Graduated 2020)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. Marketing Specialist at Villegas, Cardenas and Austin (2022 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Hawkins, Lynch and Barrett (2019 - 2020)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

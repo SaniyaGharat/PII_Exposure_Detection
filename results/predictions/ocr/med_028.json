@@ -1,0 +1,260 @@
+{
+  "doc_id": "med_028",
+  "document_type": "medical_intake",
+  "split": "test",
+  "is_ocr": true,
+  "ocr_text": "PATIENT CLINICAL INTAKE\nADMISSION FORM\nPATIENT  DEMOGRAPHIC INFORMATION\nFull Name : Corey Sandoval Date of Birch: June 27 , 1982 Phone Number: +1-828-786-1957x6122 Home Address 975 Pierce Islands, Robertchester, GU 95641 Marital Scacus Domestic Partnership Occupation: Account ing technician Religious Preference: Hinduism National ID SSN: 711-58-3527 Insurance Policy No BLU-34272734\nEMERGENCY CONTACT\nPrimary Emergency Contact: David Gardner (Sibling) Phone (484) 657-7600*4908\nCLINICAL 6 ALLERGY  INFORMATION\nKnown Drug Environmental Allergies No Known Drug Allergies (NKDA ) No known environmental allergies CURRENT MEDICATIONS DOSAGES\nActive Prescriptions 6 Supplements: Metformin 50Omg PO BID with meals , Glipizide Smg daily. PAST MEDICAL SURGICAL HISTORY\nDiagnosed Conditions Previous Surgeries: No significant past medical history Non-smoker, no past surgeries\nPATIENT ACKNOWLEDGMENT : acknowledge that the medical information submitted above is accurace for the purpose of healthcare evaluation, clinical diagnosis, and safe treatment",
+  "text_length": 1044,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "PATIENT CLINICAL INTAKE",
+      "predicted_span": [
+        0,
+        23
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "DEMOGRAPHIC",
+      "predicted_span": [
+        48,
+        59
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Corey Sandoval Date of Birch",
+      "predicted_span": [
+        84,
+        112
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "June 27 , 1982",
+      "predicted_span": [
+        114,
+        128
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "NRP",
+      "field_type": "nrp",
+      "predicted_text": "+1-828",
+      "predicted_span": [
+        143,
+        149
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "+1-828-786-1957x6122",
+      "predicted_span": [
+        143,
+        163
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Home Address 975 Pierce Islands",
+      "predicted_span": [
+        164,
+        195
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "GU",
+      "predicted_span": [
+        212,
+        214
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Marital Scacus Domestic Partnership Occupation:",
+      "predicted_span": [
+        221,
+        268
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Domestic Partnership",
+      "predicted_span": [
+        236,
+        256
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Hinduism",
+      "predicted_span": [
+        314,
+        322
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "711-58-3527",
+      "predicted_span": [
+        340,
+        351
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_INSURANCE_NO",
+      "field_type": "insurance_number",
+      "predicted_text": "Policy No BLU-34272734",
+      "predicted_span": [
+        362,
+        384
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_DRIVER_LICENSE",
+      "field_type": "us_driver_license",
+      "predicted_text": "34272734",
+      "predicted_span": [
+        376,
+        384
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "David Gardner",
+      "predicted_span": [
+        430,
+        443
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "(484) 657-7600",
+      "predicted_span": [
+        460,
+        474
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "4908",
+      "predicted_span": [
+        475,
+        479
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_ALLERGIES",
+      "field_type": "allergies",
+      "predicted_text": "No Known Drug Allergies (NKDA ) No known environmental allergies CURRENT MEDICATIONS DOSAGES",
+      "predicted_span": [
+        547,
+        639
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "No Known Drug Allergies",
+      "predicted_span": [
+        547,
+        570
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "NKDA",
+      "predicted_span": [
+        572,
+        576
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Active Prescriptions 6",
+      "predicted_span": [
+        640,
+        662
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "Metformin 50Omg PO BID with meals , Glipizide Smg daily. PAST MEDICAL SURGICAL HISTORY",
+      "predicted_span": [
+        676,
+        762
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Glipizide Smg",
+      "predicted_span": [
+        712,
+        725
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "daily",
+      "predicted_span": [
+        726,
+        731
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "No significant past medical history Non-smoker, no past surgeries",
+      "predicted_span": [
+        804,
+        869
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

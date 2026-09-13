@@ -1,0 +1,310 @@
+{
+  "doc_id": "rent_078",
+  "document_type": "rental_agreement",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "EE=S6\nRESIDENTIAL LEASE APPLICATION\nAGREEMENT\nPROSPECTIVE TENANT IDENTIFICATION\nTenant Full Name Phone Number: Email Address National ID SSN: Marital Stacus: Religious Belief: Current Residence:\nChristina Ball +1-477-498-7682*99687 christina ball@yahoo.com 383-43-5895 Married Hinduism 0858 Raymond Ferry, West Brett, KY 04419\nEMPLOYMENT\nFINANCIAL BACKGROUND\nEmployment Scatus: Recired Employer Name Greer-Walker Monthly Annual Inc: 58, 827 00 month Bank Account Number: ACCT-4287687478\nPREVIOUS TENANCY\nEMERGENCY CONTACT\nRental History: Previous Address: 9579 Anthony Crossing Apt . 482 , Melissaview Tenancy 2021 2024 Landlord: Shawna Campos Rent 53164 /mo Reason for Leaving: Job relocation Full security deposic returned: Yes\nEmergency Contact: Timothy Long (Sibling)\nTel: 001-463-625-9423\nSUPPLEMENTAL TENANT DECLARATION\nMedical History: Hypertension (diagnosed 2018) _ Mild Osteoarthritis in right knee\nTENANT ACKNORLEDGMENT : declare that the information stated in this rental application 13 crue and complete . I grant permission to verify rental history and employment .",
+  "text_length": 1079,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tenant Full Name Phone",
+      "predicted_span": [
+        80,
+        102
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Marital Stacus",
+      "predicted_span": [
+        142,
+        156
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Christina Ball +1-477-498-7682",
+      "predicted_span": [
+        195,
+        225
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "ball@yahoo.com",
+      "predicted_span": [
+        242,
+        256
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "yahoo.com",
+      "predicted_span": [
+        247,
+        256
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "383-43-5895",
+      "predicted_span": [
+        257,
+        268
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Married",
+      "predicted_span": [
+        269,
+        276
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Hinduism",
+      "predicted_span": [
+        277,
+        285
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "0858",
+      "predicted_span": [
+        286,
+        290
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Raymond Ferry",
+      "predicted_span": [
+        291,
+        304
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "West Brett",
+      "predicted_span": [
+        306,
+        316
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "Monthly",
+      "predicted_span": [
+        413,
+        420
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "827 00 month",
+      "predicted_span": [
+        437,
+        449
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Bank Account",
+      "predicted_span": [
+        450,
+        462
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number: ACCT-4287687478",
+      "predicted_span": [
+        455,
+        486
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-4287687478",
+      "predicted_span": [
+        471,
+        486
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "4287687478",
+      "predicted_span": [
+        476,
+        486
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "4287687478",
+      "predicted_span": [
+        476,
+        486
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TENANCY",
+      "predicted_span": [
+        496,
+        503
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Anthony Crossing Apt",
+      "predicted_span": [
+        561,
+        581
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Melissaview Tenancy",
+      "predicted_span": [
+        590,
+        609
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        610,
+        614
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2024",
+      "predicted_span": [
+        615,
+        619
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Landlord",
+      "predicted_span": [
+        620,
+        628
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Timothy Long",
+      "predicted_span": [
+        749,
+        761
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tel",
+      "predicted_span": [
+        772,
+        775
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "001-463-625-9423",
+      "predicted_span": [
+        777,
+        793
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Hypertension (diagnosed 2018) _ Mild Osteoarthritis in right knee",
+      "predicted_span": [
+        843,
+        908
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2018",
+      "predicted_span": [
+        867,
+        871
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Mild Osteoarthritis",
+      "predicted_span": [
+        875,
+        894
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

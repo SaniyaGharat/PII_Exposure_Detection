@@ -1,0 +1,41 @@
+================================================================================
+                    PATIENT CLINICAL INTAKE & ADMISSION FORM
+================================================================================
+
+PATIENT DEMOGRAPHIC INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Mary Shepard
+Date of Birth:        May 18, 1991
+Phone Number:         001-313-326-1117x8006
+Home Address:         216 Perez Street Suite 722, North Austin, MI 43125
+Marital Status:       Domestic Partnership
+Occupation:           Race relations officer
+Religious Preference: Unaffiliated
+National ID / SSN:    724-30-6962
+Insurance Policy No:  AET-47969333
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Primary Emergency Contact:
+Julie Pitts (Adult Child) - Phone: 687-728-2997x968
+
+CLINICAL & ALLERGY INFORMATION
+--------------------------------------------------------------------------------
+Known Drug & Environmental Allergies:
+Aspirin (bronchospasm), Codeine (nausea).
+
+CURRENT MEDICATIONS & DOSAGES
+--------------------------------------------------------------------------------
+Active Prescriptions & Supplements:
+Omeprazole 20mg PO daily before breakfast, Calcium + Vitamin D supplement.
+
+PAST MEDICAL & SURGICAL HISTORY
+--------------------------------------------------------------------------------
+Diagnosed Conditions & Previous Surgeries:
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
+
+--------------------------------------------------------------------------------
+PATIENT ACKNOWLEDGMENT:
+I acknowledge that the medical information submitted above is accurate for
+the purpose of healthcare evaluation, clinical diagnosis, and safe treatment.
+================================================================================

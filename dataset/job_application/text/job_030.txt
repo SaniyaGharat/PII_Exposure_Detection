@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Chad Chavez
+Date of Birth:        June 08, 1974
+Gender:               Non-Binary
+Marital Status:       Single
+Religious Belief:     Atheist
+National ID / SSN:    327-35-8541
+Email Address:        chad.chavez@yahoo.com
+Phone Number:         796.240.5377x3515
+Home Address:         17139 Brent Isle Apt. 293, Port Kathyborough, OR 28806
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: Product Manager
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+B.A. in Economics - University of Texas at Austin (Graduated 2012)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. Product Manager at Avery, Horton and Fernandez (2023 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Newton, Moore and Perry (2017 - 2021)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

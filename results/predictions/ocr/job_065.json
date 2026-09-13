@@ -1,0 +1,230 @@
+{
+  "doc_id": "job_065",
+  "document_type": "job_application",
+  "split": "validation",
+  "is_ocr": true,
+  "ocr_text": "STANDARD EMPLOYMENT APPLICATION  FORM\nAPPLICANT IDENTIFICATION &  CONTACT INFORMATION\nFull Name Date of Birth: Gender: Marital Scacus: Religious Belief: National ID SSN: Email Address: Phone  Number Home Address\nTimothy Evans January 12 , 1973 Non-- Binary Domestic Partnership Unaffiliated 605-66-2317 cimothy evans@ 'yahoo com 650 916 3159*99650 8662 Miller River, Laurenland, Co 35624\nTARGET POSITION\nPosition Applied For: Database Administrator\nEDUCATION 6 ACADEMIC CREDENTIALS\nHighest Degree Major: B.S in Computer Science\nCarnegie Mellon University (Graduated 2021)\nPROFESSIONAL EXPERIENCE\nWORK  HISTORY\nRecent Experience: 1 . Database Administrator at Allen, Davenport and Price (2022 Present) Led cross-functional initiatives improving project chroughput by 288 Associate Specialist at Rivera, Campos and Taylor (2020 2021) Managed key deliverables, analyzed system data, and aucomated workflows\nSKILLS\nCORE COMPETENCIES\nTechnical Professional Skills: Network Security, Penetration Testing, SIEM, Incident Response , ISO 27001\nDECLARATION : I hereby certify that the information provided in this employment application is accurate, crue, and complete o the best of my knowledge_",
+  "text_length": 1186,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "STANDARD EMPLOYMENT APPLICATION  FORM\nAPPLICANT IDENTIFICATION &  CONTACT INFORMATION\n",
+      "predicted_span": [
+        0,
+        86
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Timothy Evans",
+      "predicted_span": [
+        212,
+        225
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "January 12 , 1973",
+      "predicted_span": [
+        226,
+        243
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Non-- Binary Domestic Partnership Unaffiliated",
+      "predicted_span": [
+        244,
+        290
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Domestic Partnership",
+      "predicted_span": [
+        257,
+        277
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Unaffiliated",
+      "predicted_span": [
+        278,
+        290
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "605-66-2317",
+      "predicted_span": [
+        291,
+        302
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "650 916 3159",
+      "predicted_span": [
+        329,
+        341
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "99650",
+      "predicted_span": [
+        342,
+        347
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Miller River",
+      "predicted_span": [
+        353,
+        365
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Laurenland, Co 35624",
+      "predicted_span": [
+        367,
+        387
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Position Applied For: Database Administrator\nEDUCATION 6 ACADEMIC CREDENTIALS\nHighest Degree Major",
+      "predicted_span": [
+        404,
+        502
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Carnegie Mellon University",
+      "predicted_span": [
+        528,
+        554
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        566,
+        570
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Database Administrator",
+      "predicted_span": [
+        633,
+        655
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Allen, Davenport and Price",
+      "predicted_span": [
+        659,
+        685
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Rivera",
+      "predicted_span": [
+        794,
+        800
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Campos",
+      "predicted_span": [
+        802,
+        808
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Taylor",
+      "predicted_span": [
+        813,
+        819
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2020 2021",
+      "predicted_span": [
+        821,
+        830
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "Network Security, Penetration Testing, SIEM, Incident Response , ISO 27001",
+      "predicted_span": [
+        960,
+        1034
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Incident Response",
+      "predicted_span": [
+        1005,
+        1022
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

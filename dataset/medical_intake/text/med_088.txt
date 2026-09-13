@@ -1,0 +1,41 @@
+================================================================================
+                    PATIENT CLINICAL INTAKE & ADMISSION FORM
+================================================================================
+
+PATIENT DEMOGRAPHIC INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Frederick Bennett
+Date of Birth:        January 09, 2000
+Phone Number:         803-339-9378
+Home Address:         57861 Johnson Roads Apt. 048, East Kathrynberg, ME 74982
+Marital Status:       Married
+Occupation:           Accommodation manager
+Religious Preference: Unaffiliated
+National ID / SSN:    856-14-3868
+Insurance Policy No:  UHC-33593960
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Primary Emergency Contact:
+Bradley Fields (Partner) - Phone: 925.282.3868
+
+CLINICAL & ALLERGY INFORMATION
+--------------------------------------------------------------------------------
+Known Drug & Environmental Allergies:
+Penicillin (rash, hives), Shellfish (mild itching).
+
+CURRENT MEDICATIONS & DOSAGES
+--------------------------------------------------------------------------------
+Active Prescriptions & Supplements:
+Omeprazole 20mg PO daily before breakfast, Calcium + Vitamin D supplement.
+
+PAST MEDICAL & SURGICAL HISTORY
+--------------------------------------------------------------------------------
+Diagnosed Conditions & Previous Surgeries:
+Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).
+
+--------------------------------------------------------------------------------
+PATIENT ACKNOWLEDGMENT:
+I acknowledge that the medical information submitted above is accurate for
+the purpose of healthcare evaluation, clinical diagnosis, and safe treatment.
+================================================================================

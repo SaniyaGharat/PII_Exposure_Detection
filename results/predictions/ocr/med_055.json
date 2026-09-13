@@ -1,0 +1,240 @@
+{
+  "doc_id": "med_055",
+  "document_type": "medical_intake",
+  "split": "validation",
+  "is_ocr": true,
+  "ocr_text": "PATIENT CLINICAL INTAKE\nADMISSION FORM\nPATIENT DEMOGRAPHIC INFORMATION\nFull Name Brandi Phillips Date of Birth: October 08 , 1987 Phone Number 907-942-7990 Home Address 625 Padilla Alley, Souch Patriciamouth, NC 04788 Marital Status Married Occupation: Psychologist , occupational Religious Preference: Hinduism National ID SSN: 470-75-4673 Insurance Policy No MED-36975128\nEMERGENCY CONTACT\nPrimary Emergency Contact Paul Wolfe (Sibl ing) Phone: +1-889-731-9508*501 CLINICAL ALLERGY  INFORMATION\nKnown Drug Environmental Allergies Sulfa antibiotics (severe skin reaction) Latex\nCURRENT MEDICATIONS\nDOSAGES\nActive Prescriptions Supplements: Metformin 50Omg PO BID with meals, Glipizide Smg daily. PAST MEDICAL SURGICAL HISTORY\nDiagnosed Conditions Previous Surgeries: Gastroesophageal Reflux Disease (GERD) History of Right Wrist Fracture (2020)\nPATIENT ACKNONLEDGMENT : acknowledge that che medical information submitted above 1s the purpose accurate for of healthcare evaluation, clinical diagnosis, and safe trea emenc .",
+  "text_length": 1023,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "PATIENT CLINICAL INTAKE",
+      "predicted_span": [
+        0,
+        23
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "October 08 , 1987",
+      "predicted_span": [
+        112,
+        129
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "907-942-7990",
+      "predicted_span": [
+        143,
+        155
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "7990 Home Address 625 Padilla Alley, Souch Patriciamouth, NC 04788",
+      "predicted_span": [
+        151,
+        217
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Souch Patriciamouth",
+      "predicted_span": [
+        188,
+        207
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "NC",
+      "predicted_span": [
+        209,
+        211
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "04788",
+      "predicted_span": [
+        212,
+        217
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Married",
+      "predicted_span": [
+        233,
+        240
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Hinduism",
+      "predicted_span": [
+        303,
+        311
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "470-75-4673",
+      "predicted_span": [
+        329,
+        340
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_INSURANCE_NO",
+      "field_type": "insurance_number",
+      "predicted_text": "Policy No MED-36975128",
+      "predicted_span": [
+        351,
+        373
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_DRIVER_LICENSE",
+      "field_type": "us_driver_license",
+      "predicted_text": "36975128",
+      "predicted_span": [
+        365,
+        373
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Paul Wolfe",
+      "predicted_span": [
+        418,
+        428
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "NRP",
+      "field_type": "nrp",
+      "predicted_text": "+1-889",
+      "predicted_span": [
+        447,
+        453
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_ALLERGIES",
+      "field_type": "allergies",
+      "predicted_text": "Sulfa antibiotics (severe skin reaction) Latex",
+      "predicted_span": [
+        532,
+        578
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "reaction) Latex",
+      "predicted_span": [
+        563,
+        578
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "Metformin 50Omg PO BID with meals, Glipizide Smg daily. PAST MEDICAL SURGICAL HISTORY",
+      "predicted_span": [
+        641,
+        726
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Glipizide Smg",
+      "predicted_span": [
+        676,
+        689
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "daily",
+      "predicted_span": [
+        690,
+        695
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Reflux Disease (GERD) History of Right Wrist Fracture (2020)",
+      "predicted_span": [
+        785,
+        845
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Right Wrist Fracture",
+      "predicted_span": [
+        818,
+        838
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2020",
+      "predicted_span": [
+        840,
+        844
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "che medical",
+      "predicted_span": [
+        888,
+        899
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

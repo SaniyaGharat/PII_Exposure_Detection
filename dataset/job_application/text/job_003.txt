@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Daryl Johnson
+Date of Birth:        August 14, 1994
+Gender:               Prefer not to disclose
+Marital Status:       Widowed
+Religious Belief:     Islam
+National ID / SSN:    467-54-5333
+Email Address:        daryl.johnson@gmail.com
+Phone Number:         +1-772-542-3884x9696
+Home Address:         01226 Paul Ranch Suite 848, Lake Jenniferside, WV 35474
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: Marketing Specialist
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+M.S. in Data Analytics - University of Michigan (Graduated 2013)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. Marketing Specialist at Morales-Jones (2022 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Walter, Edwards and Rios (2017 - 2020)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

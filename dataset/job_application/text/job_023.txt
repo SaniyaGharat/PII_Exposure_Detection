@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Theresa Cervantes
+Date of Birth:        September 18, 2002
+Gender:               Female
+Marital Status:       Divorced
+Religious Belief:     Buddhism
+National ID / SSN:    371-60-3144
+Email Address:        theresa.cervantes@gmail.com
+Phone Number:         9879603859
+Home Address:         8247 Martinez Roads, Lake Eric, OH 02293
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: Product Manager
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+B.S. in Information Systems - Cornell University (Graduated 2018)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. Product Manager at Johnson, Miller and King (2022 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Cordova Group (2019 - 2020)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+Statistical Analysis, R, Tableau, Data Pipelines, Predictive Modeling
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

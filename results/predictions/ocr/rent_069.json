@@ -1,0 +1,320 @@
+{
+  "doc_id": "rent_069",
+  "document_type": "rental_agreement",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "RESIDENTIAL LEASE APPLICATION\nAGREEMENT\nPROSPECTIVE TENANT IDENTIFICATION\nTenant Full Name Phone Number Email Address National ID SSN: Marital Status: Religious Belief: Current Residence:\nTheresa Allen 837-232-6530 theresa allenChotmail  com 552-37-7671 Widowed Unaffiliated 98756 Parkway, Maxwellhaven, MA 01599 Steven\nEMPLOYMENT &  FINANCIAL BACKGROUND\nEmployment Status Self-Employed Employer Name Jones , Martinez and Fox Monthly Annual Inc: 54 962.00 month Bank Account Number: ACCT-4526242854\nPREVIOUS TENANCY\nEMERGENCY CONTACT\nRental History: Previous Address 156 Andrea Villages, East Haleymouth 2024 Landlord: Cody Hoover Rent S1784/mo Tenancy 2021 relocation Full security deposit recurned: Yes Reason for Leaving: Job\nEmergency Contacc: Michael Baker (Sibling)\nTel: 391-660-9365*9520\nSUPPLEMENIAL TENANI  DECLARATION\nMedical History on levothyroxine) Migraines with aura. Hypothyroidism (stable\nTENANT ACKNOWLEDGMENT stated in this rental application 1s crue declare that che information grant permission to verify rental history and employment and complete.",
+  "text_length": 1069,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tenant Full Name Phone Number Email Address National",
+      "predicted_span": [
+        74,
+        126
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Theresa Allen",
+      "predicted_span": [
+        188,
+        201
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "837-232-6530",
+      "predicted_span": [
+        202,
+        214
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "552-37-7671",
+      "predicted_span": [
+        242,
+        253
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "current_address",
+      "predicted_text": "7671 Widowed Unaffiliated 98756 Parkway, Maxwellhaven, MA 01599",
+      "predicted_span": [
+        249,
+        312
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Widowed",
+      "predicted_span": [
+        254,
+        261
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Unaffiliated",
+      "predicted_span": [
+        262,
+        274
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "98756",
+      "predicted_span": [
+        275,
+        280
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "MA 01599",
+      "predicted_span": [
+        304,
+        312
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Steven\nEMPLOYMENT &  FINANCIAL BACKGROUND\nEmployment Status Self-Employed Employer Name Jones",
+      "predicted_span": [
+        313,
+        406
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Self-Employed",
+      "predicted_span": [
+        373,
+        386
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Martinez",
+      "predicted_span": [
+        409,
+        417
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Fox Monthly",
+      "predicted_span": [
+        422,
+        433
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number: ACCT-4526242854",
+      "predicted_span": [
+        467,
+        498
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-4526242854",
+      "predicted_span": [
+        483,
+        498
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "4526242854",
+      "predicted_span": [
+        488,
+        498
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "4526242854",
+      "predicted_span": [
+        488,
+        498
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TENANCY",
+      "predicted_span": [
+        508,
+        515
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Andrea Villages",
+      "predicted_span": [
+        571,
+        586
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "East Haleymouth",
+      "predicted_span": [
+        588,
+        603
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2024",
+      "predicted_span": [
+        604,
+        608
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Landlord",
+      "predicted_span": [
+        609,
+        617
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Cody Hoover Rent",
+      "predicted_span": [
+        619,
+        635
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        653,
+        657
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Michael Baker",
+      "predicted_span": [
+        748,
+        761
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Sibling",
+      "predicted_span": [
+        763,
+        770
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tel",
+      "predicted_span": [
+        772,
+        775
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "9520",
+      "predicted_span": [
+        790,
+        794
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "levothyroxine) Migraines with aura. Hypothyroidism (stable",
+      "predicted_span": [
+        847,
+        905
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Migraines with aura. Hypothyroidism (stable",
+      "predicted_span": [
+        862,
+        905
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "che",
+      "predicted_span": [
+        983,
+        986
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

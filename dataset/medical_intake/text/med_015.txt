@@ -1,0 +1,41 @@
+================================================================================
+                    PATIENT CLINICAL INTAKE & ADMISSION FORM
+================================================================================
+
+PATIENT DEMOGRAPHIC INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Kimberly Smith
+Date of Birth:        July 05, 2007
+Phone Number:         001-368-865-0863x76599
+Home Address:         7314 Scott Avenue, New Alexandrahaven, AL 49656
+Marital Status:       Divorced
+Occupation:           Engineer, electronics
+Religious Preference: Sikhism
+National ID / SSN:    844-92-3419
+Insurance Policy No:  BLU-23798190
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Primary Emergency Contact:
+Melissa Stewart (Parent) - Phone: (612)869-4486x959
+
+CLINICAL & ALLERGY INFORMATION
+--------------------------------------------------------------------------------
+Known Drug & Environmental Allergies:
+Sulfa antibiotics (severe skin reaction), Latex.
+
+CURRENT MEDICATIONS & DOSAGES
+--------------------------------------------------------------------------------
+Active Prescriptions & Supplements:
+Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.
+
+PAST MEDICAL & SURGICAL HISTORY
+--------------------------------------------------------------------------------
+Diagnosed Conditions & Previous Surgeries:
+Type 2 Diabetes Mellitus (managed via diet/medication), Hyperlipidemia.
+
+--------------------------------------------------------------------------------
+PATIENT ACKNOWLEDGMENT:
+I acknowledge that the medical information submitted above is accurate for
+the purpose of healthcare evaluation, clinical diagnosis, and safe treatment.
+================================================================================

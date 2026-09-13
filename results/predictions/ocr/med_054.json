@@ -1,0 +1,270 @@
+{
+  "doc_id": "med_054",
+  "document_type": "medical_intake",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "PATIENT CLINICAL INTAKE ADMISSION  FORM\nPATIENT  DEMOGRAPHIC INFORMATION\nFull Name Amy Taylor Date of Birth: August 25 , 2001 Phone Number 576.325.3492*929 Apt . 633 _ Ryanbury, MH 78065 Home Address 739 Hood Harbors Marital Status: Married Occupation: Optometrist Religious Preference: Atheist National ID SSN 189-97-6236 Insurance Policy No : AET-18715975\nEMERGENCY CONTACT\nPrimary Emergency Contact: Susan Villanueva (Adult Child)\nPhone (300)278-0686*71773\nCLINICAL\nALLERGY INFORMATION\nKnown Drug Environmental Allergies: (NKDA) No known environmental allergies No Known Drug Allergies\nCURRENT MEDICATIONS\nDOSAGES\nActive Prescriptions Supplements in morning, Sumatriptan 5Omg PRN for mi graine Levothyroxine 7Smcg PO daily\nPAST MEDICAL\nSURGICAL HISTORY\nDiagnosed Conditions Previous Surgeries seasonal allergic rhinitis, History of Appendectomy (2015) Mild persistent Asthma\nPAEckncwAeddo EEDGMENe medical information submitted above 1s accurate for acknowledge the evaluation, clinical diagnosis, and safe creatment . the purpose of healthcare",
+  "text_length": 1047,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "PATIENT CLINICAL",
+      "predicted_span": [
+        0,
+        16
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "DEMOGRAPHIC",
+      "predicted_span": [
+        49,
+        60
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "August 25 , 2001",
+      "predicted_span": [
+        109,
+        125
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Ryanbury",
+      "predicted_span": [
+        168,
+        176
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "MH 78065 Home Address 739 Hood Harbors Marital Status",
+      "predicted_span": [
+        178,
+        231
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Married",
+      "predicted_span": [
+        233,
+        240
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Atheist National ID",
+      "predicted_span": [
+        287,
+        306
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Atheist",
+      "predicted_span": [
+        287,
+        294
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "189-97-6236",
+      "predicted_span": [
+        311,
+        322
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_INSURANCE_NO",
+      "field_type": "insurance_number",
+      "predicted_text": "Policy No : AET-18715975",
+      "predicted_span": [
+        333,
+        357
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_DRIVER_LICENSE",
+      "field_type": "us_driver_license",
+      "predicted_text": "18715975",
+      "predicted_span": [
+        349,
+        357
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Susan Villanueva",
+      "predicted_span": [
+        403,
+        419
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Adult Child",
+      "predicted_span": [
+        421,
+        432
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Phone",
+      "predicted_span": [
+        434,
+        439
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "300)278-0686",
+      "predicted_span": [
+        441,
+        453
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "71773",
+      "predicted_span": [
+        454,
+        459
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_ALLERGIES",
+      "field_type": "allergies",
+      "predicted_text": "NKDA) No known environmental allergies No Known Drug Allergies",
+      "predicted_span": [
+        526,
+        588
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "NKDA",
+      "predicted_span": [
+        526,
+        530
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "No Known Drug Allergies",
+      "predicted_span": [
+        565,
+        588
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "morning",
+      "predicted_span": [
+        653,
+        660
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "Sumatriptan 5Omg PRN for mi graine Levothyroxine 7Smcg PO daily",
+      "predicted_span": [
+        662,
+        725
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Levothyroxine 7Smcg PO",
+      "predicted_span": [
+        697,
+        719
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "rhinitis, History of Appendectomy (2015) Mild persistent Asthma",
+      "predicted_span": [
+        814,
+        877
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2015",
+      "predicted_span": [
+        849,
+        853
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Asthma",
+      "predicted_span": [
+        871,
+        877
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "healthcare",
+      "predicted_span": [
+        1037,
+        1047
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "doc_id": "med_076",
+  "document_type": "medical_intake",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "PATIENT CLINICAL INTAKE\nADMISSION  FORM\nPATIENT  DEMOGRAPHIC INFORMATION\nFull Name : Michael Becker Date of Birth: July 09 1970 Phone Number (291) 752-0177x749 Home  Address: 975 Jason Causeway, Marcuston, WA 09770 Marital Status Divorced Occupation: Recycling officer Religious Preference: Atheist National ID SSN: 117-57-6427 Insurance Policy No MED-65907088\nEMERGENCY   CONTACT\nPrimary Emergency Contact: Lindsey Davis (Partner) Phone : 323-661-0326*642\nCLINICAL\nALLERGY INFORMATION\nKnown Drug Environmental Allergies No Known Drug Allergies (NKDA ) No known environmental allergies CURRENT MEDICATIONS DOSAGES\nActive Prescriptions Supplements: Albuterol HFA Inhaler 9Omcg puffs PRN , Fluticasone nasal spray daily. PAST MEDICAL SURGICAL HISTORY\nDiagnosed Conditions Previous Surgeries: No significant past medical history Non-smoker , no past surgeries\nPATIENT ACKNOWLEDGMENT : I acknowledge that the medical information submitted above che 1s accurate for purpose of healthcare evaluation, clinical diagnosis, and safe creatment .",
+  "text_length": 1035,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "PATIENT CLINICAL INTAKE",
+      "predicted_span": [
+        0,
+        23
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "DEMOGRAPHIC",
+      "predicted_span": [
+        49,
+        60
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Michael Becker Date",
+      "predicted_span": [
+        85,
+        104
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "July 09 1970",
+      "predicted_span": [
+        115,
+        127
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "(291) 752-0177x749",
+      "predicted_span": [
+        141,
+        159
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "975 Jason Causeway, Marcuston, WA 09770",
+      "predicted_span": [
+        175,
+        214
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Jason Causeway",
+      "predicted_span": [
+        179,
+        193
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Marcuston",
+      "predicted_span": [
+        195,
+        204
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Divorced",
+      "predicted_span": [
+        230,
+        238
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Atheist National ID SSN",
+      "predicted_span": [
+        291,
+        314
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Atheist",
+      "predicted_span": [
+        291,
+        298
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "117-57-6427",
+      "predicted_span": [
+        316,
+        327
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_INSURANCE_NO",
+      "field_type": "insurance_number",
+      "predicted_text": "Policy No MED-65907088",
+      "predicted_span": [
+        338,
+        360
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_DRIVER_LICENSE",
+      "field_type": "us_driver_license",
+      "predicted_text": "65907088",
+      "predicted_span": [
+        352,
+        360
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Lindsey Davis",
+      "predicted_span": [
+        408,
+        421
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "323-661-0326",
+      "predicted_span": [
+        440,
+        452
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "CUSTOM_ALLERGIES",
+      "field_type": "allergies",
+      "predicted_text": "No Known Drug Allergies (NKDA ) No known environmental allergies CURRENT MEDICATIONS DOSAGES",
+      "predicted_span": [
+        521,
+        613
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "No Known Drug Allergies",
+      "predicted_span": [
+        521,
+        544
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "NKDA",
+      "predicted_span": [
+        546,
+        550
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "Albuterol HFA Inhaler 9Omcg puffs PRN , Fluticasone nasal spray daily. PAST MEDICAL SURGICAL HISTORY",
+      "predicted_span": [
+        648,
+        748
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Inhaler",
+      "predicted_span": [
+        662,
+        669
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Fluticasone",
+      "predicted_span": [
+        688,
+        699
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "daily",
+      "predicted_span": [
+        712,
+        717
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "No significant past medical history Non-smoker , no past surgeries",
+      "predicted_span": [
+        790,
+        856
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "che",
+      "predicted_span": [
+        941,
+        944
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

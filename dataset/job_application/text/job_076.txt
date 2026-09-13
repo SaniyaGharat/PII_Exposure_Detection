@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Eric Baxter
+Date of Birth:        December 17, 1978
+Gender:               Male
+Marital Status:       Widowed
+Religious Belief:     Islam
+National ID / SSN:    638-68-1251
+Email Address:        eric.baxter@gmail.com
+Phone Number:         9643361103
+Home Address:         700 Montoya Wall, Bensonfort, CA 30509
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: Database Administrator
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+B.S. in Computer Science - University of Michigan (Graduated 2018)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. Database Administrator at Davis-Ward (2023 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Watson Ltd (2019 - 2020)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+Statistical Analysis, R, Tableau, Data Pipelines, Predictive Modeling
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

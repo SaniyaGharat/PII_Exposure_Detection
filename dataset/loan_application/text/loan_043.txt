@@ -1,0 +1,35 @@
+================================================================================
+                    CONSUMER CREDIT & LOAN APPLICATION
+================================================================================
+
+BORROWER PERSONAL IDENTIFICATION
+--------------------------------------------------------------------------------
+Applicant Name:       Justin Sanders
+Date of Birth:        December 16, 1973
+Marital Status:       Domestic Partnership
+Religious Belief:     Agnostic
+Phone Number:         965-221-5681x82096
+Email Address:        justin.sanders@yahoo.com
+Residential Address:  71133 Kayla Estates, Sethberg, MA 38622
+
+FINANCIAL PROFILE & CREDITWORTHINESS
+--------------------------------------------------------------------------------
+Employment Status:    Employed Full-Time
+Employer Name:        Williams-Marquez
+Gross Annual Income:  $95,000.00 USD
+Bank Account Number:  ACCT-1315708805
+Credit Score (FICO):  764 (FICO Score 8)
+
+ADDITIONAL DISCLOSURES & BACKGROUND
+--------------------------------------------------------------------------------
+Medical History:
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
+
+Biometric Security Identifier:
+SHA256:ae7d5b77977cee9e1a68a42c (Biometric Minutiae Key)
+
+--------------------------------------------------------------------------------
+APPLICANT AUTHORIZATION:
+I authorize the financial institution to investigate my credit standing and
+employment history to evaluate credit risk and loan eligibility.
+================================================================================

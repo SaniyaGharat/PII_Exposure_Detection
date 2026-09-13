@@ -1,0 +1,360 @@
+{
+  "doc_id": "job_026",
+  "document_type": "job_application",
+  "split": "validation",
+  "is_ocr": true,
+  "ocr_text": "STANDARD EMPLOYMENT  APPLICATION FORM\nAPPLICANT IDENTIFICATION\nCONTACT INFORMATION\nFull Name Dace of Birch: Gender: Marital Scatus: Religious Belief: National ID SSN: Email Address: Phone Number: Home    Address:\nLori Clay April 02 , 1987 Female Married Judaism 617-72-5114 lori.claylgmail.com 216.711.7240 5623 Knight Turnpike Apt . 221 , Harveybury, NM  76936\nTARGET   POSITION\nPosition Applied For Data Scientist\nEDUCATION\nACADEMIC CREDENTIALS\nHighest Degree Major: B. S in Information Systems\nUniversity of Michigan (Graduated 2014)\nPROFESSIONAL EXPERIENCE\nWORK HISTORY\nRecent Experience Data Scientist at Brennan-Johnson (2022 Present) Led cross-functional initiacives, improving project throughput by 288 2 . Associate Specialist at Young Ltd (2018 2021) Managed key deliverables analyzed system data, and automated workflows\nSKILLS & CORE COMPETENCIES\nTechnical Professional Skills: Python , SQL , PyTorch, Docker , Kubernetes , AWS Cloud Architecture\nDECLARATION: hereby certify that che information provided in this employment application 13 accurace, crue, and complete co the best of my knowledge",
+  "text_length": 1107,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "STANDARD EMPLOYMENT  APPLICATION FORM\nAPPLICANT",
+      "predicted_span": [
+        0,
+        47
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Full Name Dace of Birch",
+      "predicted_span": [
+        83,
+        106
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Lori Clay",
+      "predicted_span": [
+        213,
+        222
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "April 02 , 1987",
+      "predicted_span": [
+        223,
+        238
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Female Married",
+      "predicted_span": [
+        239,
+        253
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_GENDER",
+      "field_type": "gender",
+      "predicted_text": "Female",
+      "predicted_span": [
+        239,
+        245
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Married",
+      "predicted_span": [
+        246,
+        253
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Judaism",
+      "predicted_span": [
+        254,
+        261
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "617-72-5114",
+      "predicted_span": [
+        262,
+        273
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "617-72-5114",
+      "predicted_span": [
+        262,
+        273
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "5114 lori.claylgmail.com 216.711.7240 5623 Knight Turnpike Apt . 221 , Harveybury, NM  76936",
+      "predicted_span": [
+        269,
+        361
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "lori.claylgmail.com",
+      "predicted_span": [
+        274,
+        293
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "216.711.7240",
+      "predicted_span": [
+        294,
+        306
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "5623",
+      "predicted_span": [
+        307,
+        311
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Knight Turnpike Apt",
+      "predicted_span": [
+        312,
+        331
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Harveybury",
+      "predicted_span": [
+        340,
+        350
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "NM",
+      "predicted_span": [
+        352,
+        354
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "76936",
+      "predicted_span": [
+        356,
+        361
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TARGET",
+      "predicted_span": [
+        362,
+        368
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Data Scientist",
+      "predicted_span": [
+        401,
+        415
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "B. S",
+      "predicted_span": [
+        469,
+        473
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2014",
+      "predicted_span": [
+        531,
+        535
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Data Scientist",
+      "predicted_span": [
+        592,
+        606
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Brennan-Johnson",
+      "predicted_span": [
+        610,
+        625
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2022",
+      "predicted_span": [
+        627,
+        631
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Specialist at Young Ltd",
+      "predicted_span": [
+        725,
+        748
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2018 2021",
+      "predicted_span": [
+        750,
+        759
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "SKILLS & CORE COMPETENCIES\nTechnical Professional Skills: Python",
+      "predicted_span": [
+        832,
+        896
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "Python , SQL , PyTorch, Docker , Kubernetes , AWS Cloud Architecture",
+      "predicted_span": [
+        890,
+        958
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "SQL",
+      "predicted_span": [
+        899,
+        902
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "PyTorch",
+      "predicted_span": [
+        905,
+        912
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Docker",
+      "predicted_span": [
+        914,
+        920
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Kubernetes",
+      "predicted_span": [
+        923,
+        933
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Cloud Architecture",
+      "predicted_span": [
+        940,
+        958
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "che",
+      "predicted_span": [
+        992,
+        995
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

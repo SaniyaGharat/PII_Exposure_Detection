@@ -1,0 +1,360 @@
+{
+  "doc_id": "rent_049",
+  "document_type": "rental_agreement",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "RESIDENTIAL LEASE APPLICATION &   AGREEMENT\nPROSPECTIVE   TENANT IDENTIFICATION\nTenant Full Name Phone Number: Email Address National ID SSN: Marical Status: Religious Belief: Current Residence\nAnna Brewer 970-869-5560 anna.brewerdhotmail_ com 362-23-1020 Single Agnostic 1645 Joseph Green Suite 223, Port Barry, MS 48286\nEMPLOYMENT\nFINANCIAL BACKGROUND\nEmp loyment Status: Contractor Freelancer Emp loyer Name Jacobson-Young Monthly Annual Inc: 54 610.00 month Bank Accounc Number: ACCT-8441393731\nPREVIOUS TENANCY\nEMERGENCY CONTACT\nRental History Previous Address: 98041 Chavez Hill, Port Ryan Tenancy 2021 2024 Landlord: Darryl Mann Rent : 52117/mo Reason for Leaving: Job relocation Full security deposit returned: Yes\nEmergency Contact: Charlotte Ortiz (Sibling)\nTel: (681) 931-9092\nSUPPLEMENTAL  TENANT DECLARATION\nMedical History Type Diabetes Mellitus (managed via diet /medication) Hyperlipidemia-\nTENANT   ACKNOWLEDGMENT I declare that the information stated in this rental application is true and complete grant permission to verify rental history and  employment.",
+  "text_length": 1075,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "RESIDENTIAL LEASE APPLICATION &   ",
+      "predicted_span": [
+        0,
+        34
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tenant Full Name Phone",
+      "predicted_span": [
+        80,
+        102
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "970-869-5560",
+      "predicted_span": [
+        206,
+        218
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "anna.br",
+      "predicted_span": [
+        219,
+        226
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "362-23-1020",
+      "predicted_span": [
+        244,
+        255
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "current_address",
+      "predicted_text": "1020 Single Agnostic 1645 Joseph Green Suite 223, Port Barry, MS 48286",
+      "predicted_span": [
+        251,
+        321
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Single",
+      "predicted_span": [
+        256,
+        262
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Agnostic",
+      "predicted_span": [
+        263,
+        271
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "1645",
+      "predicted_span": [
+        272,
+        276
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "1645",
+      "predicted_span": [
+        272,
+        276
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Joseph Green Suite",
+      "predicted_span": [
+        277,
+        295
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Port Barry",
+      "predicted_span": [
+        301,
+        311
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Status",
+      "predicted_span": [
+        366,
+        372
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Contractor",
+      "predicted_span": [
+        374,
+        384
+      ],
+      "confidence": 0.88
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Freelancer",
+      "predicted_span": [
+        385,
+        395
+      ],
+      "confidence": 0.88
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Freelancer Emp",
+      "predicted_span": [
+        385,
+        399
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Name Jacobson-Young",
+      "predicted_span": [
+        406,
+        425
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "Monthly",
+      "predicted_span": [
+        426,
+        433
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-8441393731",
+      "predicted_span": [
+        483,
+        498
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "8441393731",
+      "predicted_span": [
+        488,
+        498
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "8441393731",
+      "predicted_span": [
+        488,
+        498
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TENANCY",
+      "predicted_span": [
+        508,
+        515
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Chavez Hill",
+      "predicted_span": [
+        573,
+        584
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Port Ryan Tenancy",
+      "predicted_span": [
+        586,
+        603
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        604,
+        608
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2024",
+      "predicted_span": [
+        609,
+        613
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Landlord",
+      "predicted_span": [
+        614,
+        622
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Darryl Mann",
+      "predicted_span": [
+        624,
+        635
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Charlotte Ortiz",
+      "predicted_span": [
+        742,
+        757
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Sibling",
+      "predicted_span": [
+        759,
+        766
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tel",
+      "predicted_span": [
+        768,
+        771
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "(681) 931-9092",
+      "predicted_span": [
+        773,
+        787
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Diabetes Mellitus (managed via diet /medication) Hyperlipidemia-",
+      "predicted_span": [
+        842,
+        906
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Mellitus",
+      "predicted_span": [
+        851,
+        859
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Hyperlipidemia-\nTENANT",
+      "predicted_span": [
+        891,
+        913
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

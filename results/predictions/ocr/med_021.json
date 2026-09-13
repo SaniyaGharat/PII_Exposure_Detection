@@ -1,0 +1,260 @@
+{
+  "doc_id": "med_021",
+  "document_type": "medical_intake",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "PATIENT CLINICAL INTAKE & ADMISSION FORM\nPATIENT DEMOGRAPHIC INFORMATION\nFull Name Isaac Grant Date of Birth: October 26 , 1998 Phone Number : 650-761-5939*982 Home Address: 877 Patrick Heights Suite 225, Welchshire, MO  09852 Marital Scatus Widowed Occupation Comptroller Religious Preference Islam Nacional ID SSN: 451-20-9266 Insurance Policy No : BLU-15253567\nEMERGENCY  CONTACT\nPrimary Emergency Contact Greg Edwards (Spouse) Phone +1-444-296-475928762\nCLINICAL\nALLERGY INFORMATION\nKnown  Drug Environmental Allergies: Sulfa antibiotics (severe skin reaccion) Latex.\nCURRENT MEDICATIONS\nDOSAGES\nActive Prescriptions Supplements: None reported Over-che-counter mulcivicamins only.\nPAST MEDICAL\nSURGICAL HISTORY\nDiagnosed Conditions Previous Surgeries: Gastroesophageal Reflux Disease (GERD) History of Right Wrist Fracture (2020)\nPATIENT   ACKNONLEDGMENT : acknowledge that che medical information submitted above i8 accurate for che purpose of healchcare evaluation, clinical diagnosis, and safe treatmenc.",
+  "text_length": 1011,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "PATIENT CLINICAL INTAKE & ADMISSION FORM\nPATIENT DEMOGRAPHIC",
+      "predicted_span": [
+        0,
+        60
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "October 26 , 1998",
+      "predicted_span": [
+        110,
+        127
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "650-761-5939",
+      "predicted_span": [
+        143,
+        155
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "877 Patrick Heights Suite 225, Welchshire, MO  09852",
+      "predicted_span": [
+        174,
+        226
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Patrick Heights Suite",
+      "predicted_span": [
+        178,
+        199
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Welchshire",
+      "predicted_span": [
+        205,
+        215
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "MO",
+      "predicted_span": [
+        217,
+        219
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Widowed",
+      "predicted_span": [
+        242,
+        249
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Islam",
+      "predicted_span": [
+        294,
+        299
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "451-20-9266",
+      "predicted_span": [
+        317,
+        328
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_INSURANCE_NO",
+      "field_type": "insurance_number",
+      "predicted_text": "Policy No : BLU-15253567",
+      "predicted_span": [
+        339,
+        363
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_DRIVER_LICENSE",
+      "field_type": "us_driver_license",
+      "predicted_text": "15253567",
+      "predicted_span": [
+        355,
+        363
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Greg Edwards",
+      "predicted_span": [
+        409,
+        421
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "475928762",
+      "predicted_span": [
+        448,
+        457
+      ],
+      "confidence": 0.6
+    },
+    {
+      "entity_type": "US_PASSPORT",
+      "field_type": "us_passport",
+      "predicted_text": "475928762",
+      "predicted_span": [
+        448,
+        457
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Known  Drug Environmental Allergies",
+      "predicted_span": [
+        487,
+        522
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_ALLERGIES",
+      "field_type": "allergies",
+      "predicted_text": "Sulfa antibiotics (severe skin reaccion) Latex.",
+      "predicted_span": [
+        524,
+        571
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Latex",
+      "predicted_span": [
+        565,
+        570
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "None reported Over-che-counter mulcivicamins only.",
+      "predicted_span": [
+        634,
+        684
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Reflux Disease (GERD) History of Right Wrist Fracture (2020)",
+      "predicted_span": [
+        773,
+        833
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Right Wrist Fracture",
+      "predicted_span": [
+        806,
+        826
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2020",
+      "predicted_span": [
+        828,
+        832
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "che medical",
+      "predicted_span": [
+        878,
+        889
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "i8",
+      "predicted_span": [
+        918,
+        920
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "che",
+      "predicted_span": [
+        934,
+        937
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

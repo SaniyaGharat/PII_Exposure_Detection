@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Brandy York
+Date of Birth:        February 19, 1971
+Gender:               Female
+Marital Status:       Domestic Partnership
+Religious Belief:     Buddhism
+National ID / SSN:    729-15-9543
+Email Address:        brandy.york@yahoo.com
+Phone Number:         (934)457-8610x357
+Home Address:         2414 Paul Estates Apt. 333, Denisehaven, AK 89918
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: Account Executive
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+B.S. in Computer Science - Carnegie Mellon University (Graduated 2017)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. Account Executive at Johnson, Lee and Whitaker (2022 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Wright Group (2017 - 2021)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

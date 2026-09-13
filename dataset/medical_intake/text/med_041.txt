@@ -1,0 +1,41 @@
+================================================================================
+                    PATIENT CLINICAL INTAKE & ADMISSION FORM
+================================================================================
+
+PATIENT DEMOGRAPHIC INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Marcus Palmer
+Date of Birth:        October 02, 1957
+Phone Number:         +1-458-354-2493
+Home Address:         587 David Mountains Apt. 160, South Philipshire, SC 90957
+Marital Status:       Divorced
+Occupation:           Psychologist, occupational
+Religious Preference: Islam
+National ID / SSN:    453-40-2698
+Insurance Policy No:  KSR-54629892
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Primary Emergency Contact:
+Lisa Edwards (Spouse) - Phone: 981.679.2171
+
+CLINICAL & ALLERGY INFORMATION
+--------------------------------------------------------------------------------
+Known Drug & Environmental Allergies:
+Sulfa antibiotics (severe skin reaction), Latex.
+
+CURRENT MEDICATIONS & DOSAGES
+--------------------------------------------------------------------------------
+Active Prescriptions & Supplements:
+Lisinopril 10mg PO daily, Atorvastatin 20mg PO at bedtime.
+
+PAST MEDICAL & SURGICAL HISTORY
+--------------------------------------------------------------------------------
+Diagnosed Conditions & Previous Surgeries:
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
+
+--------------------------------------------------------------------------------
+PATIENT ACKNOWLEDGMENT:
+I acknowledge that the medical information submitted above is accurate for
+the purpose of healthcare evaluation, clinical diagnosis, and safe treatment.
+================================================================================

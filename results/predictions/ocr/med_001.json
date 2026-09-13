@@ -1,0 +1,230 @@
+{
+  "doc_id": "med_001",
+  "document_type": "medical_intake",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "PATIENT CLINICAL INTAKE\nADMISSION FORM\nPATIENT DEMOGRAPHIC INFORMATION\nFull Name Brian Meyer Date of Birch January 28 , 1986 Phone Number: +1-526-618-9141x173 Home  Address: 6420 Lozano Spurs , Riveratown , AL 88533 Marital Stacus: Divorced Occupation: Archaeologist Religious Preference: Sikhism National ID SSN: 206-83-9313 Insurance Policy No BLU-30767532\nEMERGENCY CONTACT\nPrimary Emergency Contact Brian Andrews (Partner) Phone: 321.481.143724470\nCLINICAL\nALLERGY INFORMATION\nKnown Drug Environmental Allergies Aspirin (bronchospasm) Codeine (nausea)\nCURRENT MEDICATIONS\nDOSAGES\nActive Prescriptions Supplements: Metformin 50Omg PO BID with meals, Glipizide Smg daily.\nPAST MEDICAL\nSURGICAL HISTORY\nDiagnosed Conditions Previous Surgeries: Hypertension (diagnosed 2018) Mild Osteoarthricis in right knee\nPATIENT ACKNOWLEDGMENT acknowledge that the medical information submitted above is accurate for che purpose of healthcare evaluation, clinical diagnosis, and safe creatment",
+  "text_length": 981,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "PATIENT CLINICAL INTAKE",
+      "predicted_span": [
+        0,
+        23
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Full Name Brian Meyer Date of Birch",
+      "predicted_span": [
+        71,
+        106
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "January 28 , 1986",
+      "predicted_span": [
+        107,
+        124
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "NRP",
+      "field_type": "nrp",
+      "predicted_text": "+1-526",
+      "predicted_span": [
+        139,
+        145
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "+1-526-618-9141x173",
+      "predicted_span": [
+        139,
+        158
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Lozano Spurs",
+      "predicted_span": [
+        179,
+        191
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "AL 88533 Marital Stacus:",
+      "predicted_span": [
+        207,
+        231
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Divorced",
+      "predicted_span": [
+        232,
+        240
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Sikhism",
+      "predicted_span": [
+        289,
+        296
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "206-83-9313",
+      "predicted_span": [
+        314,
+        325
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_INSURANCE_NO",
+      "field_type": "insurance_number",
+      "predicted_text": "Policy No BLU-30767532",
+      "predicted_span": [
+        336,
+        358
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_DRIVER_LICENSE",
+      "field_type": "us_driver_license",
+      "predicted_text": "30767532",
+      "predicted_span": [
+        350,
+        358
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Brian Andrews",
+      "predicted_span": [
+        403,
+        416
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "143724470",
+      "predicted_span": [
+        442,
+        451
+      ],
+      "confidence": 0.6
+    },
+    {
+      "entity_type": "CUSTOM_ALLERGIES",
+      "field_type": "allergies",
+      "predicted_text": "Aspirin (bronchospasm) Codeine (nausea)",
+      "predicted_span": [
+        516,
+        555
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "Metformin 50Omg PO BID with meals, Glipizide Smg daily.",
+      "predicted_span": [
+        618,
+        673
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Glipizide Smg",
+      "predicted_span": [
+        653,
+        666
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "daily",
+      "predicted_span": [
+        667,
+        672
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Hypertension (diagnosed 2018) Mild Osteoarthricis in right knee",
+      "predicted_span": [
+        745,
+        808
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2018",
+      "predicted_span": [
+        769,
+        773
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Mild Osteoarthricis",
+      "predicted_span": [
+        775,
+        794
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "che",
+      "predicted_span": [
+        905,
+        908
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

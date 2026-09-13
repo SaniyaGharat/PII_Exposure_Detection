@@ -1,0 +1,320 @@
+{
+  "doc_id": "loan_081",
+  "document_type": "loan_application",
+  "split": "validation",
+  "is_ocr": true,
+  "ocr_text": "CONSUMER CREDIT &  LOAN APPLICATION\nBORROWER PERSONAL IDENTIFICATION\nApplicant Name Alexander Parker Date of Birch: August 30 , 2005 Marital Scacus Single Religious Belief: Judaism Phone  Number: 842-277-0707*05783 Email Address: alexander.parkerChotmail . com Residential Address : 9851 Whice Trafficway, Jordanfort, DC 30309\nFINANCIAL PROFILE &  CREDITWORTHINESS\nEmp loyment Scacus: Employed Part-Time Employer Name Pitts Ltd Gross Annual Income: S104, 000 .00 USD Bank Account Number: ACCT-7603978731 Credit Score (FICO) 664 (FICO Score 8 )\nADDITIONAL DISCLOSURES\nBACKGROUND\nMedical History: Type 2 Diabetes Mellitus (managed via diet /medication) Hyperlipidemia\nBiometric Security Identifier: SHA256: 813d8b1fdfaa38268d48578b (Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION auchorize che financial institution to investigate my credit standing and employment history to evaluace credit risk and loan eligibility.",
+  "text_length": 917,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CONSUMER CREDIT &  LOAN APPLICATION\nBORROWER PERSONAL",
+      "predicted_span": [
+        0,
+        53
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Applicant Name",
+      "predicted_span": [
+        69,
+        83
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Alexander Parker Date",
+      "predicted_span": [
+        84,
+        105
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "August 30 , 2005",
+      "predicted_span": [
+        116,
+        132
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Marital Scacus Single Religious Belief",
+      "predicted_span": [
+        133,
+        171
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Single",
+      "predicted_span": [
+        148,
+        154
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Judaism",
+      "predicted_span": [
+        173,
+        180
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Judaism Phone",
+      "predicted_span": [
+        173,
+        186
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "842-277-0707",
+      "predicted_span": [
+        196,
+        208
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "05783",
+      "predicted_span": [
+        209,
+        214
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "alexander.pa",
+      "predicted_span": [
+        230,
+        242
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Residential Address",
+      "predicted_span": [
+        261,
+        280
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "9851 Whice Trafficway, Jordanfort, DC 30309",
+      "predicted_span": [
+        283,
+        326
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "9851",
+      "predicted_span": [
+        283,
+        287
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Jordanfort",
+      "predicted_span": [
+        306,
+        316
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FINANCIAL PROFILE &  CREDITWORTHINESS\nEmp",
+      "predicted_span": [
+        327,
+        368
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Scacus: Employed Part-Time Employer Name Pitts Ltd Gross",
+      "predicted_span": [
+        377,
+        433
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Employed Part-Time",
+      "predicted_span": [
+        385,
+        403
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": ".00 USD Bank Account",
+      "predicted_span": [
+        459,
+        479
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number: ACCT-7603978731",
+      "predicted_span": [
+        472,
+        503
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-7603978731",
+      "predicted_span": [
+        488,
+        503
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "7603978731",
+      "predicted_span": [
+        493,
+        503
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "7603978731",
+      "predicted_span": [
+        493,
+        503
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_CREDIT_SCORE",
+      "field_type": "credit_score",
+      "predicted_text": "Credit Score (FICO) 664",
+      "predicted_span": [
+        504,
+        527
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Credit Score",
+      "predicted_span": [
+        504,
+        516
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO",
+      "predicted_span": [
+        518,
+        522
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO Score",
+      "predicted_span": [
+        529,
+        539
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Diabetes Mellitus (managed via diet /medication) Hyperlipidemia",
+      "predicted_span": [
+        602,
+        665
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Mellitus",
+      "predicted_span": [
+        611,
+        619
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Security Identifier: SHA256: ",
+      "predicted_span": [
+        666,
+        705
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION auchorize ",
+      "predicted_span": [
+        731,
+        789
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

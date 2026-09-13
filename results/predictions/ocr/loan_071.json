@@ -1,0 +1,250 @@
+{
+  "doc_id": "loan_071",
+  "document_type": "loan_application",
+  "split": "test",
+  "is_ocr": true,
+  "ocr_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORROWER PERSONAL IDENTIFICATION\nApplicant Name Beverly Johnson Date of Birth: December 16, 2004 Marital Scacus Domestic Partnership Religious Belief: Hinduism Phone Number: +1-597-705-2774*02588 Email Address: beverly. johnsonChotmail.com Residential Address: 122 Rios Port Suite 724, Sandraland, PW 85060\nFINANCIAL PROFILE\nCREDITWORTHINESS\nEmployment Status Employer Name Gross Annua_ Income Bank Account Number Credit Score (FICO)\nSelf-Employed Obrien-White S74,000.00 USD ACCT-2400094541 794 (FICO Score 8 )\nADDITIONAL DISCLOSURES &   BACKGROUND\nMedical History: Gastroesophageal Reflux Disease (GERD) History of Right Wrist Fracture (2020)\nBiometric Security Identifier: SHA256: 97985585225527f1016099ac (Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: authorize the financial institution to investigate my credit standing and employment history co evaluace credit risk and loan eligibility.",
+  "text_length": 930,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORROWER PERSONAL",
+      "predicted_span": [
+        0,
+        50
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Applicant Name Beverly Johnson Date",
+      "predicted_span": [
+        66,
+        101
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_DOB",
+      "field_type": "date_of_birth",
+      "predicted_text": "December 16, 2004",
+      "predicted_span": [
+        112,
+        129
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Marital Scacus Domestic Partnership Religious Belief",
+      "predicted_span": [
+        130,
+        182
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Domestic Partnership",
+      "predicted_span": [
+        145,
+        165
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Hinduism",
+      "predicted_span": [
+        184,
+        192
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "NRP",
+      "field_type": "nrp",
+      "predicted_text": "+1-597",
+      "predicted_span": [
+        207,
+        213
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "UK_NHS",
+      "field_type": "uk_nhs",
+      "predicted_text": "597-705-2774",
+      "predicted_span": [
+        210,
+        222
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Email Address",
+      "predicted_span": [
+        229,
+        242
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "johnsonChotmail.com",
+      "predicted_span": [
+        253,
+        272
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "122 Rios Port Suite 724, Sandraland, PW 85060",
+      "predicted_span": [
+        294,
+        339
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Sandraland",
+      "predicted_span": [
+        319,
+        329
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "PW 85060",
+      "predicted_span": [
+        331,
+        339
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO",
+      "predicted_span": [
+        461,
+        465
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Self-Employed",
+      "predicted_span": [
+        467,
+        480
+      ],
+      "confidence": 0.88
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Self-Employed Obrien-White S74,000.00 USD",
+      "predicted_span": [
+        467,
+        508
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-2400094541",
+      "predicted_span": [
+        509,
+        524
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "2400094541",
+      "predicted_span": [
+        514,
+        524
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO Score",
+      "predicted_span": [
+        530,
+        540
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Reflux Disease (GERD) History of Right Wrist Fracture (2020)",
+      "predicted_span": [
+        617,
+        677
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Right Wrist Fracture",
+      "predicted_span": [
+        650,
+        670
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2020",
+      "predicted_span": [
+        672,
+        676
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Security Identifier: SHA256: ",
+      "predicted_span": [
+        678,
+        717
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: authorize ",
+      "predicted_span": [
+        743,
+        802
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

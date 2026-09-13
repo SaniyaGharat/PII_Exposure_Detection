@@ -1,0 +1,340 @@
+{
+  "doc_id": "loan_059",
+  "document_type": "loan_application",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORROWER PERSONAL IDENTIFICATION\nApplicant Name Brandon Torres Date of Birch: August 23 , 1978 Marital Scacus Widowed Religious Belief Prefer not to disclose Phone Number 996-342-2971*25296 Email Address: brandon. corresChotmail.com Residential Address: 774 Barton Orchard, North Joseph, LA 93743\nFINANCIAL PROFILE\nCREDITWORTHINESS\nEmployment Status: Contractor Freelancer Employer Name Houston, Sanchez and Holland Gross Annual Income : S162,000.00 USD Bank Account Number: ACCT-9454334062 Credit Score (FICO) 743 (FICO Score 8 )\nADDITIONAL DISCLOSURES &  BACKGROUND\nMedical History: No significant past medical history. Non-smoker, no past surgeries.\nBiometric Security Identifier: SHA256: 8b5dc96bf94c684e6a9cae62 (Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: authorize che financial institution to investigate my credit standing and employment history to evaluate credit risk and loan eligibility.",
+  "text_length": 938,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORROWER PERSONAL",
+      "predicted_span": [
+        0,
+        50
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Applicant Name Brandon Torres Date of Birch",
+      "predicted_span": [
+        66,
+        109
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "August 23 , 1978",
+      "predicted_span": [
+        111,
+        127
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Widowed",
+      "predicted_span": [
+        143,
+        150
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Prefer not to disclose",
+      "predicted_span": [
+        168,
+        190
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_GENDER",
+      "field_type": "gender",
+      "predicted_text": "Prefer not to disclose",
+      "predicted_span": [
+        168,
+        190
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Phone",
+      "predicted_span": [
+        191,
+        196
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "996-342-2971",
+      "predicted_span": [
+        204,
+        216
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "25296",
+      "predicted_span": [
+        217,
+        222
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "corresChotmail.com",
+      "predicted_span": [
+        247,
+        265
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Residential Address",
+      "predicted_span": [
+        266,
+        285
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "774 Barton Orchard, North Joseph, LA 93743",
+      "predicted_span": [
+        287,
+        329
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Barton Orchard",
+      "predicted_span": [
+        291,
+        305
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "North Joseph",
+      "predicted_span": [
+        307,
+        319
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Contractor",
+      "predicted_span": [
+        384,
+        394
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Freelancer",
+      "predicted_span": [
+        395,
+        405
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Freelancer Employer Name",
+      "predicted_span": [
+        395,
+        419
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Houston",
+      "predicted_span": [
+        420,
+        427
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Sanchez",
+      "predicted_span": [
+        429,
+        436
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Holland Gross",
+      "predicted_span": [
+        441,
+        454
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "Annual",
+      "predicted_span": [
+        455,
+        461
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number: ACCT-9454334062",
+      "predicted_span": [
+        492,
+        523
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-9454334062",
+      "predicted_span": [
+        508,
+        523
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "9454334062",
+      "predicted_span": [
+        513,
+        523
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "9454334062",
+      "predicted_span": [
+        513,
+        523
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_CREDIT_SCORE",
+      "field_type": "credit_score",
+      "predicted_text": "Credit Score (FICO) 743",
+      "predicted_span": [
+        524,
+        547
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Credit Score",
+      "predicted_span": [
+        524,
+        536
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO",
+      "predicted_span": [
+        538,
+        542
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO Score",
+      "predicted_span": [
+        549,
+        559
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "BACKGROUND",
+      "predicted_span": [
+        590,
+        600
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "No significant past medical history. Non-smoker, no past surgeries.",
+      "predicted_span": [
+        618,
+        685
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Security Identifier: SHA256: ",
+      "predicted_span": [
+        686,
+        725
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: authorize ",
+      "predicted_span": [
+        751,
+        810
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

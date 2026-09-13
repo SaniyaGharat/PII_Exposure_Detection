@@ -1,0 +1,35 @@
+================================================================================
+                    CONSUMER CREDIT & LOAN APPLICATION
+================================================================================
+
+BORROWER PERSONAL IDENTIFICATION
+--------------------------------------------------------------------------------
+Applicant Name:       Megan Price
+Date of Birth:        March 01, 1968
+Marital Status:       Married
+Religious Belief:     Christianity
+Phone Number:         702-825-8030
+Email Address:        megan.price@hotmail.com
+Residential Address:  7447 Kathleen Gateway, Lake William, IA 37350
+
+FINANCIAL PROFILE & CREDITWORTHINESS
+--------------------------------------------------------------------------------
+Employment Status:    Employed Part-Time
+Employer Name:        Gamble-Wright
+Gross Annual Income:  $107,000.00 USD
+Bank Account Number:  ACCT-7467073633
+Credit Score (FICO):  607 (FICO Score 8)
+
+ADDITIONAL DISCLOSURES & BACKGROUND
+--------------------------------------------------------------------------------
+Medical History:
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
+
+Biometric Security Identifier:
+SHA256:5026fdbbf67c5750dc765808 (Biometric Minutiae Key)
+
+--------------------------------------------------------------------------------
+APPLICANT AUTHORIZATION:
+I authorize the financial institution to investigate my credit standing and
+employment history to evaluate credit risk and loan eligibility.
+================================================================================

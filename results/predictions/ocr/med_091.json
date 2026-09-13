@@ -1,0 +1,210 @@
+{
+  "doc_id": "med_091",
+  "document_type": "medical_intake",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "PATIENT CLINICAL INTAKE & ADMISSION FORM\nPATIENT DEMOGRAPHIC INFORMATION\nFull Name Carolyn Lee Date of Birth: December 21_ 1993 Phone Number: 001-699-521-9212 Home Address: 08948 Smith Meadow Apt . 566 , Davidhaven , NH 65456 Marital Status: Divorced Occupation: Ceramics designer Religious Preference Hinduism National ID SSN: 114-53-5833 Insurance Policy No KSR-35925669\nEMERGENCY  CONTACT\nPrimary Emergency Contact: Peter Stephenson (Adult Child)\nPhone: 504.768.7506\nCLINICAL\nALLERGY INFORMATION\nKnown Drug Environmental Allergies: Sulfa antibiotics (severe skin reaction) Latex.\nCURRENT MEDICATIONS &  DOSAGES\nActive Prescriptions Supplements: Levothyroxine 75mcg PO daily in morning, Sumatriptan 5 Omg PRN for migraine _ PAST MEDICAL SURGICAL HISTORY\nDiagnosed Conditions Previous Surgeries No significant past medical history_ Non-smoker, no past surgeries\nPATIENT ACKNOWLEDGMENT : acknowledge that the medical information submitted above is accurate for the purpose of healthcare evaluation, clinical diagnosis, and safe treatment",
+  "text_length": 1037,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "PATIENT CLINICAL INTAKE & ADMISSION FORM\nPATIENT DEMOGRAPHIC",
+      "predicted_span": [
+        0,
+        60
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "December 21_ 1993",
+      "predicted_span": [
+        110,
+        127
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "08948 Smith Meadow Apt . 566 , Davidhaven , NH 65456",
+      "predicted_span": [
+        173,
+        225
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "08948",
+      "predicted_span": [
+        173,
+        178
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Divorced",
+      "predicted_span": [
+        242,
+        250
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Preference Hinduism National ID SSN",
+      "predicted_span": [
+        291,
+        326
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Hinduism",
+      "predicted_span": [
+        302,
+        310
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "114-53-5833",
+      "predicted_span": [
+        328,
+        339
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_INSURANCE_NO",
+      "field_type": "insurance_number",
+      "predicted_text": "Policy No KSR-35925669",
+      "predicted_span": [
+        350,
+        372
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_DRIVER_LICENSE",
+      "field_type": "us_driver_license",
+      "predicted_text": "35925669",
+      "predicted_span": [
+        364,
+        372
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Peter Stephenson",
+      "predicted_span": [
+        419,
+        435
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Adult Child",
+      "predicted_span": [
+        437,
+        448
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "504.768.7506",
+      "predicted_span": [
+        457,
+        469
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "CUSTOM_ALLERGIES",
+      "field_type": "allergies",
+      "predicted_text": "Sulfa antibiotics (severe skin reaction) Latex.",
+      "predicted_span": [
+        535,
+        582
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "reaction) Latex.",
+      "predicted_span": [
+        566,
+        582
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Latex",
+      "predicted_span": [
+        576,
+        581
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "Levothyroxine 75mcg PO daily in morning, Sumatriptan 5 Omg PRN for migraine _ PAST MEDICAL SURGICAL HISTORY",
+      "predicted_span": [
+        648,
+        755
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "morning",
+      "predicted_span": [
+        680,
+        687
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Sumatriptan 5 Omg PRN",
+      "predicted_span": [
+        689,
+        710
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "No significant past medical history_ Non-smoker, no past surgeries",
+      "predicted_span": [
+        796,
+        862
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "doc_id": "rent_021",
+  "document_type": "rental_agreement",
+  "split": "test",
+  "is_ocr": true,
+  "ocr_text": "RESIDENTIAL LEASE APPLICATION 6    AGREEMENT\nPROSPECTIVE TENANT  IDENTIFICATION\nTenanc Full Name Phone Number: Email Address National ID SSN: Marital Scatus Religious Belief: Current Residence\nBrian Garcia 001-944-548-5645*10173 brian. garciaChotmail com 351-29-1104 Widowed Christianity 417 Obrien Ways Suite 091, New Codybury, MN 76538\nEMPLOYMENT\nFINANCIAL BACKGROUND\nEmployment Satus Employed Part-Time Employer Name Townsend, Kelley and Morris Mon chly Annual Inc: S12,454.00 month Bank Account Number: ACCT-7620886217\nPREVIOUS TENANCY\nEMERGENCY CONTACT\nRental History: Previous Address: 057 Berry Pike Apt . 660 , New Henry Tenancy 2021 2024 Landlord: Stephanie Fisher Rent : 52957 /mo Reason for Leaving Job relocation Full security deposit returned: Yes\nEmergency Contact Erin Carter (Sibling)\nTel\n(407) 545-5534*70574\nSUPPLEMENTAL TENANT  DECLARATION\nMedical History: No significant past medical history. Non-smoker, no past surgeries .\nTENANT  ACKNOWLEDGMENT : declare that the information stated in this rental application is true and complete I grant permission to verify rental history and  employment .",
+  "text_length": 1115,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Tenanc Full Name Phone Number: Email Address National ID SSN",
+      "predicted_span": [
+        80,
+        140
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "UK_NHS",
+      "field_type": "uk_nhs",
+      "predicted_text": "944-548-5645",
+      "predicted_span": [
+        210,
+        222
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "10173",
+      "predicted_span": [
+        223,
+        228
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "garciaChotmail",
+      "predicted_span": [
+        236,
+        250
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "351-29-1104",
+      "predicted_span": [
+        255,
+        266
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "current_address",
+      "predicted_text": "1104 Widowed Christianity 417 Obrien Ways Suite 091, New Codybury, MN 76538",
+      "predicted_span": [
+        262,
+        337
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Widowed",
+      "predicted_span": [
+        267,
+        274
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Christianity",
+      "predicted_span": [
+        275,
+        287
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "New Codybury",
+      "predicted_span": [
+        315,
+        327
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Employed Part-Time",
+      "predicted_span": [
+        387,
+        405
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Kelley",
+      "predicted_span": [
+        430,
+        436
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Morris Mon",
+      "predicted_span": [
+        441,
+        451
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Bank Account",
+      "predicted_span": [
+        486,
+        498
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number: ACCT-7620886217",
+      "predicted_span": [
+        491,
+        522
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-7620886217",
+      "predicted_span": [
+        507,
+        522
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "7620886217",
+      "predicted_span": [
+        512,
+        522
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "7620886217",
+      "predicted_span": [
+        512,
+        522
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TENANCY",
+      "predicted_span": [
+        532,
+        539
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "New Henry Tenancy",
+      "predicted_span": [
+        619,
+        636
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        637,
+        641
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2024",
+      "predicted_span": [
+        642,
+        646
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Landlord",
+      "predicted_span": [
+        647,
+        655
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "52957",
+      "predicted_span": [
+        681,
+        686
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Erin Carter",
+      "predicted_span": [
+        779,
+        790
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Sibling",
+      "predicted_span": [
+        792,
+        799
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tel",
+      "predicted_span": [
+        801,
+        804
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "(407) 545-5534",
+      "predicted_span": [
+        805,
+        819
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "No significant past medical history. Non-smoker, no past surgeries .",
+      "predicted_span": [
+        876,
+        944
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

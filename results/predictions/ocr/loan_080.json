@@ -1,0 +1,240 @@
+{
+  "doc_id": "loan_080",
+  "document_type": "loan_application",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORRONER PERSONAL IDENTIFICATION\nApplicant Name : Date of Birth: Marital Scatus: Religious Belief: Phone Number: Email Address: Residential Address\nChristy Glenn August 01, 1964 Midowed Atheist 686-448-7699 christy.glenn@yahoo_ com Harbor Apt . 384, Ashleyton, RI 36450 320 Marsh\nFINANCIAL PROFILE\nCREDITWORTHINESS\nStatus Employed Part-Time Employment Employer Name King, Delgado and Ingram Gross Annual Income S173,000 00 USD Bank Account Number: ACCT-9945002229 Credit Score (FICO) 696 (FICO Score 8 )\nADDITIONAL DISCLOSURES 6  BACKGROUND\nMedical History: (diagnosed 2018) Mild Osteoarthritis in right knee Hypertension\nBiometric Security Identifier: SHA256:4\u20ac3b807680e96582b969ab6b (Biometric Minutiae Key)\nAPBLICOrI AUtHoRIZAaoNal institution to investigate my credit standing and authorize the employment history Eo evaluate credit risk and loan eligibility.",
+  "text_length": 896,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORRONER PERSONAL",
+      "predicted_span": [
+        0,
+        50
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_DOB",
+      "field_type": "date_of_birth",
+      "predicted_text": "August 01, 1964",
+      "predicted_span": [
+        195,
+        210
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Atheist",
+      "predicted_span": [
+        219,
+        226
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Atheist",
+      "predicted_span": [
+        219,
+        226
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "686-448-7699",
+      "predicted_span": [
+        227,
+        239
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "christy.gl",
+      "predicted_span": [
+        240,
+        250
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Harbor Apt",
+      "predicted_span": [
+        265,
+        275
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Ashleyton",
+      "predicted_span": [
+        283,
+        292
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Employed Part-Time",
+      "predicted_span": [
+        355,
+        373
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Delgado",
+      "predicted_span": [
+        405,
+        412
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Ingram Gross",
+      "predicted_span": [
+        417,
+        429
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number: ACCT-9945002229",
+      "predicted_span": [
+        465,
+        496
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-9945002229",
+      "predicted_span": [
+        481,
+        496
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "9945002229",
+      "predicted_span": [
+        486,
+        496
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "9945002229",
+      "predicted_span": [
+        486,
+        496
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_CREDIT_SCORE",
+      "field_type": "credit_score",
+      "predicted_text": "Credit Score (FICO) 696",
+      "predicted_span": [
+        497,
+        520
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO",
+      "predicted_span": [
+        511,
+        515
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO Score",
+      "predicted_span": [
+        522,
+        532
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2018",
+      "predicted_span": [
+        602,
+        606
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Mild Osteoarthritis",
+      "predicted_span": [
+        608,
+        627
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Osteoarthritis in right knee Hypertension",
+      "predicted_span": [
+        613,
+        654
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Security Identifier: SHA256:4",
+      "predicted_span": [
+        655,
+        694
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Minutiae Key)\nAPBLICOrI AUtHoRIZAaoNal institution",
+      "predicted_span": [
+        719,
+        779
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

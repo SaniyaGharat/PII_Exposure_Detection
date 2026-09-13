@@ -1,0 +1,280 @@
+{
+  "doc_id": "loan_011",
+  "document_type": "loan_application",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORROWER PERSONAL IDENTIFICATION\nApplicant Name Date of Birch: Marital Status: Religious Belief: Phone  Number: Email Address Residential Address\nJordan Barrera July 07 , 1988 Widowed Judaism 291.521.4161*415 jordan.barrera@yahoo.com 100 Walcon Avenue Apt . 138 , South Carrieview, NM  62528\nFINANCIAL PROFILE 6 CREDITWORTHINESS\nEmployment Statcus Employer Name Gross Annual Income Bank Account Number Credit Score (FICO)\nSelf-Employed Jordan, Wood and Wu S181, 000.00 USD ACCT-9851745648 646 (FICO Score 8 )\nADDITIONAL DISCLOSURES & BACKGROUND\nMedical History Hypochyroidism (stable on levothyroxine) Migraines with aura\nBiometric Security Identifier: SHA256:79c74c72bd4f7889cb31005a (Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: authorize che financial institution Co investigate my credit standing and employment history Eo evaluate credit risk and loan eligibility.",
+  "text_length": 906,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORROWER PERSONAL",
+      "predicted_span": [
+        0,
+        50
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Applicant Name Date of Birch",
+      "predicted_span": [
+        66,
+        94
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "July 07 , 1988",
+      "predicted_span": [
+        194,
+        208
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Widowed",
+      "predicted_span": [
+        209,
+        216
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Judaism",
+      "predicted_span": [
+        217,
+        224
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "291.521.4161",
+      "predicted_span": [
+        225,
+        237
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "jordan.barrera@yahoo.com",
+      "predicted_span": [
+        242,
+        266
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "jordan.bar",
+      "predicted_span": [
+        242,
+        252
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "yahoo.com",
+      "predicted_span": [
+        257,
+        266
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "100 Walcon Avenue Apt . 138 , South Carrieview, NM  62528",
+      "predicted_span": [
+        267,
+        324
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "South Carrieview",
+      "predicted_span": [
+        297,
+        313
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "NM  62528",
+      "predicted_span": [
+        315,
+        324
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO",
+      "predicted_span": [
+        449,
+        453
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Self-Employed",
+      "predicted_span": [
+        455,
+        468
+      ],
+      "confidence": 0.88
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Wood",
+      "predicted_span": [
+        477,
+        481
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Wu S181",
+      "predicted_span": [
+        486,
+        493
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-9851745648",
+      "predicted_span": [
+        506,
+        521
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "9851745648",
+      "predicted_span": [
+        511,
+        521
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "9851745648",
+      "predicted_span": [
+        511,
+        521
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO Score",
+      "predicted_span": [
+        527,
+        537
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "levothyroxine) Migraines with aura",
+      "predicted_span": [
+        620,
+        654
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Migraines with aura",
+      "predicted_span": [
+        635,
+        654
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Security Identifier: SHA256:",
+      "predicted_span": [
+        655,
+        693
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "SHA256:79c74c72bd4f7889cb31005a (Biometric Minutiae Key)",
+      "predicted_span": [
+        686,
+        742
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: authorize ",
+      "predicted_span": [
+        719,
+        778
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Biometric Minutiae Key",
+      "predicted_span": [
+        719,
+        741
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Co",
+      "predicted_span": [
+        804,
+        806
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

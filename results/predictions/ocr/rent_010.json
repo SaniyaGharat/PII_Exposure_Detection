@@ -1,0 +1,370 @@
+{
+  "doc_id": "rent_010",
+  "document_type": "rental_agreement",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "RESIDENTIAL LEASE APPLICATION\nAGREEMENT\nPROSPECTIVE  TENANT IDENTIFICATION\nTenant Full Name Phone Number Email Address National ID SSN: Marital Scacus: Religious Belief : Current Residence:\nMelanie Chang 001-512-656-5237 melanie. chang@gmail.com 730-29-5546 Single Judaism 177 Katherine Junctions Suite 757 , Ashleyton, WV 18853\nEMPLOYMENT\nFINANCIAL BACKGROUND\nEmp loyment Scatus Employed Full-Time Employer Name Yoder, Compton and Schneider Monthly Annual Inc: S12,291.00 month Bank Account Number: ACCT-4470591645\nPREVIOUS TENANCY\nEMERGENCY CONTACT\nRental History: Previous Address: 544 Ashley Inlet Suite 742, East Catherine Tenancy 2021 2024 Landlord: Dylan Walker Rent : 52501/mo Reason for Leaving Job relocation Full security deposit returned: Yes\nEmergency Contact: Dawn Perez (Sibling)\nTel: 894.929 .0458\nSUPPLEMENTAL TENANT   DECLARATION\nMedical History: Hypothyroidism (stable on levothyroxine) Migraines with aura\nTENANT ACKNORLEDGMENT declare chat the information stated in chis rental application 1s crue and complete grant permission to verify rental history and employment",
+  "text_length": 1088,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tenant Full Name Phone Number Email Address National",
+      "predicted_span": [
+        75,
+        127
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Marital Scacus",
+      "predicted_span": [
+        136,
+        150
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Melanie Chang",
+      "predicted_span": [
+        190,
+        203
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "001-512-656-5237",
+      "predicted_span": [
+        204,
+        220
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "chang@gmail.com",
+      "predicted_span": [
+        230,
+        245
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "gmail.com",
+      "predicted_span": [
+        236,
+        245
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "730-29-5546",
+      "predicted_span": [
+        246,
+        257
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "current_address",
+      "predicted_text": "5546 Single Judaism 177 Katherine Junctions Suite 757 , Ashleyton, WV 18853",
+      "predicted_span": [
+        253,
+        328
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Single",
+      "predicted_span": [
+        258,
+        264
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Judaism",
+      "predicted_span": [
+        265,
+        272
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Katherine Junctions Suite 757",
+      "predicted_span": [
+        277,
+        306
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Ashleyton",
+      "predicted_span": [
+        309,
+        318
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "18853",
+      "predicted_span": [
+        323,
+        328
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Scatus Employed Full-Time Employer",
+      "predicted_span": [
+        373,
+        407
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Employed Full-Time",
+      "predicted_span": [
+        380,
+        398
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Compton",
+      "predicted_span": [
+        420,
+        427
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Schneider Monthly",
+      "predicted_span": [
+        432,
+        449
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "S12,291.00 month",
+      "predicted_span": [
+        462,
+        478
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Bank Account",
+      "predicted_span": [
+        479,
+        491
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number: ACCT-4470591645",
+      "predicted_span": [
+        484,
+        515
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-4470591645",
+      "predicted_span": [
+        500,
+        515
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "UK_NHS",
+      "field_type": "uk_nhs",
+      "predicted_text": "4470591645",
+      "predicted_span": [
+        505,
+        515
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "4470591645",
+      "predicted_span": [
+        505,
+        515
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "4470591645",
+      "predicted_span": [
+        505,
+        515
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TENANCY",
+      "predicted_span": [
+        525,
+        532
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Ashley Inlet Suite",
+      "predicted_span": [
+        589,
+        607
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        636,
+        640
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2024",
+      "predicted_span": [
+        641,
+        645
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Landlord",
+      "predicted_span": [
+        646,
+        654
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Dylan Walker Rent",
+      "predicted_span": [
+        656,
+        673
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "52501",
+      "predicted_span": [
+        676,
+        681
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Dawn Perez",
+      "predicted_span": [
+        774,
+        784
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tel",
+      "predicted_span": [
+        795,
+        798
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "894.929 .0458",
+      "predicted_span": [
+        800,
+        813
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Hypothyroidism (stable on levothyroxine) Migraines with aura",
+      "predicted_span": [
+        865,
+        925
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "levothyroxine) Migraines with aura",
+      "predicted_span": [
+        891,
+        925
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

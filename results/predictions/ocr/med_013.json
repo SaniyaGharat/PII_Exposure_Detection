@@ -1,0 +1,250 @@
+{
+  "doc_id": "med_013",
+  "document_type": "medical_intake",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "PATIENI CLINICAL INTAKE\nADMISSION FORM\nPATIENT DEMOGRAPHIC INFORMATION\nFull Name Matthew Houston Date of Birth: November 08 , 1978 Phone   Number: 463-986-5577*908 18432 Eric Rapids, Lake Jerrymouth, VA 15356 Home Address: Marital Status Widowed Occupation Education administrator Religious Preference Is_am National ID SSN: 349-65-7560 Insurance Policy No KSR-20555833\nEMERGENCY  CONTACT\nPrimary Emergency Contact: Mr Daniel Martin (Spouse)\nPhone: (403) 602-9922*80920\nCLINICAL\nALLERGY  INFORMATION\nKnown Drug Environmental Allergies Aspirin (bronchospasm) Codeine (nausea)\nCURRENT  MEDICATIONS\nDOSAGES\nActive Prescriptions Supplements: Albuterol HFA Inhaler Omcg puffs PRN Fluticasone nasal spray daily.\nPAST MEDICAL\nSURGICAL HISTORY\nDiagnosed Conditions Previous Surgeries: No significant past medical history. Non-smoker , no past surgeries\nPATIENT  ACKNOWLEDGMENT that the medical information submicted above is accurate for acknowledge of healchcare evaluation, clinical diagnosis, and safe creatment che purpose",
+  "text_length": 1018,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Matthew Houston Date",
+      "predicted_span": [
+        81,
+        101
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "November 08 , 1978",
+      "predicted_span": [
+        112,
+        130
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "463-986-5577",
+      "predicted_span": [
+        147,
+        159
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "18432",
+      "predicted_span": [
+        164,
+        169
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Eric Rapids",
+      "predicted_span": [
+        170,
+        181
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Lake Jerrymouth",
+      "predicted_span": [
+        183,
+        198
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "VA 15356 Home Address",
+      "predicted_span": [
+        200,
+        221
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Widowed",
+      "predicted_span": [
+        238,
+        245
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Preference Is_am",
+      "predicted_span": [
+        291,
+        307
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "349-65-7560",
+      "predicted_span": [
+        325,
+        336
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_INSURANCE_NO",
+      "field_type": "insurance_number",
+      "predicted_text": "Policy No KSR-20555833",
+      "predicted_span": [
+        347,
+        369
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_DRIVER_LICENSE",
+      "field_type": "us_driver_license",
+      "predicted_text": "20555833",
+      "predicted_span": [
+        361,
+        369
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Daniel Martin",
+      "predicted_span": [
+        419,
+        432
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "(403) 602-9922",
+      "predicted_span": [
+        449,
+        463
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "80920",
+      "predicted_span": [
+        464,
+        469
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_ALLERGIES",
+      "field_type": "allergies",
+      "predicted_text": "Aspirin (bronchospasm) Codeine (nausea)",
+      "predicted_span": [
+        535,
+        574
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "Albuterol HFA Inhaler Omcg puffs PRN Fluticasone nasal spray daily.",
+      "predicted_span": [
+        638,
+        705
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Inhaler Omcg",
+      "predicted_span": [
+        652,
+        664
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Fluticasone",
+      "predicted_span": [
+        675,
+        686
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "daily",
+      "predicted_span": [
+        699,
+        704
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "No significant past medical history. Non-smoker , no past surgeries",
+      "predicted_span": [
+        777,
+        844
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "PATIENT",
+      "predicted_span": [
+        845,
+        852
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "ACKNOWLEDGMENT",
+      "predicted_span": [
+        854,
+        868
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "che",
+      "predicted_span": [
+        1007,
+        1010
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "doc_id": "loan_049",
+  "document_type": "loan_application",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORROWER PERSONAL IDENTIFICATION\nApplicant Name Dace 0f Birch: Marical Scacus: Religious Belief: Phone Number: Email Address: Residential Address\nBarbara Smith June 15, 1985 Married Judaism 7447817766 barbara. smich@hotmail.com 512 Paccerson Fall Apt . 866 , Meganchester, SC 37626\nFINANCIAL PROFILE\nCREDITWORTHINESS\nEmployment Scacus Employer Name Gross Annual Income Bank Account Number Credit Score (FICO)\nSelf-Employed Cowan Inc S145,000.00 USD ACCT-6447765697 633 (FICO Score 8 )\nADDITIONAL DISCLOSURES\nBACKGROUND\nMedical History: Type Diabeces Mellicus (managed Via diet/medication) Hyperlipidemia\nBiometric Security Identifier: SHA256: 456f9498a5 9e5\u20ac8fcb638ef7 (Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION : authorize che financial inscicucion to investigate my credit standing and employment history to evaluate credit risk and loan eligibility.",
+  "text_length": 891,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORROWER PERSONAL",
+      "predicted_span": [
+        0,
+        50
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Applicant Name Dace",
+      "predicted_span": [
+        66,
+        85
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Barbara Smith",
+      "predicted_span": [
+        179,
+        192
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_DOB",
+      "field_type": "date_of_birth",
+      "predicted_text": "June 15, 1985",
+      "predicted_span": [
+        193,
+        206
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Married",
+      "predicted_span": [
+        207,
+        214
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Judaism",
+      "predicted_span": [
+        215,
+        222
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "7447817766",
+      "predicted_span": [
+        223,
+        233
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "7447817766",
+      "predicted_span": [
+        223,
+        233
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "smich@hotmail.com",
+      "predicted_span": [
+        243,
+        260
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "hotmail.com",
+      "predicted_span": [
+        249,
+        260
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "512 Paccerson Fall Apt . 866 , Meganchester, SC 37626",
+      "predicted_span": [
+        261,
+        314
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Meganchester",
+      "predicted_span": [
+        292,
+        304
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "SC",
+      "predicted_span": [
+        306,
+        308
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO",
+      "predicted_span": [
+        436,
+        440
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Self-Employed",
+      "predicted_span": [
+        442,
+        455
+      ],
+      "confidence": 0.88
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Self-Employed Cowan Inc S145,000.00 USD",
+      "predicted_span": [
+        442,
+        481
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-6447765697",
+      "predicted_span": [
+        482,
+        497
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "CREDIT_CARD",
+      "field_type": "credit_card",
+      "predicted_text": "6447765697 633",
+      "predicted_span": [
+        487,
+        501
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "6447765697",
+      "predicted_span": [
+        487,
+        497
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "6447765697",
+      "predicted_span": [
+        487,
+        497
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO Score",
+      "predicted_span": [
+        503,
+        513
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Via",
+      "predicted_span": [
+        601,
+        604
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Security Identifier: SHA256: 456f9498a5 9e5",
+      "predicted_span": [
+        637,
+        690
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION : authorize ",
+      "predicted_span": [
+        703,
+        763
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Biometric Minutiae Key",
+      "predicted_span": [
+        703,
+        725
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

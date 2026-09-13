@@ -1,0 +1,300 @@
+{
+  "doc_id": "rent_008",
+  "document_type": "rental_agreement",
+  "split": "test",
+  "is_ocr": true,
+  "ocr_text": "RESIDENTIAL LEASE APPLICATION 6 AGREEMENT\nPROSPECTIVE TENANT  IDENTIFICATION\nTenant Full Name : Phone  Number Email Address National ID SSN: Marital Scacus Religious Belief: Current Residence\nAngela Henry 568. 526.9116 angela.henryCgmail com 582-19-1273 Domestic Partnership Islam 26865 Robert Rapid Suite 551, Wayneside, MO 30005\nEMPLOYMENT\nFINANCIAL BACKGROUND\nEmployment Scatus Employed Full-Time Employer Name Johnson-Guzman Monthly Annual Inc: 56,330.00 monch Bank Account Number ACCT-2126077199\nPREVIOUS TENANCY\nEMERGENCY   CONTACT\nRental History: Previous Address: 26408 Hines Shoal Apt. 169 , Mccannchester Tenancy 2021 2024 Landlord: Kathleen Marshall Rent 52962/mo Reason for Leaving Job relocation Full security deposit returned: Yes\nEmergency Contact: Allen Walker (Sibling)\nTel: +1-998-319-9605*932\nSUPPLEMENTAL TENANT  DECLARATION\nMedical History: Hypertension (diagnosed 2018) Mild Osteoarthritis in right knee .\nTENANT ACKNOWLEDGMENT declare chat the information stated in this rental application is crue and complete. I grant permission to verify rental history and employment .",
+  "text_length": 1095,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tenant Full Name",
+      "predicted_span": [
+        77,
+        93
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Marital Scacus",
+      "predicted_span": [
+        141,
+        155
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Angela Henry 568",
+      "predicted_span": [
+        192,
+        208
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "568. 526.9116",
+      "predicted_span": [
+        205,
+        218
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "582-19-1273",
+      "predicted_span": [
+        242,
+        253
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "current_address",
+      "predicted_text": "1273 Domestic Partnership Islam 26865 Robert Rapid Suite 551, Wayneside, MO 30005",
+      "predicted_span": [
+        249,
+        330
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Domestic Partnership",
+      "predicted_span": [
+        254,
+        274
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Islam",
+      "predicted_span": [
+        275,
+        280
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Islam",
+      "predicted_span": [
+        275,
+        280
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Robert Rapid Suite",
+      "predicted_span": [
+        287,
+        305
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Wayneside",
+      "predicted_span": [
+        311,
+        320
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "MO 30005\nEMPLOYMENT\nFINANCIAL BACKGROUND\nEmployment Scatus Employed Full-Time Employer Name Johnson-Guzman",
+      "predicted_span": [
+        322,
+        428
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Employed Full-Time",
+      "predicted_span": [
+        381,
+        399
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "Monthly",
+      "predicted_span": [
+        429,
+        436
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Bank Account Number",
+      "predicted_span": [
+        465,
+        484
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number ACCT-2126077199",
+      "predicted_span": [
+        470,
+        500
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-2126077199",
+      "predicted_span": [
+        485,
+        500
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "2126077199",
+      "predicted_span": [
+        490,
+        500
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "2126077199",
+      "predicted_span": [
+        490,
+        500
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TENANCY",
+      "predicted_span": [
+        510,
+        517
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        623,
+        627
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2024",
+      "predicted_span": [
+        628,
+        632
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Landlord",
+      "predicted_span": [
+        633,
+        641
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Kathleen Marshall",
+      "predicted_span": [
+        643,
+        660
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Allen Walker",
+      "predicted_span": [
+        764,
+        776
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Sibling",
+      "predicted_span": [
+        778,
+        785
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Hypertension (diagnosed 2018) Mild Osteoarthritis in right knee .",
+      "predicted_span": [
+        862,
+        927
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2018",
+      "predicted_span": [
+        886,
+        890
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Mild Osteoarthritis",
+      "predicted_span": [
+        892,
+        911
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

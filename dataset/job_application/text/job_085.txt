@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Bryan Dunlap
+Date of Birth:        September 13, 1969
+Gender:               Non-Binary
+Marital Status:       Married
+Religious Belief:     Hinduism
+National ID / SSN:    652-56-9697
+Email Address:        bryan.dunlap@yahoo.com
+Phone Number:         (562)653-2447x2099
+Home Address:         701 Reyes Manor Apt. 838, South Kimberlystad, NJ 71872
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: Account Executive
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+B.A. in Economics - Georgia Institute of Technology (Graduated 2014)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. Account Executive at Jackson PLC (2022 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Underwood-Foster (2020 - 2020)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+Network Security, Penetration Testing, SIEM, Incident Response, ISO 27001
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

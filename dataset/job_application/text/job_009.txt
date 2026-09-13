@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Todd Taylor
+Date of Birth:        January 11, 1991
+Gender:               Male
+Marital Status:       Married
+Religious Belief:     Agnostic
+National ID / SSN:    710-18-7304
+Email Address:        todd.taylor@yahoo.com
+Phone Number:         248.274.0164
+Home Address:         427 Hoffman Creek, Lake Rebeccaside, AZ 48894
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: Systems Architect
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+MBA - Georgia Institute of Technology (Graduated 2022)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. Systems Architect at Preston Ltd (2021 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Moore, Campbell and Clark (2017 - 2020)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

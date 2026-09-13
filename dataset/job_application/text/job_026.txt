@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Lori Clay
+Date of Birth:        April 02, 1987
+Gender:               Female
+Marital Status:       Married
+Religious Belief:     Judaism
+National ID / SSN:    617-72-5114
+Email Address:        lori.clay@gmail.com
+Phone Number:         216.711.7240
+Home Address:         5623 Knight Turnpike Apt. 221, Harveybury, NM 76936
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: Data Scientist
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+B.S. in Information Systems - University of Michigan (Graduated 2014)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. Data Scientist at Brennan-Johnson (2022 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Young Ltd (2018 - 2021)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

@@ -1,0 +1,310 @@
+{
+  "doc_id": "rent_032",
+  "document_type": "rental_agreement",
+  "split": "validation",
+  "is_ocr": true,
+  "ocr_text": "RESIDENTIAL LEASE APPLICATION\nAGREEMENT\nPROSPECTIVE TENANT IDENTIFICATION\nTenant Full Name : Phone Number: Email Address : Nacional ID SSN: Marital Scatus: Religious Belief: Current Residence:\nTracy Bullock 9343476504 tracy bullockGyahoo com 554-26-2506 Divorced Islam 90904 Gonzalez Mountains Priceview, UT 49671\nEMPLOYMENT\nFINANCIAL BACKGROUND\nEmployment Scatus Employed Full-Time Employer Name : Marks Harcman and Rodriguez Monthly Annual Inc: S6,739 .00 monch Bank Account Number: ACCT-9342031932\nPREVIOUS  TENANCY\nEMERGENCY   CONTACT\nRental History: Previous Address: 5254 Tracy Grove Apt . 715, North Lisaville Tenancy: 2021 2024 Landlord: Roberc Nash Renc : 52722/mo Reason for Leaving: Job relocation Full security deposit returned: Yes\nEmergency Contact: Christopher Brown (Sibling)\nTel: 001-431-910-0591\nSUPPLEMENTAL TENANT DECLARATION\nMedical History: Hypertension (diagnosed 2018) Mild Osteoarthritis in right knee\nTENANT   ACKNOWLEDGMENT : I declare that the information stated in this rental application 18 crue and complete . I grant permission to verify rental history and employment .",
+  "text_length": 1101,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tenant Full Name",
+      "predicted_span": [
+        74,
+        90
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tracy Bullock",
+      "predicted_span": [
+        193,
+        206
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "9343476504",
+      "predicted_span": [
+        207,
+        217
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "554-26-2506",
+      "predicted_span": [
+        242,
+        253
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Divorced",
+      "predicted_span": [
+        254,
+        262
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Islam",
+      "predicted_span": [
+        263,
+        268
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "NRP",
+      "field_type": "nrp",
+      "predicted_text": "Islam",
+      "predicted_span": [
+        263,
+        268
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Gonzalez Mountains Priceview",
+      "predicted_span": [
+        275,
+        303
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Employed Full-Time",
+      "predicted_span": [
+        364,
+        382
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Marks Harcman",
+      "predicted_span": [
+        399,
+        412
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Rodriguez Monthly Annual Inc: S6,739 .00 monch",
+      "predicted_span": [
+        417,
+        463
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Bank Account",
+      "predicted_span": [
+        464,
+        476
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number: ACCT-9342031932",
+      "predicted_span": [
+        469,
+        500
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-9342031932",
+      "predicted_span": [
+        485,
+        500
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "9342031932",
+      "predicted_span": [
+        490,
+        500
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "9342031932",
+      "predicted_span": [
+        490,
+        500
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TENANCY",
+      "predicted_span": [
+        511,
+        518
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tracy Grove Apt",
+      "predicted_span": [
+        578,
+        593
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "North Lisaville Tenancy",
+      "predicted_span": [
+        601,
+        624
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        626,
+        630
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2024",
+      "predicted_span": [
+        631,
+        635
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Landlord",
+      "predicted_span": [
+        636,
+        644
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Roberc Nash Renc",
+      "predicted_span": [
+        646,
+        662
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "52722",
+      "predicted_span": [
+        665,
+        670
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Christopher Brown",
+      "predicted_span": [
+        764,
+        781
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tel",
+      "predicted_span": [
+        792,
+        795
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "001-431-910-0591",
+      "predicted_span": [
+        797,
+        813
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Hypertension (diagnosed 2018) Mild Osteoarthritis in right knee",
+      "predicted_span": [
+        863,
+        926
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2018",
+      "predicted_span": [
+        887,
+        891
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Mild Osteoarthritis",
+      "predicted_span": [
+        893,
+        912
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

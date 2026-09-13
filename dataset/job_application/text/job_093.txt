@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Thomas Jones
+Date of Birth:        July 15, 1968
+Gender:               Male
+Marital Status:       Married
+Religious Belief:     Hinduism
+National ID / SSN:    653-42-3858
+Email Address:        thomas.jones@hotmail.com
+Phone Number:         001-399-386-1622x999
+Home Address:         8564 Pena Ports, Johnsonview, MO 19356
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: Financial Analyst
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+M.S. in Data Analytics - University of Michigan (Graduated 2022)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. Financial Analyst at Hawkins-Arnold (2023 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Stone-Stark (2017 - 2021)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

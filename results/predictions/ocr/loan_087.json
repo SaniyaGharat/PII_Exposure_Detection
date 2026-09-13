@@ -1,0 +1,250 @@
+{
+  "doc_id": "loan_087",
+  "document_type": "loan_application",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORROWER PERSONAL IDENTIFICATION\nApplicant Name Nicole Simon Date of Birth: December 30 , 1989 Marital Status: Domestic Partnership Religious Belief: Judaism Phone  Number: 549.495.1542214477 Email Address: nicole.Simon@yahoo. con Residential Address: 134 Cody Plaza Apt . 090 , North Tracy, GU 03879\nFINANCIAL PROFILE 6  CREDITWORTHINESS\nEmployment Status: Retired Employer Name Mcmahon-Duncan Gross Annual Income : S193,000.00 USD Bank Account Number: ACCT-3313993297 Credit Score (FICO) 679 (FICO Score\nADDITIONAL DISCLOSURES\nBACKGROUND\nMedical History: Mild persistent Asthma_ seasonal allergic rhinitis, History of Appendectomy (2015)\nBiometric Security Identifier: SHA256: 5352Eb9c80bc9417bl5a3fa7 (Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: I authorize the financial institution to investigate my credit standing and employment history to evaluate credit risk and loan eligibility.",
+  "text_length": 927,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORROWER PERSONAL",
+      "predicted_span": [
+        0,
+        50
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "December 30 , 1989",
+      "predicted_span": [
+        109,
+        127
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Domestic Partnership",
+      "predicted_span": [
+        144,
+        164
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Judaism",
+      "predicted_span": [
+        183,
+        190
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "1542214477",
+      "predicted_span": [
+        214,
+        224
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "nicole.Si",
+      "predicted_span": [
+        240,
+        249
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Residential Address",
+      "predicted_span": [
+        264,
+        283
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "134 Cody Plaza Apt . 090 , North Tracy, GU 03879",
+      "predicted_span": [
+        285,
+        333
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "North Tracy",
+      "predicted_span": [
+        312,
+        323
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "GU 03879\nFINANCIAL",
+      "predicted_span": [
+        325,
+        343
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Retired",
+      "predicted_span": [
+        391,
+        398
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "Annual",
+      "predicted_span": [
+        434,
+        440
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number: ACCT-3313993297",
+      "predicted_span": [
+        471,
+        502
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-3313993297",
+      "predicted_span": [
+        487,
+        502
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "3313993297",
+      "predicted_span": [
+        492,
+        502
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "3313993297",
+      "predicted_span": [
+        492,
+        502
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_CREDIT_SCORE",
+      "field_type": "credit_score",
+      "predicted_text": "Credit Score (FICO) 679",
+      "predicted_span": [
+        503,
+        526
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Credit Score",
+      "predicted_span": [
+        503,
+        515
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO",
+      "predicted_span": [
+        517,
+        521
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Asthma_ seasonal allergic rhinitis, History of Appendectomy (2015)",
+      "predicted_span": [
+        606,
+        672
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Asthma",
+      "predicted_span": [
+        606,
+        612
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2015",
+      "predicted_span": [
+        667,
+        671
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Security Identifier: SHA256: ",
+      "predicted_span": [
+        673,
+        712
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: I authorize",
+      "predicted_span": [
+        738,
+        798
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

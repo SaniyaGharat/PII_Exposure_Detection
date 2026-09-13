@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Kyle Lawson
+Date of Birth:        July 13, 1980
+Gender:               Prefer not to disclose
+Marital Status:       Single
+Religious Belief:     Agnostic
+National ID / SSN:    200-91-2646
+Email Address:        kyle.lawson@yahoo.com
+Phone Number:         001-264-703-7613x7918
+Home Address:         9658 Kathryn Trail, North Brendatown, KS 28778
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: Systems Architect
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+B.S. in Computer Science - Cornell University (Graduated 2011)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. Systems Architect at Johnson, Boone and Liu (2021 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Holmes PLC (2019 - 2020)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

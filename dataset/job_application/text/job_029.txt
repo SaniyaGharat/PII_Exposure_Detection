@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Scott Ramsey
+Date of Birth:        September 10, 1985
+Gender:               Non-Binary
+Marital Status:       Married
+Religious Belief:     Hinduism
+National ID / SSN:    281-62-1406
+Email Address:        scott.ramsey@gmail.com
+Phone Number:         +1-517-954-9651
+Home Address:         317 Banks Crescent Apt. 004, Wilsonbury, FM 70958
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: Financial Analyst
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+B.A. in Economics - Georgia Institute of Technology (Graduated 2015)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. Financial Analyst at Coffey-Ballard (2023 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Davis-Foster (2020 - 2020)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+Financial Modeling, Risk Analysis, Bloomberg Terminal, Advanced Excel, CFA Level II
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

@@ -1,0 +1,350 @@
+{
+  "doc_id": "job_070",
+  "document_type": "job_application",
+  "split": "test",
+  "is_ocr": true,
+  "ocr_text": "STANDARD EMPLOYMENT APPLICATION FORM\nAPPLICANT IDENTIFICATION & CONTACT INFORMATION\nFull Name : Date of Birth: Gender: Marital Status: Religious Belief: National ID SSN: Email Address: Phone Number Home   Address\nGrace Mueller July 12, 1975 Female Married Judaism 662-26-5719 grace.muellerCyahoo.com 7518238282 2266 Jo Flat, Vargasfurt, AL 92872\nTARGET POSITION\nPosition Applied For: Financial Analyst\nEDUCATION 6 ACADEMIC CREDENTIALS\nHighest Degree Major: B.S . in Information Systems\nPurdue University (Graduated 2019)\nPROFESSIONAL EXPERIENCE\nWORK HISTORY\nRecent Experience Financial Analyst at Webb , Alvarez and Kim (2022 Present) iniciatives, improving project throughput by 288 Led cross-functional Specialist at Chavez, Jones and Williams (2020 2020) 2 . Associate key deliverables_ anal yzed system data, and automated workflows Managed\nSKILLS\nCORE COMPETENCIES\nTechnical Professional Skills: TypeScript , Node 18, GraphQL, CI /CD Pipelines , Microservices React ,\nDECLARATION : the information provided in this employment application hereby certify that 1s accurate, crue, and complete to che best of my knowledge",
+  "text_length": 1122,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "STANDARD EMPLOYMENT APPLICATION",
+      "predicted_span": [
+        0,
+        31
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Grace Mueller",
+      "predicted_span": [
+        213,
+        226
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_DOB",
+      "field_type": "date_of_birth",
+      "predicted_text": "July 12, 1975",
+      "predicted_span": [
+        227,
+        240
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Female Married",
+      "predicted_span": [
+        241,
+        255
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_GENDER",
+      "field_type": "gender",
+      "predicted_text": "Female",
+      "predicted_span": [
+        241,
+        247
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Married",
+      "predicted_span": [
+        248,
+        255
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Judaism 662-26-5719",
+      "predicted_span": [
+        256,
+        275
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Judaism",
+      "predicted_span": [
+        256,
+        263
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "662-26-5719",
+      "predicted_span": [
+        264,
+        275
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "grace.muellerCyahoo.com",
+      "predicted_span": [
+        276,
+        299
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "7518238282",
+      "predicted_span": [
+        300,
+        310
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "7518238282",
+      "predicted_span": [
+        300,
+        310
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Jo Flat",
+      "predicted_span": [
+        316,
+        323
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Vargasfurt",
+      "predicted_span": [
+        325,
+        335
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "AL 92872",
+      "predicted_span": [
+        337,
+        345
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Position Applied For: Financial Analyst\nEDUCATION 6 ACADEMIC CREDENTIALS\nHighest Degree Major",
+      "predicted_span": [
+        362,
+        455
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Information Systems\nPurdue University",
+      "predicted_span": [
+        466,
+        503
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2019",
+      "predicted_span": [
+        515,
+        519
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Financial Analyst",
+      "predicted_span": [
+        576,
+        593
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Webb ,",
+      "predicted_span": [
+        597,
+        603
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Alvarez",
+      "predicted_span": [
+        604,
+        611
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Kim",
+      "predicted_span": [
+        616,
+        619
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "288 Led",
+      "predicted_span": [
+        680,
+        687
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Specialist",
+      "predicted_span": [
+        705,
+        715
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Chavez",
+      "predicted_span": [
+        719,
+        725
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Jones",
+      "predicted_span": [
+        727,
+        732
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Williams",
+      "predicted_span": [
+        737,
+        745
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2020 2020",
+      "predicted_span": [
+        747,
+        756
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "TypeScript , Node 18, GraphQL, CI /CD Pipelines , Microservices React ,",
+      "predicted_span": [
+        901,
+        972
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TypeScript",
+      "predicted_span": [
+        901,
+        911
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Node",
+      "predicted_span": [
+        914,
+        918
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "GraphQL",
+      "predicted_span": [
+        923,
+        930
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CI /CD Pipelines",
+      "predicted_span": [
+        932,
+        948
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "che",
+      "predicted_span": [
+        1098,
+        1101
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

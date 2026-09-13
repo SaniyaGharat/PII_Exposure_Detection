@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Andrew Brown
+Date of Birth:        March 17, 2004
+Gender:               Male
+Marital Status:       Divorced
+Religious Belief:     Sikhism
+National ID / SSN:    541-28-5000
+Email Address:        andrew.brown@yahoo.com
+Phone Number:         +1-492-741-4183
+Home Address:         6303 Sandy Crescent, Salazarton, ME 87805
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: Account Executive
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+M.S. in Data Analytics - University of Washington (Graduated 2010)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. Account Executive at Hunter-Fuller (2022 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Wang, Henderson and Morales (2017 - 2021)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+Network Security, Penetration Testing, SIEM, Incident Response, ISO 27001
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

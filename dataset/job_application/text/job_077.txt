@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            James Cross
+Date of Birth:        October 03, 1976
+Gender:               Male
+Marital Status:       Single
+Religious Belief:     Sikhism
+National ID / SSN:    790-78-7226
+Email Address:        james.cross@gmail.com
+Phone Number:         +1-921-589-0927x5326
+Home Address:         19656 Moody Gateway, Deannabury, OH 79275
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: Product Manager
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+B.A. in Economics - Georgia Institute of Technology (Graduated 2017)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. Product Manager at Garcia LLC (2022 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Taylor-Ayala (2019 - 2021)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

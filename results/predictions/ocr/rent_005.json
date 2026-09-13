@@ -1,0 +1,240 @@
+{
+  "doc_id": "rent_005",
+  "document_type": "rental_agreement",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "RESIDENTIAL LEASE APPLICATION\nAGREEMENT\nPROSPECTIVE TENANT IDENTIFICATION\nTenant Full Name Phone Number Email Address National ID SSN: Marital Status: Religious Belief: Current Residence:\nEmma Castillo 262-426-8171x516 emma castillolyahoo com 186-41-5668 Single Judaism 867 Todd Skyway, Hendersonton, ME 56204\nEMPLOYMENT\nFINANCIAL BACKGROUND\nEmployment Status Employed Part-Time Employer Name Rogers-Phillips Monthly Annual Inc 58 037.00 month Bank Account Number: ACCT-3188382776\nPREVIOUS TENANCY\nEMERGENCY CONTACT\nRental History: Previous Address: 575 Rodriguez Fall Suite 861 , North Matthew Tenancy 2021 2024 Landlord: Mark Munoz Rent: s2720 mo Reason for Leaving: Job relocation Full security deposit recurned: Yes\nEmergency Contact: Leslie Gonzalez (Sibling)\nTel: +1-776-607-4017*750\nSUPPLEMENTAL TENANT DECLARATION\nMedical History No significant past medical history. Non-smoker, no past surgeries\nTENANT  ACKNOWLEDGMENT declare that the information stated in this rental application is true and complete_ I grant permission to verify rental history and employment _",
+  "text_length": 1073,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tenant Full Name Phone Number Email Address National",
+      "predicted_span": [
+        74,
+        126
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "262-426-8171x516",
+      "predicted_span": [
+        202,
+        218
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "186-41-5668",
+      "predicted_span": [
+        243,
+        254
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "current_address",
+      "predicted_text": "5668 Single Judaism 867 Todd Skyway, Hendersonton, ME 56204",
+      "predicted_span": [
+        250,
+        309
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Single",
+      "predicted_span": [
+        255,
+        261
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Judaism",
+      "predicted_span": [
+        262,
+        269
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Hendersonton",
+      "predicted_span": [
+        287,
+        299
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Employed Part-Time",
+      "predicted_span": [
+        360,
+        378
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "58 037.00 month",
+      "predicted_span": [
+        428,
+        443
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Bank Account",
+      "predicted_span": [
+        444,
+        456
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number: ACCT-3188382776",
+      "predicted_span": [
+        449,
+        480
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-3188382776",
+      "predicted_span": [
+        465,
+        480
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "3188382776",
+      "predicted_span": [
+        470,
+        480
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "3188382776",
+      "predicted_span": [
+        470,
+        480
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TENANCY",
+      "predicted_span": [
+        490,
+        497
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        603,
+        607
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2024",
+      "predicted_span": [
+        608,
+        612
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Landlord",
+      "predicted_span": [
+        613,
+        621
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Mark Munoz",
+      "predicted_span": [
+        623,
+        633
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Leslie Gonzalez",
+      "predicted_span": [
+        739,
+        754
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Sibling",
+      "predicted_span": [
+        756,
+        763
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "NRP",
+      "field_type": "nrp",
+      "predicted_text": "+1-776",
+      "predicted_span": [
+        770,
+        776
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "No significant past medical history. Non-smoker, no past surgeries",
+      "predicted_span": [
+        838,
+        904
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

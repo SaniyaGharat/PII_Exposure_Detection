@@ -1,0 +1,240 @@
+{
+  "doc_id": "med_090",
+  "document_type": "medical_intake",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "PATIENT CLINICAL INTAKE\nADMISSION FORM\nPATIENT DEMOGRAPHIC INFORMATION\nFull Name Megan Gutierrez Date of Birth: August 14, 2004 Phone Number: 001-776-881-1807*156 Home Address 017 Mayer Mills, East Juliaview, TX 93456 Marital Scacus Widowed Occupation: Teacher, adult education Religious Preference: Hinduism National ID SSN: 616-69-5470 Insurance Policy No BLU-25119192\nEMERGENCY   CONTACT\nPrimary Emergency Contact Brandon Austin (Partner) Phone: 333-675-0479*3036 CLINICAL ALLERGY  INFORMATION\nKnown  Drug Environmental Allergies Peanuts (anaphylaxis carries EpiPen) Tree nuts .\nCURRENT MEDICATIONS\nDOSAGES\nActive Prescriptions Supplements: Metformin 50Omg PO BID with meals, Glipizide Smg daily. PAST MEDICAL SURGICAL HISTORY\nDiagnosed Conditions Previous Surgeries: No significant past medical history. Non-smoker , no past surgeries\nPATIENT ACKNONLEDGMENT: acknowledge chat che medical information submitted above is accurate che for purpose of healthcare evaluation, clinical diagnosis, and safe crea Ement .",
+  "text_length": 1015,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "PATIENT CLINICAL INTAKE",
+      "predicted_span": [
+        0,
+        23
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_DOB",
+      "field_type": "date_of_birth",
+      "predicted_text": "August 14, 2004",
+      "predicted_span": [
+        112,
+        127
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "156 Home Address 017 Mayer Mills, East Juliaview, TX 93456",
+      "predicted_span": [
+        159,
+        217
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Mayer Mills",
+      "predicted_span": [
+        180,
+        191
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "East Juliaview",
+      "predicted_span": [
+        193,
+        207
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TX 93456",
+      "predicted_span": [
+        209,
+        217
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Marital Scacus Widowed Occupation",
+      "predicted_span": [
+        218,
+        251
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Widowed",
+      "predicted_span": [
+        233,
+        240
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Hinduism",
+      "predicted_span": [
+        300,
+        308
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "616-69-5470",
+      "predicted_span": [
+        326,
+        337
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_INSURANCE_NO",
+      "field_type": "insurance_number",
+      "predicted_text": "Policy No BLU-25119192",
+      "predicted_span": [
+        348,
+        370
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_DRIVER_LICENSE",
+      "field_type": "us_driver_license",
+      "predicted_text": "25119192",
+      "predicted_span": [
+        362,
+        370
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Brandon Austin",
+      "predicted_span": [
+        417,
+        431
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "333-675-0479",
+      "predicted_span": [
+        449,
+        461
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Known  Drug Environmental Allergies Peanuts",
+      "predicted_span": [
+        497,
+        540
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_ALLERGIES",
+      "field_type": "allergies",
+      "predicted_text": "Peanuts (anaphylaxis carries EpiPen) Tree nuts .",
+      "predicted_span": [
+        533,
+        581
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "EpiPen",
+      "predicted_span": [
+        562,
+        568
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "Metformin 50Omg PO BID with meals, Glipizide Smg daily. PAST MEDICAL SURGICAL HISTORY",
+      "predicted_span": [
+        644,
+        729
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Glipizide Smg",
+      "predicted_span": [
+        679,
+        692
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "daily",
+      "predicted_span": [
+        693,
+        698
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "No significant past medical history. Non-smoker , no past surgeries",
+      "predicted_span": [
+        771,
+        838
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "che medical",
+      "predicted_span": [
+        880,
+        891
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Ement",
+      "predicted_span": [
+        1008,
+        1013
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

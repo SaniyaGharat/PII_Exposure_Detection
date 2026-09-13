@@ -1,0 +1,161 @@
+{
+    "document_id": "loan_035",
+    "document_type": "loan_application",
+    "document_purpose": "To collect financial and personal information required to evaluate an applicant's eligibility and risk for a loan or credit service.",
+    "fields": [
+        {
+            "field_type": "full_name",
+            "field_name": "Applicant Full Name",
+            "field_value": "Lisa Mcdaniel",
+            "necessity_label": "necessary",
+            "reason": "Mandatory for establishing legal borrower identity and executing legally binding credit agreements.",
+            "span": {
+                "start": 354,
+                "end": 367
+            }
+        },
+        {
+            "field_type": "date_of_birth",
+            "field_name": "Date of Birth",
+            "field_value": "June 24, 1973",
+            "necessity_label": "necessary",
+            "reason": "Required to verify legal age of majority for credit contracts and pull accurate consumer credit bureau reports.",
+            "span": {
+                "start": 390,
+                "end": 403
+            }
+        },
+        {
+            "field_type": "marital_status",
+            "field_name": "Marital Status",
+            "field_value": "Married",
+            "necessity_label": "contextual",
+            "reason": "Relevant in community property jurisdictions or joint loan applications, but restricted under fair lending laws for individual applications.",
+            "span": {
+                "start": 426,
+                "end": 433
+            }
+        },
+        {
+            "field_type": "religion",
+            "field_name": "Religion",
+            "field_value": "Islam",
+            "necessity_label": "unnecessary",
+            "reason": "Religious affiliation is completely irrelevant to credit risk assessment and its collection violates the Equal Credit Opportunity Act (ECOA).",
+            "span": {
+                "start": 456,
+                "end": 461
+            }
+        },
+        {
+            "field_type": "phone",
+            "field_name": "Phone Number",
+            "field_value": "421-263-7618",
+            "necessity_label": "necessary",
+            "reason": "Required for customer identity verification, fraud prevention multi-factor authentication, and account servicing.",
+            "span": {
+                "start": 484,
+                "end": 496
+            }
+        },
+        {
+            "field_type": "email",
+            "field_name": "Email Address",
+            "field_value": "lisa.mcdaniel@hotmail.com",
+            "necessity_label": "necessary",
+            "reason": "Required for delivery of mandated Truth in Lending disclosures, electronic contract execution, and official statements.",
+            "span": {
+                "start": 519,
+                "end": 544
+            }
+        },
+        {
+            "field_type": "home_address",
+            "field_name": "Residential Address",
+            "field_value": "6010 David Trail, West Douglastown, WY 01732",
+            "necessity_label": "necessary",
+            "reason": "Mandatory under Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations to establish legal residential domicile.",
+            "span": {
+                "start": 567,
+                "end": 611
+            }
+        },
+        {
+            "field_type": "employment_status",
+            "field_name": "Employment Status",
+            "field_value": "Contractor / Freelancer",
+            "necessity_label": "necessary",
+            "reason": "Essential for evaluating income continuity, employment stability, and the borrower's recurring repayment capacity.",
+            "span": {
+                "start": 753,
+                "end": 776
+            }
+        },
+        {
+            "field_type": "employer_name",
+            "field_name": "Employer Name",
+            "field_value": "Daniels LLC",
+            "necessity_label": "necessary",
+            "reason": "Required for independent employment verification and underwriting validation of stated income sources.",
+            "span": {
+                "start": 799,
+                "end": 810
+            }
+        },
+        {
+            "field_type": "annual_income",
+            "field_name": "Annual Income",
+            "field_value": "$50,000.00 USD",
+            "necessity_label": "necessary",
+            "reason": "Fundamental metric for calculating Debt-to-Income (DTI) ratio and determining loan affordability and credit limits.",
+            "span": {
+                "start": 833,
+                "end": 847
+            }
+        },
+        {
+            "field_type": "bank_account_number",
+            "field_name": "Bank Account Number",
+            "field_value": "ACCT-8925631115",
+            "necessity_label": "contextual",
+            "reason": "Contextual during pre-qualification screening; necessary later for direct loan disbursement and automated clearing house (ACH) repayments.",
+            "span": {
+                "start": 870,
+                "end": 885
+            }
+        },
+        {
+            "field_type": "credit_score",
+            "field_name": "Credit Score",
+            "field_value": "769 (FICO Score 8)",
+            "necessity_label": "necessary",
+            "reason": "Primary quantitative metric reflecting historical credit risk, default probability, and determining loan interest pricing.",
+            "span": {
+                "start": 908,
+                "end": 926
+            }
+        },
+        {
+            "field_type": "medical_history",
+            "field_name": "Medical History",
+            "field_value": "No significant past medical history. Non-smoker, no past surgeries.",
+            "necessity_label": "unnecessary",
+            "reason": "Health and medical conditions are irrelevant to financial solvency evaluation and collecting them exposes high-liability sensitive health data.",
+            "span": {
+                "start": 1062,
+                "end": 1129
+            }
+        },
+        {
+            "field_type": "biometric_information",
+            "field_name": "Biometric Identifier",
+            "field_value": "SHA256:3fd877c5bb85b27fa99ee17a (Biometric Minutiae Key)",
+            "necessity_label": "unnecessary",
+            "reason": "Biometric markers are disproportionate and unnecessary for standard consumer credit evaluation, posing severe privacy risks.",
+            "span": {
+                "start": 1162,
+                "end": 1218
+            }
+        }
+    ]
+}

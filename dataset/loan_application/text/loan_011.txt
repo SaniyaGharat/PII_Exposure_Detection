@@ -1,0 +1,35 @@
+================================================================================
+                    CONSUMER CREDIT & LOAN APPLICATION
+================================================================================
+
+BORROWER PERSONAL IDENTIFICATION
+--------------------------------------------------------------------------------
+Applicant Name:       Jordan Barrera
+Date of Birth:        July 07, 1988
+Marital Status:       Widowed
+Religious Belief:     Judaism
+Phone Number:         291.521.4161x415
+Email Address:        jordan.barrera@yahoo.com
+Residential Address:  100 Walton Avenue Apt. 138, South Carrieview, NM 62528
+
+FINANCIAL PROFILE & CREDITWORTHINESS
+--------------------------------------------------------------------------------
+Employment Status:    Self-Employed
+Employer Name:        Jordan, Wood and Wu
+Gross Annual Income:  $181,000.00 USD
+Bank Account Number:  ACCT-9851745648
+Credit Score (FICO):  646 (FICO Score 8)
+
+ADDITIONAL DISCLOSURES & BACKGROUND
+--------------------------------------------------------------------------------
+Medical History:
+Hypothyroidism (stable on levothyroxine), Migraines with aura.
+
+Biometric Security Identifier:
+SHA256:79c74c72bd4f7889cb31005a (Biometric Minutiae Key)
+
+--------------------------------------------------------------------------------
+APPLICANT AUTHORIZATION:
+I authorize the financial institution to investigate my credit standing and
+employment history to evaluate credit risk and loan eligibility.
+================================================================================

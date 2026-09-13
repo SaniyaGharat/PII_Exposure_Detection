@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Shane Henderson
+Date of Birth:        February 08, 1993
+Gender:               Male
+Marital Status:       Widowed
+Religious Belief:     Sikhism
+National ID / SSN:    266-57-6820
+Email Address:        shane.henderson@gmail.com
+Phone Number:         587.213.3150x983
+Home Address:         10518 Joshua Oval, New David, FM 75348
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: Clinical Research Coordinator
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+B.S. in Computer Science - University of Illinois Urbana-Champaign (Graduated 2023)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. Clinical Research Coordinator at Hickman Ltd (2021 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Harris, Collins and Carney (2020 - 2021)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+Financial Modeling, Risk Analysis, Bloomberg Terminal, Advanced Excel, CFA Level II
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

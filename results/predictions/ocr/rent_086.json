@@ -1,0 +1,300 @@
+{
+  "doc_id": "rent_086",
+  "document_type": "rental_agreement",
+  "split": "validation",
+  "is_ocr": true,
+  "ocr_text": "RESIDENTIAL LEASE APPLICATION\nAGREEMENT\nPROSPECTIVE  TENANT IDENTIFICATION\nTenant Full Name Phone Number Email Address National ID SSN: Marital Status: Religious Belief: Current Residence\nPatrick Garcia (901) 590-7258 patrick garcia@gmail com 879-31-3595 Widowed Islam 49366 Clark Bridge, South Debra, TN 40014\nEMPLOYMENT &   FINANCIAL BACKGROUND\nEmployment Scacus Employed Part-Time Employer Name Silva, Colon and Frank Monthly Annual Inc: S7, 981 .00 month Bank Accounc Number ACCT-7934137693\nPREVIOUS  TENANCY\nEMERGENCY   CONTACT\nRental History Previous Address: 11408 Garrett Dam Suite 095 , East Caitlyn Tenancy 2021 2024 Landlord: Ashley Duran Rent : 51828 /mo Reason for Leaving Job relocation Full security deposit returned: Yes\nEmergency Contact: Alan Morrow (Sibling)\nTel 755.461.0399\nSUPPLEMENTAL TENANT DECLARATION\nMedical History: No significant past medical history. Non-smoker, no past surgeries\nTENANT ACKNOWLEDGMENT : declare chat che information stated in this rental application i8 true and complete. I grant permission to verify rental history and employment _ EEE=",
+  "text_length": 1085,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tenant Full Name Phone Number Email Address National",
+      "predicted_span": [
+        75,
+        127
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Patrick Garcia",
+      "predicted_span": [
+        188,
+        202
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "(901) 590-7258",
+      "predicted_span": [
+        203,
+        217
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "patrick garcia@gmail",
+      "predicted_span": [
+        218,
+        238
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "879-31-3595",
+      "predicted_span": [
+        243,
+        254
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Widowed",
+      "predicted_span": [
+        255,
+        262
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Islam",
+      "predicted_span": [
+        263,
+        268
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "NRP",
+      "field_type": "nrp",
+      "predicted_text": "Islam",
+      "predicted_span": [
+        263,
+        268
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Clark Bridge",
+      "predicted_span": [
+        275,
+        287
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "South Debra",
+      "predicted_span": [
+        289,
+        300
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "TN 40014",
+      "predicted_span": [
+        302,
+        310
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "EMPLOYMENT &   FINANCIAL BACKGROUND\nEmployment Scacus Employed Part-Time Employer Name Silva",
+      "predicted_span": [
+        311,
+        403
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Employed Part-Time",
+      "predicted_span": [
+        365,
+        383
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Frank Monthly",
+      "predicted_span": [
+        415,
+        428
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-7934137693",
+      "predicted_span": [
+        479,
+        494
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "7934137693",
+      "predicted_span": [
+        484,
+        494
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "7934137693",
+      "predicted_span": [
+        484,
+        494
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TENANCY",
+      "predicted_span": [
+        505,
+        512
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        617,
+        621
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2024",
+      "predicted_span": [
+        622,
+        626
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Landlord",
+      "predicted_span": [
+        627,
+        635
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Ashley Duran Rent",
+      "predicted_span": [
+        637,
+        654
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "51828",
+      "predicted_span": [
+        657,
+        662
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Alan Morrow",
+      "predicted_span": [
+        756,
+        767
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "755.461.0399",
+      "predicted_span": [
+        782,
+        794
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "No significant past medical history. Non-smoker, no past surgeries",
+      "predicted_span": [
+        844,
+        910
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "che",
+      "predicted_span": [
+        948,
+        951
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "i8",
+      "predicted_span": [
+        998,
+        1000
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "US_DRIVER_LICENSE",
+      "field_type": "us_driver_license",
+      "predicted_text": "i8",
+      "predicted_span": [
+        998,
+        1000
+      ],
+      "confidence": 0.65
+    }
+  ]
+}

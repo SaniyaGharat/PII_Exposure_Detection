@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Matthew Burgess
+Date of Birth:        January 13, 1977
+Gender:               Non-Binary
+Marital Status:       Domestic Partnership
+Religious Belief:     Buddhism
+National ID / SSN:    187-40-7658
+Email Address:        matthew.burgess@yahoo.com
+Phone Number:         299-333-0833
+Home Address:         712 Tamara Estate Suite 773, Manuelton, PW 12226
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: Clinical Research Coordinator
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+M.S. in Data Analytics - University of Texas at Austin (Graduated 2019)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. Clinical Research Coordinator at Harris PLC (2023 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Fitzpatrick-Horton (2019 - 2020)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

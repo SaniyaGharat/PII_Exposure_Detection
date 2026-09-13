@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Margaret Johnson
+Date of Birth:        August 11, 1973
+Gender:               Female
+Marital Status:       Domestic Partnership
+Religious Belief:     Agnostic
+National ID / SSN:    132-13-2535
+Email Address:        margaret.johnson@hotmail.com
+Phone Number:         001-260-501-3389
+Home Address:         79402 Peterson Drives Apt. 511, Davisstad, PA 35172
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: Senior Software Engineer
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+M.S. in Data Analytics - University of Illinois Urbana-Champaign (Graduated 2013)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. Senior Software Engineer at Sanchez-Taylor (2021 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Rhodes PLC (2017 - 2020)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+Financial Modeling, Risk Analysis, Bloomberg Terminal, Advanced Excel, CFA Level II
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

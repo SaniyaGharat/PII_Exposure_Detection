@@ -1,0 +1,1134 @@
+{
+  "is_ocr": true,
+  "total_documents_evaluated": 100,
+  "alignment_stats": {
+    "total_gt_fields": 1350,
+    "aligned_fields": 1168,
+    "unalignable_fields": 182,
+    "alignment_rate": 0.8652
+  },
+  "strategies": {
+    "exact_span": {
+      "macro_precision": 0.1784,
+      "macro_recall": 0.2088,
+      "macro_f1": 0.1807,
+      "micro_precision": 0.1901,
+      "micro_recall": 0.38,
+      "micro_f1": 0.2534,
+      "total_tp": 513,
+      "total_fp": 2186,
+      "total_fn": 837,
+      "total_support": 1350,
+      "per_field": {
+        "allergies": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 25,
+          "fn": 25,
+          "support": 25,
+          "unalignable_count": 5
+        },
+        "annual_income": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 25,
+          "support": 25,
+          "unalignable_count": 2
+        },
+        "bank_account_number": {
+          "precision": 0.5,
+          "recall": 1.0,
+          "f1_score": 0.6667,
+          "tp": 50,
+          "fp": 50,
+          "fn": 0,
+          "support": 50,
+          "unalignable_count": 0
+        },
+        "biometric_information": {
+          "precision": 0.1207,
+          "recall": 0.28,
+          "f1_score": 0.1687,
+          "tp": 7,
+          "fp": 51,
+          "fn": 18,
+          "support": 25,
+          "unalignable_count": 4
+        },
+        "credit_card": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 3,
+          "fn": 0,
+          "support": 0,
+          "unalignable_count": 0
+        },
+        "credit_score": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 15,
+          "fn": 25,
+          "support": 25,
+          "unalignable_count": 0
+        },
+        "current_address": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 16,
+          "fn": 25,
+          "support": 25,
+          "unalignable_count": 2
+        },
+        "current_medications": {
+          "precision": 0.0606,
+          "recall": 0.08,
+          "f1_score": 0.069,
+          "tp": 2,
+          "fp": 31,
+          "fn": 23,
+          "support": 25,
+          "unalignable_count": 16
+        },
+        "date_of_birth": {
+          "precision": 0.0577,
+          "recall": 0.28,
+          "f1_score": 0.0957,
+          "tp": 21,
+          "fp": 343,
+          "fn": 54,
+          "support": 75,
+          "unalignable_count": 0
+        },
+        "education": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 25,
+          "support": 25,
+          "unalignable_count": 3
+        },
+        "email": {
+          "precision": 0.65,
+          "recall": 0.1733,
+          "f1_score": 0.2737,
+          "tp": 13,
+          "fp": 7,
+          "fn": 62,
+          "support": 75,
+          "unalignable_count": 16
+        },
+        "emergency_contact": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 50,
+          "support": 50,
+          "unalignable_count": 30
+        },
+        "employer_name": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 50,
+          "support": 50,
+          "unalignable_count": 0
+        },
+        "employment_status": {
+          "precision": 0.6545,
+          "recall": 0.72,
+          "f1_score": 0.6857,
+          "tp": 36,
+          "fp": 19,
+          "fn": 14,
+          "support": 50,
+          "unalignable_count": 0
+        },
+        "full_name": {
+          "precision": 0.0891,
+          "recall": 0.4,
+          "f1_score": 0.1457,
+          "tp": 40,
+          "fp": 409,
+          "fn": 60,
+          "support": 100,
+          "unalignable_count": 0
+        },
+        "gender": {
+          "precision": 0.88,
+          "recall": 0.88,
+          "f1_score": 0.88,
+          "tp": 22,
+          "fp": 3,
+          "fn": 3,
+          "support": 25,
+          "unalignable_count": 0
+        },
+        "home_address": {
+          "precision": 0.0497,
+          "recall": 0.12,
+          "f1_score": 0.0703,
+          "tp": 9,
+          "fp": 172,
+          "fn": 66,
+          "support": 75,
+          "unalignable_count": 16
+        },
+        "income": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 25,
+          "support": 25,
+          "unalignable_count": 16
+        },
+        "insurance_number": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 25,
+          "fn": 25,
+          "support": 25,
+          "unalignable_count": 0
+        },
+        "job_title": {
+          "precision": 0.0638,
+          "recall": 0.12,
+          "f1_score": 0.0833,
+          "tp": 3,
+          "fp": 44,
+          "fn": 22,
+          "support": 25,
+          "unalignable_count": 0
+        },
+        "marital_status": {
+          "precision": 1.0,
+          "recall": 0.96,
+          "f1_score": 0.9796,
+          "tp": 96,
+          "fp": 0,
+          "fn": 4,
+          "support": 100,
+          "unalignable_count": 0
+        },
+        "medical_history": {
+          "precision": 0.0972,
+          "recall": 0.0933,
+          "f1_score": 0.0952,
+          "tp": 7,
+          "fp": 65,
+          "fn": 68,
+          "support": 75,
+          "unalignable_count": 9
+        },
+        "national_id": {
+          "precision": 0.9146,
+          "recall": 1.0,
+          "f1_score": 0.9554,
+          "tp": 75,
+          "fp": 7,
+          "fn": 0,
+          "support": 75,
+          "unalignable_count": 0
+        },
+        "nrp": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 18,
+          "fn": 0,
+          "support": 0,
+          "unalignable_count": 0
+        },
+        "occupation": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 25,
+          "support": 25,
+          "unalignable_count": 0
+        },
+        "organization": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 589,
+          "fn": 0,
+          "support": 0,
+          "unalignable_count": 0
+        },
+        "phone": {
+          "precision": 0.2105,
+          "recall": 0.32,
+          "f1_score": 0.254,
+          "tp": 32,
+          "fp": 120,
+          "fn": 68,
+          "support": 100,
+          "unalignable_count": 5
+        },
+        "religion": {
+          "precision": 0.97,
+          "recall": 0.97,
+          "f1_score": 0.97,
+          "tp": 97,
+          "fp": 3,
+          "fn": 3,
+          "support": 100,
+          "unalignable_count": 1
+        },
+        "rental_history": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 25,
+          "support": 25,
+          "unalignable_count": 25
+        },
+        "skills": {
+          "precision": 0.1034,
+          "recall": 0.12,
+          "f1_score": 0.1111,
+          "tp": 3,
+          "fp": 26,
+          "fn": 22,
+          "support": 25,
+          "unalignable_count": 7
+        },
+        "uk_nhs": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 12,
+          "fn": 0,
+          "support": 0,
+          "unalignable_count": 0
+        },
+        "url": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 56,
+          "fn": 0,
+          "support": 0,
+          "unalignable_count": 0
+        },
+        "us_bank_number": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 50,
+          "fn": 0,
+          "support": 0,
+          "unalignable_count": 0
+        },
+        "us_driver_license": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 26,
+          "fn": 0,
+          "support": 0,
+          "unalignable_count": 0
+        },
+        "us_passport": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 1,
+          "fn": 0,
+          "support": 0,
+          "unalignable_count": 0
+        },
+        "work_history": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 25,
+          "support": 25,
+          "unalignable_count": 25
+        }
+      }
+    },
+    "partial_overlap": {
+      "macro_precision": 0.3775,
+      "macro_recall": 0.4381,
+      "macro_f1": 0.3776,
+      "micro_precision": 0.3253,
+      "micro_recall": 0.6504,
+      "micro_f1": 0.4337,
+      "total_tp": 878,
+      "total_fp": 1821,
+      "total_fn": 472,
+      "total_support": 1350,
+      "per_field": {
+        "allergies": {
+          "precision": 0.8,
+          "recall": 0.8,
+          "f1_score": 0.8,
+          "tp": 20,
+          "fp": 5,
+          "fn": 5,
+          "support": 25,
+          "unalignable_count": 5
+        },
+        "annual_income": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 25,
+          "support": 25,
+          "unalignable_count": 2
+        },
+        "bank_account_number": {
+          "precision": 0.5,
+          "recall": 1.0,
+          "f1_score": 0.6667,
+          "tp": 50,
+          "fp": 50,
+          "fn": 0,
+          "support": 50,
+          "unalignable_count": 0
+        },
+        "biometric_information": {
+          "precision": 0.3621,
+          "recall": 0.84,
+          "f1_score": 0.506,
+          "tp": 21,
+          "fp": 37,
+          "fn": 4,
+          "support": 25,
+          "unalignable_count": 4
+        },
+        "credit_card": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 3,
+          "fn": 0,
+          "support": 0,
+          "unalignable_count": 0
+        },
+        "credit_score": {
+          "precision": 1.0,
+          "recall": 0.6,
+          "f1_score": 0.75,
+          "tp": 15,
+          "fp": 0,
+          "fn": 10,
+          "support": 25,
+          "unalignable_count": 0
+        },
+        "current_address": {
+          "precision": 0.9375,
+          "recall": 0.6,
+          "f1_score": 0.7317,
+          "tp": 15,
+          "fp": 1,
+          "fn": 10,
+          "support": 25,
+          "unalignable_count": 2
+        },
+        "current_medications": {
+          "precision": 0.2727,
+          "recall": 0.36,
+          "f1_score": 0.3103,
+          "tp": 9,
+          "fp": 24,
+          "fn": 16,
+          "support": 25,
+          "unalignable_count": 16
+        },
+        "date_of_birth": {
+          "precision": 0.206,
+          "recall": 1.0,
+          "f1_score": 0.3417,
+          "tp": 75,
+          "fp": 289,
+          "fn": 0,
+          "support": 75,
+          "unalignable_count": 0
+        },
+        "education": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 25,
+          "support": 25,
+          "unalignable_count": 3
+        },
+        "email": {
+          "precision": 1.0,
+          "recall": 0.2667,
+          "f1_score": 0.4211,
+          "tp": 20,
+          "fp": 0,
+          "fn": 55,
+          "support": 75,
+          "unalignable_count": 16
+        },
+        "emergency_contact": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 50,
+          "support": 50,
+          "unalignable_count": 30
+        },
+        "employer_name": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 50,
+          "support": 50,
+          "unalignable_count": 0
+        },
+        "employment_status": {
+          "precision": 0.8364,
+          "recall": 0.92,
+          "f1_score": 0.8762,
+          "tp": 46,
+          "fp": 9,
+          "fn": 4,
+          "support": 50,
+          "unalignable_count": 0
+        },
+        "full_name": {
+          "precision": 0.1381,
+          "recall": 0.62,
+          "f1_score": 0.2259,
+          "tp": 62,
+          "fp": 387,
+          "fn": 38,
+          "support": 100,
+          "unalignable_count": 0
+        },
+        "gender": {
+          "precision": 0.88,
+          "recall": 0.88,
+          "f1_score": 0.88,
+          "tp": 22,
+          "fp": 3,
+          "fn": 3,
+          "support": 25,
+          "unalignable_count": 0
+        },
+        "home_address": {
+          "precision": 0.2983,
+          "recall": 0.72,
+          "f1_score": 0.4219,
+          "tp": 54,
+          "fp": 127,
+          "fn": 21,
+          "support": 75,
+          "unalignable_count": 16
+        },
+        "income": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 25,
+          "support": 25,
+          "unalignable_count": 16
+        },
+        "insurance_number": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1_score": 1.0,
+          "tp": 25,
+          "fp": 0,
+          "fn": 0,
+          "support": 25,
+          "unalignable_count": 0
+        },
+        "job_title": {
+          "precision": 0.5319,
+          "recall": 1.0,
+          "f1_score": 0.6944,
+          "tp": 25,
+          "fp": 22,
+          "fn": 0,
+          "support": 25,
+          "unalignable_count": 0
+        },
+        "marital_status": {
+          "precision": 1.0,
+          "recall": 0.96,
+          "f1_score": 0.9796,
+          "tp": 96,
+          "fp": 0,
+          "fn": 4,
+          "support": 100,
+          "unalignable_count": 0
+        },
+        "medical_history": {
+          "precision": 0.9028,
+          "recall": 0.8667,
+          "f1_score": 0.8844,
+          "tp": 65,
+          "fp": 7,
+          "fn": 10,
+          "support": 75,
+          "unalignable_count": 9
+        },
+        "national_id": {
+          "precision": 0.9146,
+          "recall": 1.0,
+          "f1_score": 0.9554,
+          "tp": 75,
+          "fp": 7,
+          "fn": 0,
+          "support": 75,
+          "unalignable_count": 0
+        },
+        "nrp": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 18,
+          "fn": 0,
+          "support": 0,
+          "unalignable_count": 0
+        },
+        "occupation": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 25,
+          "support": 25,
+          "unalignable_count": 0
+        },
+        "organization": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 589,
+          "fn": 0,
+          "support": 0,
+          "unalignable_count": 0
+        },
+        "phone": {
+          "precision": 0.4539,
+          "recall": 0.69,
+          "f1_score": 0.5476,
+          "tp": 69,
+          "fp": 83,
+          "fn": 31,
+          "support": 100,
+          "unalignable_count": 5
+        },
+        "religion": {
+          "precision": 0.97,
+          "recall": 0.97,
+          "f1_score": 0.97,
+          "tp": 97,
+          "fp": 3,
+          "fn": 3,
+          "support": 100,
+          "unalignable_count": 1
+        },
+        "rental_history": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 25,
+          "support": 25,
+          "unalignable_count": 25
+        },
+        "skills": {
+          "precision": 0.5862,
+          "recall": 0.68,
+          "f1_score": 0.6296,
+          "tp": 17,
+          "fp": 12,
+          "fn": 8,
+          "support": 25,
+          "unalignable_count": 7
+        },
+        "uk_nhs": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 12,
+          "fn": 0,
+          "support": 0,
+          "unalignable_count": 0
+        },
+        "url": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 56,
+          "fn": 0,
+          "support": 0,
+          "unalignable_count": 0
+        },
+        "us_bank_number": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 50,
+          "fn": 0,
+          "support": 0,
+          "unalignable_count": 0
+        },
+        "us_driver_license": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 26,
+          "fn": 0,
+          "support": 0,
+          "unalignable_count": 0
+        },
+        "us_passport": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 1,
+          "fn": 0,
+          "support": 0,
+          "unalignable_count": 0
+        },
+        "work_history": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 25,
+          "support": 25,
+          "unalignable_count": 25
+        }
+      }
+    },
+    "field_presence": {
+      "macro_precision": 0.5246,
+      "macro_recall": 0.4981,
+      "macro_f1": 0.5015,
+      "micro_precision": 0.7513,
+      "micro_recall": 0.7319,
+      "micro_f1": 0.7415,
+      "total_tp": 988,
+      "total_fp": 327,
+      "total_fn": 362,
+      "total_support": 1350,
+      "per_field": {
+        "allergies": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1_score": 1.0,
+          "tp": 25,
+          "fp": 0,
+          "fn": 0,
+          "support": 25,
+          "unalignable_count": 5
+        },
+        "annual_income": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 25,
+          "support": 25,
+          "unalignable_count": 2
+        },
+        "bank_account_number": {
+          "precision": 0.9091,
+          "recall": 1.0,
+          "f1_score": 0.9524,
+          "tp": 50,
+          "fp": 5,
+          "fn": 0,
+          "support": 50,
+          "unalignable_count": 0
+        },
+        "biometric_information": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1_score": 1.0,
+          "tp": 25,
+          "fp": 0,
+          "fn": 0,
+          "support": 25,
+          "unalignable_count": 4
+        },
+        "credit_card": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 3,
+          "fn": 0,
+          "support": 0,
+          "unalignable_count": 0
+        },
+        "credit_score": {
+          "precision": 1.0,
+          "recall": 0.6,
+          "f1_score": 0.75,
+          "tp": 15,
+          "fp": 0,
+          "fn": 10,
+          "support": 25,
+          "unalignable_count": 0
+        },
+        "current_address": {
+          "precision": 1.0,
+          "recall": 0.64,
+          "f1_score": 0.7805,
+          "tp": 16,
+          "fp": 0,
+          "fn": 9,
+          "support": 25,
+          "unalignable_count": 2
+        },
+        "current_medications": {
+          "precision": 0.7812,
+          "recall": 1.0,
+          "f1_score": 0.8772,
+          "tp": 25,
+          "fp": 7,
+          "fn": 0,
+          "support": 25,
+          "unalignable_count": 16
+        },
+        "date_of_birth": {
+          "precision": 0.75,
+          "recall": 1.0,
+          "f1_score": 0.8571,
+          "tp": 75,
+          "fp": 25,
+          "fn": 0,
+          "support": 75,
+          "unalignable_count": 0
+        },
+        "education": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 25,
+          "support": 25,
+          "unalignable_count": 3
+        },
+        "email": {
+          "precision": 1.0,
+          "recall": 0.2667,
+          "f1_score": 0.4211,
+          "tp": 20,
+          "fp": 0,
+          "fn": 55,
+          "support": 75,
+          "unalignable_count": 16
+        },
+        "emergency_contact": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 50,
+          "support": 50,
+          "unalignable_count": 30
+        },
+        "employer_name": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 50,
+          "support": 50,
+          "unalignable_count": 0
+        },
+        "employment_status": {
+          "precision": 1.0,
+          "recall": 0.92,
+          "f1_score": 0.9583,
+          "tp": 46,
+          "fp": 0,
+          "fn": 4,
+          "support": 50,
+          "unalignable_count": 0
+        },
+        "full_name": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1_score": 1.0,
+          "tp": 100,
+          "fp": 0,
+          "fn": 0,
+          "support": 100,
+          "unalignable_count": 0
+        },
+        "gender": {
+          "precision": 0.88,
+          "recall": 0.88,
+          "f1_score": 0.88,
+          "tp": 22,
+          "fp": 3,
+          "fn": 3,
+          "support": 25,
+          "unalignable_count": 0
+        },
+        "home_address": {
+          "precision": 0.7363,
+          "recall": 0.8933,
+          "f1_score": 0.8072,
+          "tp": 67,
+          "fp": 24,
+          "fn": 8,
+          "support": 75,
+          "unalignable_count": 16
+        },
+        "income": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 25,
+          "support": 25,
+          "unalignable_count": 16
+        },
+        "insurance_number": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1_score": 1.0,
+          "tp": 25,
+          "fp": 0,
+          "fn": 0,
+          "support": 25,
+          "unalignable_count": 0
+        },
+        "job_title": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1_score": 1.0,
+          "tp": 25,
+          "fp": 0,
+          "fn": 0,
+          "support": 25,
+          "unalignable_count": 0
+        },
+        "marital_status": {
+          "precision": 1.0,
+          "recall": 0.96,
+          "f1_score": 0.9796,
+          "tp": 96,
+          "fp": 0,
+          "fn": 4,
+          "support": 100,
+          "unalignable_count": 0
+        },
+        "medical_history": {
+          "precision": 1.0,
+          "recall": 0.96,
+          "f1_score": 0.9796,
+          "tp": 72,
+          "fp": 0,
+          "fn": 3,
+          "support": 75,
+          "unalignable_count": 9
+        },
+        "national_id": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1_score": 1.0,
+          "tp": 75,
+          "fp": 0,
+          "fn": 0,
+          "support": 75,
+          "unalignable_count": 0
+        },
+        "nrp": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 17,
+          "fn": 0,
+          "support": 0,
+          "unalignable_count": 0
+        },
+        "occupation": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 25,
+          "support": 25,
+          "unalignable_count": 0
+        },
+        "organization": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 100,
+          "fn": 0,
+          "support": 0,
+          "unalignable_count": 0
+        },
+        "phone": {
+          "precision": 1.0,
+          "recall": 0.88,
+          "f1_score": 0.9362,
+          "tp": 88,
+          "fp": 0,
+          "fn": 12,
+          "support": 100,
+          "unalignable_count": 5
+        },
+        "religion": {
+          "precision": 1.0,
+          "recall": 0.97,
+          "f1_score": 0.9848,
+          "tp": 97,
+          "fp": 0,
+          "fn": 3,
+          "support": 100,
+          "unalignable_count": 1
+        },
+        "rental_history": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 25,
+          "support": 25,
+          "unalignable_count": 25
+        },
+        "skills": {
+          "precision": 0.8276,
+          "recall": 0.96,
+          "f1_score": 0.8889,
+          "tp": 24,
+          "fp": 5,
+          "fn": 1,
+          "support": 25,
+          "unalignable_count": 7
+        },
+        "uk_nhs": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 11,
+          "fn": 0,
+          "support": 0,
+          "unalignable_count": 0
+        },
+        "url": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 50,
+          "fn": 0,
+          "support": 0,
+          "unalignable_count": 0
+        },
+        "us_bank_number": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 50,
+          "fn": 0,
+          "support": 0,
+          "unalignable_count": 0
+        },
+        "us_driver_license": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 26,
+          "fn": 0,
+          "support": 0,
+          "unalignable_count": 0
+        },
+        "us_passport": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 1,
+          "fn": 0,
+          "support": 0,
+          "unalignable_count": 0
+        },
+        "work_history": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 25,
+          "support": 25,
+          "unalignable_count": 25
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+================================================================================
+                    CONSUMER CREDIT & LOAN APPLICATION
+================================================================================
+
+BORROWER PERSONAL IDENTIFICATION
+--------------------------------------------------------------------------------
+Applicant Name:       Nicole Simon
+Date of Birth:        December 30, 1989
+Marital Status:       Domestic Partnership
+Religious Belief:     Judaism
+Phone Number:         549.495.1542x14477
+Email Address:        nicole.simon@yahoo.com
+Residential Address:  134 Cody Plaza Apt. 090, North Tracy, GU 03879
+
+FINANCIAL PROFILE & CREDITWORTHINESS
+--------------------------------------------------------------------------------
+Employment Status:    Retired
+Employer Name:        Mcmahon-Duncan
+Gross Annual Income:  $193,000.00 USD
+Bank Account Number:  ACCT-3313993297
+Credit Score (FICO):  679 (FICO Score 8)
+
+ADDITIONAL DISCLOSURES & BACKGROUND
+--------------------------------------------------------------------------------
+Medical History:
+Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).
+
+Biometric Security Identifier:
+SHA256:5352fb9c80bc9417b15a3fa7 (Biometric Minutiae Key)
+
+--------------------------------------------------------------------------------
+APPLICANT AUTHORIZATION:
+I authorize the financial institution to investigate my credit standing and
+employment history to evaluate credit risk and loan eligibility.
+================================================================================

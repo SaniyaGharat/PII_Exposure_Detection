@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Frank Miller
+Date of Birth:        February 14, 1998
+Gender:               Non-Binary
+Marital Status:       Widowed
+Religious Belief:     Prefer not to disclose
+National ID / SSN:    677-94-1444
+Email Address:        frank.miller@gmail.com
+Phone Number:         4592640165
+Home Address:         21355 Herring Bypass Apt. 755, Hinesshire, DC 69898
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: HR Operations Generalist
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+MBA - University of Michigan (Graduated 2023)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. HR Operations Generalist at Phillips, Griffin and Robbins (2022 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Norris LLC (2018 - 2020)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

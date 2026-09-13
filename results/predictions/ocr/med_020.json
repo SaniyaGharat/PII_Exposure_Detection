@@ -1,0 +1,250 @@
+{
+  "doc_id": "med_020",
+  "document_type": "medical_intake",
+  "split": "validation",
+  "is_ocr": true,
+  "ocr_text": "PATIENT CLINICAL INTAKE & ADMISSION FORM\nPATIENT  DEMOGRAPHIC INFORMATION\nFull Name Debbie Dunn Date of Birth: November 01 _ 1959 Phone  Number: 879-655-2763*655 Home Address: 92931 Brock Point Suite 632 , South Linda, HI 55750 Marical Status Domestic Partnership Occupation: Lecturer, higher education Religious Preference: Christianity National ID SSN: 560-83-4084 Insurance Policy No : AET-91202508\nEMERGENCY   CONTACT\nPrimary Emergency Contact: Dr Samuel Holmes DDS (Partner)\nPhone: 344.989.0612*0347\nCLINICAL\nALLERGY INFORMATION\nKnown Drug Environmental Allergies: Aspirin (bronchospasm) Codeine (nausea)\nCURRENT MEDICATIONS 6  DOSAGES\nActive Prescriptions Supplements: Levothyroxine 75mcg PO daily in morning, Sumatriptan 5 Omg PRN for migraine. PAST MEDICAL SURGICAL HISTORY\nDiagnosed Conditions Previous Surgeries: Type Diabetes Mellitus (managed via diet /medication) Hyperlipidemia _\nPATIENT  ACKNOWLEDGMENT acknowledge that the medical information submitted above 1s accurate for the purpose of healthcare evaluation, clinical diagnosis, and safe creatment",
+  "text_length": 1067,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "PATIENT CLINICAL INTAKE & ADMISSION FORM\nPATIENT",
+      "predicted_span": [
+        0,
+        48
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "DEMOGRAPHIC",
+      "predicted_span": [
+        50,
+        61
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "November 01",
+      "predicted_span": [
+        111,
+        122
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "1959",
+      "predicted_span": [
+        125,
+        129
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "879-655-2763",
+      "predicted_span": [
+        145,
+        157
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "92931 Brock Point Suite 632 , South Linda, HI 55750",
+      "predicted_span": [
+        176,
+        227
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "South Linda",
+      "predicted_span": [
+        206,
+        217
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Marical Status Domestic Partnership Occupation: Lecturer",
+      "predicted_span": [
+        228,
+        284
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Domestic Partnership",
+      "predicted_span": [
+        243,
+        263
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Christianity National ID SSN",
+      "predicted_span": [
+        325,
+        353
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Christianity",
+      "predicted_span": [
+        325,
+        337
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "560-83-4084",
+      "predicted_span": [
+        355,
+        366
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_INSURANCE_NO",
+      "field_type": "insurance_number",
+      "predicted_text": "Policy No : AET-91202508",
+      "predicted_span": [
+        377,
+        401
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_DRIVER_LICENSE",
+      "field_type": "us_driver_license",
+      "predicted_text": "91202508",
+      "predicted_span": [
+        393,
+        401
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Samuel Holmes DDS",
+      "predicted_span": [
+        452,
+        469
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "344.989.0612",
+      "predicted_span": [
+        487,
+        499
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "CUSTOM_ALLERGIES",
+      "field_type": "allergies",
+      "predicted_text": "Aspirin (bronchospasm) Codeine (nausea)",
+      "predicted_span": [
+        570,
+        609
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "Levothyroxine 75mcg PO daily in morning, Sumatriptan 5 Omg PRN for migraine. PAST MEDICAL SURGICAL HISTORY",
+      "predicted_span": [
+        675,
+        781
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "morning",
+      "predicted_span": [
+        707,
+        714
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Sumatriptan 5 Omg PRN",
+      "predicted_span": [
+        716,
+        737
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Diabetes Mellitus (managed via diet /medication) Hyperlipidemia _",
+      "predicted_span": [
+        828,
+        893
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Mellitus",
+      "predicted_span": [
+        837,
+        845
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "PATIENT",
+      "predicted_span": [
+        894,
+        901
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "ACKNOWLEDGMENT",
+      "predicted_span": [
+        903,
+        917
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

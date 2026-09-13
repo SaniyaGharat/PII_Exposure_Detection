@@ -1,0 +1,290 @@
+{
+  "doc_id": "loan_038",
+  "document_type": "loan_application",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORROWER   PERSONAL IDENTIFICATION\nApplicant Name Lisa Dawson Date of Birch: November 23 , 1965 Marital Scacus: Married Religious Belief: Prefer not Eo disclose Phone   Number: 3228526771 Email Address: lisa.dawsonChotmail.com Address: 15226 Flores Manors Suice 695 , Port Sherry, Pw 32732 Residential\nFINANCIAL PROFILE &  CREDITWORTHINESS\nEmployment Scatus Employed Part-Time Employer Name Crawford, Ferguson and Patel Gross Annual Income: S128, 000.00 USD Bank Account Number: ACCT-5625411308 Credit Score (FICO) 594 (FICO Score 8 )\nADDITIONAL DISCLOSURES 6   BACKGROUND\nMedical History: Type Diabetes Mellitus (managed via diet/medication) Hyperlipidemia_\nBiometric Security Identifier: SHA256: 96ee2lcd9d06285d9cb8db34 (Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: authorize the financial institution Eo investigate my credit standing and employment history co evaluace credit risk and loan eligibility",
+  "text_length": 943,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORROWER   PERSONAL",
+      "predicted_span": [
+        0,
+        52
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Lisa Dawson",
+      "predicted_span": [
+        83,
+        94
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "November 23 , 1965",
+      "predicted_span": [
+        110,
+        128
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Marital Scacus",
+      "predicted_span": [
+        129,
+        143
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Married",
+      "predicted_span": [
+        145,
+        152
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "UK_NHS",
+      "field_type": "uk_nhs",
+      "predicted_text": "3228526771",
+      "predicted_span": [
+        210,
+        220
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "3228526771",
+      "predicted_span": [
+        210,
+        220
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "3228526771",
+      "predicted_span": [
+        210,
+        220
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "lisa.dawsonChotmail.com",
+      "predicted_span": [
+        236,
+        259
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "15226",
+      "predicted_span": [
+        269,
+        274
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Manors Suice",
+      "predicted_span": [
+        282,
+        294
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Port Sherry",
+      "predicted_span": [
+        301,
+        312
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Employed Part-Time",
+      "predicted_span": [
+        391,
+        409
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Ferguson",
+      "predicted_span": [
+        434,
+        442
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Patel Gross",
+      "predicted_span": [
+        447,
+        458
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "USD Bank",
+      "predicted_span": [
+        487,
+        495
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number: ACCT-5625411308",
+      "predicted_span": [
+        496,
+        527
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-5625411308",
+      "predicted_span": [
+        512,
+        527
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "5625411308",
+      "predicted_span": [
+        517,
+        527
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "5625411308",
+      "predicted_span": [
+        517,
+        527
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_CREDIT_SCORE",
+      "field_type": "credit_score",
+      "predicted_text": "Credit Score (FICO) 594",
+      "predicted_span": [
+        528,
+        551
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Credit Score",
+      "predicted_span": [
+        528,
+        540
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO",
+      "predicted_span": [
+        542,
+        546
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO Score",
+      "predicted_span": [
+        553,
+        563
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Diabetes Mellitus (managed via diet/medication) Hyperlipidemia_",
+      "predicted_span": [
+        628,
+        691
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Mellitus",
+      "predicted_span": [
+        637,
+        645
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Security Identifier: SHA256: ",
+      "predicted_span": [
+        692,
+        731
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: authorize ",
+      "predicted_span": [
+        757,
+        816
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

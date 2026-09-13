@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Alexander Collins
+Date of Birth:        March 22, 1984
+Gender:               Male
+Marital Status:       Single
+Religious Belief:     Islam
+National ID / SSN:    162-61-6559
+Email Address:        alexander.collins@hotmail.com
+Phone Number:         749-319-0586
+Home Address:         67165 Zimmerman Mews Apt. 849, Marshallshire, KY 42746
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: Data Scientist
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+B.S. in Computer Science - UC San Diego (Graduated 2015)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. Data Scientist at Odonnell, Brooks and David (2022 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Jones Ltd (2020 - 2021)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

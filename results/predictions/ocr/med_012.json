@@ -1,0 +1,240 @@
+{
+  "doc_id": "med_012",
+  "document_type": "medical_intake",
+  "split": "validation",
+  "is_ocr": true,
+  "ocr_text": "PATIENT CLINICAL INTAKE & ADMISSION FORM\nPATIENT DEMOGRAPHIC INFORMATION\nFull Name Steven Lawrence Date of Birth: January 09 , 2002 Phone Number: 427-988-1658*0392 Home Address: 99275 Jeffery Oval, North Joseph, IN 06111 Marital Status Divorced Occupation: Multimedia specialist Religious Preference: Islam National ID SSN: 514-12-6321 Insurance Policy No : BLU-92963368\nEMERGENCY CONTACT\nPrimary Emergency Contact Kelly Moody (Adult Child)\nPhone : (477) 800-5184*4989\nCLINICAL\nALLERGY INFORMATION\nKnown Drug Environmental Allergies Aspirin (bronchospasm) Codeine (nausea)\nCURRENT MEDICATIONS\nDOSAGES\nActive Prescriptions Supplements: None reported Over-che counter mulcivitamins 'only.\nPAST MEDICAL\nSURGICAL HISTORY\nDiagnosed Conditions Previous Surgeries: Mild persistent Asthma seasonal allergic rhinitis, History of Appendectomy (2015)\nPATIENT  ACKNOWLEDGMENT : acknowledge chat the medical information submitted above 13 accurate for che purpose of healthcare evaluation, clinical diagnosis, and safe creatment.",
+  "text_length": 1016,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "PATIENT CLINICAL INTAKE & ADMISSION FORM\nPATIENT DEMOGRAPHIC",
+      "predicted_span": [
+        0,
+        60
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Steven Lawrence Date",
+      "predicted_span": [
+        83,
+        103
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "January 09 , 2002",
+      "predicted_span": [
+        114,
+        131
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "427-988-1658",
+      "predicted_span": [
+        146,
+        158
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "0392",
+      "predicted_span": [
+        159,
+        163
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "North Joseph",
+      "predicted_span": [
+        198,
+        210
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Marital Status Divorced Occupation",
+      "predicted_span": [
+        221,
+        255
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Divorced",
+      "predicted_span": [
+        236,
+        244
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Islam National ID SSN",
+      "predicted_span": [
+        301,
+        322
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Islam",
+      "predicted_span": [
+        301,
+        306
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "514-12-6321",
+      "predicted_span": [
+        324,
+        335
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_INSURANCE_NO",
+      "field_type": "insurance_number",
+      "predicted_text": "Policy No : BLU-92963368",
+      "predicted_span": [
+        346,
+        370
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_DRIVER_LICENSE",
+      "field_type": "us_driver_license",
+      "predicted_text": "92963368",
+      "predicted_span": [
+        362,
+        370
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Kelly Moody",
+      "predicted_span": [
+        415,
+        426
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "(477) 800-5184",
+      "predicted_span": [
+        449,
+        463
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "4989",
+      "predicted_span": [
+        464,
+        468
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_ALLERGIES",
+      "field_type": "allergies",
+      "predicted_text": "Aspirin (bronchospasm) Codeine (nausea)",
+      "predicted_span": [
+        533,
+        572
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "None reported Over-che counter mulcivitamins 'only.",
+      "predicted_span": [
+        635,
+        686
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Asthma seasonal allergic rhinitis, History of Appendectomy (2015)",
+      "predicted_span": [
+        774,
+        839
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Asthma",
+      "predicted_span": [
+        774,
+        780
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2015",
+      "predicted_span": [
+        834,
+        838
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "PATIENT",
+      "predicted_span": [
+        840,
+        847
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "che",
+      "predicted_span": [
+        939,
+        942
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "doc_id": "med_069",
+  "document_type": "medical_intake",
+  "split": "validation",
+  "is_ocr": true,
+  "ocr_text": "PATIENI CLINICAL INTAKE &  ADMISSION FORM\nPATIENT  DEMOGRAPHIC INFORMATION\nFull Name Jennifer Dalton Date of Birth: September 12 , 2005 Phone Number: 836-544-2493 30347 Castro Mews, Lucaston , ID 21388 Home Address: Marital Status Domestic Partnership Occupation: Chemical engineer Religious Preference: Atheist National ID SSN: 346-37-6781 Insurance Policy No : MED-16783418\nEMERGENCY   CONTACT\nPrimary Emergency Contact Allen Clarke (Adult Child)\nPhone 882-707-00152941\nCLINICAL\nALLERGY  INFORMATION\nKnown Drug Environmental Allergies: Peanuts (anaphylaxis carries EpiPen) Tree nuts\nCURRENT MEDICATIONS 6  DOSAGES\nActive Prescriptions Supplements: Omeprazole 2Omg PO daily before breakfast , Calcium\nVitamin\nsupplement\nPAST MEDICAL\nSURGICAL HISTORY\nDiagnosed Conditions Previous Surgeries: Hypothyroidism (stable on Levochyroxine) Migraines with aura\nPATIENT ACXgOREEDGMEhe medical information submitted above 1s accurate for acknowledge the healthcare evaluation, clinical diagnosis, and safe creatment . the purpose of",
+  "text_length": 1022,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "PATIENI CLINICAL INTAKE &  ADMISSION FORM\nPATIENT",
+      "predicted_span": [
+        0,
+        49
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "DEMOGRAPHIC",
+      "predicted_span": [
+        51,
+        62
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Full Name Jennifer Dalton Date",
+      "predicted_span": [
+        75,
+        105
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "September 12 , 2005",
+      "predicted_span": [
+        116,
+        135
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "UK_NHS",
+      "field_type": "uk_nhs",
+      "predicted_text": "836-544-2493",
+      "predicted_span": [
+        150,
+        162
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "836-544-2493",
+      "predicted_span": [
+        150,
+        162
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "2493 30347 Castro Mews, Lucaston , ID 21388",
+      "predicted_span": [
+        158,
+        201
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Castro Mews",
+      "predicted_span": [
+        169,
+        180
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Lucaston",
+      "predicted_span": [
+        182,
+        190
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "ID 21388 Home Address",
+      "predicted_span": [
+        193,
+        214
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Domestic Partnership",
+      "predicted_span": [
+        231,
+        251
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Atheist National ID SSN",
+      "predicted_span": [
+        304,
+        327
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Atheist",
+      "predicted_span": [
+        304,
+        311
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "346-37-6781",
+      "predicted_span": [
+        329,
+        340
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_INSURANCE_NO",
+      "field_type": "insurance_number",
+      "predicted_text": "Policy No : MED-16783418",
+      "predicted_span": [
+        351,
+        375
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_DRIVER_LICENSE",
+      "field_type": "us_driver_license",
+      "predicted_text": "16783418",
+      "predicted_span": [
+        367,
+        375
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Allen Clarke",
+      "predicted_span": [
+        422,
+        434
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Adult Child",
+      "predicted_span": [
+        436,
+        447
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_ALLERGIES",
+      "field_type": "allergies",
+      "predicted_text": "Peanuts (anaphylaxis carries EpiPen) Tree nuts",
+      "predicted_span": [
+        538,
+        584
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "EpiPen",
+      "predicted_span": [
+        567,
+        573
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "Omeprazole 2Omg PO daily before breakfast , Calcium",
+      "predicted_span": [
+        650,
+        701
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "daily",
+      "predicted_span": [
+        669,
+        674
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Hypothyroidism (stable on Levochyroxine) Migraines with aura",
+      "predicted_span": [
+        792,
+        852
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "PATIENT ACXgOREEDGMEhe",
+      "predicted_span": [
+        853,
+        875
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

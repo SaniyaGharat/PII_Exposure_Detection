@@ -1,0 +1,310 @@
+{
+  "doc_id": "rent_072",
+  "document_type": "rental_agreement",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "RESIDENTIAL LEASE APPLICATION\nAGREEMENT\nPROSPECTIVE TENANT IDENTIFICATION\nTenant Full Name Phone Number Email Address: National ID SSN: Marital Stacus Religious Belief: Current Residence:\nCindy Garrett 001-799-864-8997x18428 cindy.garrettChotmail com 575-74-7503 Single Christianity 59140 Hudson Turnpike, East Pamela, CT 24743\nEMPLOYMENT\nFINANCIAL BACKGROUND\nEmployment Scatus: Employed Part-Time Employer Name: Prince Sherman and Huff Monthly Annual Inc: s9, 535.00 month Bank Account Number: ACCT-6894699853\nPREVIOUS TENANCY\nEMERGENCY CONTACT\nRental History: Previous Address: 6980 Dean Brooks , Mooreville 2021 2024 Landlord: Renee Walker Rent: S3086 /mo Tenancy: for Leaving: Job relocation Full security deposit returned: Yes Reason\nEmergency Contact: Jason Snow (Sibling)\nTel +1-572-434-8389*3595\nSUPPLEMENTAL TENANT  DECLARATION\nMedical History: Hypothyroidism (stable on levothyroxine) Migraines with aura\nTENANT ACKNOWLEDGMENT : declare chat the information stated in this rental application 13 crue and complete. I grant permission to verify rental history and employment",
+  "text_length": 1082,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tenant Full Name Phone Number Email Address",
+      "predicted_span": [
+        74,
+        117
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Cindy Garrett",
+      "predicted_span": [
+        188,
+        201
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "cindy.ga",
+      "predicted_span": [
+        225,
+        233
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "575-74-7503",
+      "predicted_span": [
+        251,
+        262
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "current_address",
+      "predicted_text": "7503 Single Christianity 59140 Hudson Turnpike, East Pamela, CT 24743",
+      "predicted_span": [
+        258,
+        327
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Single",
+      "predicted_span": [
+        263,
+        269
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Christianity",
+      "predicted_span": [
+        270,
+        282
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Hudson Turnpike",
+      "predicted_span": [
+        289,
+        304
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "East Pamela",
+      "predicted_span": [
+        306,
+        317
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Employed Part-Time",
+      "predicted_span": [
+        379,
+        397
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Prince Sherman",
+      "predicted_span": [
+        413,
+        427
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Huff",
+      "predicted_span": [
+        432,
+        436
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "Monthly",
+      "predicted_span": [
+        437,
+        444
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number: ACCT-6894699853",
+      "predicted_span": [
+        479,
+        510
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-6894699853",
+      "predicted_span": [
+        495,
+        510
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "6894699853",
+      "predicted_span": [
+        500,
+        510
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "6894699853",
+      "predicted_span": [
+        500,
+        510
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TENANCY",
+      "predicted_span": [
+        520,
+        527
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "6980",
+      "predicted_span": [
+        580,
+        584
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Dean Brooks",
+      "predicted_span": [
+        585,
+        596
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Mooreville",
+      "predicted_span": [
+        599,
+        609
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        610,
+        614
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2024",
+      "predicted_span": [
+        615,
+        619
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Landlord",
+      "predicted_span": [
+        620,
+        628
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Renee Walker Rent",
+      "predicted_span": [
+        630,
+        647
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Jason Snow",
+      "predicted_span": [
+        758,
+        768
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tel +1-572-434-8389",
+      "predicted_span": [
+        779,
+        798
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "+1-572-434-8389",
+      "predicted_span": [
+        783,
+        798
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Hypothyroidism (stable on levothyroxine) Migraines with aura",
+      "predicted_span": [
+        854,
+        914
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "levothyroxine) Migraines with aura",
+      "predicted_span": [
+        880,
+        914
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "doc_id": "med_034",
+  "document_type": "medical_intake",
+  "split": "test",
+  "is_ocr": true,
+  "ocr_text": "PATIENT CLINICAL INTAKE ADMISSION FORM\nPATIENT DEMOGRAPHIC INFORMATION\nFull Name Heather Watts Date of Birth: February 17, 1976 Phone  Number (489) 475-2677 Home Address 06046 Julia Flats, North Gregory, NV   81380 Marital Status Divorced Occupation: Programmer , multimedia Religious Preference: Buddhism National ID SSN : 495-20-7142 Insurance Policy No BLU-13783268\nEMERGENCY CONTACT\nPrimary Emergency Contact: Frederick Ellis II (Partner)\nPhone (309) 965-6999*8808\nCLINICAL\nALLERGY  INFORMATION\nKnown Drug Environmental Allergies Peanuts (anaphylaxis carries EpiPen) Tree nuts\nCURRENT MEDICATIONS\nDOSAGES\nActive Prescriptions Supplements: Lisinopril Omg PO daily, Atorvastatin 2 0mg Po at bedtime\nPAST MEDICAL\nSURGICAL HISTORY\nDiagnosed Conditions Previous Surgeries: No significant past medical history. Non-smoker , no past surgeries\nPATIENT ACKNOWLEDGMENT : acknowledge that che medical information submitted above 13 the purpose accurate of for healthcare evaluation, clinical diagnosis, and safe trea cment .",
+  "text_length": 1017,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "PATIENT CLINICAL",
+      "predicted_span": [
+        0,
+        16
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_DOB",
+      "field_type": "date_of_birth",
+      "predicted_text": "February 17, 1976",
+      "predicted_span": [
+        110,
+        127
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "(489) 475-2677",
+      "predicted_span": [
+        142,
+        156
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "2677 Home Address 06046 Julia Flats, North Gregory, NV   81380",
+      "predicted_span": [
+        152,
+        214
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Home Address 06046 Julia Flats",
+      "predicted_span": [
+        157,
+        187
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "North Gregory",
+      "predicted_span": [
+        189,
+        202
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "NV",
+      "predicted_span": [
+        204,
+        206
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Marital Status Divorced Occupation:",
+      "predicted_span": [
+        215,
+        250
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Divorced",
+      "predicted_span": [
+        230,
+        238
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Buddhism",
+      "predicted_span": [
+        297,
+        305
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "495-20-7142",
+      "predicted_span": [
+        324,
+        335
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_INSURANCE_NO",
+      "field_type": "insurance_number",
+      "predicted_text": "Policy No BLU-13783268",
+      "predicted_span": [
+        346,
+        368
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_DRIVER_LICENSE",
+      "field_type": "us_driver_license",
+      "predicted_text": "13783268",
+      "predicted_span": [
+        360,
+        368
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Phone",
+      "predicted_span": [
+        443,
+        448
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "(309) 965-6999",
+      "predicted_span": [
+        449,
+        463
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "965-6999",
+      "predicted_span": [
+        455,
+        463
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "8808",
+      "predicted_span": [
+        464,
+        468
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_ALLERGIES",
+      "field_type": "allergies",
+      "predicted_text": "Peanuts (anaphylaxis carries EpiPen) Tree nuts",
+      "predicted_span": [
+        534,
+        580
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "EpiPen",
+      "predicted_span": [
+        563,
+        569
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "Lisinopril Omg PO daily, Atorvastatin 2 0mg Po at bedtime",
+      "predicted_span": [
+        643,
+        700
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Lisinopril Omg PO",
+      "predicted_span": [
+        643,
+        660
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Atorvastatin 2 0",
+      "predicted_span": [
+        668,
+        684
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Po",
+      "predicted_span": [
+        687,
+        689
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "No significant past medical history. Non-smoker , no past surgeries",
+      "predicted_span": [
+        772,
+        839
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "che medical",
+      "predicted_span": [
+        882,
+        893
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

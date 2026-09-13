@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Ronald Robertson
+Date of Birth:        September 19, 1989
+Gender:               Non-Binary
+Marital Status:       Widowed
+Religious Belief:     Judaism
+National ID / SSN:    413-42-4777
+Email Address:        ronald.robertson@hotmail.com
+Phone Number:         204.663.7454
+Home Address:         301 Parker Lodge Suite 145, East Susan, NJ 20579
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: Database Administrator
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+B.S. in Information Systems - Columbia University (Graduated 2015)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. Database Administrator at Morales Inc (2022 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Holden Group (2019 - 2021)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

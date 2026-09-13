@@ -1,0 +1,310 @@
+{
+  "doc_id": "job_014",
+  "document_type": "job_application",
+  "split": "test",
+  "is_ocr": true,
+  "ocr_text": "STANDARD EMPLOYMENT APPLICATION  FORM\nAPPLICANT IDENTIFICATION\nCONTACT INFORMATION\nFull Name : Date of Birch: Gender Marital Sacus: Religious Belief: National ID SSN: Email Address; Phone Number: Home Address\nPatrick Wells December 23 , 1983 Male Domestic Partnership Acheist 223-41-4681 patrick.wells@hotmail.com 571-843-4558x122 316 Rivera Mountain, Brownchester, MS 77057\nTARGET POSITION\nPosition Applied For: Account Executive\nEDUCATION\nACADEMIC CREDENTIALS\nHighest Degree Major: in Data Analycics UC   San Diego (Graduated 2020)\nPROFESSIONAL EXPERIENCE 6   WORK HISTORY\nRecent Experience Account Executive at Walton-Larsen (2023 Present) Led cross-functional initiatives_ improving project throughput by 288 Associate Specialist at Cannon-Boyd (2019 2021 ) Managed key deliverables analyzed System data, and automated workflows\nSKILLS 6 CORE COMPETENCIES\nTechnical Professional Skills: Python, SQL , PyTorch, Docker, Kubernetes, AWS Cloud Archiceccure\nDECLARATION: hereby certify chat the information provided in this employment application 1s accurate, crue, and complete Eo the best of my knowledge",
+  "text_length": 1105,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "STANDARD EMPLOYMENT APPLICATION  FORM\nAPPLICANT",
+      "predicted_span": [
+        0,
+        47
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Email Address",
+      "predicted_span": [
+        167,
+        180
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Patrick Wells",
+      "predicted_span": [
+        209,
+        222
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "December 23 , 1983",
+      "predicted_span": [
+        223,
+        241
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_GENDER",
+      "field_type": "gender",
+      "predicted_text": "Male",
+      "predicted_span": [
+        242,
+        246
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Domestic Partnership",
+      "predicted_span": [
+        247,
+        267
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "223-41-4681",
+      "predicted_span": [
+        276,
+        287
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "patrick.wells@hotmail.com",
+      "predicted_span": [
+        288,
+        313
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "hotmail.com",
+      "predicted_span": [
+        302,
+        313
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "571-843-4558x122",
+      "predicted_span": [
+        314,
+        330
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Rivera Mountain",
+      "predicted_span": [
+        335,
+        350
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Brownchester",
+      "predicted_span": [
+        352,
+        364
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Position Applied For: Account Executive\nEDUCATION\nACADEMIC CREDENTIALS\nHighest Degree Major",
+      "predicted_span": [
+        391,
+        482
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Executive",
+      "predicted_span": [
+        413,
+        430
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Data Analycics",
+      "predicted_span": [
+        487,
+        501
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "San Diego",
+      "predicted_span": [
+        507,
+        516
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2020",
+      "predicted_span": [
+        528,
+        532
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Account Executive",
+      "predicted_span": [
+        593,
+        610
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Executive",
+      "predicted_span": [
+        593,
+        610
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Walton-Larsen",
+      "predicted_span": [
+        614,
+        627
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2023",
+      "predicted_span": [
+        629,
+        633
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Cannon-Boyd",
+      "predicted_span": [
+        737,
+        748
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2019 2021",
+      "predicted_span": [
+        750,
+        759
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "System",
+      "predicted_span": [
+        796,
+        802
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "Python, SQL , PyTorch, Docker, Kubernetes, AWS Cloud Archiceccure",
+      "predicted_span": [
+        891,
+        956
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "SQL",
+      "predicted_span": [
+        899,
+        902
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "PyTorch",
+      "predicted_span": [
+        905,
+        912
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Docker",
+      "predicted_span": [
+        914,
+        920
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Kubernetes",
+      "predicted_span": [
+        922,
+        932
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Cloud Archiceccure",
+      "predicted_span": [
+        938,
+        956
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "doc_id": "loan_098",
+  "document_type": "loan_application",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORROWER PERSONAL IDENTIFICATION\nApplicant Name Date of Birth: Marital Scacus: Religious Belief: Phone  Number: Email Address Residential Address\nJavier Whice January 20 , 1999 Married Agnostic 628-996-5999 javier.whiteCgmail.com 33192 Fred Well, West Christianton, DC 67571\nFINANCIAL PROFILE\nCREDITWORTHINESS\nEmployment Status Employer Name Gross Annual Income Bank Account Number Credit Score (FICO)\nEmployed Full-Time Ortega-Murphy S126,000 00 USD ACCT-4022360089 775 (FICO Score 8)\nADDITIONAL DISCLOSURES BACKGROUND\nMedical History: (diagnosed 2018) Mild Osteoarthritis in right knee Hypertension\nBiometric Security Identifier: SHA256:b87E0910932a432726600650 (Biometric Minutiae Key)\nAPPLtGAr ZAUThoRIZAZIONal institution to investigate my credit standing and I auchorize employment history to evaluate credit risk and loan eligibility.",
+  "text_length": 874,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORROWER PERSONAL",
+      "predicted_span": [
+        0,
+        50
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Applicant Name Date of Birth: Marital Scacus",
+      "predicted_span": [
+        66,
+        110
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "January 20 , 1999",
+      "predicted_span": [
+        192,
+        209
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Married",
+      "predicted_span": [
+        210,
+        217
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Married Agnostic",
+      "predicted_span": [
+        210,
+        226
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Agnostic",
+      "predicted_span": [
+        218,
+        226
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "UK_NHS",
+      "field_type": "uk_nhs",
+      "predicted_text": "628-996-5999",
+      "predicted_span": [
+        227,
+        239
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "628-996-5999",
+      "predicted_span": [
+        227,
+        239
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "javier.whiteCgmail.com",
+      "predicted_span": [
+        240,
+        262
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "West Christianton",
+      "predicted_span": [
+        280,
+        297
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO",
+      "predicted_span": [
+        429,
+        433
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Employed Full-Time",
+      "predicted_span": [
+        435,
+        453
+      ],
+      "confidence": 0.88
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Employed Full-Time Ortega-Murphy",
+      "predicted_span": [
+        435,
+        467
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-4022360089",
+      "predicted_span": [
+        484,
+        499
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "CREDIT_CARD",
+      "field_type": "credit_card",
+      "predicted_text": "4022360089 775",
+      "predicted_span": [
+        489,
+        503
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "UK_NHS",
+      "field_type": "uk_nhs",
+      "predicted_text": "4022360089",
+      "predicted_span": [
+        489,
+        499
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "4022360089",
+      "predicted_span": [
+        489,
+        499
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "4022360089",
+      "predicted_span": [
+        489,
+        499
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO Score",
+      "predicted_span": [
+        505,
+        515
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2018",
+      "predicted_span": [
+        581,
+        585
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Mild Osteoarthritis",
+      "predicted_span": [
+        587,
+        606
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Osteoarthritis in right knee Hypertension",
+      "predicted_span": [
+        592,
+        633
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Security Identifier: SHA256:",
+      "predicted_span": [
+        634,
+        672
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "SHA256:b87E0910932a432726600650 (Biometric Minutiae Key)",
+      "predicted_span": [
+        665,
+        721
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "b87E0910932a432726600650",
+      "predicted_span": [
+        672,
+        696
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Minutiae Key)\nAPPLtGAr ZAUThoRIZAZIONal ",
+      "predicted_span": [
+        698,
+        748
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Biometric Minutiae Key",
+      "predicted_span": [
+        698,
+        720
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "ZAUThoRIZAZIONal",
+      "predicted_span": [
+        731,
+        747
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

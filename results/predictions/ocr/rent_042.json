@@ -1,0 +1,360 @@
+{
+  "doc_id": "rent_042",
+  "document_type": "rental_agreement",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "RESIDENTIAL LEASE APPLICATION\nAGREEMENT\nPROSPECTIVE TENANT IDENTIFICATION\nTenant Full Name Phone Number: Email Address: National ID SSN: Marital Status: Religious Belief: Current Residence:\nShawn Flowers 001-330-581-7214*36438 shawn. flowers@gmail.com 639-71-1011 Divorced Prefer not to disclose 41321 Jon Crest, Duffyfurt, AL 91965\nEMPLOYMENT 6   FINANCIAL BACKGROUND\nEmployment Status: Employed Part-Time Employer Name: Davis, Sanchez and Rivas Monthly Annual Inc: s7,084.00 month Bank Account Number: ACCT-4463656690\nPREVIOUS TENANCY\nEMERGENCY   CONTACT\nRental History: Previous Address: 9979 Erin Bypass Suite 550 , Jackiefurt Tenancy: 2021 2024 Landlord: Grace Brooks Rent : S1440/mo Reason for Leaving: Job relocation Full security deposit recurned: Yes\nEmergency Contact: Patricia Henderson (Sibling)\nTel: 001-995-670-6071\nSUPPLEMENTAL TENANT  DECLARATION\nMedical History: Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015)\nTENANT ACKNOWLEDGMENT : declare that the information stated in this rental application is crue and complete I grant permission to verify rental history and employment .",
+  "text_length": 1131,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tenant Full Name Phone",
+      "predicted_span": [
+        74,
+        96
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Shawn Flowers",
+      "predicted_span": [
+        190,
+        203
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "001-330-581-7214",
+      "predicted_span": [
+        204,
+        220
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "36438",
+      "predicted_span": [
+        221,
+        226
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "EMAIL_ADDRESS",
+      "field_type": "email",
+      "predicted_text": "flowers@gmail.com",
+      "predicted_span": [
+        234,
+        251
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "gmail.com",
+      "predicted_span": [
+        242,
+        251
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "639-71-1011",
+      "predicted_span": [
+        252,
+        263
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "current_address",
+      "predicted_text": "1011 Divorced Prefer not to disclose 41321 Jon Crest, Duffyfurt, AL 91965",
+      "predicted_span": [
+        259,
+        332
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Divorced",
+      "predicted_span": [
+        264,
+        272
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Prefer not to disclose",
+      "predicted_span": [
+        273,
+        295
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_GENDER",
+      "field_type": "gender",
+      "predicted_text": "Prefer not to disclose",
+      "predicted_span": [
+        273,
+        295
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Duffyfurt",
+      "predicted_span": [
+        313,
+        322
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "AL 91965",
+      "predicted_span": [
+        324,
+        332
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Employed Part-Time",
+      "predicted_span": [
+        388,
+        406
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Davis",
+      "predicted_span": [
+        422,
+        427
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Sanchez",
+      "predicted_span": [
+        429,
+        436
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Rivas Monthly Annual Inc: s7,084.00 month Bank Account",
+      "predicted_span": [
+        441,
+        495
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number: ACCT-4463656690",
+      "predicted_span": [
+        488,
+        519
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-4463656690",
+      "predicted_span": [
+        504,
+        519
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "4463656690",
+      "predicted_span": [
+        509,
+        519
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "4463656690",
+      "predicted_span": [
+        509,
+        519
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TENANCY",
+      "predicted_span": [
+        529,
+        536
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Erin Bypass Suite",
+      "predicted_span": [
+        596,
+        613
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Jackiefurt Tenancy",
+      "predicted_span": [
+        620,
+        638
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        640,
+        644
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2024",
+      "predicted_span": [
+        645,
+        649
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Landlord",
+      "predicted_span": [
+        650,
+        658
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Grace Brooks Rent :",
+      "predicted_span": [
+        660,
+        679
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "S1440",
+      "predicted_span": [
+        680,
+        685
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Patricia Henderson",
+      "predicted_span": [
+        779,
+        797
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Sibling",
+      "predicted_span": [
+        799,
+        806
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tel",
+      "predicted_span": [
+        808,
+        811
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Asthma, seasonal allergic rhinitis, History of Appendectomy (2015)",
+      "predicted_span": [
+        896,
+        962
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Asthma",
+      "predicted_span": [
+        896,
+        902
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2015",
+      "predicted_span": [
+        957,
+        961
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

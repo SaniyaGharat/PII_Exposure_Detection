@@ -1,0 +1,190 @@
+{
+  "doc_id": "med_014",
+  "document_type": "medical_intake",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "PATIENT CLINICAL INTAKE &  ADMISSION FORM\nPATIENT DEMOGRAPHIC INFORMATION\nFull Name Jennifer Costa Date of Birth: February 01, 1987 Phone  Number: 5418379772 Home    Address: 298 Jackson Spur , Sandrashire, CA 30623 Marital Status: Married Occupation: Conservator, furnicure Religious Preference Sikhism Nacional ID SSN: 897-31-2251 Insurance Policy No KSR-94989976\nEMERGENCY CONTACT\nPrimary Emergency Contact Carlos Smich (Sibling) Phone: 386. 929.1279290881\nCLINICAL\nALLERGY INFORMATION\nKnown Drug Environmental Allergies: Penicillin (rash, hives) Shellfish (mild itching)\nCURRENT MEDICATIONS\nDOSAGES\nActive Prescriptions Supplements: Levothyroxine 7Smcg PO daily in morning, Sumatriptan 5Omg PRN for migraine\nPAST MEDICAL\nSURGICAL HISTORY\nDiagnosed Conditions Previous Surgeries: Hypothyroidism (stable on levochyroxine) Migraines with aura.\nPATIENT ACKNONLEDGMENT : acknowledge that the medical information submitted above is accurate for the purpose of healthcare evaluation, clinical diagnosis, and safe treatment .",
+  "text_length": 1021,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "PATIENT CLINICAL INTAKE &  ADMISSION",
+      "predicted_span": [
+        0,
+        36
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Full Name Jennifer Costa Date",
+      "predicted_span": [
+        74,
+        103
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_DOB",
+      "field_type": "date_of_birth",
+      "predicted_text": "February 01, 1987",
+      "predicted_span": [
+        114,
+        131
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "5418379772",
+      "predicted_span": [
+        147,
+        157
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Sandrashire",
+      "predicted_span": [
+        194,
+        205
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Married",
+      "predicted_span": [
+        232,
+        239
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Sikhism",
+      "predicted_span": [
+        296,
+        303
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "897-31-2251",
+      "predicted_span": [
+        321,
+        332
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_INSURANCE_NO",
+      "field_type": "insurance_number",
+      "predicted_text": "Policy No KSR-94989976",
+      "predicted_span": [
+        343,
+        365
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_DRIVER_LICENSE",
+      "field_type": "us_driver_license",
+      "predicted_text": "94989976",
+      "predicted_span": [
+        357,
+        365
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Carlos Smich",
+      "predicted_span": [
+        410,
+        422
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "1279290881",
+      "predicted_span": [
+        449,
+        459
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "CUSTOM_ALLERGIES",
+      "field_type": "allergies",
+      "predicted_text": "Penicillin (rash, hives) Shellfish (mild itching)",
+      "predicted_span": [
+        525,
+        574
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "Levothyroxine 7Smcg PO daily in morning, Sumatriptan 5Omg PRN for migraine",
+      "predicted_span": [
+        637,
+        711
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Levothyroxine 7Smcg PO",
+      "predicted_span": [
+        637,
+        659
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "daily",
+      "predicted_span": [
+        660,
+        665
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "morning",
+      "predicted_span": [
+        669,
+        676
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Hypothyroidism (stable on levochyroxine) Migraines with aura.",
+      "predicted_span": [
+        783,
+        844
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+    "document_id": "rent_035",
+    "document_type": "rental_agreement",
+    "document_purpose": "To collect information required to evaluate a tenant and establish a rental relationship between the tenant and property owner.",
+    "fields": [
+        {
+            "field_type": "full_name",
+            "field_name": "Tenant Full Name",
+            "field_value": "Kevin Moses",
+            "necessity_label": "necessary",
+            "reason": "Required to identify the legal tenant and execute an enforceable residential lease contract.",
+            "span": {
+                "start": 362,
+                "end": 373
+            }
+        },
+        {
+            "field_type": "phone",
+            "field_name": "Phone Number",
+            "field_value": "+1-443-937-9766",
+            "necessity_label": "necessary",
+            "reason": "Essential for property management communication, maintenance requests, and emergency notifications.",
+            "span": {
+                "start": 396,
+                "end": 411
+            }
+        },
+        {
+            "field_type": "email",
+            "field_name": "Email Address",
+            "field_value": "kevin.moses@hotmail.com",
+            "necessity_label": "necessary",
+            "reason": "Required for electronic lease execution, rent payment portal access, and digital delivery of legal notices.",
+            "span": {
+                "start": 434,
+                "end": 457
+            }
+        },
+        {
+            "field_type": "national_id",
+            "field_name": "National ID / SSN",
+            "field_value": "521-80-8848",
+            "necessity_label": "contextual",
+            "reason": "Often requested for credit and criminal background checks, but can be replaced by direct third-party screening services to reduce exposure.",
+            "span": {
+                "start": 480,
+                "end": 491
+            }
+        },
+        {
+            "field_type": "marital_status",
+            "field_name": "Marital Status",
+            "field_value": "Single",
+            "necessity_label": "unnecessary",
+            "reason": "Marital status is irrelevant to rental qualification and introduces unlawful discrimination risks under fair housing standards.",
+            "span": {
+                "start": 514,
+                "end": 520
+            }
+        },
+        {
+            "field_type": "religion",
+            "field_name": "Religion",
+            "field_value": "Islam",
+            "necessity_label": "unnecessary",
+            "reason": "Religious beliefs are completely irrelevant to rental qualifications and collecting them violates the Fair Housing Act.",
+            "span": {
+                "start": 543,
+                "end": 548
+            }
+        },
+        {
+            "field_type": "current_address",
+            "field_name": "Current Residential Address",
+            "field_value": "1157 Thomas Path, Larachester, NM 02200",
+            "necessity_label": "necessary",
+            "reason": "Required to verify current tenancy, assess residency stability, and contact previous landlords for reference checks.",
+            "span": {
+                "start": 571,
+                "end": 610
+            }
+        },
+        {
+            "field_type": "employment_status",
+            "field_name": "Employment Status",
+            "field_value": "Self-Employed",
+            "necessity_label": "necessary",
+            "reason": "Directly indicates financial stability and ongoing ability to meet recurring monthly rent obligations.",
+            "span": {
+                "start": 749,
+                "end": 762
+            }
+        },
+        {
+            "field_type": "employer_name",
+            "field_name": "Employer Name",
+            "field_value": "Sheppard Ltd",
+            "necessity_label": "contextual",
+            "reason": "Useful for independent employment verification, though verifiable pay stubs or bank statements can serve as alternative proof.",
+            "span": {
+                "start": 785,
+                "end": 797
+            }
+        },
+        {
+            "field_type": "income",
+            "field_name": "Monthly / Annual Income",
+            "field_value": "$8,335.00 / month",
+            "necessity_label": "necessary",
+            "reason": "Essential for determining rent-to-income ratio (standard industry threshold of monthly income >= 2.5x to 3x rent).",
+            "span": {
+                "start": 820,
+                "end": 837
+            }
+        },
+        {
+            "field_type": "bank_account_number",
+            "field_name": "Bank Account Number",
+            "field_value": "ACCT-2645038111",
+            "necessity_label": "unnecessary",
+            "reason": "Full banking account numbers are unnecessary during rental application screening and expose the applicant to financial fraud risks.",
+            "span": {
+                "start": 860,
+                "end": 875
+            }
+        },
+        {
+            "field_type": "rental_history",
+            "field_name": "Previous Rental History",
+            "field_value": "Previous Address: 969 Carol Pines Suite 552, Annettefort\nTenancy: 2021 - 2024 | Landlord: Lynn Morgan | Rent: $2421/mo\nReason for Leaving: Job relocation | Full security deposit returned: Yes",
+            "necessity_label": "necessary",
+            "reason": "Critical for evaluating past tenancy behavior, timely rent payment record, lease compliance, and eviction history.",
+            "span": {
+                "start": 1011,
+                "end": 1202
+            }
+        },
+        {
+            "field_type": "emergency_contact",
+            "field_name": "Emergency Contact",
+            "field_value": "Jeremy Butler (Sibling) - Tel: 753.557.4859",
+            "necessity_label": "contextual",
+            "reason": "Valuable in urgent property situations, abandonment, or tenant emergencies, but secondary to initial financial qualification.",
+            "span": {
+                "start": 1223,
+                "end": 1266
+            }
+        },
+        {
+            "field_type": "medical_history",
+            "field_name": "Medical History",
+            "field_value": "Gastroesophageal Reflux Disease (GERD), History of Right Wrist Fracture (2020).",
+            "necessity_label": "unnecessary",
+            "reason": "Medical history has no bearing on tenancy eligibility and exposes private health data in violation of fair housing privacy principles.",
+            "span": {
+                "start": 1398,
+                "end": 1477
+            }
+        }
+    ]
+}

@@ -1,0 +1,248 @@
+{
+    "split": "test",
+    "ratio": 0.15,
+    "seed": 42,
+    "total_count": 60,
+    "documents": [
+        {
+            "document_id": "job_005",
+            "document_type": "job_application"
+        },
+        {
+            "document_id": "job_055",
+            "document_type": "job_application"
+        },
+        {
+            "document_id": "job_076",
+            "document_type": "job_application"
+        },
+        {
+            "document_id": "job_012",
+            "document_type": "job_application"
+        },
+        {
+            "document_id": "job_070",
+            "document_type": "job_application"
+        },
+        {
+            "document_id": "job_087",
+            "document_type": "job_application"
+        },
+        {
+            "document_id": "job_014",
+            "document_type": "job_application"
+        },
+        {
+            "document_id": "job_018",
+            "document_type": "job_application"
+        },
+        {
+            "document_id": "job_029",
+            "document_type": "job_application"
+        },
+        {
+            "document_id": "job_032",
+            "document_type": "job_application"
+        },
+        {
+            "document_id": "job_036",
+            "document_type": "job_application"
+        },
+        {
+            "document_id": "job_095",
+            "document_type": "job_application"
+        },
+        {
+            "document_id": "job_004",
+            "document_type": "job_application"
+        },
+        {
+            "document_id": "job_015",
+            "document_type": "job_application"
+        },
+        {
+            "document_id": "job_082",
+            "document_type": "job_application"
+        },
+        {
+            "document_id": "med_072",
+            "document_type": "medical_intake"
+        },
+        {
+            "document_id": "med_032",
+            "document_type": "medical_intake"
+        },
+        {
+            "document_id": "med_018",
+            "document_type": "medical_intake"
+        },
+        {
+            "document_id": "med_034",
+            "document_type": "medical_intake"
+        },
+        {
+            "document_id": "med_019",
+            "document_type": "medical_intake"
+        },
+        {
+            "document_id": "med_059",
+            "document_type": "medical_intake"
+        },
+        {
+            "document_id": "med_083",
+            "document_type": "medical_intake"
+        },
+        {
+            "document_id": "med_051",
+            "document_type": "medical_intake"
+        },
+        {
+            "document_id": "med_064",
+            "document_type": "medical_intake"
+        },
+        {
+            "document_id": "med_084",
+            "document_type": "medical_intake"
+        },
+        {
+            "document_id": "med_100",
+            "document_type": "medical_intake"
+        },
+        {
+            "document_id": "med_041",
+            "document_type": "medical_intake"
+        },
+        {
+            "document_id": "med_092",
+            "document_type": "medical_intake"
+        },
+        {
+            "document_id": "med_073",
+            "document_type": "medical_intake"
+        },
+        {
+            "document_id": "med_028",
+            "document_type": "medical_intake"
+        },
+        {
+            "document_id": "loan_001",
+            "document_type": "loan_application"
+        },
+        {
+            "document_id": "loan_095",
+            "document_type": "loan_application"
+        },
+        {
+            "document_id": "loan_091",
+            "document_type": "loan_application"
+        },
+        {
+            "document_id": "loan_030",
+            "document_type": "loan_application"
+        },
+        {
+            "document_id": "loan_071",
+            "document_type": "loan_application"
+        },
+        {
+            "document_id": "loan_076",
+            "document_type": "loan_application"
+        },
+        {
+            "document_id": "loan_003",
+            "document_type": "loan_application"
+        },
+        {
+            "document_id": "loan_044",
+            "document_type": "loan_application"
+        },
+        {
+            "document_id": "loan_009",
+            "document_type": "loan_application"
+        },
+        {
+            "document_id": "loan_029",
+            "document_type": "loan_application"
+        },
+        {
+            "document_id": "loan_032",
+            "document_type": "loan_application"
+        },
+        {
+            "document_id": "loan_016",
+            "document_type": "loan_application"
+        },
+        {
+            "document_id": "loan_058",
+            "document_type": "loan_application"
+        },
+        {
+            "document_id": "loan_067",
+            "document_type": "loan_application"
+        },
+        {
+            "document_id": "loan_057",
+            "document_type": "loan_application"
+        },
+        {
+            "document_id": "rent_077",
+            "document_type": "rental_agreement"
+        },
+        {
+            "document_id": "rent_009",
+            "document_type": "rental_agreement"
+        },
+        {
+            "document_id": "rent_024",
+            "document_type": "rental_agreement"
+        },
+        {
+            "document_id": "rent_011",
+            "document_type": "rental_agreement"
+        },
+        {
+            "document_id": "rent_066",
+            "document_type": "rental_agreement"
+        },
+        {
+            "document_id": "rent_098",
+            "document_type": "rental_agreement"
+        },
+        {
+            "document_id": "rent_021",
+            "document_type": "rental_agreement"
+        },
+        {
+            "document_id": "rent_068",
+            "document_type": "rental_agreement"
+        },
+        {
+            "document_id": "rent_065",
+            "document_type": "rental_agreement"
+        },
+        {
+            "document_id": "rent_062",
+            "document_type": "rental_agreement"
+        },
+        {
+            "document_id": "rent_075",
+            "document_type": "rental_agreement"
+        },
+        {
+            "document_id": "rent_007",
+            "document_type": "rental_agreement"
+        },
+        {
+            "document_id": "rent_008",
+            "document_type": "rental_agreement"
+        },
+        {
+            "document_id": "rent_041",
+            "document_type": "rental_agreement"
+        },
+        {
+            "document_id": "rent_096",
+            "document_type": "rental_agreement"
+        }
+    ]
+}

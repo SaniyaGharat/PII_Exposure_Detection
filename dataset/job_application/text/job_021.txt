@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Annette Farmer
+Date of Birth:        November 17, 1967
+Gender:               Female
+Marital Status:       Domestic Partnership
+Religious Belief:     Atheist
+National ID / SSN:    614-77-3579
+Email Address:        annette.farmer@gmail.com
+Phone Number:         (579)874-0344x71349
+Home Address:         242 Brian Turnpike, Brookeshire, PW 38329
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: Cybersecurity Analyst
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+B.S. in Information Systems - University of Washington (Graduated 2021)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. Cybersecurity Analyst at Clark, Guerrero and Moore (2022 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Arnold and Sons (2017 - 2020)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

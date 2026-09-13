@@ -1,0 +1,240 @@
+{
+  "doc_id": "job_005",
+  "document_type": "job_application",
+  "split": "test",
+  "is_ocr": true,
+  "ocr_text": "STANDARD EMPLOYMENT APPLICATION FORM\nAPPLICANT IDENTIFICATION\nCONTACT INFORMATION\nFull Name : Date of Birch: Gender Marital Status: Religious Belief: National ID SSN: Email Address Phone Number Home Address\nShane Henderson February 08 , 1993 Male Widowed Sikhism 266-57-6820 shane.henderson@gmail. com 587.213.3150*983 10518 Joshua Oval, New David, FM 75348\nTARGET POSITION\nPosition Applied For: Clinical Research Coordinator\nEDUCATION\nACADEMIC CREDENTIALS\nHighest Degree Major: B.S in Computer Science\nUniversity of Illinois Urbana-Champaign (Graduated 2023)\nPROFESSIONAL EXPERIENCE\nWORK HISTORY\nRecent Experience: Clinical Research Coordinator at Hickman Ltd (2021 Present) Led cross-functional initiatives, improving project throughput by 288 Associate Specialist at Harris, Collins and Carney (2020 2021) Managed key deliverables, analyzed system data, and automated workflows\nSKILLS\nCORE COMPETENCIES\nTechnical Professional Skills: Financial Modeling, Risk Analysis, Bloomberg Terminal, Advanced Excel, CFA  Level II\nDECLARATION: hereby certify chat the information provided in chis employment application is accurate, crue, and complete Eo the best of my knowledge",
+  "text_length": 1170,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "STANDARD EMPLOYMENT APPLICATION",
+      "predicted_span": [
+        0,
+        31
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "February 08 , 1993",
+      "predicted_span": [
+        223,
+        241
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_GENDER",
+      "field_type": "gender",
+      "predicted_text": "Male",
+      "predicted_span": [
+        242,
+        246
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Widowed",
+      "predicted_span": [
+        247,
+        254
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Sikhism",
+      "predicted_span": [
+        255,
+        262
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "266-57-6820",
+      "predicted_span": [
+        263,
+        274
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "587.213.3150",
+      "predicted_span": [
+        302,
+        314
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "10518",
+      "predicted_span": [
+        319,
+        324
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Joshua Oval",
+      "predicted_span": [
+        325,
+        336
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "New David",
+      "predicted_span": [
+        338,
+        347
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Position Applied For: Clinical Research Coordinator\nEDUCATION\nACADEMIC CREDENTIALS\nHighest Degree Major",
+      "predicted_span": [
+        374,
+        477
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Computer Science\nUniversity",
+      "predicted_span": [
+        486,
+        513
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2023",
+      "predicted_span": [
+        554,
+        558
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Clinical Research Coordinator",
+      "predicted_span": [
+        616,
+        645
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Hickman Ltd",
+      "predicted_span": [
+        649,
+        660
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        662,
+        666
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Collins",
+      "predicted_span": [
+        778,
+        785
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Carney",
+      "predicted_span": [
+        790,
+        796
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2020 2021",
+      "predicted_span": [
+        798,
+        807
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "Financial Modeling, Risk Analysis, Bloomberg Terminal, Advanced Excel, CFA  Level II",
+      "predicted_span": [
+        937,
+        1021
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Bloomberg Terminal",
+      "predicted_span": [
+        972,
+        990
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Advanced Excel",
+      "predicted_span": [
+        992,
+        1006
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CFA  Level II",
+      "predicted_span": [
+        1008,
+        1021
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

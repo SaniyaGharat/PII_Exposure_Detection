@@ -1,0 +1,150 @@
+{
+    "document_id": "med_003",
+    "document_type": "medical_intake",
+    "document_purpose": "To collect relevant patient information required for medical assessment, diagnosis, treatment, and healthcare administration.",
+    "fields": [
+        {
+            "field_type": "full_name",
+            "field_name": "Patient Full Name",
+            "field_value": "Matthew Smith",
+            "necessity_label": "necessary",
+            "reason": "Essential for patient identification, medical record linkage, and preventing catastrophic misidentification in clinical care.",
+            "span": {
+                "start": 359,
+                "end": 372
+            }
+        },
+        {
+            "field_type": "date_of_birth",
+            "field_name": "Date of Birth",
+            "field_value": "October 14, 2002",
+            "necessity_label": "necessary",
+            "reason": "Crucial for clinical safety, age-dependent pharmaceutical dosage calculations, developmental assessment, and primary patient record matching.",
+            "span": {
+                "start": 395,
+                "end": 411
+            }
+        },
+        {
+            "field_type": "phone",
+            "field_name": "Phone Number",
+            "field_value": "+1-889-493-5889x16375",
+            "necessity_label": "necessary",
+            "reason": "Required for appointment reminders, urgent clinical test result notifications, and post-procedure follow-ups.",
+            "span": {
+                "start": 434,
+                "end": 455
+            }
+        },
+        {
+            "field_type": "home_address",
+            "field_name": "Home Address",
+            "field_value": "28772 Karen Islands, West Tara, AR 66945",
+            "necessity_label": "contextual",
+            "reason": "Used for patient billing, demographic analysis, and local public health reporting, though secondary to immediate clinical diagnosis.",
+            "span": {
+                "start": 478,
+                "end": 518
+            }
+        },
+        {
+            "field_type": "marital_status",
+            "field_name": "Marital Status",
+            "field_value": "Single",
+            "necessity_label": "contextual",
+            "reason": "May provide helpful context regarding home support network and surrogate decision-makers, but not universally necessary for diagnostics.",
+            "span": {
+                "start": 541,
+                "end": 547
+            }
+        },
+        {
+            "field_type": "occupation",
+            "field_name": "Occupation",
+            "field_value": "Research scientist (medical)",
+            "necessity_label": "contextual",
+            "reason": "Provides relevant context for evaluating occupational exposures, repetitive stress injuries, or physical disability accommodations.",
+            "span": {
+                "start": 570,
+                "end": 598
+            }
+        },
+        {
+            "field_type": "religion",
+            "field_name": "Religious Affiliation",
+            "field_value": "Prefer not to disclose",
+            "necessity_label": "contextual",
+            "reason": "Contextual in clinical settings to respect medical restrictions (e.g., blood transfusions, dietary rules, end-of-life pastoral care), but optional.",
+            "span": {
+                "start": 621,
+                "end": 643
+            }
+        },
+        {
+            "field_type": "national_id",
+            "field_name": "National ID / SSN",
+            "field_value": "773-98-5381",
+            "necessity_label": "unnecessary",
+            "reason": "Standard government national IDs are unnecessary when unique Medical Record Numbers (MRN) or insurance IDs exist, creating avoidable exposure.",
+            "span": {
+                "start": 666,
+                "end": 677
+            }
+        },
+        {
+            "field_type": "insurance_number",
+            "field_name": "Health Insurance Policy Number",
+            "field_value": "MED-34215035",
+            "necessity_label": "contextual",
+            "reason": "Necessary for healthcare claims billing and insurance verification, but not strictly required for emergency or direct self-pay clinical triage.",
+            "span": {
+                "start": 700,
+                "end": 712
+            }
+        },
+        {
+            "field_type": "emergency_contact",
+            "field_name": "Emergency Contact",
+            "field_value": "Mason Powell (Partner) - Phone: 717.379.7177",
+            "necessity_label": "necessary",
+            "reason": "Vital in acute medical situations, patient incapacitation, or urgent medical decisions where patient proxy consent is needed.",
+            "span": {
+                "start": 840,
+                "end": 884
+            }
+        },
+        {
+            "field_type": "allergies",
+            "field_name": "Allergies & Sensitivities",
+            "field_value": "Peanuts (anaphylaxis - carries EpiPen), Tree nuts.",
+            "necessity_label": "necessary",
+            "reason": "High-priority safety data required to prevent life-threatening anaphylaxis, drug allergies, and cross-reactive interventions.",
+            "span": {
+                "start": 1036,
+                "end": 1086
+            }
+        },
+        {
+            "field_type": "current_medications",
+            "field_name": "Current Medications",
+            "field_value": "None reported / Over-the-counter multivitamins only.",
+            "necessity_label": "necessary",
+            "reason": "Critical for preventing adverse drug-drug interactions, polypharmacy complications, and dosage conflicts.",
+            "span": {
+                "start": 1235,
+                "end": 1287
+            }
+        },
+        {
+            "field_type": "medical_history",
+            "field_name": "Past Medical History",
+            "field_value": "Mild persistent Asthma, seasonal allergic rhinitis, History of Appendectomy (2015).",
+            "necessity_label": "necessary",
+            "reason": "Essential clinical context for differential diagnosis, identifying chronic comorbidities, and planning safe therapeutic interventions.",
+            "span": {
+                "start": 1445,
+                "end": 1528
+            }
+        }
+    ]
+}

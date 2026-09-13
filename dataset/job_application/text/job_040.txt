@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Corey Cooke
+Date of Birth:        April 07, 1970
+Gender:               Prefer not to disclose
+Marital Status:       Domestic Partnership
+Religious Belief:     Unaffiliated
+National ID / SSN:    536-80-8305
+Email Address:        corey.cooke@yahoo.com
+Phone Number:         +1-759-529-6222x92706
+Home Address:         738 Kyle Valleys Suite 359, Murrayport, WI 50553
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: DevOps Engineer
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+MBA - Columbia University (Graduated 2018)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. DevOps Engineer at Jones Inc (2023 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Wise, Conley and Stephenson (2019 - 2021)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+Financial Modeling, Risk Analysis, Bloomberg Terminal, Advanced Excel, CFA Level II
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

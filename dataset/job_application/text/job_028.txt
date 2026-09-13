@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Paula Beltran
+Date of Birth:        August 07, 1982
+Gender:               Female
+Marital Status:       Widowed
+Religious Belief:     Hinduism
+National ID / SSN:    142-49-6974
+Email Address:        paula.beltran@yahoo.com
+Phone Number:         +1-339-642-1047x0952
+Home Address:         32858 Rivas Glens Suite 451, Mccartyberg, WV 30072
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: Data Scientist
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+B.S. in Computer Science - University of Michigan (Graduated 2018)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. Data Scientist at Mcgee, Wall and Leach (2021 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Lawson LLC (2019 - 2020)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+Python, SQL, PyTorch, Docker, Kubernetes, AWS Cloud Architecture
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

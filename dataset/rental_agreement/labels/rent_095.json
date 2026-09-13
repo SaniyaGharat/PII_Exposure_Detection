@@ -1,0 +1,161 @@
+{
+    "document_id": "rent_095",
+    "document_type": "rental_agreement",
+    "document_purpose": "To collect information required to evaluate a tenant and establish a rental relationship between the tenant and property owner.",
+    "fields": [
+        {
+            "field_type": "full_name",
+            "field_name": "Tenant Full Name",
+            "field_value": "Virginia Sanchez",
+            "necessity_label": "necessary",
+            "reason": "Required to identify the legal tenant and execute an enforceable residential lease contract.",
+            "span": {
+                "start": 362,
+                "end": 378
+            }
+        },
+        {
+            "field_type": "phone",
+            "field_name": "Phone Number",
+            "field_value": "(805)511-7160x3988",
+            "necessity_label": "necessary",
+            "reason": "Essential for property management communication, maintenance requests, and emergency notifications.",
+            "span": {
+                "start": 401,
+                "end": 419
+            }
+        },
+        {
+            "field_type": "email",
+            "field_name": "Email Address",
+            "field_value": "virginia.sanchez@yahoo.com",
+            "necessity_label": "necessary",
+            "reason": "Required for electronic lease execution, rent payment portal access, and digital delivery of legal notices.",
+            "span": {
+                "start": 442,
+                "end": 468
+            }
+        },
+        {
+            "field_type": "national_id",
+            "field_name": "National ID / SSN",
+            "field_value": "732-25-5631",
+            "necessity_label": "contextual",
+            "reason": "Often requested for credit and criminal background checks, but can be replaced by direct third-party screening services to reduce exposure.",
+            "span": {
+                "start": 491,
+                "end": 502
+            }
+        },
+        {
+            "field_type": "marital_status",
+            "field_name": "Marital Status",
+            "field_value": "Single",
+            "necessity_label": "unnecessary",
+            "reason": "Marital status is irrelevant to rental qualification and introduces unlawful discrimination risks under fair housing standards.",
+            "span": {
+                "start": 525,
+                "end": 531
+            }
+        },
+        {
+            "field_type": "religion",
+            "field_name": "Religion",
+            "field_value": "Islam",
+            "necessity_label": "unnecessary",
+            "reason": "Religious beliefs are completely irrelevant to rental qualifications and collecting them violates the Fair Housing Act.",
+            "span": {
+                "start": 554,
+                "end": 559
+            }
+        },
+        {
+            "field_type": "current_address",
+            "field_name": "Current Residential Address",
+            "field_value": "62189 Murphy Rapid Apt. 670, North Brookeshire, ME 18311",
+            "necessity_label": "necessary",
+            "reason": "Required to verify current tenancy, assess residency stability, and contact previous landlords for reference checks.",
+            "span": {
+                "start": 582,
+                "end": 638
+            }
+        },
+        {
+            "field_type": "employment_status",
+            "field_name": "Employment Status",
+            "field_value": "Contractor / Freelancer",
+            "necessity_label": "necessary",
+            "reason": "Directly indicates financial stability and ongoing ability to meet recurring monthly rent obligations.",
+            "span": {
+                "start": 777,
+                "end": 800
+            }
+        },
+        {
+            "field_type": "employer_name",
+            "field_name": "Employer Name",
+            "field_value": "Sanchez LLC",
+            "necessity_label": "contextual",
+            "reason": "Useful for independent employment verification, though verifiable pay stubs or bank statements can serve as alternative proof.",
+            "span": {
+                "start": 823,
+                "end": 834
+            }
+        },
+        {
+            "field_type": "income",
+            "field_name": "Monthly / Annual Income",
+            "field_value": "$11,881.00 / month",
+            "necessity_label": "necessary",
+            "reason": "Essential for determining rent-to-income ratio (standard industry threshold of monthly income >= 2.5x to 3x rent).",
+            "span": {
+                "start": 857,
+                "end": 875
+            }
+        },
+        {
+            "field_type": "bank_account_number",
+            "field_name": "Bank Account Number",
+            "field_value": "ACCT-6161147047",
+            "necessity_label": "unnecessary",
+            "reason": "Full banking account numbers are unnecessary during rental application screening and expose the applicant to financial fraud risks.",
+            "span": {
+                "start": 898,
+                "end": 913
+            }
+        },
+        {
+            "field_type": "rental_history",
+            "field_name": "Previous Rental History",
+            "field_value": "Previous Address: 6648 Reynolds Loop, West Kristinaview\nTenancy: 2021 - 2024 | Landlord: Wesley Wright | Rent: $2872/mo\nReason for Leaving: Job relocation | Full security deposit returned: Yes",
+            "necessity_label": "necessary",
+            "reason": "Critical for evaluating past tenancy behavior, timely rent payment record, lease compliance, and eviction history.",
+            "span": {
+                "start": 1049,
+                "end": 1241
+            }
+        },
+        {
+            "field_type": "emergency_contact",
+            "field_name": "Emergency Contact",
+            "field_value": "Robert Velazquez (Sibling) - Tel: 265-877-5809x74533",
+            "necessity_label": "contextual",
+            "reason": "Valuable in urgent property situations, abandonment, or tenant emergencies, but secondary to initial financial qualification.",
+            "span": {
+                "start": 1262,
+                "end": 1314
+            }
+        },
+        {
+            "field_type": "medical_history",
+            "field_name": "Medical History",
+            "field_value": "No significant past medical history. Non-smoker, no past surgeries.",
+            "necessity_label": "unnecessary",
+            "reason": "Medical history has no bearing on tenancy eligibility and exposes private health data in violation of fair housing privacy principles.",
+            "span": {
+                "start": 1446,
+                "end": 1513
+            }
+        }
+    ]
+}

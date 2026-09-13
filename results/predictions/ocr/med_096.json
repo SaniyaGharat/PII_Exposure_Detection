@@ -1,0 +1,260 @@
+{
+  "doc_id": "med_096",
+  "document_type": "medical_intake",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "PATIENT CLINICAL INTAKE 6   ADMISSION FORM\nPATIENT DEMOGRAPHIC INFORMATION\nFull Name Laurie Dickerson Date of Birch: September 18 1963 Phone Number (553) 304-2897 912 Pocter Rue Suice 787 , West Jennifer, NC 91531 Home  Address Marital Stacus Midowed Occupation: Forest/woodland manager Religious Preference: Hinduism National ID SSN: 565-87-7121 Insurance Policy No : UHC-83717007\nEMERGENCY   CONTACT\nPrimary Emergency Contact: Dr John Perkins (Parent)\nPhone: +1-490-733-3736*3466\nCLINICAL\nALLERGY INFORMATION\nKnown  Drug Environmental Allergies: Aspirin (bronchospasm) Codeine (nausea)\nCURRENT  MEDICATIONS &  DOSAGES\nActive Prescriptions Supplements: Levothyroxine 7Smcg PO daily in morning, Sumatriptan 5Omg PRN for mi graine\nPAST MEDICAL 6 SURGICAL HISTORY\nDiagnosed Conditions Previous Surgeries: No si gni ficant past medical history. Non-smoker , no past surgeries\nPATIENT   ACKNOWLEDGMENT : chat che medical information submitted above 15 accurate for I acknowledge healchcare evaluation, 'clinical diagnosis, and safe creatment . the purpose of",
+  "text_length": 1054,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "PATIENT CLINICAL",
+      "predicted_span": [
+        0,
+        16
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Laurie Dickerson",
+      "predicted_span": [
+        85,
+        101
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "September 18 1963",
+      "predicted_span": [
+        117,
+        134
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Phone Number",
+      "predicted_span": [
+        135,
+        147
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "2897 912 Pocter Rue Suice 787 , West Jennifer, NC 91531",
+      "predicted_span": [
+        158,
+        213
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2897",
+      "predicted_span": [
+        158,
+        162
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Pocter Rue Suice",
+      "predicted_span": [
+        167,
+        183
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "West Jennifer",
+      "predicted_span": [
+        190,
+        203
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "NC 91531 Home  Address Marital",
+      "predicted_span": [
+        205,
+        235
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Religious Preference",
+      "predicted_span": [
+        287,
+        307
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Hinduism",
+      "predicted_span": [
+        309,
+        317
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "565-87-7121",
+      "predicted_span": [
+        335,
+        346
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_INSURANCE_NO",
+      "field_type": "insurance_number",
+      "predicted_text": "Policy No : UHC-83717007",
+      "predicted_span": [
+        357,
+        381
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_DRIVER_LICENSE",
+      "field_type": "us_driver_license",
+      "predicted_text": "83717007",
+      "predicted_span": [
+        373,
+        381
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "John Perkins",
+      "predicted_span": [
+        432,
+        444
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "NRP",
+      "field_type": "nrp",
+      "predicted_text": "+1-490",
+      "predicted_span": [
+        461,
+        467
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Known  Drug Environmental Allergies",
+      "predicted_span": [
+        511,
+        546
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_ALLERGIES",
+      "field_type": "allergies",
+      "predicted_text": "Aspirin (bronchospasm) Codeine (nausea)",
+      "predicted_span": [
+        548,
+        587
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "MEDICATIONS &  ",
+      "predicted_span": [
+        597,
+        612
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "Levothyroxine 7Smcg PO daily in morning, Sumatriptan 5Omg PRN for mi graine",
+      "predicted_span": [
+        654,
+        729
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Levothyroxine 7Smcg PO",
+      "predicted_span": [
+        654,
+        676
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "daily",
+      "predicted_span": [
+        677,
+        682
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "morning",
+      "predicted_span": [
+        686,
+        693
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "PATIENT",
+      "predicted_span": [
+        873,
+        880
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "che medical",
+      "predicted_span": [
+        905,
+        916
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

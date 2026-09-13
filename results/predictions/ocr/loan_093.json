@@ -1,0 +1,330 @@
+{
+  "doc_id": "loan_093",
+  "document_type": "loan_application",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORROWER  PERSONAL IDENTIFICATION\nApplicant Name David Bowers Dace of Birth: April 15 , 2005 Marital Status: Vidowed Religious Belief: Buddhism Phone Number : (324) 811-1860*0892 Email Address david.bowers@gmail com Residential Address: 6804 Stevens Courts Suite 976, Russellbury, MT 74031 FINANCIAL PROFILE CREDITWORTHINESS\nEmployment Stacus Contractor Freelancer Employer Name Velez-Ferguson Gross Annual Income S149,000.00 USD Bank Account Number: AccT-6448324230 Credit Score (FICO) 645 (FICO Score 8 )\nADDITIONAL DISCLOSURES &  BACKGROUND\nMedical History: Mild persistent Asthma seasonal allergic rhinitis, History of Appendectomy (2015) Biometric Security Identifier: SHA256:46a0444025f95e0fe8645724 (Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: auchorize the financial institution co investigate my credit standing and employment history co evaluate credit risk and loan eligibility_",
+  "text_length": 927,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORROWER  ",
+      "predicted_span": [
+        0,
+        43
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "David Bowers Dace",
+      "predicted_span": [
+        82,
+        99
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "April 15 , 2005",
+      "predicted_span": [
+        110,
+        125
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Buddhism",
+      "predicted_span": [
+        168,
+        176
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "(324) 811-1860",
+      "predicted_span": [
+        192,
+        206
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "811-1860",
+      "predicted_span": [
+        198,
+        206
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "0892",
+      "predicted_span": [
+        207,
+        211
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "david.bo",
+      "predicted_span": [
+        226,
+        234
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Residential Address",
+      "predicted_span": [
+        249,
+        268
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "6804 Stevens Courts Suite 976, Russellbury, MT 74031",
+      "predicted_span": [
+        270,
+        322
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "6804",
+      "predicted_span": [
+        270,
+        274
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Stevens Courts Suite",
+      "predicted_span": [
+        275,
+        295
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Russellbury",
+      "predicted_span": [
+        301,
+        312
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "MT 74031",
+      "predicted_span": [
+        314,
+        322
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Contractor",
+      "predicted_span": [
+        376,
+        386
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Freelancer",
+      "predicted_span": [
+        387,
+        397
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Freelancer Employer Name",
+      "predicted_span": [
+        387,
+        411
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Velez-Ferguson Gross",
+      "predicted_span": [
+        412,
+        432
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number: AccT-6448324230",
+      "predicted_span": [
+        468,
+        499
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "AccT-6448324230",
+      "predicted_span": [
+        484,
+        499
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "6448324230",
+      "predicted_span": [
+        489,
+        499
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "6448324230",
+      "predicted_span": [
+        489,
+        499
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_CREDIT_SCORE",
+      "field_type": "credit_score",
+      "predicted_text": "Credit Score (FICO) 645",
+      "predicted_span": [
+        500,
+        523
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO",
+      "predicted_span": [
+        514,
+        518
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO Score",
+      "predicted_span": [
+        525,
+        535
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "BACKGROUND",
+      "predicted_span": [
+        566,
+        576
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Asthma seasonal allergic rhinitis, History of Appendectomy (2015) Biometric Security Identifier: SHA256:46a0444025f95e0fe8645724 (Biometric Minutiae Key)",
+      "predicted_span": [
+        610,
+        763
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Asthma",
+      "predicted_span": [
+        610,
+        616
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2015",
+      "predicted_span": [
+        670,
+        674
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Security Identifier: SHA256:",
+      "predicted_span": [
+        676,
+        714
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "SHA256:46a0444025f95e0fe8645724 (Biometric Minutiae Key)",
+      "predicted_span": [
+        707,
+        763
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: auchorize ",
+      "predicted_span": [
+        740,
+        799
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

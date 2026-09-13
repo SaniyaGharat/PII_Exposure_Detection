@@ -1,0 +1,280 @@
+{
+  "doc_id": "med_045",
+  "document_type": "medical_intake",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "PATIENT CLINICAL INTAKE\nADMISSION FORM\nPATIENT DEMOGRAPHIC INFORMATION\nFull Name Janice Perez Dace of Birch: August 07 , 1972 Phone  Number: +1-209-973-8468*950 Home   Address: 97128 Marshall Common Apt . 371, Chloemouth, ND 01914 Marital Status Single Occupation: Teacher, primary school Religious Preference Sikhism National ID SSN: 547-61-8204 Insurance Policy No UHC-55504725\nEMERGENCY CONTACT\nPrimary Emergency Contact : Jose Harrison (Sibling) Phone: 001-956-454-4209*4940\nCLINICAL\nALLERGY  INFORMATION\nKnown Drug Environmental Allergies Sulfa antibiotics (severe skin reaction) Latex.\nCURRENT   MEDICATIONS\nDOSAGES\nActive Prescriptions Supplements: Omeprazole  Omg PO daily before breakfast , Calcium Vitamin\nsupplement\nPAST MEDICAL\nSURGICAL HISTORY\nDiagnosed Conditions Previous Surgeries: No significant past medical history. Non-smoker, no past surgeries_\nPATIENT ACKNONLEDGMENT : acknowledge that the medical information submitted above 18 accurate for che purpose of healthcare evaluation, clinical diagnosis, and safe creacmenc .",
+  "text_length": 1042,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "PATIENT CLINICAL INTAKE",
+      "predicted_span": [
+        0,
+        23
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Perez Dace",
+      "predicted_span": [
+        88,
+        98
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "August 07 , 1972",
+      "predicted_span": [
+        109,
+        125
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "NRP",
+      "field_type": "nrp",
+      "predicted_text": "+1-209-973-8468",
+      "predicted_span": [
+        141,
+        156
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "+1-209-973-8468",
+      "predicted_span": [
+        141,
+        156
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "97128 Marshall Common Apt . 371, Chloemouth, ND 01914",
+      "predicted_span": [
+        177,
+        230
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Chloemouth",
+      "predicted_span": [
+        210,
+        220
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "ND 01914",
+      "predicted_span": [
+        222,
+        230
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Marital Status Single Occupation",
+      "predicted_span": [
+        231,
+        263
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Single",
+      "predicted_span": [
+        246,
+        252
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Religious Preference Sikhism National ID SSN",
+      "predicted_span": [
+        289,
+        333
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Sikhism",
+      "predicted_span": [
+        310,
+        317
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "547-61-8204",
+      "predicted_span": [
+        335,
+        346
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_INSURANCE_NO",
+      "field_type": "insurance_number",
+      "predicted_text": "Policy No UHC-55504725",
+      "predicted_span": [
+        357,
+        379
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_DRIVER_LICENSE",
+      "field_type": "us_driver_license",
+      "predicted_text": "55504725",
+      "predicted_span": [
+        371,
+        379
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Jose Harrison",
+      "predicted_span": [
+        426,
+        439
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "001-956-454-4209",
+      "predicted_span": [
+        457,
+        473
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "4940",
+      "predicted_span": [
+        474,
+        478
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_ALLERGIES",
+      "field_type": "allergies",
+      "predicted_text": "Sulfa antibiotics (severe skin reaction) Latex.",
+      "predicted_span": [
+        544,
+        591
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "reaction) Latex.",
+      "predicted_span": [
+        575,
+        591
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Latex",
+      "predicted_span": [
+        585,
+        590
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "Omeprazole  Omg PO daily before breakfast , Calcium Vitamin",
+      "predicted_span": [
+        656,
+        715
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Omeprazole  Omg PO",
+      "predicted_span": [
+        656,
+        674
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "daily",
+      "predicted_span": [
+        675,
+        680
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Calcium Vitamin",
+      "predicted_span": [
+        700,
+        715
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "No significant past medical history. Non-smoker, no past surgeries_",
+      "predicted_span": [
+        798,
+        865
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "che",
+      "predicted_span": [
+        964,
+        967
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

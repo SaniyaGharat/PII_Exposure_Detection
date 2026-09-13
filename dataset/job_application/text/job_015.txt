@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Tracy Smith
+Date of Birth:        March 17, 1996
+Gender:               Non-Binary
+Marital Status:       Single
+Religious Belief:     Christianity
+National ID / SSN:    334-18-1514
+Email Address:        tracy.smith@yahoo.com
+Phone Number:         +1-289-837-3467
+Home Address:         272 Rebecca Ramp Apt. 162, Whiteview, MS 43407
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: Senior Software Engineer
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+B.S. in Information Systems - Columbia University (Graduated 2013)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. Senior Software Engineer at James, Smith and Bell (2023 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Castaneda-Ashley (2018 - 2020)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+Clinical Trial Management, GCP Compliance, Electronic Health Records (EHR), HIPAA
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Lisa Becker
+Date of Birth:        January 13, 2000
+Gender:               Female
+Marital Status:       Married
+Religious Belief:     Judaism
+National ID / SSN:    153-26-7897
+Email Address:        lisa.becker@yahoo.com
+Phone Number:         950-754-4471x324
+Home Address:         137 Robin Lodge Suite 850, North Larry, NY 53373
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: DevOps Engineer
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+B.S. in Computer Science - Purdue University (Graduated 2022)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. DevOps Engineer at Williams-Preston (2021 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Vaughn-Williams (2019 - 2020)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+Network Security, Penetration Testing, SIEM, Incident Response, ISO 27001
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

@@ -1,0 +1,240 @@
+{
+  "doc_id": "job_032",
+  "document_type": "job_application",
+  "split": "test",
+  "is_ocr": true,
+  "ocr_text": "STANDARD EMPLOYMENT APPLICATION FORM\nAPPLICANT IDENTIFICATION\nCONTACT INFORMATION\nFull Name: Date of Birch: Gender: Marital Status Religious Belief: National ID SSN: Email Address Phone Number: Home Address\nMason Johnson September 11, 1972 Prefer not to disclose Domestic Partnership Judaism 139-23-8119 mason . johnsonGhotmail_ com 759-821-2499 8961 Melissa Run Apt . 673 _ Morganmouth, MO 55025\nTARGET POSITION\nPosition Applied For: HR Operations Generalist\nEDUCATION\nACADEMIC CREDENTIALS\nHighest Degree Major: B . $ in Informati on Systems\nPurdue University (Graduated 2010)\nPROFESSIONAL EXPERIENCE\nWORK HISTORY\nRecent Experience: 1 . HR Operations Generalist at Boone-Simmons (2021 Present) Led cross- -functional initiatives, improving project throughput by 288 Associate Specialist at Henry Group (2019 2020) Managed key deliverables, analyzed system data, and automated workflows SKILLS CORE COMPETENCIES\nTechnical Professional Skills Clinical Trial Management , GCP Compliance, Electronic Health Records (EHR) HIPAA\nDECLARATION: I hereby certify chat the information provided in this employment application is accurate, crue, and complete co che best of my knowledge.",
+  "text_length": 1175,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "STANDARD EMPLOYMENT APPLICATION",
+      "predicted_span": [
+        0,
+        31
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_DOB",
+      "field_type": "date_of_birth",
+      "predicted_text": "September 11, 1972",
+      "predicted_span": [
+        221,
+        239
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_GENDER",
+      "field_type": "gender",
+      "predicted_text": "Prefer not to disclose",
+      "predicted_span": [
+        240,
+        262
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Prefer not to disclose",
+      "predicted_span": [
+        240,
+        262
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Prefer",
+      "predicted_span": [
+        240,
+        246
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Domestic Partnership",
+      "predicted_span": [
+        263,
+        283
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Judaism",
+      "predicted_span": [
+        284,
+        291
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "139-23-8119",
+      "predicted_span": [
+        292,
+        303
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "johnsonGhotmail",
+      "predicted_span": [
+        312,
+        327
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "759-821-2499",
+      "predicted_span": [
+        333,
+        345
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2499",
+      "predicted_span": [
+        341,
+        345
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Melissa Run Apt",
+      "predicted_span": [
+        351,
+        366
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Morganmouth",
+      "predicted_span": [
+        375,
+        386
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "Position Applied For: HR Operations Generalist\nEDUCATION\nACADEMIC CREDENTIALS\nHighest Degree Major",
+      "predicted_span": [
+        413,
+        511
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Informati on Systems\nPurdue University",
+      "predicted_span": [
+        522,
+        560
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2010",
+      "predicted_span": [
+        572,
+        576
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_JOB_TITLE",
+      "field_type": "job_title",
+      "predicted_text": "HR Operations Generalist",
+      "predicted_span": [
+        638,
+        662
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Boone-Simmons",
+      "predicted_span": [
+        666,
+        679
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        681,
+        685
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Henry Group",
+      "predicted_span": [
+        791,
+        802
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2019 2020",
+      "predicted_span": [
+        804,
+        813
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_SKILLS",
+      "field_type": "skills",
+      "predicted_text": "Clinical Trial Management , GCP Compliance, Electronic Health Records (EHR) HIPAA",
+      "predicted_span": [
+        942,
+        1023
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "GCP Compliance, Electronic Health Records",
+      "predicted_span": [
+        970,
+        1011
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

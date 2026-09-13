@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Erik Thompson
+Date of Birth:        August 23, 2000
+Gender:               Non-Binary
+Marital Status:       Single
+Religious Belief:     Atheist
+National ID / SSN:    432-33-8988
+Email Address:        erik.thompson@yahoo.com
+Phone Number:         934.784.3443
+Home Address:         441 Huang Locks Suite 240, Stephanieland, MI 58484
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: Database Administrator
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+B.A. in Economics - Carnegie Mellon University (Graduated 2019)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. Database Administrator at Peterson, Gomez and Ingram (2023 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Becker, Lara and Baker (2020 - 2021)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+Financial Modeling, Risk Analysis, Bloomberg Terminal, Advanced Excel, CFA Level II
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

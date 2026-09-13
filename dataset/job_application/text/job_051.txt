@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Michael Wilson
+Date of Birth:        May 05, 2002
+Gender:               Non-Binary
+Marital Status:       Widowed
+Religious Belief:     Sikhism
+National ID / SSN:    750-68-3506
+Email Address:        michael.wilson@hotmail.com
+Phone Number:         (480)700-2578x7298
+Home Address:         69495 Erickson Hills Suite 055, South Brandytown, PA 62706
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: Data Scientist
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+B.S. in Information Systems - Purdue University (Graduated 2010)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. Data Scientist at Long LLC (2022 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Mcmillan, Fischer and Gonzalez (2020 - 2020)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+React, TypeScript, Node.js, GraphQL, CI/CD Pipelines, Microservices
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

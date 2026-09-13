@@ -1,0 +1,260 @@
+{
+  "doc_id": "loan_030",
+  "document_type": "loan_application",
+  "split": "test",
+  "is_ocr": true,
+  "ocr_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORROWER PERSONAL IDENTIFICATION\nApplicant Name : Jennifer Wright Date of Birth: December 08 , 1963 Marical Status: Single Religious Belief: Christianity Phone Number: (300) 805-3474 Email Address: jennifer.wright@gmail. com Residential Address: 5541 Elizabeth Springs Apt . 555, Johnview, IL 77089\nFINANCIAL PROFILE 6 CREDITWORTHINESS\nEmployment Status: Retired Employer Name Anderson Ltd Gross Annual Income S189,000 00 USD Bank Account Number: ACCT-8396761430 Credit Score (FICO) 695 (FICO Score 8 )\nADDITIONAL DISCLOSURES\nBACKGROUND\nMedical History Hypothyroidism (stable on levothyroxine) Migraines with aura.\nBiometric Security Identifier: SHA256: le4f1f574842c560b4639278 (Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: auchorize the financial institution to investigate my credit standing and employment history to evaluate credit risk and loan eligibility.",
+  "text_length": 900,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORROWER PERSONAL",
+      "predicted_span": [
+        0,
+        50
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Applicant Name",
+      "predicted_span": [
+        66,
+        80
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Jennifer Wright",
+      "predicted_span": [
+        83,
+        98
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "December 08 , 1963",
+      "predicted_span": [
+        114,
+        132
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Single",
+      "predicted_span": [
+        149,
+        155
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Christianity",
+      "predicted_span": [
+        174,
+        186
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Residential Address",
+      "predicted_span": [
+        258,
+        277
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "5541 Elizabeth Springs Apt . 555, Johnview, IL 77089",
+      "predicted_span": [
+        279,
+        331
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "5541",
+      "predicted_span": [
+        279,
+        283
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Elizabeth Springs Apt",
+      "predicted_span": [
+        284,
+        305
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Johnview",
+      "predicted_span": [
+        313,
+        321
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "IL 77089\nFINANCIAL",
+      "predicted_span": [
+        323,
+        341
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Retired",
+      "predicted_span": [
+        388,
+        395
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number: ACCT-8396761430",
+      "predicted_span": [
+        464,
+        495
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-8396761430",
+      "predicted_span": [
+        480,
+        495
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "8396761430",
+      "predicted_span": [
+        485,
+        495
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "8396761430",
+      "predicted_span": [
+        485,
+        495
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_CREDIT_SCORE",
+      "field_type": "credit_score",
+      "predicted_text": "Credit Score (FICO) 695",
+      "predicted_span": [
+        496,
+        519
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO",
+      "predicted_span": [
+        510,
+        514
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO Score",
+      "predicted_span": [
+        521,
+        531
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Hypothyroidism (stable on levothyroxine) Migraines with aura.",
+      "predicted_span": [
+        586,
+        647
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "levothyroxine) Migraines with aura.",
+      "predicted_span": [
+        612,
+        647
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Security Identifier: SHA256: ",
+      "predicted_span": [
+        648,
+        687
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Minutiae Key)\nAPPLICANT AUTHORIZATION: auchorize ",
+      "predicted_span": [
+        713,
+        772
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Biometric Minutiae Key",
+      "predicted_span": [
+        713,
+        735
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

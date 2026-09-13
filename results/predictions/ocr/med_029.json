@@ -1,0 +1,270 @@
+{
+  "doc_id": "med_029",
+  "document_type": "medical_intake",
+  "split": "validation",
+  "is_ocr": true,
+  "ocr_text": "PATIENT CLINICAL INTAKE\nADMISSION  FORM\nPATIENT DEMOGRAPHIC INFORMATION\nFull Name Daniel Foley Date of Birth: March 04, 1945 Phone Number : 001-648-788-9921*07522 Home Address: 44196 Jessica Stream, Lauraburgh, NM   90887 Marital Stacus Single Occupation: Audiological scientist Religious Preference: Agnostic National ID SSN: 473-96-4891 Insurance Policy No : UHC-91952730\nEMERGENCY CONTACT\nPrimary Emergency Contact Sabrina Davis (Adult Child)\nPhone: +1-240-896-105526613\nCLINICAL\nALLERGY INFORMATION\nKnown  Drug Environmental Allergies Peanuts (anaphylaxis carries EpiPen) Tree nucs\nCURRENT MEDICATIONS\nDOSAGES\nActive Prescriptions Supplements: None reported Over-the counter mulcivitamins only.\nPAST MEDICAL\nSURGICAL HISTORY\nDiagnosed Conditions Previous Surgeries Gastroesophageal Reflux Disease (GERD) History of Right Wrist Fracture (2020)\nPATIENT   ACKNOWLEDGMENT acknowledge chat the medical information submitted above 13 accurate for the purpose of healthcare evaluation, clinical diagnosis, and safe creatment .",
+  "text_length": 1023,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "PATIENT CLINICAL INTAKE",
+      "predicted_span": [
+        0,
+        23
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Full Name Daniel Foley Date of Birth",
+      "predicted_span": [
+        72,
+        108
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_DOB",
+      "field_type": "date_of_birth",
+      "predicted_text": "March 04, 1945",
+      "predicted_span": [
+        110,
+        124
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "44196 Jessica Stream, Lauraburgh, NM   90887",
+      "predicted_span": [
+        177,
+        221
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Jessica Stream",
+      "predicted_span": [
+        183,
+        197
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Lauraburgh",
+      "predicted_span": [
+        199,
+        209
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "NM",
+      "predicted_span": [
+        211,
+        213
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Stacus Single Occupation",
+      "predicted_span": [
+        230,
+        254
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Single",
+      "predicted_span": [
+        237,
+        243
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Agnostic",
+      "predicted_span": [
+        301,
+        309
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "473-96-4891",
+      "predicted_span": [
+        327,
+        338
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_INSURANCE_NO",
+      "field_type": "insurance_number",
+      "predicted_text": "Policy No : UHC-91952730",
+      "predicted_span": [
+        349,
+        373
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_DRIVER_LICENSE",
+      "field_type": "us_driver_license",
+      "predicted_text": "91952730",
+      "predicted_span": [
+        365,
+        373
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Sabrina Davis",
+      "predicted_span": [
+        418,
+        431
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Adult Child",
+      "predicted_span": [
+        433,
+        444
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "NRP",
+      "field_type": "nrp",
+      "predicted_text": "+1-240",
+      "predicted_span": [
+        453,
+        459
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "105526613",
+      "predicted_span": [
+        464,
+        473
+      ],
+      "confidence": 0.6
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Known  Drug Environmental Allergies Peanuts",
+      "predicted_span": [
+        503,
+        546
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_ALLERGIES",
+      "field_type": "allergies",
+      "predicted_text": "Peanuts (anaphylaxis carries EpiPen) Tree nucs",
+      "predicted_span": [
+        539,
+        585
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "EpiPen",
+      "predicted_span": [
+        568,
+        574
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "None reported Over-the counter mulcivitamins only.",
+      "predicted_span": [
+        648,
+        698
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Reflux Disease (GERD) History of Right Wrist Fracture (2020)",
+      "predicted_span": [
+        786,
+        846
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Right Wrist Fracture",
+      "predicted_span": [
+        819,
+        839
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2020",
+      "predicted_span": [
+        841,
+        845
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "PATIENT",
+      "predicted_span": [
+        847,
+        854
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "ACKNOWLEDGMENT",
+      "predicted_span": [
+        857,
+        871
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

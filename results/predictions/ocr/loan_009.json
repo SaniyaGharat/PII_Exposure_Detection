@@ -1,0 +1,270 @@
+{
+  "doc_id": "loan_009",
+  "document_type": "loan_application",
+  "split": "test",
+  "is_ocr": true,
+  "ocr_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORROWER PERSONAL IDENTIFICATION\nApplicant Name Date of Birch: Marital Status Religious Belief: Phone  Number: Email Address: Residential Address\nHeidi Brewer June 25 , 1978 Domestic Par tnership Buddhism +1-872-343-9920x116 heidi.brewerGhotmail. com Willis Street, Goodwinland_ CI 83886 2644\nFINANCIAL PROFILE\nCREDITWORTHINESS\nEmployment Stacus: Employed Full-Time Employer Name Olsen-Adams Gross Annual Income S160, 000.00 USD Bank Account Number: ACCT-9561946187 Credit Score (FICO) 649 (FICO Score 8 )\nADDITIONAL DISCLOSURES\nBACKGROUND\nMedical History: Diabetes Mellitus (managed Via diet /medication) Hyperlipidemia Type\nBiometric Security Identifier: SHA256:cebl88d36c22330ec42e5816 (Biometric Minutiae Key)\nAPBLtCofIzAUtHoRIZnaoNal the institution to investigate my credit standing and authorize co evaluate credit risk and loan eligibility. employment history",
+  "text_length": 900,
+  "predictions": [
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "CONSUMER CREDIT\nLOAN APPLICATION\nBORROWER PERSONAL",
+      "predicted_span": [
+        0,
+        50
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Applicant Name Date of Birch",
+      "predicted_span": [
+        66,
+        94
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Heidi Brewer",
+      "predicted_span": [
+        179,
+        191
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "June 25 , 1978",
+      "predicted_span": [
+        192,
+        206
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Par",
+      "predicted_span": [
+        216,
+        219
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Buddhism",
+      "predicted_span": [
+        229,
+        237
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "+1-872-343-9920x116",
+      "predicted_span": [
+        238,
+        257
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "heidi.br",
+      "predicted_span": [
+        258,
+        266
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Willis Street",
+      "predicted_span": [
+        284,
+        297
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Goodwinland",
+      "predicted_span": [
+        299,
+        310
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "83886 2644",
+      "predicted_span": [
+        315,
+        325
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Employed Full-Time",
+      "predicted_span": [
+        380,
+        398
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "USD Bank",
+      "predicted_span": [
+        458,
+        466
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number: ACCT-9561946187",
+      "predicted_span": [
+        467,
+        498
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-9561946187",
+      "predicted_span": [
+        483,
+        498
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "ACCT-9561946187 Credit Score",
+      "predicted_span": [
+        483,
+        511
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "9561946187",
+      "predicted_span": [
+        488,
+        498
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "9561946187",
+      "predicted_span": [
+        488,
+        498
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_CREDIT_SCORE",
+      "field_type": "credit_score",
+      "predicted_text": "Credit Score (FICO) 649",
+      "predicted_span": [
+        499,
+        522
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO",
+      "predicted_span": [
+        513,
+        517
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "FICO Score",
+      "predicted_span": [
+        524,
+        534
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Diabetes Mellitus (managed Via diet /medication) Hyperlipidemia Type",
+      "predicted_span": [
+        590,
+        658
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Mellitus",
+      "predicted_span": [
+        599,
+        607
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Via",
+      "predicted_span": [
+        617,
+        620
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Security Identifier: SHA256:",
+      "predicted_span": [
+        659,
+        697
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_BIOMETRIC_INFO",
+      "field_type": "biometric_information",
+      "predicted_text": "Biometric Minutiae Key)\nAPBLtCofIzAUtHoRIZnaoNal the ",
+      "predicted_span": [
+        723,
+        776
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "doc_id": "med_046",
+  "document_type": "medical_intake",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "PATIENT CLINICAL INTAKE\nADMISSION   FORM\nPATIENT DEMOGRAPHIC INFORMATION\nFull Name William Lamb Date of Birth: March 07, 1986 Phone Number: 4476128144 Home Address: 0192 Donna Land Apt . 437 , Port Alison, AZ 45438 Marital Status Divorced Occupation: Oceanographer Religious Preference: Unaffiliated National ID SSN: 373-20-7955 Insurance Policy No: MED-67795113\nEMERGENCY   CONTACT\nPrimary Emergency Contact: Dr . Linda Underwood (Adult Child)\nPhone : 466.937.239520410\nCLINICAL\nALLERGY  INFORMATION\nKnown Drug Environmental Allergies: No Known Drug Allergies (NKDA ) No known environmental allergies\nCURRENT MEDICATIONS\nDOSAGES\nActive Prescriptions Supplements: Metformin 50Omg PO BID wich meals, Glipizide Smg daily.\nPAST MEDICAL\nSURGICAL HISTORY\nDiagnosed Conditions Previous Surgeries Hypothyroidism (stable on levothyroxine) Migraines wich aura\nPATIENT ACKNOWLEDGMENT : acknowledge that the medical information submitted above 18 accurace for the purpose of healthcare evaluation, clinical diagnosis, and safe creatmenc .",
+  "text_length": 1027,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "PATIENT CLINICAL INTAKE",
+      "predicted_span": [
+        0,
+        23
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "William Lamb Date",
+      "predicted_span": [
+        83,
+        100
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_DOB",
+      "field_type": "date_of_birth",
+      "predicted_text": "March 07, 1986",
+      "predicted_span": [
+        111,
+        125
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "4476128144",
+      "predicted_span": [
+        140,
+        150
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "4476128144",
+      "predicted_span": [
+        140,
+        150
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "CUSTOM_HOME_ADDRESS",
+      "field_type": "home_address",
+      "predicted_text": "0192 Donna Land Apt . 437 , Port Alison, AZ 45438",
+      "predicted_span": [
+        165,
+        214
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Donna Land Apt",
+      "predicted_span": [
+        170,
+        184
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "Port Alison",
+      "predicted_span": [
+        193,
+        204
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Marital Status Divorced Occupation",
+      "predicted_span": [
+        215,
+        249
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Divorced",
+      "predicted_span": [
+        230,
+        238
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Unaffiliated",
+      "predicted_span": [
+        287,
+        299
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "373-20-7955",
+      "predicted_span": [
+        317,
+        328
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_INSURANCE_NO",
+      "field_type": "insurance_number",
+      "predicted_text": "Policy No: MED-67795113",
+      "predicted_span": [
+        339,
+        362
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "US_DRIVER_LICENSE",
+      "field_type": "us_driver_license",
+      "predicted_text": "67795113",
+      "predicted_span": [
+        354,
+        362
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Linda Underwood",
+      "predicted_span": [
+        415,
+        430
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Adult Child",
+      "predicted_span": [
+        432,
+        443
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "239520410",
+      "predicted_span": [
+        461,
+        470
+      ],
+      "confidence": 0.6
+    },
+    {
+      "entity_type": "CUSTOM_ALLERGIES",
+      "field_type": "allergies",
+      "predicted_text": "No Known Drug Allergies (NKDA ) No known environmental allergies",
+      "predicted_span": [
+        537,
+        601
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "No Known Drug Allergies",
+      "predicted_span": [
+        537,
+        560
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "NKDA",
+      "predicted_span": [
+        562,
+        566
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "Metformin 50Omg PO BID wich meals, Glipizide Smg daily.",
+      "predicted_span": [
+        664,
+        719
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Glipizide Smg",
+      "predicted_span": [
+        699,
+        712
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "daily",
+      "predicted_span": [
+        713,
+        718
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Hypothyroidism (stable on levothyroxine) Migraines wich aura",
+      "predicted_span": [
+        790,
+        850
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "levothyroxine) Migraines wich aura",
+      "predicted_span": [
+        816,
+        850
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

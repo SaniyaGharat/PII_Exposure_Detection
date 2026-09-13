@@ -1,0 +1,43 @@
+================================================================================
+                    STANDARD EMPLOYMENT APPLICATION FORM
+================================================================================
+
+APPLICANT IDENTIFICATION & CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Full Name:            Robert Peck
+Date of Birth:        October 28, 1973
+Gender:               Male
+Marital Status:       Domestic Partnership
+Religious Belief:     Christianity
+National ID / SSN:    455-78-8018
+Email Address:        robert.peck@gmail.com
+Phone Number:         (687)233-9500x4797
+Home Address:         45650 Williams Points Apt. 584, South Williamside, KY 82190
+
+TARGET POSITION
+--------------------------------------------------------------------------------
+Position Applied For: Data Scientist
+
+EDUCATION & ACADEMIC CREDENTIALS
+--------------------------------------------------------------------------------
+Highest Degree / Major:
+B.S. in Information Systems - University of Illinois Urbana-Champaign (Graduated 2011)
+
+PROFESSIONAL EXPERIENCE & WORK HISTORY
+--------------------------------------------------------------------------------
+Recent Experience:
+1. Data Scientist at Edwards, Hines and Jimenez (2023 - Present)
+   - Led cross-functional initiatives, improving project throughput by 28%.
+2. Associate Specialist at Owens, Koch and Jimenez (2019 - 2020)
+   - Managed key deliverables, analyzed system data, and automated workflows.
+
+SKILLS & CORE COMPETENCIES
+--------------------------------------------------------------------------------
+Technical & Professional Skills:
+Statistical Analysis, R, Tableau, Data Pipelines, Predictive Modeling
+
+--------------------------------------------------------------------------------
+DECLARATION:
+I hereby certify that the information provided in this employment application
+is accurate, true, and complete to the best of my knowledge.
+================================================================================

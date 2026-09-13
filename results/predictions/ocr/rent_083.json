@@ -1,0 +1,320 @@
+{
+  "doc_id": "rent_083",
+  "document_type": "rental_agreement",
+  "split": "train",
+  "is_ocr": true,
+  "ocr_text": "RESIDENTIAL LEASE APPLICATION\nAGREEMENT\nPROSPECTIVE TENANT  IDENTIFICATION\nTenant Full Name : Phone Number: Email Address National ID SSN: Marital Scacus Religious Belief Current Residence:\nWilliam Rowe +1-376-983-1608*27172 william.rowedhotmail.com 749-84-2166 Widowed Buddhism 73992 Mark Extensions , New Stephanie, PW  81085\nEMPLOYMENT\nFINANCIAL BACKGROUND\nEmployment Scacus Retired Employer Name Manning, Snyder and Martin Monthly Annual Inc: S4,379.00 monch Bank Account Number: ACCT-8218541928\nPREVIOUS TENANCY\nEMERGENCY CONTACT\nRental History: Previous Address: 659 Danielle Freeway, East Peggy Tenancy 2021 2024 Landlord: Jason Jackson Rent : 53174/mo Reason for Leaving Job relocation Full security deposit returned: Yes\nEmergency Contact Jack Brandc (Sibling)\nTel 001-983-958-4461\nSUPPLEMENTAL TENANT DECLARATION\nMedical History: Hypothyroidism (stable on levothyroxine) Migraines with aura\nTENANT ACKNOWLEDGMENT declare chac the information stated in chis rental application is crue and complete grant permission to verify rental history and employment",
+  "text_length": 1063,
+  "predictions": [
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tenant Full Name",
+      "predicted_span": [
+        75,
+        91
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Marital Scacus Religious Belief Current Residence",
+      "predicted_span": [
+        139,
+        188
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "William Rowe +1-376-983-1608",
+      "predicted_span": [
+        190,
+        218
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "UK_NHS",
+      "field_type": "uk_nhs",
+      "predicted_text": "376-983-1608",
+      "predicted_span": [
+        206,
+        218
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "URL",
+      "field_type": "url",
+      "predicted_text": "william.rowedhotmail.com",
+      "predicted_span": [
+        225,
+        249
+      ],
+      "confidence": 0.5
+    },
+    {
+      "entity_type": "CUSTOM_NATIONAL_ID",
+      "field_type": "national_id",
+      "predicted_text": "749-84-2166",
+      "predicted_span": [
+        250,
+        261
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MARITAL_STATUS",
+      "field_type": "marital_status",
+      "predicted_text": "Widowed",
+      "predicted_span": [
+        262,
+        269
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_RELIGION",
+      "field_type": "religion",
+      "predicted_text": "Buddhism",
+      "predicted_span": [
+        270,
+        278
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "73992",
+      "predicted_span": [
+        279,
+        284
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Mark Extensions",
+      "predicted_span": [
+        285,
+        300
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "New Stephanie",
+      "predicted_span": [
+        303,
+        316
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "LOCATION",
+      "field_type": "home_address",
+      "predicted_text": "PW",
+      "predicted_span": [
+        318,
+        320
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_EMPLOYMENT_STATUS",
+      "field_type": "employment_status",
+      "predicted_text": "Retired",
+      "predicted_span": [
+        378,
+        385
+      ],
+      "confidence": 1.0
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Snyder",
+      "predicted_span": [
+        409,
+        415
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "Martin Monthly",
+      "predicted_span": [
+        420,
+        434
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "S4,379.00 monch Bank",
+      "predicted_span": [
+        447,
+        467
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "Account Number: ACCT-8218541928",
+      "predicted_span": [
+        468,
+        499
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "CUSTOM_BANK_ACCOUNT",
+      "field_type": "bank_account_number",
+      "predicted_text": "ACCT-8218541928",
+      "predicted_span": [
+        484,
+        499
+      ],
+      "confidence": 0.95
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "8218541928",
+      "predicted_span": [
+        489,
+        499
+      ],
+      "confidence": 0.75
+    },
+    {
+      "entity_type": "US_BANK_NUMBER",
+      "field_type": "us_bank_number",
+      "predicted_text": "8218541928",
+      "predicted_span": [
+        489,
+        499
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "ORGANIZATION",
+      "field_type": "organization",
+      "predicted_text": "TENANCY",
+      "predicted_span": [
+        509,
+        516
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2021",
+      "predicted_span": [
+        610,
+        614
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "2024",
+      "predicted_span": [
+        615,
+        619
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Landlord",
+      "predicted_span": [
+        620,
+        628
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Jason Jackson",
+      "predicted_span": [
+        630,
+        643
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "DATE_TIME",
+      "field_type": "date_of_birth",
+      "predicted_text": "53174",
+      "predicted_span": [
+        651,
+        656
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Jack Brandc",
+      "predicted_span": [
+        748,
+        759
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PERSON",
+      "field_type": "full_name",
+      "predicted_text": "Tel 001-983-958-4461",
+      "predicted_span": [
+        770,
+        790
+      ],
+      "confidence": 0.85
+    },
+    {
+      "entity_type": "PHONE_NUMBER",
+      "field_type": "phone",
+      "predicted_text": "001-983-958-4461",
+      "predicted_span": [
+        774,
+        790
+      ],
+      "confidence": 0.4
+    },
+    {
+      "entity_type": "CUSTOM_MEDICAL_HISTORY",
+      "field_type": "medical_history",
+      "predicted_text": "Hypothyroidism (stable on levothyroxine) Migraines with aura",
+      "predicted_span": [
+        840,
+        900
+      ],
+      "confidence": 0.9
+    },
+    {
+      "entity_type": "CUSTOM_MEDICATIONS",
+      "field_type": "current_medications",
+      "predicted_text": "levothyroxine) Migraines with aura",
+      "predicted_span": [
+        866,
+        900
+      ],
+      "confidence": 0.9
+    }
+  ]
+}
