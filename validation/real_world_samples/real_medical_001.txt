@@ -1,0 +1,94 @@
+================================================================================
+NEW PATIENT INTAKE FORM
+Practice Name: Example Community Health Clinic
+================================================================================
+
+Please print clearly and complete each section that applies to you. Ask our staff if you need assistance.
+
+--------------------------------------------------------------------------------
+1. PATIENT DETAILS
+--------------------------------------------------------------------------------
+Legal First Name: Avery
+Legal Last Name: Robinson
+Preferred Name: Ave
+Date of Birth: 01/15/1990
+Pronouns (Optional): They/Them
+Patient ID / MRN (Office Use): MRN-00000-X
+Responsible Party, if applicable: Self
+Relationship: Self
+
+--------------------------------------------------------------------------------
+2. CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Street Address: 742 Evergreen Terrace
+City: Springfield
+State: IL
+Zip Code: 62704
+Mobile Phone: 202-555-0123
+Other Phone: 202-555-0124
+Email Address: avery.robinson@example.com
+Preferred Contact: [X] Email   [ ] Call   [ ] Text
+
+--------------------------------------------------------------------------------
+3. EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Contact Name: Cameron Robinson
+Relationship: Sibling
+Phone: 202-555-0191
+
+--------------------------------------------------------------------------------
+4. INSURANCE INFORMATION
+--------------------------------------------------------------------------------
+Primary Insurance / Payer: Sample Health Mutual
+Member ID: SHM-000-12345
+Group Number: GRP-98765
+Subscriber Name: Avery Robinson
+Subscriber Date of Birth: 01/15/1990
+Relationship to Patient: Self
+
+Secondary Insurance / Payer (if any): None
+Secondary Member ID: N/A
+Secondary Group Number: N/A
+
+--------------------------------------------------------------------------------
+5. VISIT INFORMATION
+--------------------------------------------------------------------------------
+What is the main reason for today's visit? Annual routine preventive wellness checkup
+Referring Provider (if applicable): Dr. Jamie Vance
+Preferred Pharmacy: Example Community Pharmacy
+Pharmacy Phone: 202-555-0160
+Pharmacy City / Location: Springfield, IL
+
+--------------------------------------------------------------------------------
+6. HEALTH HISTORY
+--------------------------------------------------------------------------------
+Current or Past Medical Conditions: Mild seasonal allergies, mild hypertension
+Prior Surgeries or Hospitalizations, including approximate dates: Appendectomy (2018)
+Relevant Family Medical History: Type 2 diabetes (maternal)
+
+--------------------------------------------------------------------------------
+7. MEDICATIONS AND ALLERGIES
+--------------------------------------------------------------------------------
+Current Medications, Vitamins, and Supplements:
+- Name: Lisinopril | Dose: 10mg | How Often: Once daily | Reason: Hypertension
+
+Medication or Food Allergies:
+- Penicillin (Reaction: Skin rash)
+
+--------------------------------------------------------------------------------
+8. COMMUNICATION AND ACCESS NEEDS
+--------------------------------------------------------------------------------
+Preferred Spoken Language: English
+Preferred Written Language: English
+Interpreter, Accessibility, Sensory, Mobility, or Other Support Needs: None
+Appointment Messages: [X] Email okay   [X] Text okay   [ ] Voicemail okay
+
+--------------------------------------------------------------------------------
+9. PATIENT OR GUARDIAN CONFIRMATION
+--------------------------------------------------------------------------------
+I confirm that the information I provided on this form is accurate and complete to the best of my knowledge. I understand that I should tell the practice when this information changes.
+
+Patient / Guardian Signature: Avery Robinson
+Date: 2026-09-14
+Printed Name: Avery Robinson
+Relationship, if Guardian: Self

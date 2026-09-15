@@ -1,0 +1,46 @@
+{
+  "total_documents": 4,
+  "documents_by_domain": {
+    "job_application": 1,
+    "loan_application": 1,
+    "medical_intake": 1,
+    "rental_agreement": 1
+  },
+  "total_pii_fields": 51,
+  "pii_field_counts": {
+    "address": 4,
+    "allergies": 1,
+    "bank_account": 1,
+    "current_medications": 1,
+    "date_of_birth": 2,
+    "email": 5,
+    "emergency_contact_name": 6,
+    "emergency_contact_phone": 6,
+    "employer_name": 2,
+    "first_name": 1,
+    "full_name": 5,
+    "insurance_id": 1,
+    "job_title": 2,
+    "last_name": 1,
+    "national_id": 1,
+    "phone": 6,
+    "postal_code": 3,
+    "signature": 3
+  },
+  "document_ids": [
+    "real_job_001",
+    "real_bank_001",
+    "real_medical_001",
+    "real_rent_001"
+  ],
+  "privacy_compliance": {
+    "all_synthetic": true,
+    "zero_real_pii": true,
+    "fictional_domains": [
+      "example.com"
+    ],
+    "fictional_phone_prefixes": [
+      "202-555-"
+    ]
+  }
+}

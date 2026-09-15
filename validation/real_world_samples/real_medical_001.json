@@ -1,0 +1,76 @@
+{
+  "doc_id": "real_medical_001",
+  "domain": "medical_intake",
+  "source_type": "synthetic_completion_of_public_template",
+  "template_source": "Greenlight Med Patient Intake Form Template",
+  "fields": [
+    {
+      "field_type": "first_name",
+      "value": "Avery"
+    },
+    {
+      "field_type": "last_name",
+      "value": "Robinson"
+    },
+    {
+      "field_type": "full_name",
+      "value": "Avery Robinson"
+    },
+    {
+      "field_type": "date_of_birth",
+      "value": "01/15/1990"
+    },
+    {
+      "field_type": "address",
+      "value": "742 Evergreen Terrace"
+    },
+    {
+      "field_type": "postal_code",
+      "value": "62704"
+    },
+    {
+      "field_type": "phone",
+      "value": "202-555-0123"
+    },
+    {
+      "field_type": "phone",
+      "value": "202-555-0124"
+    },
+    {
+      "field_type": "email",
+      "value": "avery.robinson@example.com"
+    },
+    {
+      "field_type": "emergency_contact_name",
+      "value": "Cameron Robinson"
+    },
+    {
+      "field_type": "emergency_contact_phone",
+      "value": "202-555-0191"
+    },
+    {
+      "field_type": "insurance_id",
+      "value": "SHM-000-12345"
+    },
+    {
+      "field_type": "full_name",
+      "value": "Dr. Jamie Vance"
+    },
+    {
+      "field_type": "phone",
+      "value": "202-555-0160"
+    },
+    {
+      "field_type": "current_medications",
+      "value": "Lisinopril"
+    },
+    {
+      "field_type": "allergies",
+      "value": "Penicillin (Reaction: Skin rash)"
+    },
+    {
+      "field_type": "signature",
+      "value": "Avery Robinson"
+    }
+  ]
+}

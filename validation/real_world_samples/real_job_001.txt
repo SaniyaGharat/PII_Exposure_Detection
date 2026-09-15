@@ -1,0 +1,118 @@
+================================================================================
+JOB APPLICATION FORM
+================================================================================
+This is a sample form that you can adapt or develop to meet your needs. Make
+sure you adapt this template to comply with the UK General Data Protection
+Regulation (UK GDPR). If you need help with this go to www.ico.org.uk.
+
+Organisation: Acme Innovations Ltd
+
+APPLICATION FORM
+Application for: Senior Software Engineer
+
+--------------------------------------------------------------------------------
+YOUR DETAILS
+--------------------------------------------------------------------------------
+Name: Jordan Taylor
+Address: 104 Fake Oak Lane, Fiction City
+Postcode: FC1 2AB
+Phone: 202-555-0182
+Email: jordan.taylor@example.com
+
+--------------------------------------------------------------------------------
+EDUCATION AND TRAINING
+--------------------------------------------------------------------------------
+Please give details:
+- B.Sc. in Computer Science, Example University (2015 - 2019)
+- High School Diploma, Sample High School (2011 - 2015)
+
+--------------------------------------------------------------------------------
+QUALIFICATIONS
+--------------------------------------------------------------------------------
+Please give details:
+- AWS Certified Solutions Architect - Associate
+- Professional Python Developer Certification
+
+--------------------------------------------------------------------------------
+EMPLOYMENT HISTORY
+--------------------------------------------------------------------------------
+Your current or most recent employer:
+
+Name of employer: TechCorp Global Ltd
+Address: 500 Enterprise Way, Metropolis
+Postcode: MT4 9XY
+Job title: Software Engineer
+Pay: 75,000 GBP per annum
+Length of time with employer: 3 years
+Reason for leaving: Seeking career advancement and new technical challenges
+Duties:
+- Designed and maintained microservices in Python and TypeScript.
+- Implemented automated CI/CD pipelines and unit testing suites.
+- Collaborated with cross-functional product and security teams.
+
+--------------------------------------------------------------------------------
+PREVIOUS EMPLOYERS
+--------------------------------------------------------------------------------
+Please tell us about other jobs you have done and about the skills you used or
+learned in those jobs:
+- Junior Software Developer at DevWorks Inc. (2019 - 2021)
+  Built responsive web applications, designed database schemas, and resolved customer bug tickets.
+
+--------------------------------------------------------------------------------
+SUPPORTING STATEMENT
+--------------------------------------------------------------------------------
+Please tell us why you applied for this job and why you think you are the best
+person for the job:
+I have over 5 years of software engineering experience specializing in cloud infrastructure,
+secure API design, and distributed systems. I am passionate about building scalable,
+privacy-preserving software architectures and contributing to high-performing teams.
+
+--------------------------------------------------------------------------------
+INTERVIEW ARRANGEMENTS AND AVAILABILITY
+--------------------------------------------------------------------------------
+If you have a disability, please tell us if there are any reasonable adjustments
+we can make to help you in your application or with our recruitment process:
+None required
+
+Are there any dates when you will not be available for interview?
+None
+
+When can you start working for us?
+2 weeks notice
+
+--------------------------------------------------------------------------------
+RIGHT TO WORK IN THE UK
+--------------------------------------------------------------------------------
+Do you need a work permit to work in the UK? No
+
+--------------------------------------------------------------------------------
+REFERENCES
+--------------------------------------------------------------------------------
+Please give the names and contact details of 2 people who we can ask to give
+you a reference. We may ask them before an employment offer is made. We will
+not ask your current employer until we get your permission.
+
+Referee 1:
+Name: Dr. Morgan Reed
+Job Title: Engineering Director
+Organisation: DevWorks Inc.
+Email: morgan.reed@example.com
+Phone: 202-555-0199
+
+Referee 2:
+Name: Casey Bennett
+Job Title: Principal Architect
+Organisation: TechCorp Global Ltd
+Email: casey.bennett@example.com
+Phone: 202-555-0144
+
+--------------------------------------------------------------------------------
+DECLARATION
+--------------------------------------------------------------------------------
+I confirm that to the best of my knowledge the information I have provided on
+this form is correct and I accept that providing deliberately false information
+could result in my dismissal.
+
+Name: Jordan Taylor
+Signature: Jordan Taylor
+Date: 2026-09-14

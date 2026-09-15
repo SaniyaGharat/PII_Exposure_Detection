@@ -403,3 +403,27 @@ python main.py --run-all
 | `src/blockchain/run_phase4.py` | End-to-end integration script benchmarking real Phase 3 necessity reports. |
 | `results/blockchain_audit_summary.json` | Machine-readable audit summary recording on-chain transaction hashes, block numbers, gas metrics, and verification parity results. |
 
+---
+
+## 🔍 Real-World Generalization Sanity Check
+
+To ensure that the PII detection pipeline (Microsoft Presidio + `custom_recognizers.py`) does not overfit to the synthetic document generator and template formatting conventions, the framework provides an independent **Real-World Sanity-Check Validation Suite**.
+
+### 🎯 Motivation & Design
+- **Out-of-Distribution Validation**: Evaluates the unmodified detection engine against synthetic completions of authentic, publicly available blank industry templates (UK ICO/Acas Job Applications, UCO Bank Credit Lead Generation, and Greenlight Med Patient Intake).
+- **Strict Privacy Compliance**: All evaluation samples strictly utilize synthetic values (`example.com` emails, `202-555-XXXX` phone numbers, placeholder IDs) with zero real personal data.
+- **Unmodified Detection Baseline**: Custom recognizers and spaCy NER are tested strictly as-is to honestly expose generalization gaps (e.g. multi-line address parsing, table headers) without retroactive tuning.
+
+### 💻 Running the Real-World Check
+```powershell
+python validation/run_real_world_check.py
+```
+
+### 📁 Real-World Validation Artifacts
+| File / Directory | Description |
+| :--- | :--- |
+| `validation/real_world_samples/` | Directory containing authentic template text completions (`.txt`) and hand-labeled ground-truth JSON files (`.json`). |
+| `validation/run_real_world_check.py` | Standalone verification script evaluating recall, false positives, and comparison against synthetic clean F1 metrics. |
+| `validation/real_world_samples/real_world_validation_results.json` | Machine-readable results recording per-document matches, missed entities, and unexpected detections. |
+
+

@@ -1,0 +1,28 @@
+{
+  "doc_id": "real_bank_001",
+  "domain": "loan_application",
+  "source_type": "synthetic_completion_of_public_template",
+  "template_source": "UCO Bank Retail Loan Lead Generation Form",
+  "fields": [
+    {
+      "field_type": "full_name",
+      "value": "Samantha Patel"
+    },
+    {
+      "field_type": "address",
+      "value": "Flat 402 Sunshine Residency, Sample Garden Road, Example Nagar"
+    },
+    {
+      "field_type": "postal_code",
+      "value": "400001"
+    },
+    {
+      "field_type": "phone",
+      "value": "202-555-0177"
+    },
+    {
+      "field_type": "email",
+      "value": "samantha.patel@example.com"
+    }
+  ]
+}

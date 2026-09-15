@@ -1,0 +1,72 @@
+{
+  "doc_id": "real_rent_001",
+  "domain": "rental_agreement",
+  "source_type": "synthetic_completion_of_public_template",
+  "template_source": "Standard US Residential Lease Application (NARPM / Property Management Format)",
+  "fields": [
+    {
+      "field_type": "full_name",
+      "value": "Marcus Vance"
+    },
+    {
+      "field_type": "date_of_birth",
+      "value": "05/22/1988"
+    },
+    {
+      "field_type": "national_id",
+      "value": "000-00-0000"
+    },
+    {
+      "field_type": "phone",
+      "value": "202-555-0168"
+    },
+    {
+      "field_type": "email",
+      "value": "marcus.vance@example.com"
+    },
+    {
+      "field_type": "address",
+      "value": "812 Pine Grove Boulevard, Riverdale, IL 60627"
+    },
+    {
+      "field_type": "emergency_contact_name",
+      "value": "Evelyn Wright"
+    },
+    {
+      "field_type": "emergency_contact_phone",
+      "value": "202-555-0135"
+    },
+    {
+      "field_type": "employer_name",
+      "value": "Summit Logistics Solutions Inc."
+    },
+    {
+      "field_type": "job_title",
+      "value": "Operations Coordinator"
+    },
+    {
+      "field_type": "emergency_contact_name",
+      "value": "Dr. Robert Sterling"
+    },
+    {
+      "field_type": "emergency_contact_phone",
+      "value": "202-555-0152"
+    },
+    {
+      "field_type": "emergency_contact_name",
+      "value": "Brenda Vance"
+    },
+    {
+      "field_type": "emergency_contact_phone",
+      "value": "202-555-0193"
+    },
+    {
+      "field_type": "bank_account",
+      "value": "0000-1111-2222"
+    },
+    {
+      "field_type": "signature",
+      "value": "Marcus Vance"
+    }
+  ]
+}

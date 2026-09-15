@@ -7,10 +7,10 @@
     "chainId": 1337,
     "rpc_url": "http://127.0.0.1:8545"
   },
-  "deployment_tx_hash": "0xa434b586ee4a1d9a6574dad70c45221914873bbe069e441d952d7318c050a188",
+  "deployment_tx_hash": "0xc3226888b6cd6cad692e1567040956aecbdd3100d5a072a42b29daf6af61e09d",
   "deployment_block": 8,
   "deployment_gas_used": "749828",
-  "deployment_timestamp": 1789283693,
+  "deployment_timestamp": 1789463417,
   "abi": [
     {
       "inputs": [

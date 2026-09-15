@@ -1,0 +1,60 @@
+{
+  "doc_id": "real_job_001",
+  "domain": "job_application",
+  "source_type": "synthetic_completion_of_public_template",
+  "template_source": "UK ICO / Acas Job Application Form Template",
+  "fields": [
+    {
+      "field_type": "full_name",
+      "value": "Jordan Taylor"
+    },
+    {
+      "field_type": "address",
+      "value": "104 Fake Oak Lane, Fiction City"
+    },
+    {
+      "field_type": "postal_code",
+      "value": "FC1 2AB"
+    },
+    {
+      "field_type": "phone",
+      "value": "202-555-0182"
+    },
+    {
+      "field_type": "email",
+      "value": "jordan.taylor@example.com"
+    },
+    {
+      "field_type": "job_title",
+      "value": "Senior Software Engineer"
+    },
+    {
+      "field_type": "employer_name",
+      "value": "TechCorp Global Ltd"
+    },
+    {
+      "field_type": "emergency_contact_name",
+      "value": "Dr. Morgan Reed"
+    },
+    {
+      "field_type": "emergency_contact_phone",
+      "value": "202-555-0199"
+    },
+    {
+      "field_type": "emergency_contact_name",
+      "value": "Casey Bennett"
+    },
+    {
+      "field_type": "emergency_contact_phone",
+      "value": "202-555-0144"
+    },
+    {
+      "field_type": "email",
+      "value": "casey.bennett@example.com"
+    },
+    {
+      "field_type": "signature",
+      "value": "Jordan Taylor"
+    }
+  ]
+}

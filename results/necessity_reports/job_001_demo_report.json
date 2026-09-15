@@ -1,0 +1,273 @@
+{
+  "document_id": "job_001",
+  "document_type": "job_application",
+  "purpose": "job_application_review_and_processing",
+  "total_fields": 29,
+  "total_fields_evaluated": 29,
+  "total_unnecessary_flagged": 6,
+  "flagged_for_minimization": 6,
+  "flagged_ratio": 0.20689655172413793,
+  "fields": [
+    {
+      "field_type": "organization",
+      "value": "STANDARD EMPLOYMENT APPLICATION",
+      "N": 0.759,
+      "R": 0.5,
+      "M": 0.759,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 51.8%)."
+    },
+    {
+      "field_type": "full_name",
+      "value": "Margaret Johnson",
+      "N": 1.0,
+      "R": 1.0,
+      "M": 1.0,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
+    },
+    {
+      "field_type": "date_of_birth",
+      "value": "August 12, 1973",
+      "N": 0.001,
+      "R": 0.0,
+      "M": 0.001,
+      "status": "FLAGGED (unnecessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 99.7%)."
+    },
+    {
+      "field_type": "gender",
+      "value": "Female",
+      "N": 0.484,
+      "R": 0.5,
+      "M": 0.484,
+      "status": "REVIEW (contextual)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 3.1%)."
+    },
+    {
+      "field_type": "marital_status",
+      "value": "Single",
+      "N": 0.098,
+      "R": 0.0,
+      "M": 0.098,
+      "status": "FLAGGED (unnecessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 80.4%)."
+    },
+    {
+      "field_type": "religion",
+      "value": "Christianity",
+      "N": 0.017,
+      "R": 0.0,
+      "M": 0.017,
+      "status": "FLAGGED (unnecessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 96.6%)."
+    },
+    {
+      "field_type": "organization",
+      "value": "Christianity\nNational ID / SSN",
+      "N": 0.195,
+      "R": 0.5,
+      "M": 0.195,
+      "status": "FLAGGED (unnecessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 61.0%)."
+    },
+    {
+      "field_type": "national_id",
+      "value": "195-37-4811",
+      "N": 0.031,
+      "R": 0.0,
+      "M": 0.031,
+      "status": "FLAGGED (unnecessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 93.7%)."
+    },
+    {
+      "field_type": "email",
+      "value": "margaret.johnson@hotmail.com",
+      "N": 1.0,
+      "R": 1.0,
+      "M": 1.0,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
+    },
+    {
+      "field_type": "url",
+      "value": "margaret.jo",
+      "N": 0.202,
+      "R": 0.5,
+      "M": 0.202,
+      "status": "FLAGGED (unnecessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 59.6%)."
+    },
+    {
+      "field_type": "url",
+      "value": "hotmail.com",
+      "N": 0.992,
+      "R": 0.5,
+      "M": 0.992,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 98.3%)."
+    },
+    {
+      "field_type": "phone",
+      "value": "001-260-501-3389",
+      "N": 0.992,
+      "R": 1.0,
+      "M": 0.992,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 98.3%)."
+    },
+    {
+      "field_type": "home_address",
+      "value": "79402 Peterson Drives Apt. 511, Davisstad, PA 35172",
+      "N": 0.55,
+      "R": 0.5,
+      "M": 0.55,
+      "status": "REVIEW (contextual)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 9.9%)."
+    },
+    {
+      "field_type": "home_address",
+      "value": "Davisstad",
+      "N": 0.753,
+      "R": 0.5,
+      "M": 0.753,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 50.6%)."
+    },
+    {
+      "field_type": "job_title",
+      "value": "Position Applied For: Senior Software Engineer\nWork Modality",
+      "N": 0.95,
+      "R": 1.0,
+      "M": 0.95,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 90.0%)."
+    },
+    {
+      "field_type": "education",
+      "value": "M.S. in Data Analytics - University of Illinois Urbana",
+      "N": 0.525,
+      "R": 1.0,
+      "M": 0.525,
+      "status": "REVIEW (contextual)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 5.0%)."
+    },
+    {
+      "field_type": "home_address",
+      "value": "M.S.",
+      "N": 0.462,
+      "R": 0.5,
+      "M": 0.462,
+      "status": "REVIEW (contextual)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 7.5%)."
+    },
+    {
+      "field_type": "organization",
+      "value": "Data Analytics - University",
+      "N": 0.462,
+      "R": 0.5,
+      "M": 0.462,
+      "status": "REVIEW (contextual)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 7.5%)."
+    },
+    {
+      "field_type": "date_of_birth",
+      "value": "2013",
+      "N": 0.426,
+      "R": 0.0,
+      "M": 0.426,
+      "status": "REVIEW (contextual)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 14.9%)."
+    },
+    {
+      "field_type": "organization",
+      "value": "PROFESSIONAL EXPERIENCE &",
+      "N": 0.405,
+      "R": 0.5,
+      "M": 0.405,
+      "status": "REVIEW (contextual)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 19.1%)."
+    },
+    {
+      "field_type": "job_title",
+      "value": "Senior Software Engineer",
+      "N": 0.396,
+      "R": 1.0,
+      "M": 0.396,
+      "status": "REVIEW (contextual)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 20.8%)."
+    },
+    {
+      "field_type": "organization",
+      "value": "Sanchez-Taylor",
+      "N": 0.38,
+      "R": 0.5,
+      "M": 0.38,
+      "status": "REVIEW (contextual)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 24.1%)."
+    },
+    {
+      "field_type": "organization",
+      "value": "Specialist at Rhodes PLC",
+      "N": 0.73,
+      "R": 0.5,
+      "M": 0.73,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 46.1%)."
+    },
+    {
+      "field_type": "date_of_birth",
+      "value": "2017 - 2020",
+      "N": 0.735,
+      "R": 0.0,
+      "M": 0.735,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 47.0%)."
+    },
+    {
+      "field_type": "organization",
+      "value": "SKILLS & CORE COMPETENCIES",
+      "N": 0.73,
+      "R": 0.5,
+      "M": 0.73,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 45.9%)."
+    },
+    {
+      "field_type": "organization",
+      "value": "Technical & Professional Skills",
+      "N": 0.73,
+      "R": 0.5,
+      "M": 0.73,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 45.9%)."
+    },
+    {
+      "field_type": "skills",
+      "value": "Network Security, Penetration Testing, SIEM, Incident Response, ISO 27001",
+      "N": 1.0,
+      "R": 1.0,
+      "M": 1.0,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
+    },
+    {
+      "field_type": "organization",
+      "value": "Incident Response",
+      "N": 0.73,
+      "R": 0.5,
+      "M": 0.73,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 45.9%)."
+    },
+    {
+      "field_type": "date_of_birth",
+      "value": "27001",
+      "N": 0.734,
+      "R": 0.0,
+      "M": 0.734,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 46.8%)."
+    }
+  ]
+}

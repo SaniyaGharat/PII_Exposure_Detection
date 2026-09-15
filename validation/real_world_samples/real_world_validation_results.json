@@ -1,0 +1,1167 @@
+{
+  "baseline_unfiltered": {
+    "is_filtered": false,
+    "suppressed_detections": 0,
+    "total_gt": 51,
+    "total_detections": 150,
+    "total_tp": 42,
+    "total_fp": 108,
+    "total_fn": 9,
+    "micro_precision": 0.28,
+    "micro_recall": 0.8235,
+    "micro_f1": 0.4179,
+    "docs": [
+      {
+        "doc_id": "real_bank_001",
+        "domain": "loan_application",
+        "ground_truth_count": 5,
+        "detections": 18,
+        "tp": 3,
+        "fp": 15,
+        "fn": 2,
+        "precision": 0.1667,
+        "recall": 0.6,
+        "f1": 0.2609,
+        "details": [
+          {
+            "field_type": "full_name",
+            "ground_truth_value": "Samantha Patel",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Samantha Patel Address",
+            "predicted_type": "full_name",
+            "confidence": 0.85
+          },
+          {
+            "field_type": "address",
+            "ground_truth_value": "Flat 402 Sunshine Residency, Sample Garden Road, Example Nagar",
+            "status": "FN_MISSED",
+            "matched_prediction": null,
+            "predicted_type": null,
+            "confidence": 0.0
+          },
+          {
+            "field_type": "postal_code",
+            "ground_truth_value": "400001",
+            "status": "FN_MISSED",
+            "matched_prediction": null,
+            "predicted_type": null,
+            "confidence": 0.0
+          },
+          {
+            "field_type": "phone",
+            "ground_truth_value": "202-555-0177",
+            "status": "TP_MATCHED",
+            "matched_prediction": "202-555-0177",
+            "predicted_type": "phone",
+            "confidence": 0.75
+          },
+          {
+            "field_type": "email",
+            "ground_truth_value": "samantha.patel@example.com",
+            "status": "TP_MATCHED",
+            "matched_prediction": "samantha.patel@example.com",
+            "predicted_type": "email",
+            "confidence": 1.0
+          }
+        ],
+        "false_positives": [
+          "UCO BANK",
+          "India Undertaking",
+          "UCO Bank",
+          "CUSTOMER DETAILS & CONTACT",
+          "400001",
+          "Maharashtra District",
+          "Mumbai",
+          "Fort Corporate Branch",
+          "samantha.pa",
+          "example.com",
+          "INR",
+          "20-year",
+          "CONSENT & AUTHORIZATION --------------------------------------------------------------------------------",
+          "UCO Bank &",
+          "DNC/NDNC"
+        ]
+      },
+      {
+        "doc_id": "real_job_001",
+        "domain": "job_application",
+        "ground_truth_count": 13,
+        "detections": 46,
+        "tp": 12,
+        "fp": 34,
+        "fn": 1,
+        "precision": 0.2609,
+        "recall": 0.9231,
+        "f1": 0.4068,
+        "details": [
+          {
+            "field_type": "full_name",
+            "ground_truth_value": "Jordan Taylor",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Jordan Taylor Address",
+            "predicted_type": "full_name",
+            "confidence": 0.85
+          },
+          {
+            "field_type": "address",
+            "ground_truth_value": "104 Fake Oak Lane, Fiction City",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Fiction City ",
+            "predicted_type": "home_address",
+            "confidence": 0.85
+          },
+          {
+            "field_type": "postal_code",
+            "ground_truth_value": "FC1 2AB",
+            "status": "FN_MISSED",
+            "matched_prediction": null,
+            "predicted_type": null,
+            "confidence": 0.0
+          },
+          {
+            "field_type": "phone",
+            "ground_truth_value": "202-555-0182",
+            "status": "TP_MATCHED",
+            "matched_prediction": "202-555-0182",
+            "predicted_type": "phone",
+            "confidence": 0.75
+          },
+          {
+            "field_type": "email",
+            "ground_truth_value": "jordan.taylor@example.com",
+            "status": "TP_MATCHED",
+            "matched_prediction": "jordan.taylor@example.com",
+            "predicted_type": "email",
+            "confidence": 1.0
+          },
+          {
+            "field_type": "job_title",
+            "ground_truth_value": "Senior Software Engineer",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Senior Software Engineer",
+            "predicted_type": "job_title",
+            "confidence": 0.9
+          },
+          {
+            "field_type": "employer_name",
+            "ground_truth_value": "TechCorp Global Ltd",
+            "status": "TP_MATCHED",
+            "matched_prediction": "TechCorp Global Ltd Address",
+            "predicted_type": "organization",
+            "confidence": 0.85
+          },
+          {
+            "field_type": "emergency_contact_name",
+            "ground_truth_value": "Dr. Morgan Reed",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Morgan Reed",
+            "predicted_type": "full_name",
+            "confidence": 0.85
+          },
+          {
+            "field_type": "emergency_contact_phone",
+            "ground_truth_value": "202-555-0199",
+            "status": "TP_MATCHED",
+            "matched_prediction": "202-555-0199",
+            "predicted_type": "phone",
+            "confidence": 0.75
+          },
+          {
+            "field_type": "emergency_contact_name",
+            "ground_truth_value": "Casey Bennett",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Casey Bennett",
+            "predicted_type": "full_name",
+            "confidence": 0.85
+          },
+          {
+            "field_type": "emergency_contact_phone",
+            "ground_truth_value": "202-555-0144",
+            "status": "TP_MATCHED",
+            "matched_prediction": "202-555-0144",
+            "predicted_type": "phone",
+            "confidence": 0.75
+          },
+          {
+            "field_type": "email",
+            "ground_truth_value": "casey.bennett@example.com",
+            "status": "TP_MATCHED",
+            "matched_prediction": "casey.bennett@example.com",
+            "predicted_type": "email",
+            "confidence": 1.0
+          },
+          {
+            "field_type": "signature",
+            "ground_truth_value": "Jordan Taylor",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Jordan Taylor",
+            "predicted_type": "full_name",
+            "confidence": 0.85
+          }
+        ],
+        "false_positives": [
+          "UK",
+          "General Data Protection Regulation",
+          "UK",
+          "www.ico.org.uk",
+          "Fake Oak Lane",
+          "example.com",
+          "B.Sc",
+          "Computer Science, Example University",
+          "2015 - 2019",
+          "Sample High School",
+          "2011 - 2015",
+          "Python Developer Certification",
+          "Metropolis Postcode: MT4",
+          "3 years",
+          "Python and TypeScript.",
+          "Python",
+          "TypeScript",
+          "CI",
+          "DevWorks Inc.",
+          "2019 - 2021",
+          "5 years",
+          "API",
+          "AVAILABILITY",
+          "2 weeks",
+          "UK",
+          "UK",
+          "DevWorks Inc.",
+          "morgan.reed@example.com",
+          "morgan.re",
+          "example.com",
+          "casey.be",
+          "example.com",
+          "Jordan Taylor",
+          "2026-09-14"
+        ]
+      },
+      {
+        "doc_id": "real_medical_001",
+        "domain": "medical_intake",
+        "ground_truth_count": 17,
+        "detections": 42,
+        "tp": 13,
+        "fp": 29,
+        "fn": 4,
+        "precision": 0.3095,
+        "recall": 0.7647,
+        "f1": 0.4407,
+        "details": [
+          {
+            "field_type": "first_name",
+            "ground_truth_value": "Avery",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Avery Robinson Subscriber Date of Birth",
+            "predicted_type": "full_name",
+            "confidence": 0.85
+          },
+          {
+            "field_type": "last_name",
+            "ground_truth_value": "Robinson",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Cameron Robinson ",
+            "predicted_type": "full_name",
+            "confidence": 0.85
+          },
+          {
+            "field_type": "full_name",
+            "ground_truth_value": "Avery Robinson",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Avery Robinson Date",
+            "predicted_type": "full_name",
+            "confidence": 0.85
+          },
+          {
+            "field_type": "date_of_birth",
+            "ground_truth_value": "01/15/1990",
+            "status": "TP_MATCHED",
+            "matched_prediction": "01/15/1990",
+            "predicted_type": "date_of_birth",
+            "confidence": 0.95
+          },
+          {
+            "field_type": "address",
+            "ground_truth_value": "742 Evergreen Terrace",
+            "status": "FN_MISSED",
+            "matched_prediction": null,
+            "predicted_type": null,
+            "confidence": 0.0
+          },
+          {
+            "field_type": "postal_code",
+            "ground_truth_value": "62704",
+            "status": "FN_MISSED",
+            "matched_prediction": null,
+            "predicted_type": null,
+            "confidence": 0.0
+          },
+          {
+            "field_type": "phone",
+            "ground_truth_value": "202-555-0123",
+            "status": "TP_MATCHED",
+            "matched_prediction": "202-555-0123",
+            "predicted_type": "phone",
+            "confidence": 0.75
+          },
+          {
+            "field_type": "phone",
+            "ground_truth_value": "202-555-0124",
+            "status": "TP_MATCHED",
+            "matched_prediction": "202-555-0124",
+            "predicted_type": "phone",
+            "confidence": 0.75
+          },
+          {
+            "field_type": "email",
+            "ground_truth_value": "avery.robinson@example.com",
+            "status": "TP_MATCHED",
+            "matched_prediction": "avery.robinson@example.com",
+            "predicted_type": "email",
+            "confidence": 1.0
+          },
+          {
+            "field_type": "emergency_contact_name",
+            "ground_truth_value": "Cameron Robinson",
+            "status": "FN_MISSED",
+            "matched_prediction": null,
+            "predicted_type": null,
+            "confidence": 0.0
+          },
+          {
+            "field_type": "emergency_contact_phone",
+            "ground_truth_value": "202-555-0191",
+            "status": "TP_MATCHED",
+            "matched_prediction": "202-555-0191",
+            "predicted_type": "phone",
+            "confidence": 0.75
+          },
+          {
+            "field_type": "insurance_id",
+            "ground_truth_value": "SHM-000-12345",
+            "status": "FN_MISSED",
+            "matched_prediction": null,
+            "predicted_type": null,
+            "confidence": 0.0
+          },
+          {
+            "field_type": "full_name",
+            "ground_truth_value": "Dr. Jamie Vance",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Jamie Vance",
+            "predicted_type": "full_name",
+            "confidence": 0.85
+          },
+          {
+            "field_type": "phone",
+            "ground_truth_value": "202-555-0160",
+            "status": "TP_MATCHED",
+            "matched_prediction": "202-555-0160",
+            "predicted_type": "phone",
+            "confidence": 0.75
+          },
+          {
+            "field_type": "current_medications",
+            "ground_truth_value": "Lisinopril",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Lisinopril | Dose: 10mg | How Often: Once daily | Reason: Hypertension",
+            "predicted_type": "current_medications",
+            "confidence": 0.9
+          },
+          {
+            "field_type": "allergies",
+            "ground_truth_value": "Penicillin (Reaction: Skin rash)",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Penicillin (Reaction: Skin rash)",
+            "predicted_type": "allergies",
+            "confidence": 1.0
+          },
+          {
+            "field_type": "signature",
+            "ground_truth_value": "Avery Robinson",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Avery Robinson Relationship",
+            "predicted_type": "full_name",
+            "confidence": 0.85
+          }
+        ],
+        "false_positives": [
+          "NEW PATIENT",
+          "Example Community Health Clinic",
+          "Evergreen",
+          "Springfield",
+          "62704",
+          "Mobile Phone",
+          "avery.ro",
+          "example.com",
+          "INSURANCE INFORMATION",
+          "SHM-000",
+          "12345",
+          "01/15/1990",
+          "today",
+          "Annual",
+          "Pharmacy City / Location",
+          "Springfield",
+          "seasonal",
+          "Appendectomy (2018)",
+          "2018",
+          "MEDICATIONS",
+          "Vitamins",
+          "Lisinopril",
+          "Hypertension  Medication or Food Allergies",
+          "Reaction: Skin rash)",
+          "Mobility",
+          "Voicemail",
+          "PATIENT",
+          "2026-09-14",
+          "Guardian"
+        ]
+      },
+      {
+        "doc_id": "real_rent_001",
+        "domain": "rental_agreement",
+        "ground_truth_count": 16,
+        "detections": 44,
+        "tp": 14,
+        "fp": 30,
+        "fn": 2,
+        "precision": 0.3182,
+        "recall": 0.875,
+        "f1": 0.4667,
+        "details": [
+          {
+            "field_type": "full_name",
+            "ground_truth_value": "Marcus Vance",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Marcus Vance Date of Birth",
+            "predicted_type": "full_name",
+            "confidence": 0.85
+          },
+          {
+            "field_type": "date_of_birth",
+            "ground_truth_value": "05/22/1988",
+            "status": "TP_MATCHED",
+            "matched_prediction": "05/22/1988",
+            "predicted_type": "date_of_birth",
+            "confidence": 0.95
+          },
+          {
+            "field_type": "national_id",
+            "ground_truth_value": "000-00-0000",
+            "status": "TP_MATCHED",
+            "matched_prediction": "000-00-0000",
+            "predicted_type": "national_id",
+            "confidence": 1.0
+          },
+          {
+            "field_type": "phone",
+            "ground_truth_value": "202-555-0168",
+            "status": "TP_MATCHED",
+            "matched_prediction": "202-555-0168",
+            "predicted_type": "phone",
+            "confidence": 0.75
+          },
+          {
+            "field_type": "email",
+            "ground_truth_value": "marcus.vance@example.com",
+            "status": "TP_MATCHED",
+            "matched_prediction": "marcus.vance@example.com",
+            "predicted_type": "email",
+            "confidence": 1.0
+          },
+          {
+            "field_type": "address",
+            "ground_truth_value": "812 Pine Grove Boulevard, Riverdale, IL 60627",
+            "status": "TP_MATCHED",
+            "matched_prediction": "812 Pine Grove Boulevard, Riverdale, IL 60627",
+            "predicted_type": "current_address",
+            "confidence": 1.0
+          },
+          {
+            "field_type": "emergency_contact_name",
+            "ground_truth_value": "Evelyn Wright",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Evelyn Wright",
+            "predicted_type": "full_name",
+            "confidence": 0.85
+          },
+          {
+            "field_type": "emergency_contact_phone",
+            "ground_truth_value": "202-555-0135",
+            "status": "TP_MATCHED",
+            "matched_prediction": "202-555-0135",
+            "predicted_type": "phone",
+            "confidence": 0.75
+          },
+          {
+            "field_type": "employer_name",
+            "ground_truth_value": "Summit Logistics Solutions Inc.",
+            "status": "FN_MISSED",
+            "matched_prediction": null,
+            "predicted_type": null,
+            "confidence": 0.0
+          },
+          {
+            "field_type": "job_title",
+            "ground_truth_value": "Operations Coordinator",
+            "status": "FN_MISSED",
+            "matched_prediction": null,
+            "predicted_type": null,
+            "confidence": 0.0
+          },
+          {
+            "field_type": "emergency_contact_name",
+            "ground_truth_value": "Dr. Robert Sterling",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Robert Sterling",
+            "predicted_type": "full_name",
+            "confidence": 0.85
+          },
+          {
+            "field_type": "emergency_contact_phone",
+            "ground_truth_value": "202-555-0152",
+            "status": "TP_MATCHED",
+            "matched_prediction": "202-555-0152",
+            "predicted_type": "phone",
+            "confidence": 0.75
+          },
+          {
+            "field_type": "emergency_contact_name",
+            "ground_truth_value": "Brenda Vance",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Brenda Vance Relationship",
+            "predicted_type": "full_name",
+            "confidence": 0.85
+          },
+          {
+            "field_type": "emergency_contact_phone",
+            "ground_truth_value": "202-555-0193",
+            "status": "TP_MATCHED",
+            "matched_prediction": "202-555-0193",
+            "predicted_type": "phone",
+            "confidence": 0.75
+          },
+          {
+            "field_type": "bank_account",
+            "ground_truth_value": "0000-1111-2222",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Account Number: 0000-1111-2222",
+            "predicted_type": "bank_account_number",
+            "confidence": 0.85
+          },
+          {
+            "field_type": "signature",
+            "ground_truth_value": "Marcus Vance",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Marcus Vance Applicant Signature",
+            "predicted_type": "full_name",
+            "confidence": 0.85
+          }
+        ],
+        "false_positives": [
+          "Oakridge Property Management Group",
+          "450 Maple Avenue, Apt 3B, Oakwood, IL 60153",
+          "Apt 3B",
+          "Oakwood",
+          "Anticipated Move-In",
+          "2026-10-01",
+          "$1,450 / month",
+          "marcus.va",
+          "example.com",
+          "Landlord",
+          "2 years",
+          "OCCUPATION & FINANCIAL",
+          "1200 Industrial Parkway, Chicago, IL 60607",
+          "Chicago",
+          "IL 60607 Position Applied / Current Role: Operations Coordinator Department",
+          "Monthly",
+          "Income: $5,200",
+          "4 years  ",
+          "812 Pine Grove Boulevard, Riverdale, IL 60627",
+          "BANKING & CREDIT",
+          "First Horizon Community Bank",
+          "0000-1111-2222",
+          "Account Classification",
+          "FAIR HOUSING & CREDIT",
+          "Oakridge Property Management Group",
+          "LLC",
+          "FCRA",
+          "Applicant Printed Name",
+          "Marcus Vance ",
+          "2026-09-14"
+        ]
+      }
+    ]
+  },
+  "filtered_prefilter": {
+    "is_filtered": true,
+    "suppressed_detections": 36,
+    "total_gt": 51,
+    "total_detections": 114,
+    "total_tp": 42,
+    "total_fp": 72,
+    "total_fn": 9,
+    "micro_precision": 0.3684,
+    "micro_recall": 0.8235,
+    "micro_f1": 0.5091,
+    "docs": [
+      {
+        "doc_id": "real_bank_001",
+        "domain": "loan_application",
+        "ground_truth_count": 5,
+        "detections": 11,
+        "tp": 3,
+        "fp": 8,
+        "fn": 2,
+        "precision": 0.2727,
+        "recall": 0.6,
+        "f1": 0.375,
+        "details": [
+          {
+            "field_type": "full_name",
+            "ground_truth_value": "Samantha Patel",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Samantha Patel Address",
+            "predicted_type": "full_name",
+            "confidence": 0.85
+          },
+          {
+            "field_type": "address",
+            "ground_truth_value": "Flat 402 Sunshine Residency, Sample Garden Road, Example Nagar",
+            "status": "FN_MISSED",
+            "matched_prediction": null,
+            "predicted_type": null,
+            "confidence": 0.0
+          },
+          {
+            "field_type": "postal_code",
+            "ground_truth_value": "400001",
+            "status": "FN_MISSED",
+            "matched_prediction": null,
+            "predicted_type": null,
+            "confidence": 0.0
+          },
+          {
+            "field_type": "phone",
+            "ground_truth_value": "202-555-0177",
+            "status": "TP_MATCHED",
+            "matched_prediction": "202-555-0177",
+            "predicted_type": "phone",
+            "confidence": 0.75
+          },
+          {
+            "field_type": "email",
+            "ground_truth_value": "samantha.patel@example.com",
+            "status": "TP_MATCHED",
+            "matched_prediction": "samantha.patel@example.com",
+            "predicted_type": "email",
+            "confidence": 1.0
+          }
+        ],
+        "false_positives": [
+          "400001",
+          "Mumbai",
+          "Fort Corporate Branch",
+          "samantha.pa",
+          "example.com",
+          "INR",
+          "20-year",
+          "CONSENT & AUTHORIZATION --------------------------------------------------------------------------------"
+        ]
+      },
+      {
+        "doc_id": "real_job_001",
+        "domain": "job_application",
+        "ground_truth_count": 13,
+        "detections": 32,
+        "tp": 12,
+        "fp": 20,
+        "fn": 1,
+        "precision": 0.375,
+        "recall": 0.9231,
+        "f1": 0.5333,
+        "details": [
+          {
+            "field_type": "full_name",
+            "ground_truth_value": "Jordan Taylor",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Jordan Taylor Address",
+            "predicted_type": "full_name",
+            "confidence": 0.85
+          },
+          {
+            "field_type": "address",
+            "ground_truth_value": "104 Fake Oak Lane, Fiction City",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Fiction City ",
+            "predicted_type": "home_address",
+            "confidence": 0.85
+          },
+          {
+            "field_type": "postal_code",
+            "ground_truth_value": "FC1 2AB",
+            "status": "FN_MISSED",
+            "matched_prediction": null,
+            "predicted_type": null,
+            "confidence": 0.0
+          },
+          {
+            "field_type": "phone",
+            "ground_truth_value": "202-555-0182",
+            "status": "TP_MATCHED",
+            "matched_prediction": "202-555-0182",
+            "predicted_type": "phone",
+            "confidence": 0.75
+          },
+          {
+            "field_type": "email",
+            "ground_truth_value": "jordan.taylor@example.com",
+            "status": "TP_MATCHED",
+            "matched_prediction": "jordan.taylor@example.com",
+            "predicted_type": "email",
+            "confidence": 1.0
+          },
+          {
+            "field_type": "job_title",
+            "ground_truth_value": "Senior Software Engineer",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Senior Software Engineer",
+            "predicted_type": "job_title",
+            "confidence": 0.9
+          },
+          {
+            "field_type": "employer_name",
+            "ground_truth_value": "TechCorp Global Ltd",
+            "status": "TP_MATCHED",
+            "matched_prediction": "TechCorp Global Ltd Address",
+            "predicted_type": "organization",
+            "confidence": 0.85
+          },
+          {
+            "field_type": "emergency_contact_name",
+            "ground_truth_value": "Dr. Morgan Reed",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Morgan Reed",
+            "predicted_type": "full_name",
+            "confidence": 0.85
+          },
+          {
+            "field_type": "emergency_contact_phone",
+            "ground_truth_value": "202-555-0199",
+            "status": "TP_MATCHED",
+            "matched_prediction": "202-555-0199",
+            "predicted_type": "phone",
+            "confidence": 0.75
+          },
+          {
+            "field_type": "emergency_contact_name",
+            "ground_truth_value": "Casey Bennett",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Casey Bennett",
+            "predicted_type": "full_name",
+            "confidence": 0.85
+          },
+          {
+            "field_type": "emergency_contact_phone",
+            "ground_truth_value": "202-555-0144",
+            "status": "TP_MATCHED",
+            "matched_prediction": "202-555-0144",
+            "predicted_type": "phone",
+            "confidence": 0.75
+          },
+          {
+            "field_type": "email",
+            "ground_truth_value": "casey.bennett@example.com",
+            "status": "TP_MATCHED",
+            "matched_prediction": "casey.bennett@example.com",
+            "predicted_type": "email",
+            "confidence": 1.0
+          },
+          {
+            "field_type": "signature",
+            "ground_truth_value": "Jordan Taylor",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Jordan Taylor",
+            "predicted_type": "full_name",
+            "confidence": 0.85
+          }
+        ],
+        "false_positives": [
+          "Fake Oak Lane",
+          "example.com",
+          "Computer Science, Example University",
+          "Sample High School",
+          "Python Developer Certification",
+          "Metropolis Postcode: MT4",
+          "Python and TypeScript.",
+          "Python",
+          "TypeScript",
+          "CI",
+          "DevWorks Inc.",
+          "API",
+          "AVAILABILITY",
+          "DevWorks Inc.",
+          "morgan.reed@example.com",
+          "morgan.re",
+          "example.com",
+          "casey.be",
+          "example.com",
+          "Jordan Taylor"
+        ]
+      },
+      {
+        "doc_id": "real_medical_001",
+        "domain": "medical_intake",
+        "ground_truth_count": 17,
+        "detections": 30,
+        "tp": 13,
+        "fp": 17,
+        "fn": 4,
+        "precision": 0.4333,
+        "recall": 0.7647,
+        "f1": 0.5532,
+        "details": [
+          {
+            "field_type": "first_name",
+            "ground_truth_value": "Avery",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Avery Robinson Subscriber Date of Birth",
+            "predicted_type": "full_name",
+            "confidence": 0.85
+          },
+          {
+            "field_type": "last_name",
+            "ground_truth_value": "Robinson",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Cameron Robinson ",
+            "predicted_type": "full_name",
+            "confidence": 0.85
+          },
+          {
+            "field_type": "full_name",
+            "ground_truth_value": "Avery Robinson",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Avery Robinson Date",
+            "predicted_type": "full_name",
+            "confidence": 0.85
+          },
+          {
+            "field_type": "date_of_birth",
+            "ground_truth_value": "01/15/1990",
+            "status": "TP_MATCHED",
+            "matched_prediction": "01/15/1990",
+            "predicted_type": "date_of_birth",
+            "confidence": 0.95
+          },
+          {
+            "field_type": "address",
+            "ground_truth_value": "742 Evergreen Terrace",
+            "status": "FN_MISSED",
+            "matched_prediction": null,
+            "predicted_type": null,
+            "confidence": 0.0
+          },
+          {
+            "field_type": "postal_code",
+            "ground_truth_value": "62704",
+            "status": "FN_MISSED",
+            "matched_prediction": null,
+            "predicted_type": null,
+            "confidence": 0.0
+          },
+          {
+            "field_type": "phone",
+            "ground_truth_value": "202-555-0123",
+            "status": "TP_MATCHED",
+            "matched_prediction": "202-555-0123",
+            "predicted_type": "phone",
+            "confidence": 0.75
+          },
+          {
+            "field_type": "phone",
+            "ground_truth_value": "202-555-0124",
+            "status": "TP_MATCHED",
+            "matched_prediction": "202-555-0124",
+            "predicted_type": "phone",
+            "confidence": 0.75
+          },
+          {
+            "field_type": "email",
+            "ground_truth_value": "avery.robinson@example.com",
+            "status": "TP_MATCHED",
+            "matched_prediction": "avery.robinson@example.com",
+            "predicted_type": "email",
+            "confidence": 1.0
+          },
+          {
+            "field_type": "emergency_contact_name",
+            "ground_truth_value": "Cameron Robinson",
+            "status": "FN_MISSED",
+            "matched_prediction": null,
+            "predicted_type": null,
+            "confidence": 0.0
+          },
+          {
+            "field_type": "emergency_contact_phone",
+            "ground_truth_value": "202-555-0191",
+            "status": "TP_MATCHED",
+            "matched_prediction": "202-555-0191",
+            "predicted_type": "phone",
+            "confidence": 0.75
+          },
+          {
+            "field_type": "insurance_id",
+            "ground_truth_value": "SHM-000-12345",
+            "status": "FN_MISSED",
+            "matched_prediction": null,
+            "predicted_type": null,
+            "confidence": 0.0
+          },
+          {
+            "field_type": "full_name",
+            "ground_truth_value": "Dr. Jamie Vance",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Jamie Vance",
+            "predicted_type": "full_name",
+            "confidence": 0.85
+          },
+          {
+            "field_type": "phone",
+            "ground_truth_value": "202-555-0160",
+            "status": "TP_MATCHED",
+            "matched_prediction": "202-555-0160",
+            "predicted_type": "phone",
+            "confidence": 0.75
+          },
+          {
+            "field_type": "current_medications",
+            "ground_truth_value": "Lisinopril",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Lisinopril | Dose: 10mg | How Often: Once daily | Reason: Hypertension",
+            "predicted_type": "current_medications",
+            "confidence": 0.9
+          },
+          {
+            "field_type": "allergies",
+            "ground_truth_value": "Penicillin (Reaction: Skin rash)",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Penicillin (Reaction: Skin rash)",
+            "predicted_type": "allergies",
+            "confidence": 1.0
+          },
+          {
+            "field_type": "signature",
+            "ground_truth_value": "Avery Robinson",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Avery Robinson Relationship",
+            "predicted_type": "full_name",
+            "confidence": 0.85
+          }
+        ],
+        "false_positives": [
+          "Evergreen",
+          "Springfield",
+          "62704",
+          "avery.ro",
+          "example.com",
+          "SHM-000",
+          "12345",
+          "01/15/1990",
+          "Pharmacy City / Location",
+          "Springfield",
+          "Appendectomy (2018)",
+          "2018",
+          "MEDICATIONS",
+          "Lisinopril",
+          "Hypertension  Medication or Food Allergies",
+          "Reaction: Skin rash)",
+          "Guardian"
+        ]
+      },
+      {
+        "doc_id": "real_rent_001",
+        "domain": "rental_agreement",
+        "ground_truth_count": 16,
+        "detections": 41,
+        "tp": 14,
+        "fp": 27,
+        "fn": 2,
+        "precision": 0.3415,
+        "recall": 0.875,
+        "f1": 0.4912,
+        "details": [
+          {
+            "field_type": "full_name",
+            "ground_truth_value": "Marcus Vance",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Marcus Vance Date of Birth",
+            "predicted_type": "full_name",
+            "confidence": 0.85
+          },
+          {
+            "field_type": "date_of_birth",
+            "ground_truth_value": "05/22/1988",
+            "status": "TP_MATCHED",
+            "matched_prediction": "05/22/1988",
+            "predicted_type": "date_of_birth",
+            "confidence": 0.95
+          },
+          {
+            "field_type": "national_id",
+            "ground_truth_value": "000-00-0000",
+            "status": "TP_MATCHED",
+            "matched_prediction": "000-00-0000",
+            "predicted_type": "national_id",
+            "confidence": 1.0
+          },
+          {
+            "field_type": "phone",
+            "ground_truth_value": "202-555-0168",
+            "status": "TP_MATCHED",
+            "matched_prediction": "202-555-0168",
+            "predicted_type": "phone",
+            "confidence": 0.75
+          },
+          {
+            "field_type": "email",
+            "ground_truth_value": "marcus.vance@example.com",
+            "status": "TP_MATCHED",
+            "matched_prediction": "marcus.vance@example.com",
+            "predicted_type": "email",
+            "confidence": 1.0
+          },
+          {
+            "field_type": "address",
+            "ground_truth_value": "812 Pine Grove Boulevard, Riverdale, IL 60627",
+            "status": "TP_MATCHED",
+            "matched_prediction": "812 Pine Grove Boulevard, Riverdale, IL 60627",
+            "predicted_type": "current_address",
+            "confidence": 1.0
+          },
+          {
+            "field_type": "emergency_contact_name",
+            "ground_truth_value": "Evelyn Wright",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Evelyn Wright",
+            "predicted_type": "full_name",
+            "confidence": 0.85
+          },
+          {
+            "field_type": "emergency_contact_phone",
+            "ground_truth_value": "202-555-0135",
+            "status": "TP_MATCHED",
+            "matched_prediction": "202-555-0135",
+            "predicted_type": "phone",
+            "confidence": 0.75
+          },
+          {
+            "field_type": "employer_name",
+            "ground_truth_value": "Summit Logistics Solutions Inc.",
+            "status": "FN_MISSED",
+            "matched_prediction": null,
+            "predicted_type": null,
+            "confidence": 0.0
+          },
+          {
+            "field_type": "job_title",
+            "ground_truth_value": "Operations Coordinator",
+            "status": "FN_MISSED",
+            "matched_prediction": null,
+            "predicted_type": null,
+            "confidence": 0.0
+          },
+          {
+            "field_type": "emergency_contact_name",
+            "ground_truth_value": "Dr. Robert Sterling",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Robert Sterling",
+            "predicted_type": "full_name",
+            "confidence": 0.85
+          },
+          {
+            "field_type": "emergency_contact_phone",
+            "ground_truth_value": "202-555-0152",
+            "status": "TP_MATCHED",
+            "matched_prediction": "202-555-0152",
+            "predicted_type": "phone",
+            "confidence": 0.75
+          },
+          {
+            "field_type": "emergency_contact_name",
+            "ground_truth_value": "Brenda Vance",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Brenda Vance Relationship",
+            "predicted_type": "full_name",
+            "confidence": 0.85
+          },
+          {
+            "field_type": "emergency_contact_phone",
+            "ground_truth_value": "202-555-0193",
+            "status": "TP_MATCHED",
+            "matched_prediction": "202-555-0193",
+            "predicted_type": "phone",
+            "confidence": 0.75
+          },
+          {
+            "field_type": "bank_account",
+            "ground_truth_value": "0000-1111-2222",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Account Number: 0000-1111-2222",
+            "predicted_type": "bank_account_number",
+            "confidence": 0.85
+          },
+          {
+            "field_type": "signature",
+            "ground_truth_value": "Marcus Vance",
+            "status": "TP_MATCHED",
+            "matched_prediction": "Marcus Vance Applicant Signature",
+            "predicted_type": "full_name",
+            "confidence": 0.85
+          }
+        ],
+        "false_positives": [
+          "Oakridge Property Management Group",
+          "450 Maple Avenue, Apt 3B, Oakwood, IL 60153",
+          "Apt 3B",
+          "Oakwood",
+          "Anticipated Move-In",
+          "2026-10-01",
+          "$1,450 / month",
+          "marcus.va",
+          "example.com",
+          "Landlord",
+          "OCCUPATION & FINANCIAL",
+          "1200 Industrial Parkway, Chicago, IL 60607",
+          "Chicago",
+          "IL 60607 Position Applied / Current Role: Operations Coordinator Department",
+          "Monthly",
+          "Income: $5,200",
+          "812 Pine Grove Boulevard, Riverdale, IL 60627",
+          "BANKING & CREDIT",
+          "First Horizon Community Bank",
+          "0000-1111-2222",
+          "Account Classification",
+          "FAIR HOUSING & CREDIT",
+          "Oakridge Property Management Group",
+          "LLC",
+          "FCRA",
+          "Applicant Printed Name",
+          "Marcus Vance "
+        ]
+      }
+    ]
+  },
+  "filter_impact_summary": {
+    "fp_reduction_count": 36,
+    "fp_reduction_percentage": 33.33,
+    "precision_before": 0.28,
+    "precision_after": 0.3684,
+    "precision_gain": 8.84,
+    "recall_before": 0.8235,
+    "recall_after": 0.8235,
+    "f1_before": 0.4179,
+    "f1_after": 0.5091,
+    "f1_gain": 9.12,
+    "hypothesis_66_percent_validated": false
+  }
+}
