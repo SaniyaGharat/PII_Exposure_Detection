@@ -45,3 +45,6 @@ blockchain/artifacts/
 blockchain/cache/
 blockchain/typechain-types/
 
+# Runtime Temporary Files
+results/temp_docs/
+results/necessity_reports/doc_*

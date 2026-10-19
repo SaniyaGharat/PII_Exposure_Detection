@@ -1,0 +1,282 @@
+{
+  "document_id": "med_001",
+  "document_type": "medical_intake",
+  "purpose": "medical_intake_review_and_processing",
+  "total_fields": 30,
+  "total_fields_evaluated": 30,
+  "total_unnecessary_flagged": 1,
+  "flagged_for_minimization": 1,
+  "flagged_ratio": 0.03333333333333333,
+  "fields": [
+    {
+      "field_type": "organization",
+      "value": "PATIENT CLINICAL INTAKE & ADMISSION",
+      "N": 0.859,
+      "R": 0.5,
+      "M": 0.859,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 71.7%)."
+    },
+    {
+      "field_type": "organization",
+      "value": "DEMOGRAPHIC & SERVICE INFORMATION",
+      "N": 0.971,
+      "R": 0.5,
+      "M": 0.971,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 94.2%)."
+    },
+    {
+      "field_type": "full_name",
+      "value": "Brian Meyer",
+      "N": 1.0,
+      "R": 1.0,
+      "M": 1.0,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
+    },
+    {
+      "field_type": "organization",
+      "value": "Remote Telehealth Video Consultation\nDate of Birth:        ",
+      "N": 0.967,
+      "R": 0.5,
+      "M": 0.967,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 93.4%)."
+    },
+    {
+      "field_type": "date_of_birth",
+      "value": "January 29, 1986",
+      "N": 1.0,
+      "R": 1.0,
+      "M": 1.0,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
+    },
+    {
+      "field_type": "nrp",
+      "value": "+1-526",
+      "N": 0.975,
+      "R": 0.5,
+      "M": 0.975,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 95.0%)."
+    },
+    {
+      "field_type": "phone",
+      "value": "+1-526-618-9141x173",
+      "N": 1.0,
+      "R": 1.0,
+      "M": 1.0,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
+    },
+    {
+      "field_type": "organization",
+      "value": "Home Address:         ",
+      "N": 0.531,
+      "R": 0.5,
+      "M": 0.531,
+      "status": "REVIEW (contextual)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 6.2%)."
+    },
+    {
+      "field_type": "date_of_birth",
+      "value": "6420",
+      "N": 0.398,
+      "R": 1.0,
+      "M": 0.398,
+      "status": "REVIEW (contextual)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 20.4%)."
+    },
+    {
+      "field_type": "organization",
+      "value": "AL 88533",
+      "N": 0.445,
+      "R": 0.5,
+      "M": 0.445,
+      "status": "REVIEW (contextual)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 11.0%)."
+    },
+    {
+      "field_type": "marital_status",
+      "value": "Single",
+      "N": 0.499,
+      "R": 0.5,
+      "M": 0.499,
+      "status": "REVIEW (contextual)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 0.2%)."
+    },
+    {
+      "field_type": "religion",
+      "value": "Buddhism",
+      "N": 0.499,
+      "R": 0.5,
+      "M": 0.499,
+      "status": "REVIEW (contextual)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 0.2%)."
+    },
+    {
+      "field_type": "national_id",
+      "value": "546-85-7560",
+      "N": 0.001,
+      "R": 0.0,
+      "M": 0.001,
+      "status": "FLAGGED (unnecessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 99.7%)."
+    },
+    {
+      "field_type": "insurance_number",
+      "value": "Policy No:  KSR-20555833",
+      "N": 0.491,
+      "R": 0.5,
+      "M": 0.491,
+      "status": "REVIEW (contextual)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 1.9%)."
+    },
+    {
+      "field_type": "us_driver_license",
+      "value": "20555833",
+      "N": 0.478,
+      "R": 0.5,
+      "M": 0.478,
+      "status": "REVIEW (contextual)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 4.3%)."
+    },
+    {
+      "field_type": "emergency_contact",
+      "value": "\nBrian Andrews (Sibling) - Phone: 321.481.1437",
+      "N": 0.891,
+      "R": 1.0,
+      "M": 0.891,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 78.3%)."
+    },
+    {
+      "field_type": "full_name",
+      "value": "Brian Andrews",
+      "N": 0.95,
+      "R": 1.0,
+      "M": 0.95,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 90.0%)."
+    },
+    {
+      "field_type": "home_address",
+      "value": "Sibling",
+      "N": 0.892,
+      "R": 0.5,
+      "M": 0.892,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 78.5%)."
+    },
+    {
+      "field_type": "phone",
+      "value": "321.481.1437x4470",
+      "N": 0.942,
+      "R": 1.0,
+      "M": 0.942,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 88.3%)."
+    },
+    {
+      "field_type": "organization",
+      "value": "Known Drug & Environmental Allergies",
+      "N": 0.859,
+      "R": 0.5,
+      "M": 0.859,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 71.7%)."
+    },
+    {
+      "field_type": "allergies",
+      "value": "Aspirin (bronchospasm), Codeine (nausea).",
+      "N": 1.0,
+      "R": 1.0,
+      "M": 1.0,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
+    },
+    {
+      "field_type": "full_name",
+      "value": "Aspirin",
+      "N": 1.0,
+      "R": 1.0,
+      "M": 1.0,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
+    },
+    {
+      "field_type": "full_name",
+      "value": "Codeine",
+      "N": 0.992,
+      "R": 1.0,
+      "M": 0.992,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 98.3%)."
+    },
+    {
+      "field_type": "organization",
+      "value": "Active Prescriptions & Supplements",
+      "N": 0.455,
+      "R": 0.5,
+      "M": 0.455,
+      "status": "REVIEW (contextual)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 9.1%)."
+    },
+    {
+      "field_type": "current_medications",
+      "value": "Albuterol HFA Inhaler 90mcg 2 puffs PRN, Fluticasone nasal spray daily.",
+      "N": 1.0,
+      "R": 1.0,
+      "M": 1.0,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
+    },
+    {
+      "field_type": "organization",
+      "value": "Fluticasone",
+      "N": 0.455,
+      "R": 0.5,
+      "M": 0.455,
+      "status": "REVIEW (contextual)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 9.1%)."
+    },
+    {
+      "field_type": "date_of_birth",
+      "value": "daily",
+      "N": 0.434,
+      "R": 1.0,
+      "M": 0.434,
+      "status": "REVIEW (contextual)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 13.2%)."
+    },
+    {
+      "field_type": "organization",
+      "value": "MEDICAL & SURGICAL",
+      "N": 0.438,
+      "R": 0.5,
+      "M": 0.438,
+      "status": "REVIEW (contextual)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 12.4%)."
+    },
+    {
+      "field_type": "organization",
+      "value": "Diagnosed Conditions & Previous Surgeries",
+      "N": 0.708,
+      "R": 0.5,
+      "M": 0.708,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 41.7%)."
+    },
+    {
+      "field_type": "medical_history",
+      "value": "No significant past medical history. Non-smoker, no past surgeries.",
+      "N": 1.0,
+      "R": 1.0,
+      "M": 1.0,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
+    }
+  ]
+}

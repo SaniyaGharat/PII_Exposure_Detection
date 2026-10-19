@@ -1,0 +1,408 @@
+{
+  "document_id": "real_rent_001",
+  "document_type": "rental_agreement",
+  "purpose": "rental_agreement_review_and_processing",
+  "total_fields": 44,
+  "total_fields_evaluated": 44,
+  "total_unnecessary_flagged": 4,
+  "flagged_for_minimization": 4,
+  "flagged_ratio": 0.09090909090909091,
+  "fields": [
+    {
+      "field_type": "organization",
+      "value": "Oakridge Property Management Group",
+      "N": 0.758,
+      "R": 0.5,
+      "M": 0.758,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 51.6%)."
+    },
+    {
+      "field_type": "current_address",
+      "value": "450 Maple Avenue, Apt 3B, Oakwood, IL 60153",
+      "N": 0.775,
+      "R": 1.0,
+      "M": 0.775,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 54.9%)."
+    },
+    {
+      "field_type": "home_address",
+      "value": "Apt 3B",
+      "N": 0.758,
+      "R": 0.5,
+      "M": 0.758,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 51.6%)."
+    },
+    {
+      "field_type": "home_address",
+      "value": "Oakwood",
+      "N": 0.758,
+      "R": 0.5,
+      "M": 0.758,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 51.6%)."
+    },
+    {
+      "field_type": "full_name",
+      "value": "Anticipated Move-In",
+      "N": 0.925,
+      "R": 1.0,
+      "M": 0.925,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 85.0%)."
+    },
+    {
+      "field_type": "date_of_birth",
+      "value": "2026-10-01",
+      "N": 0.754,
+      "R": 0.5,
+      "M": 0.754,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 50.8%)."
+    },
+    {
+      "field_type": "income",
+      "value": "$1,450 / month",
+      "N": 0.75,
+      "R": 1.0,
+      "M": 0.75,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 50.0%)."
+    },
+    {
+      "field_type": "full_name",
+      "value": "Marcus Vance\nDate of Birth",
+      "N": 0.36,
+      "R": 1.0,
+      "M": 0.36,
+      "status": "REVIEW (contextual)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 27.9%)."
+    },
+    {
+      "field_type": "date_of_birth",
+      "value": "05/22/1988",
+      "N": 0.164,
+      "R": 0.5,
+      "M": 0.164,
+      "status": "FLAGGED (unnecessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 67.2%)."
+    },
+    {
+      "field_type": "national_id",
+      "value": "000-00-0000",
+      "N": 0.14,
+      "R": 0.5,
+      "M": 0.14,
+      "status": "FLAGGED (unnecessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 72.1%)."
+    },
+    {
+      "field_type": "phone",
+      "value": "202-555-0168",
+      "N": 0.41,
+      "R": 1.0,
+      "M": 0.41,
+      "status": "REVIEW (contextual)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 18.0%)."
+    },
+    {
+      "field_type": "email",
+      "value": "marcus.vance@example.com",
+      "N": 0.541,
+      "R": 1.0,
+      "M": 0.541,
+      "status": "REVIEW (contextual)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 8.2%)."
+    },
+    {
+      "field_type": "url",
+      "value": "marcus.va",
+      "N": 0.371,
+      "R": 0.5,
+      "M": 0.371,
+      "status": "REVIEW (contextual)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 25.9%)."
+    },
+    {
+      "field_type": "url",
+      "value": "example.com",
+      "N": 0.224,
+      "R": 0.5,
+      "M": 0.224,
+      "status": "FLAGGED (unnecessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 55.3%)."
+    },
+    {
+      "field_type": "current_address",
+      "value": "812 Pine Grove Boulevard, Riverdale, IL 60627",
+      "N": 0.275,
+      "R": 1.0,
+      "M": 0.275,
+      "status": "FLAGGED (unnecessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 45.0%)."
+    },
+    {
+      "field_type": "full_name",
+      "value": "Evelyn Wright",
+      "N": 0.897,
+      "R": 1.0,
+      "M": 0.897,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 79.3%)."
+    },
+    {
+      "field_type": "full_name",
+      "value": "Landlord",
+      "N": 0.897,
+      "R": 1.0,
+      "M": 0.897,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 79.3%)."
+    },
+    {
+      "field_type": "phone",
+      "value": "202-555-0135",
+      "N": 0.834,
+      "R": 1.0,
+      "M": 0.834,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 66.9%)."
+    },
+    {
+      "field_type": "date_of_birth",
+      "value": "2 years",
+      "N": 0.747,
+      "R": 0.5,
+      "M": 0.747,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 49.3%)."
+    },
+    {
+      "field_type": "organization",
+      "value": "OCCUPATION & FINANCIAL",
+      "N": 0.784,
+      "R": 0.5,
+      "M": 0.784,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 56.8%)."
+    },
+    {
+      "field_type": "current_address",
+      "value": "1200 Industrial Parkway, Chicago, IL 60607",
+      "N": 0.796,
+      "R": 1.0,
+      "M": 0.796,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 59.2%)."
+    },
+    {
+      "field_type": "home_address",
+      "value": "Chicago",
+      "N": 0.771,
+      "R": 0.5,
+      "M": 0.771,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 54.3%)."
+    },
+    {
+      "field_type": "organization",
+      "value": "IL 60607\nPosition Applied / Current Role: Operations Coordinator\nDepartment",
+      "N": 0.8,
+      "R": 0.5,
+      "M": 0.8,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 60.1%)."
+    },
+    {
+      "field_type": "full_name",
+      "value": "Robert Sterling",
+      "N": 0.937,
+      "R": 1.0,
+      "M": 0.937,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 87.5%)."
+    },
+    {
+      "field_type": "phone",
+      "value": "202-555-0152",
+      "N": 0.909,
+      "R": 1.0,
+      "M": 0.909,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 81.7%)."
+    },
+    {
+      "field_type": "date_of_birth",
+      "value": "Monthly",
+      "N": 0.8,
+      "R": 0.5,
+      "M": 0.8,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 60.0%)."
+    },
+    {
+      "field_type": "income",
+      "value": "Income: $5,200",
+      "N": 0.796,
+      "R": 1.0,
+      "M": 0.796,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 59.1%)."
+    },
+    {
+      "field_type": "date_of_birth",
+      "value": "4 years\n\n",
+      "N": 0.838,
+      "R": 0.5,
+      "M": 0.838,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 67.5%)."
+    },
+    {
+      "field_type": "full_name",
+      "value": "Brenda Vance\nRelationship",
+      "N": 0.933,
+      "R": 1.0,
+      "M": 0.933,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 86.7%)."
+    },
+    {
+      "field_type": "phone",
+      "value": "202-555-0193",
+      "N": 0.875,
+      "R": 1.0,
+      "M": 0.875,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 75.1%)."
+    },
+    {
+      "field_type": "current_address",
+      "value": "812 Pine Grove Boulevard, Riverdale, IL 60627",
+      "N": 0.842,
+      "R": 1.0,
+      "M": 0.842,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 68.4%)."
+    },
+    {
+      "field_type": "organization",
+      "value": "BANKING & CREDIT",
+      "N": 0.754,
+      "R": 0.5,
+      "M": 0.754,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 50.9%)."
+    },
+    {
+      "field_type": "organization",
+      "value": "First Horizon Community Bank",
+      "N": 0.759,
+      "R": 0.5,
+      "M": 0.759,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 51.8%)."
+    },
+    {
+      "field_type": "bank_account_number",
+      "value": "Account Number: 0000-1111-2222",
+      "N": 0.621,
+      "R": 0.0,
+      "M": 0.621,
+      "status": "REVIEW (contextual)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 24.1%)."
+    },
+    {
+      "field_type": "date_of_birth",
+      "value": "0000-1111-2222",
+      "N": 0.826,
+      "R": 0.5,
+      "M": 0.826,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 65.1%)."
+    },
+    {
+      "field_type": "bank_account_number",
+      "value": "Account Classification",
+      "N": 0.621,
+      "R": 0.0,
+      "M": 0.621,
+      "status": "REVIEW (contextual)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 24.3%)."
+    },
+    {
+      "field_type": "organization",
+      "value": "FAIR HOUSING & CREDIT",
+      "N": 0.759,
+      "R": 0.5,
+      "M": 0.759,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 51.8%)."
+    },
+    {
+      "field_type": "organization",
+      "value": "Oakridge Property Management Group",
+      "N": 0.737,
+      "R": 0.5,
+      "M": 0.737,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 47.5%)."
+    },
+    {
+      "field_type": "organization",
+      "value": "LLC",
+      "N": 0.737,
+      "R": 0.5,
+      "M": 0.737,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 47.5%)."
+    },
+    {
+      "field_type": "organization",
+      "value": "FCRA",
+      "N": 0.746,
+      "R": 0.5,
+      "M": 0.746,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 49.1%)."
+    },
+    {
+      "field_type": "full_name",
+      "value": "Applicant Printed Name",
+      "N": 0.933,
+      "R": 1.0,
+      "M": 0.933,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 86.7%)."
+    },
+    {
+      "field_type": "full_name",
+      "value": "Marcus Vance\nApplicant Signature",
+      "N": 0.933,
+      "R": 1.0,
+      "M": 0.933,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 86.7%)."
+    },
+    {
+      "field_type": "full_name",
+      "value": "Marcus Vance\n",
+      "N": 0.933,
+      "R": 1.0,
+      "M": 0.933,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 86.7%)."
+    },
+    {
+      "field_type": "date_of_birth",
+      "value": "2026-09-14",
+      "N": 0.771,
+      "R": 0.5,
+      "M": 0.771,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 54.2%)."
+    }
+  ]
+}

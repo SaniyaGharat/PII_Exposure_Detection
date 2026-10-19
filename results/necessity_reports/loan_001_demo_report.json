@@ -1,0 +1,282 @@
+{
+  "document_id": "loan_001",
+  "document_type": "loan_application",
+  "purpose": "loan_application_review_and_processing",
+  "total_fields": 30,
+  "total_fields_evaluated": 30,
+  "total_unnecessary_flagged": 6,
+  "flagged_for_minimization": 6,
+  "flagged_ratio": 0.2,
+  "fields": [
+    {
+      "field_type": "organization",
+      "value": "CONSUMER CREDIT & LOAN APPLICATION",
+      "N": 0.788,
+      "R": 0.5,
+      "M": 0.788,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 57.5%)."
+    },
+    {
+      "field_type": "full_name",
+      "value": "Frederick Clark",
+      "N": 1.0,
+      "R": 1.0,
+      "M": 1.0,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
+    },
+    {
+      "field_type": "date_of_birth",
+      "value": "September 27, 1963",
+      "N": 1.0,
+      "R": 1.0,
+      "M": 1.0,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
+    },
+    {
+      "field_type": "marital_status",
+      "value": "Widowed",
+      "N": 0.996,
+      "R": 0.5,
+      "M": 0.996,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 99.1%)."
+    },
+    {
+      "field_type": "religion",
+      "value": "Islam",
+      "N": 0.0,
+      "R": 0.0,
+      "M": 0.0,
+      "status": "FLAGGED (unnecessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 99.9%)."
+    },
+    {
+      "field_type": "organization",
+      "value": "Islam",
+      "N": 0.125,
+      "R": 0.5,
+      "M": 0.125,
+      "status": "FLAGGED (unnecessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 74.9%)."
+    },
+    {
+      "field_type": "phone",
+      "value": "301.476.5636x004",
+      "N": 1.0,
+      "R": 1.0,
+      "M": 1.0,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
+    },
+    {
+      "field_type": "email",
+      "value": "frederick.clark@yahoo.com",
+      "N": 1.0,
+      "R": 1.0,
+      "M": 1.0,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
+    },
+    {
+      "field_type": "url",
+      "value": "frederick.cl",
+      "N": 0.975,
+      "R": 0.5,
+      "M": 0.975,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 95.0%)."
+    },
+    {
+      "field_type": "url",
+      "value": "yahoo.com",
+      "N": 0.992,
+      "R": 0.5,
+      "M": 0.992,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 98.3%)."
+    },
+    {
+      "field_type": "home_address",
+      "value": "7118 Jennifer Mill Apt. 742, Port Andrew, CT 23731",
+      "N": 1.0,
+      "R": 1.0,
+      "M": 1.0,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
+    },
+    {
+      "field_type": "full_name",
+      "value": "Jennifer Mill Apt",
+      "N": 0.992,
+      "R": 1.0,
+      "M": 0.992,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 98.3%)."
+    },
+    {
+      "field_type": "home_address",
+      "value": "Port Andrew",
+      "N": 1.0,
+      "R": 1.0,
+      "M": 1.0,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
+    },
+    {
+      "field_type": "date_of_birth",
+      "value": "23731",
+      "N": 1.0,
+      "R": 1.0,
+      "M": 1.0,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
+    },
+    {
+      "field_type": "employment_status",
+      "value": "Self-Employed",
+      "N": 1.0,
+      "R": 1.0,
+      "M": 1.0,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
+    },
+    {
+      "field_type": "full_name",
+      "value": "Jackson",
+      "N": 0.971,
+      "R": 1.0,
+      "M": 0.971,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 94.2%)."
+    },
+    {
+      "field_type": "annual_income",
+      "value": "Income:  $112,000.00",
+      "N": 1.0,
+      "R": 1.0,
+      "M": 1.0,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
+    },
+    {
+      "field_type": "annual_income",
+      "value": "$112,000.00 USD",
+      "N": 1.0,
+      "R": 1.0,
+      "M": 1.0,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 100.0%)."
+    },
+    {
+      "field_type": "bank_account_number",
+      "value": "Account Number:  ACCT-9415119956",
+      "N": 0.554,
+      "R": 0.5,
+      "M": 0.554,
+      "status": "REVIEW (contextual)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 10.8%)."
+    },
+    {
+      "field_type": "bank_account_number",
+      "value": "ACCT-9415119956",
+      "N": 0.5,
+      "R": 0.5,
+      "M": 0.5,
+      "status": "REVIEW (contextual)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 0.0%)."
+    },
+    {
+      "field_type": "phone",
+      "value": "9415119956",
+      "N": 0.933,
+      "R": 1.0,
+      "M": 0.933,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 86.7%)."
+    },
+    {
+      "field_type": "us_bank_number",
+      "value": "9415119956",
+      "N": 0.933,
+      "R": 0.5,
+      "M": 0.933,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 86.7%)."
+    },
+    {
+      "field_type": "credit_score",
+      "value": "Credit Score (FICO):  798",
+      "N": 0.996,
+      "R": 1.0,
+      "M": 0.996,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 99.2%)."
+    },
+    {
+      "field_type": "organization",
+      "value": "Credit Score",
+      "N": 0.992,
+      "R": 0.5,
+      "M": 0.992,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 98.3%)."
+    },
+    {
+      "field_type": "organization",
+      "value": "FICO",
+      "N": 0.975,
+      "R": 0.5,
+      "M": 0.975,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 95.0%)."
+    },
+    {
+      "field_type": "organization",
+      "value": "FICO Score",
+      "N": 0.908,
+      "R": 0.5,
+      "M": 0.908,
+      "status": "CLEARED (necessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 81.7%)."
+    },
+    {
+      "field_type": "medical_history",
+      "value": "Reflux Disease (GERD), History of Right Wrist Fracture (2020).",
+      "N": 0.159,
+      "R": 0.0,
+      "M": 0.159,
+      "status": "FLAGGED (unnecessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 68.3%)."
+    },
+    {
+      "field_type": "date_of_birth",
+      "value": "2020",
+      "N": 0.0,
+      "R": 1.0,
+      "M": 0.0,
+      "status": "FLAGGED (unnecessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 99.9%)."
+    },
+    {
+      "field_type": "biometric_information",
+      "value": "Biometric Security Identifier:\nSHA256:",
+      "N": 0.0,
+      "R": 0.0,
+      "M": 0.0,
+      "status": "FLAGGED (unnecessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 99.9%)."
+    },
+    {
+      "field_type": "biometric_information",
+      "value": "SHA256:c3782a44e413c018bba78315 (Biometric Minutiae Key)",
+      "N": 0.0,
+      "R": 0.0,
+      "M": 0.0,
+      "status": "FLAGGED (unnecessary)",
+      "justification": "Flagged by learned contextual pattern (Model Confidence: 99.9%)."
+    }
+  ]
+}
